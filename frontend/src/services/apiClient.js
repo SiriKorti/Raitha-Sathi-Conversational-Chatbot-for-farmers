@@ -1,9 +1,16 @@
 /**
  * Centralized API Client for Raitha Sathi Backend (FastAPI :8000)
  * All network calls in frontend-new must route through this client.
+ *
+ * In development: requests go to /api/* (proxied to localhost:8000 by Vite)
+ * In production (Render): VITE_API_URL is set to the backend Render URL
  */
 
 const DEFAULT_TIMEOUT_MS = 90000;
+
+// In production: VITE_API_URL = "https://raitha-sathi-backend.onrender.com"
+// In development: empty string → relative URL → Vite proxy handles it
+const API_BASE = import.meta.env.VITE_API_URL || '';
 
 export class ApiError extends Error {
   constructor(message, status = 0, details = null) {
@@ -48,7 +55,7 @@ async function request(endpoint, options = {}) {
   }
 
   try {
-    const url = endpoint.startsWith('http') ? endpoint : endpoint;
+    const url = endpoint.startsWith('http') ? endpoint : `${API_BASE}${endpoint}`;
     const response = await fetch(url, config);
     clearTimeout(timeoutId);
 

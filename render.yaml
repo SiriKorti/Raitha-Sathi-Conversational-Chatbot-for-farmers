@@ -1,0 +1,55 @@
+services:
+  # ── Backend: FastAPI Web Service ─────────────────────────────────────────────
+  - type: web
+    name: raitha-sathi-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    plan: free
+    envVars:
+      - key: LLM_PROVIDER
+        value: gemini
+      - key: GEMINI_MODEL
+        value: gemini-1.5-flash
+      - key: MEMORY_BACKEND
+        value: in_memory
+      - key: SESSION_TIMEOUT_MINUTES
+        value: "30"
+      - key: MAX_HISTORY_TURNS
+        value: "10"
+      - key: FAISS_INDEX_PATH
+        value: models/faiss_index/agricultural.index
+      - key: FAISS_METADATA_PATH
+        value: models/faiss_index/metadata.json
+      - key: FAISS_TOP_K
+        value: "5"
+      - key: LOG_LEVEL
+        value: INFO
+      - key: DEBUG
+        value: "false"
+      # ── Secret keys (set in Render Dashboard, do NOT commit values) ──
+      - key: GEMINI_API_KEY
+        sync: false          # You will enter this in Render Dashboard
+      - key: MANDI_API_KEY
+        sync: false          # You will enter this in Render Dashboard
+
+  # ── Frontend: React Static Site ───────────────────────────────────────────────
+  - type: web
+    name: raitha-sathi-frontend
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    plan: free
+    envVars:
+      - key: VITE_API_URL
+        sync: false          # Set to your backend URL: https://raitha-sathi-backend.onrender.com
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: no-cache
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
