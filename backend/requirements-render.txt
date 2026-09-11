@@ -1,0 +1,44 @@
+# ============================================================
+# Raitha Sathi — Production Requirements (Render Free Tier)
+# Slim version: removes heavy ML training libs (torch, etc.)
+# The app uses Gemini API for LLM — no local models needed!
+# ============================================================
+
+# ---- Core Web Framework ----
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+websockets>=12.0
+httpx>=0.27.0
+
+# ---- Pydantic (Data Validation) ----
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+
+# ---- Environment Variables ----
+python-dotenv>=1.0.0
+
+# ---- Google Gemini API (Primary LLM) ----
+google-genai>=1.0.0
+
+# ---- HTTP Clients ----
+aiohttp>=3.9.0
+requests>=2.32.0
+
+# ---- Async Utilities ----
+anyio>=4.3.0
+
+# ---- FAISS (Vector Search — CPU only, lightweight) ----
+faiss-cpu>=1.8.0
+numpy>=1.24.0
+
+# ---- Data Handling ----
+pandas>=2.0.0
+jsonschema>=4.22.0
+
+# ---- Text Processing & NLP ----
+langdetect>=1.0.9
+indic-transliteration>=2.3.0
+
+# ---- Logging ----
+loguru>=0.7.0
