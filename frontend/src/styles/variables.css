@@ -1,0 +1,151 @@
+/*
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ *  RAITHA SATHI — DESIGN TOKENS
+ *  Claude.ai Editorial & Warm Agricultural Aesthetic
+ *  Light theme: default (:root) [Warm Parchment & Forest]
+ *  Dark theme: [data-theme="dark"] [Claude Obsidian & Warm Terracotta/Sage]
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ */
+
+/* ── LIGHT THEME (Warm Parchment & Forest) ─────────────────────────────── */
+:root {
+  /* Backgrounds — Darker, eye-friendly shades of white with rich tactile depth */
+  --bg-app:              #EBE7DF; /* Warm stone / bone linen off-white canvas (eliminates blinding glare) */
+  --bg-surface:          #F6F3EC; /* Distinct, soft eggshell off-white surface for cards and panels */
+  --bg-surface-elevated: #FAF8F2; /* Subtle elevated off-white */
+  --bg-surface-glass:    rgba(246, 243, 236, 0.88); /* Frosted warm off-white */
+  --bg-subtle:           #DFDBD1; /* Darker off-white tone for search bars, pills, input boxes */
+  --bg-card:             #F6F3EC;
+
+  /* Primary — Vibrant Deep Forest Green with Organic Glow */
+  --primary:             #2D6A4F;
+  --primary-hover:       #245740;
+  --primary-active:      #1B4332;
+  --primary-light:       #D8EDE0; /* Enhanced sage/mint tint with higher presence on darker off-white */
+  --primary-glow:        #52B788;
+  --primary-glow-alpha:  rgba(45, 106, 79, 0.18);
+  --primary-gradient:    linear-gradient(135deg, #2D6A4F 0%, #1B4332 100%);
+  --primary-gradient-subtle: linear-gradient(135deg, rgba(45, 106, 79, 0.10) 0%, rgba(82, 183, 136, 0.06) 100%);
+
+  /* Secondary / Muted Green */
+  --secondary:           #52796F;
+  --secondary-light:     #DCE8E4;
+  --secondary-dark:      #2D6A4F;
+
+  /* Warm Accent — Terracotta / Amber Wheat */
+  --accent:              #D47A5B;
+  --accent-light:        rgba(212, 122, 91, 0.14);
+  --accent-dark:         #B86245;
+  --accent-alpha:        rgba(212, 122, 91, 0.18);
+
+  /* Text — Deep, high-legibility ink tones */
+  --text-main:           #1C1B19;
+  --text-muted:          #595750;
+  --text-subtle:         #7C7970;
+  --text-inverse:        #FFFFFF;
+
+  /* Borders — Crisp 1px hairline with defined structure against darker off-white */
+  --border-subtle:       #D0CBC0;
+  --border-glass:        rgba(28, 27, 26, 0.11);
+
+  /* Shadows — Tactile Multi-layer Elevations tuned for darker off-white */
+  --shadow-xs:           0 1px 2px rgba(28, 27, 26, 0.05);
+  --shadow-sm:           0 2px 6px rgba(28, 27, 26, 0.07), 0 1px 2px rgba(28, 27, 26, 0.04);
+  --shadow-md:           0 8px 20px rgba(28, 27, 26, 0.09), 0 3px 8px rgba(28, 27, 26, 0.05);
+  --shadow-lg:           0 18px 44px rgba(28, 27, 26, 0.11), 0 5px 14px rgba(28, 27, 26, 0.05);
+  --shadow-glow:         0 0 28px rgba(45, 106, 79, 0.18);
+
+  /* Status */
+  --success:             #2D6A4F;
+  --success-bg:          rgba(45, 106, 79, 0.10);
+  --warning:             #D47A5B;
+  --warning-bg:          rgba(212, 122, 91, 0.10);
+  --danger:              #C24D3D;
+  --danger-bg:           rgba(194, 77, 61, 0.10);
+  --info:                #3B7A8C;
+  --info-bg:             rgba(59, 122, 140, 0.10);
+
+  /* Typography */
+  --font-sans:    'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Inter', system-ui, sans-serif;
+  --font-kannada: 'Noto Sans Kannada', 'Plus Jakarta Sans', system-ui, sans-serif;
+
+  /* Radii */
+  --radius-xs:   5px;
+  --radius-sm:   9px;
+  --radius-md:   14px;
+  --radius-lg:   18px;
+  --radius-xl:   24px;
+  --radius-2xl:  32px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast:   0.15s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-normal: 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-slow:   0.45s cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Layout */
+  --sidebar-width:           260px;
+  --sidebar-collapsed-width: 64px;
+  --topbar-height:           64px;
+  --bottomnav-height:        66px;
+}
+
+
+/* ── DARK THEME (Warm Obsidian & Emerald Sage) ────────────────────────── */
+[data-theme="dark"] {
+  /* Backgrounds — Rich Warm Charcoal & Obsidian */
+  --bg-app:              #121413;
+  --bg-surface:          #1A1D1B;
+  --bg-surface-elevated: #222624;
+  --bg-surface-glass:    rgba(26, 29, 27, 0.90);
+  --bg-subtle:           #252927;
+  --bg-card:             #1A1D1B;
+
+  /* Primary — Luminous Emerald Sage with Organic Glow */
+  --primary:             #52B788;
+  --primary-hover:       #74C69D;
+  --primary-active:      #40916C;
+  --primary-light:       #1E2C24;
+  --primary-glow:        #52B788;
+  --primary-glow-alpha:  rgba(82, 183, 136, 0.22);
+  --primary-gradient:    linear-gradient(135deg, #52B788 0%, #2D6A4F 100%);
+  --primary-gradient-subtle: linear-gradient(135deg, rgba(82, 183, 136, 0.12) 0%, rgba(45, 106, 79, 0.06) 100%);
+
+  /* Secondary */
+  --secondary:           #74A892;
+  --secondary-light:     #252927;
+  --secondary-dark:      #52B788;
+
+  /* Warm Accent — Sunset Amber / Terracotta */
+  --accent:              #E07A5F;
+  --accent-light:        rgba(224, 122, 95, 0.14);
+  --accent-dark:         #C86349;
+  --accent-alpha:        rgba(224, 122, 95, 0.20);
+
+  /* Text — High-Readability Warm Tones */
+  --text-main:           #F4F3EE;
+  --text-muted:          #A5A29A;
+  --text-subtle:         #7A7770;
+  --text-inverse:        #121413;
+
+  /* Borders — Soft 1px Hairlines */
+  --border-subtle:       #2E3330;
+  --border-glass:        rgba(244, 243, 238, 0.08);
+
+  /* Shadows — Deep Atmospheric Glows */
+  --shadow-xs:           0 1px 3px rgba(0, 0, 0, 0.35);
+  --shadow-sm:           0 2px 6px rgba(0, 0, 0, 0.45);
+  --shadow-md:           0 8px 24px rgba(0, 0, 0, 0.55);
+  --shadow-lg:           0 16px 48px rgba(0, 0, 0, 0.65);
+  --shadow-glow:         0 0 32px rgba(82, 183, 136, 0.20);
+
+  /* Status */
+  --success:             #52B788;
+  --success-bg:          rgba(82, 183, 136, 0.14);
+  --warning:             #E07A5F;
+  --warning-bg:          rgba(224, 122, 95, 0.14);
+  --danger:              #E76F51;
+  --danger-bg:           rgba(231, 111, 81, 0.14);
+  --info:                #64B5F6;
+  --info-bg:             rgba(100, 181, 246, 0.14);
+}

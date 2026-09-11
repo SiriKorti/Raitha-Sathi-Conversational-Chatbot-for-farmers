@@ -1,0 +1,309 @@
+/* ── Claude.ai-style ChatMessage.css ────────────────────────────────────────── */
+
+.chat-message-row {
+  display: flex;
+  gap: 1.125rem;
+  margin-bottom: 1.75rem;
+  width: 100%;
+  animation: fadeIn 0.2s ease-out forwards;
+}
+
+.chat-message-row.user-row {
+  flex-direction: row-reverse;
+}
+
+.message-avatar {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.user-avatar {
+  background: var(--bg-subtle);
+  color: var(--text-main);
+  border: 1px solid var(--border-subtle);
+}
+
+.sathi-avatar {
+  background: var(--primary-light);
+  color: var(--primary);
+  border: 1px solid var(--border-subtle);
+}
+
+.message-content-wrapper {
+  max-width: 84%;
+  display: flex;
+  flex-direction: column;
+}
+
+.user-row .message-content-wrapper {
+  align-items: flex-end;
+}
+
+.message-header-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+  font-size: 0.78rem;
+  color: var(--text-subtle);
+}
+
+.sender-name {
+  font-weight: 600;
+  color: var(--text-muted);
+}
+
+.message-bubble {
+  padding: 1rem 1.35rem;
+  border-radius: var(--radius-lg);
+  font-size: 0.96rem;
+  line-height: 1.68;
+  position: relative;
+  word-break: break-word;
+}
+
+/* User Bubble — Claude style soft pill */
+.user-bubble {
+  background-color: var(--bg-subtle);
+  color: var(--text-main);
+  border: 1px solid var(--border-subtle);
+  border-bottom-right-radius: 4px;
+}
+
+.user-text {
+  color: var(--text-main);
+  margin: 0;
+  white-space: pre-wrap;
+  font-weight: 500;
+}
+
+/* Assistant Bubble — Claude style editorial card */
+.assistant-bubble {
+  background-color: var(--bg-surface);
+  color: var(--text-main);
+  border: 1px solid var(--border-subtle);
+  border-bottom-left-radius: 4px;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Markdown Styling inside Assistant Bubble */
+.markdown-body {
+  color: var(--text-main);
+  font-size: 0.96rem;
+}
+
+.markdown-body p {
+  color: var(--text-main);
+  margin-bottom: 0.85rem;
+}
+
+.markdown-body p:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {
+  margin-top: 1.15rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-main);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.markdown-body h3 {
+  font-size: 1.05rem;
+  color: var(--primary);
+}
+
+.markdown-body ul, .markdown-body ol {
+  padding-left: 1.35rem;
+  margin-bottom: 0.85rem;
+}
+
+.markdown-body li {
+  margin-bottom: 0.35rem;
+}
+
+.markdown-body strong {
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.85rem 0;
+  font-size: 0.88rem;
+}
+
+.markdown-body th, .markdown-body td {
+  padding: 0.55rem 0.85rem;
+  border: 1px solid var(--border-subtle);
+  text-align: left;
+}
+
+.markdown-body th {
+  background-color: var(--bg-subtle);
+  font-weight: 600;
+}
+
+.markdown-body blockquote {
+  border-left: 3px solid var(--accent);
+  padding-left: 0.85rem;
+  margin: 0.65rem 0;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.markdown-body hr {
+  border: 0;
+  height: 1px;
+  background-color: var(--border-subtle);
+  margin: 0.85rem 0;
+}
+
+/* Action Toolbar */
+.message-actions-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.65rem;
+  font-size: 0.76rem;
+  font-weight: 600;
+  border-radius: var(--radius-full);
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+  transition: all var(--transition-fast);
+  cursor: pointer;
+}
+
+.action-btn:hover:not(:disabled) {
+  background: var(--border-subtle);
+  color: var(--text-main);
+  border-color: var(--primary);
+}
+
+.audio-btn.playing {
+  background: var(--primary-light);
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.copied-icon, .copied-text {
+  color: var(--success);
+}
+
+.save-btn.saved {
+  background: rgba(46, 125, 50, 0.12);
+  color: var(--primary);
+  border-color: var(--primary);
+  cursor: default;
+}
+
+.saved-icon {
+  color: var(--primary);
+}
+
+.saved-text {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.save-loading-spinner {
+  width: 12px;
+  height: 12px;
+  border: 2px solid var(--border-subtle);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: var(--radius-full);
+}
+
+.db-badge {
+  background: var(--success-bg);
+  color: var(--success);
+  border: 1px solid rgba(127, 168, 137, 0.25);
+}
+
+.rag-badge {
+  background: var(--info-bg);
+  color: var(--info);
+  border: 1px solid rgba(117, 163, 179, 0.25);
+}
+
+.llm-badge {
+  background: rgba(139, 92, 246, 0.12);
+  color: #8b5cf6;
+  border: 1px solid rgba(139, 92, 246, 0.25);
+}
+
+/* Audio Spinner & Equalizer Animation */
+.audio-loading-spinner {
+  width: 12px;
+  height: 12px;
+  border: 2px solid var(--border-subtle);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.equalizer-bars {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 12px;
+}
+
+.equalizer-bars .bar {
+  width: 2px;
+  background-color: currentColor;
+  border-radius: 1px;
+  animation: equalize 1s ease-in-out infinite;
+}
+
+.equalizer-bars .bar-1 { height: 60%; animation-delay: 0.1s; }
+.equalizer-bars .bar-2 { height: 100%; animation-delay: 0.3s; }
+.equalizer-bars .bar-3 { height: 40%; animation-delay: 0.2s; }
+
+@keyframes equalize {
+  0%, 100% { height: 30%; }
+  50% { height: 100%; }
+}
+
+@media (max-width: 768px) {
+  .message-content-wrapper {
+    max-width: 92%;
+  }
+  .message-bubble {
+    padding: 0.85rem 1rem;
+    font-size: 0.92rem;
+  }
+}

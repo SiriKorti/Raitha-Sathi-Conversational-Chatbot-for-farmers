@@ -1,0 +1,32 @@
+.app-viewport {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+
+.app-main-layout {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+.app-content-area {
+  flex: 1;
+  padding: 1.5rem;
+  padding-bottom: calc(var(--bottomnav-height) + 1.5rem);
+  overflow-y: auto;
+  max-width: 100%;
+}
+
+@media (min-width: 992px) {
+  .app-content-area {
+    padding: 2rem;
+    padding-bottom: 2rem;
+  }
+}

@@ -1,0 +1,5507 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಒಣ ಬೇಸಾಯಕ್ಕೆ ಸೂಕ್ತವಾದ ಜೆಜಿ-11 (JG-11) ಕಡಲೆ ತಳಿಯ ವೈಶಿಷ್ಟ್ಯಗಳೇನು?",
+    "question_variants": [
+      "JG-11 ಕಡಲೆ ತಳಿ ಒಣ ಬೇಸಾಯಕ್ಕೆ ಉತ್ತಮವೇ?",
+      "ಜೆಜಿ-11 ಕಡಲೆ ತಳಿಯ ಇಳುವರಿ ತಿಳಿಸಿ."
+    ],
+    "keywords": [
+      "ಕಡಲೆ",
+      "JG-11",
+      "ತಳಿ",
+      "ಒಣ ಬೇಸಾಯ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಒಣ ಬೇಸಾಯ ಪ್ರದೇಶದಲ್ಲಿ ಸೊರಗು ರೋಗ ತಡೆಯುವ ಮತ್ತು ಉತ್ತಮ ಇಳುವರಿ ನೀಡುವ ತಳಿ ಬೇಕಾಗಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೆಜಿ-11 (JG-11) ಒಣ ಬೇಸಾಯಕ್ಕೆ ಅತ್ಯಂತ ಸೂಕ್ತ. ಇದು ಸೊರಗು ರೋಗ ನಿರೋಧಕ ತಳಿಯಾಗಿದ್ದು 95-100 ದಿನಗಳಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಜೆಜಿ-11 ತಳಿಯು ಕರ್ನಾಟಕದ ಮೈದಾನ ಹಾಗೂ ಉತ್ತರ ಕರ್ನಾಟಕದ ಎರೆಮಣ್ಣಿನ ಪ್ರದೇಶಗಳಿಗೆ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ತಳಿ. ಇದು ಸೊರಗು ರೋಗವನ್ನು (Fusarium Wilt) ಸಮರ್ಥವಾಗಿ ತಡೆಯುತ್ತದೆ. ಎಕರೆಗೆ 5-8 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಪ್ರಮಾಣೀಕೃತ ಕೃಷಿ ಕೇಂದ್ರದಿಂದ ಜೆಜಿ-11 ಪ್ರಮಾಣಿತ ಬೀಜಗಳನ್ನು ಪಡೆಯಿರಿ.",
+        "ಎಕರೆಗೆ 25-30 ಕೆಜಿ ಬೀಜ ಬಳಸಿ ಬಿತ್ತನೆ ಮಾಡಿ.",
+        "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಟ್ರೈಕೋಡರ್ಮಾ ಬೀಜೋಪಚಾರ ಕಡ್ಡಾಯವಾಗಿ ಮಾಡಿ."
+      ],
+      "preventive_measures": [
+        "ಪ್ರತಿ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ದೃಢೀಕೃತ ಬೀಜ ಬಳಸಿ."
+      ],
+      "recommended_products": [
+        "JG-11 Certified Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಡಲೆ ತಳಿ: ಜೆಜಿ-11 (JG-11) ಒಣ ಬೇಸಾಯಕ್ಕೆ ಸೂಕ್ತ, ಸೊರಗು ರೋಗ ನಿರೋಧಕ, 95-100 ದಿನಗಳ ಅವಧಿ, ಇಳುವರಿ ಎಕರೆಗೆ 5-8 ಕ್ವಿಂಟಾಲ್.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅಣ್ಣಿಗೇರಿ-1 (Annigeri-1) ಕಡಲೆ ತಳಿ ಬೆಳೆಯುವುದರ ಅನುಕೂಲಗಳೇನು?",
+    "question_variants": [
+      "ಅಣ್ಣಿಗೇರಿ ಕಡಲೆ ತಳಿಯ ಸಾಗುವಳಿ ಹೇಗೆ?",
+      "Annigeri-1 ತಳಿ ಇಂದಿಗೂ ಸೂಕ್ತವೇ?"
+    ],
+    "keywords": [
+      "ಅಣ್ಣಿಗೇರಿ-1",
+      "Annigeri-1",
+      "ಕಡಲೆ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ಎರೆಮಣ್ಣಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ದೀರ್ಘಕಾಲದಿಂದ ಬೆಳೆಯುತ್ತಿರುವ ಅಣ್ಣಿಗೇರಿ-1 ತಳಿಯ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅಣ್ಣಿಗೇರಿ-1 ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ತಳಿಯಾಗಿದ್ದು, ಕಮ್ಮಿ ತೇವಾಂಶದಲ್ಲೂ ಸ್ಥಿರ ಇಳುವರಿ ನೀಡುತ್ತದೆ. 90-95 ದಿನಗಳಲ್ಲಿ ಪಕ್ವವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಅಣ್ಣಿಗೇರಿ-1 (Annigeri-1) ತಳಿಯು ಒಣ ಬೇಸಾಯದ ಎರೆಮಣ್ಣಿಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ. ಇದು ಬರದ ಸ್ಥಿತಿಯನ್ನು ಚೆನ್ನಾಗಿ ತಡೆಯುತ್ತದೆ. ಗಿರಣಿ ಮಾಲೀಕರಿಂದ ಉತ್ತಮ ಬೇಡಿಕೆ ಹೊಂದಿದೆ. ಎಕರೆಗೆ 4-6 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅಕ್ಟೋಬರ್ ತಿಂಗಳಿನಲ್ಲಿ ಬಿತ್ತನೆ ಪೂರ್ಣಗೊಳಿಸಿ.",
+        "ಸಾಲುಗಳ ನಡುವೆ 30 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ.",
+        "ಬೀಜೋಪಚಾರ ಮಾಡಿ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [
+        "ಸೊರಗು ರೋಗದ ಇತಿಹಾಸವಿರುವ ಜಮೀನಿನಲ್ಲಿ ಹೆಚ್ಚುವರಿ ಜೈವಿಕ ಬೀಜೋಪಚಾರ ಅಗತ್ಯ."
+      ],
+      "recommended_products": [
+        "Annigeri-1 Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅಣ್ಣಿಗೇರಿ-1 ಕಡಲೆ ತಳಿ: ಒಣ ಪ್ರದೇಶಕ್ಕೆ ಸೂಕ್ತ, 90-95 ದಿನಗಳ ಅವಧಿ, ಸ್ಥಿರ ಇಳುವರಿ, ಎಕರೆಗೆ 4-6 ಕ್ವಿಂಟಾಲ್.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಜಿಡಿ-103 (BGD-103) ಕಡಲೆ ತಳಿಯ ಪ್ರಮುಖ ಗುಣಲಕ್ಷಣಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "BGD 103 ಕಡಲೆ ತಳಿಯ ಇಳುವರಿ ಸಾಮರ್ಥ್ಯ ಎಷ್ಟು?",
+      "ಬಿಜಿಡಿ 103 ತಳಿಯ ವಿಶೇಷತೆ ಏನು?"
+    ],
+    "keywords": [
+      "BGD-103",
+      "ಕಡಲೆ",
+      "ತಳಿ",
+      "ಸೊರಗು ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ದೊಡ್ಡ ಕಾಳಿನ ಮತ್ತು ಸೊರಗು ರೋಗ ನಿರೋಧಕ ಕಡಲೆ ತಳಿ ಆಯ್ಕೆ ಮಾಡಲು ಬಯಸಿದ್ದೇನೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿಜಿಡಿ-103 ತಳಿಯು ದಪ್ಪ ಕಾಳಿನ ದೇಸಿ ತಳಿಯಾಗಿದ್ದು, ಸೊರಗು ರೋಗಕ್ಕೆ ಅತ್ಯುತ್ತಮ ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದೆ. 95-100 ದಿನಗಳ ಬೆಳೆ.",
+      "detailed_answer": "ಕೃಷಿ ವಿಶ್ವವಿದ್ಯಾಲಯ ರಾಯಚೂರಿನಿಂದ ಶಿಫಾರಸು ಮಾಡಲ್ಪಟ್ಟ ಬಿಜಿಡಿ-103 ತಳಿಯು ದಪ್ಪ ಕಾಳು (Bold seeds) ಹೊಂದಿದ್ದು, ಹೆಚ್ಚಿನ ತೂಕ ನೀಡುತ್ತದೆ. ಎಕರೆಗೆ 6-8 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "step_by_step": [
+        "ದಪ್ಪ ಕಾಳಿನ ತಳಿಯಾಗಿರುವುದರಿಂದ ಎಕರೆಗೆ 30-35 ಕೆಜಿ ಬೀಜ ಬಳಸಿ.",
+        "ಸಾಲುಗಳ ನಡುವೆ 30-45 ಸೆಂ.ಮೀ ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಿ.",
+        "ರೈಜೋಬಿಯಂ ಮತ್ತು ಟ್ರೈಕೋಡರ್ಮಾ ಉಪಚಾರ ಮಾಡಿ."
+      ],
+      "preventive_measures": [
+        "ಆಳವಾಗಿ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "recommended_products": [
+        "BGD-103 Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬಿಜಿಡಿ-103 ಕಡಲೆ ತಳಿ: ದಪ್ಪ ಕಾಳು, ಸೊರಗು ರೋಗ ನಿರೋಧಕ, 95-100 ದಿನಗಳ ಅವಧಿ, ಇಳುವರಿ 6-8 ಕ್ವಿಂಟಾಲ್/ಎಕರೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜಾಕಿ-9218 (Jaki 9218) ಕಡಲೆ ತಳಿ ಬಿತ್ತನೆ ಮಾಡುವುದರಿಂದ ಏನು ಪ್ರಯೋಜನ?",
+    "question_variants": [
+      "Jaki 9218 ಕಡಲೆ ತಳಿ ಬಗ್ಗೆ ಮಾಹಿತಿ ನೀಡಿ.",
+      "ಜಾಕಿ 9218 ತಳಿ ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಕ್ಕೆ ಸೂಕ್ತವೇ?"
+    ],
+    "keywords": [
+      "Jaki 9218",
+      "ಜಾಕಿ 9218",
+      "ಕಡಲೆ",
+      "ಅಧಿಕ ಇಳುವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬೇಗ ಕೊಯ್ಲಿಗೆ ಬರುವ ಮತ್ತು ಅಧಿಕ ಇಳುವರಿ ನೀಡುವ ಪ್ರಸಿದ್ಧ ತಳಿ ಬೇಕಾಗಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜಾಕಿ-9218 ತಳಿಯು ಅತ್ಯಂತ ವೇಗವಾಗಿ (90 ದಿನಗಳಲ್ಲಿ) ಕೊಯ್ಲಿಗೆ ಬರುತ್ತದೆ. ಇದು ಅತ್ಯಧಿಕ ಶಾಖ ನಿರೋಧಕ ಮತ್ತು ಅಧಿಕ ಇಳುವರಿ ನೀಡುತ್ತದೆ.",
+      "detailed_answer": "ಜಾಕಿ 9218 ತಳಿಯು ಕಾಯಿಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚಿರುವುದರಿಂದ ಮತ್ತು ಕಾಳುಗಳು ಒಂದೇ ಸಮನಾಗಿ ಆಕರ್ಷಕವಾಗಿರುವುದರಿಂದ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಬೆಲೆ ಪಡೆಯುತ್ತದೆ. ಎಕರೆಗೆ 7-9 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅಕ್ಟೋಬರ್ ಕೊನೆಯ ವಾರ ಬಿತ್ತನೆ ಮಾಡಿ.",
+        "ಎಕರೆಗೆ 25-30 ಕೆಜಿ ಬೀಜ ಪ್ರಮಾಣ ಬಳಸಿ.",
+        "ಬೀಜೋಪಚಾರದೊಂದಿಗೆ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Jaki 9218 Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜಾಕಿ 9218 ಕಡಲೆ ತಳಿ: 90 ದಿನಗಳ ಶೀಘ್ರ ಅವಧಿ, ಕಾಯಿಗಳ ಸಂಖ್ಯೆ ಹೆಚ್ಚು, ಎಕರೆಗೆ 7-9 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಯಂತ್ರದಿಂದ ಕೊಯ್ಲು ಮಾಡಲು ಸೂಕ್ತವಾದ ಜಿಬಿಎಮ್-2 (GBM-2) ಕಡಲೆ ತಳಿಯ ವೈಶಿಷ್ಟ್ಯಗಳೇನು?",
+    "question_variants": [
+      "ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್‌ನಿಂದ ಕಡಲೆ ಕೊಯ್ಲು ಮಾಡಲು ಯಾವ ತಳಿ ಸೂಕ್ತ?",
+      "GBM 2 ಕಡಲೆ ತಳಿಯ ಎತ್ತರ ತಿಳಿಸಿ."
+    ],
+    "keywords": [
+      "GBM-2",
+      "ಯಂತ್ರ ಕೊಯ್ಲು",
+      "ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕೂಲಿ ಕಾರ್ಮಿಕರ ಅಭಾವವಿದ್ದು ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಯಂತ್ರ ಬಳಸಿ ಕೊಯ್ಲು ಮಾಡಲು ಸೂಕ್ತ ತಳಿ ಬೇಕಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜಿಬಿಎಮ್-2 (GBM-2) ನೇರವಾಗಿ ನೆಟ್ಟಗೆ ಬೆಳೆಯುವ ಎತ್ತರದ (55-60 ಸೆಂ.ಮೀ) ತಳಿಯಾಗಿದ್ದು, ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಮೂಲಕ ಕೊಯ್ಲು ಮಾಡಲು ಅತ್ಯಂತ ಸೂಕ್ತ.",
+      "detailed_answer": "ಸಾಮಾನ್ಯ ಕಡಲೆ ಗಿಡಗಳು ನೆಲಕ್ಕೆ ವಾಲಿಕೊಳ್ಳುವುದರಿಂದ ಯಂತ್ರದಿಂದ ಕೊಯ್ಲು ಮಾಡಲು ಕಷ್ಟವಾಗುತ್ತದೆ. ಆದರೆ ಜಿಬಿಎಮ್-2 ತಳಿಯ ಗಿಡಗಳು ನೆಟ್ಟಗೆ ಬೆಳೆಯುತ್ತವೆ ಮತ್ತು ಕೆಳಗಿನ ಕಾಯಿಗಳು ನೆಲದಿಂದ 30 ಸೆಂ.ಮೀ ಎತ್ತರದಲ್ಲಿರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಸಾಲುಗಳ ನಡುವೆ 30 ಸೆಂ.ಮೀ ಅಂತರದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಿ.",
+        "ಎಕರೆಗೆ 30 ಕೆಜಿ ಬೀಜ ಪ್ರಮಾಣ ಬಳಸಿ.",
+        "ಸಾಮಾನ್ಯ ನಿರ್ವಹಣೆಯೊಂದಿಗೆ ಬೆಳೆ ಬೆಳೆಯಿರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "GBM-2 Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಗಿಡಗಳು ನೆಟ್ಟಗೆ ಬೆಳೆಯುವುದರಿಂದ ಬಿತ್ತನೆ ಅಂತರ ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪಾಲಿಸಿ."
+      ]
+    },
+    "retrieval_text": "ಜಿಬಿಎಮ್-2 (GBM-2): ನೆಟ್ಟಗೆ ಬೆಳೆಯುವ ಎತ್ತರದ ಕಡಲೆ ತಳಿ, ಯಂತ್ರ ಕೊಯ್ಲಿಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ, ಪೋಲಾಗುವುದು ತಡೆಗಟ್ಟುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಡಾಲರ್ ಕಡಲೆ ಅಥವಾ ಕಬುಲಿ (Kabuli) ತಳಿಗಳಾದ MNK-1 ಮತ್ತು KAK-2 ಬೆಳೆಯುವ ವಿಧಾನ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಬುಲಿ ಕಡಲೆ (Dollar Chana) ಸಾಗುವಳಿ ಲಾಭದಾಯಕವೇ?",
+      "MNK-1 ಕಬುಲಿ ಕಡಲೆ ತಳಿ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "ಕಬುಲಿ ಕಡಲೆ",
+      "MNK-1",
+      "KAK-2",
+      "ಡಾಲರ್ ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ರಫ್ತು ದರ್ಜೆಯ ಬಿಳಿ ಬಣ್ಣದ ದೊಡ್ಡ ಕಬುಲಿ ಕಡಲೆ ಬೆಳೆದು ಹೆಚ್ಚಿನ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಪಡೆಯಲು ಬಯಸಿದ್ದೇನೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಮ್‌ಎನ್‌ಕೆ-1 (MNK-1) ಮತ್ತು ಕೆಎಕೆ-2 (KAK-2) ಬಿಳಿ ಬಣ್ಣದ ದೊಡ್ಡ ಕಬುಲಿ ಕಡಲೆ ತಳಿಗಳು. ಇವುಗಳಿಗೆ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ದೇಸಿ ಕಡಲೆಗಿಂತ 30-40% ಹೆಚ್ಚಿನ ಬೆಲೆ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಬುಲಿ ಕಡಲೆ ಕಾಳುಗಳು ದೊಡ್ಡದಾಗಿರುವುದರಿಂದ ಬೀಜದ ಪ್ರಮಾಣ ಎಕರೆಗೆ 35-40 ಕೆಜಿ ಬೇಕಾಗುತ್ತದೆ. ಸಾಲುಗಳ ನಡುವೆ 45 ಸೆಂ.ಮೀ ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಬೇಕು. ಎಕರೆಗೆ 6-8 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 35-40 ಕೆಜಿ ಕಬುಲಿ ಬೀಜ ಬಳಸಿ.",
+        "45 x 10 ಸೆಂ.ಮೀ ಅಂತರದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಿ.",
+        "ಹೂ ಬಿಡುವ ಮುನ್ನ ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವಾಗ ನೀರಾವರಿ ಕೊಡಿ."
+      ],
+      "preventive_measures": [
+        "ಕಬುಲಿ ಬೀಜಗಳ ಸಿಪ್ಪೆ ತೆಳುವಾಗಿರುವುದರಿಂದ ಶೇಖರಣೆಯಲ್ಲಿ ಪತಂಗದ ಬಾಧೆ ತಡೆಯಲು ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಿ."
+      ],
+      "recommended_products": [
+        "MNK-1 / KAK-2 Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ತೇವಾಂಶ ಕೊರತೆ ಇದ್ದರೆ ಕಾಳಿನ ಗಾತ್ರ ಚಿಕ್ಕದಾಗುತ್ತದೆ."
+      ]
+    },
+    "retrieval_text": "ಕಬುಲಿ ಕಡಲೆ (MNK-1, KAK-2): ಬಿಳಿ ದಪ್ಪ ಕಾಳು, ಹೆಚ್ಚಿನ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ, ಬೀಜ ದರ 35-40 ಕೆಜಿ/ಎಕರೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಜಿಬಿ-102 (BGB-102) ಕಡಲೆ ತಳಿಯ ವಿಶೇಷತೆ ಏನು?",
+    "question_variants": [
+      "BGB 102 ಕಡಲೆ ತಳಿ ಯಾವ ಪ್ರದೇಶಕ್ಕೆ ಸೂಕ್ತ?",
+      "ಬಿಜಿಬಿ 102 ತಳಿಯ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಹೇಗಿದೆ?"
+    ],
+    "keywords": [
+      "BGB-102",
+      "ಕಡಲೆ",
+      "ತಳಿ",
+      "ಉತ್ತರ ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಮಧ್ಯಮ ಎರೆಮಣ್ಣಿಗೆ ಸೂಕ್ತ ತಳಿ ಬೇಕಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿಜಿಬಿ-102 ಕರ್ನಾಟಕ ಕೃಷಿ ವಿವಿಯಿಂದ ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ದೇಸಿ ತಳಿಯಾಗಿದ್ದು, ಸೊರಗು ಮತ್ತು ಒಣ ಬೇರು ಕೊಳೆ ರೋಗಗಳನ್ನು ತಡೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಬಿಜಿಬಿ-102 ತಳಿಯು 95 ದಿನಗಳ ಬೆಳೆಯಾಗಿದ್ದು, ಮಧ್ಯಮ ಗಾತ್ರದ ಕಂದು ಬಣ್ಣದ ಬೀಜಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಯಾಗಿ ಎಕರೆಗೆ 5-7 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅಕ್ಟೋಬರ್ ಮಧ್ಯದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಿ.",
+        "ಸಾಲುಗಳ ಅಂತರ 30 ಸೆಂ.ಮೀ ಇರಲಿ.",
+        "ಬೀಜೋಪಚಾರ ಮಾಡಿ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "BGB-102 Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬಿಜಿಬಿ-102 ಕಡಲೆ ತಳಿ: ಸೊರಗು ಮತ್ತು ಬೇರು ಕೊಳೆ ರೋಗ ನಿರೋಧಕ, 95 ದಿನಗಳ ಅವಧಿ, 5-7 ಕ್ವಿಂಟಾಲ್/ಎಕರೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಮಲಪ್ರಭಾ ಕಡಲೆ ತಳಿಯನ್ನು ನೀರಾವರಿ ಜಮೀನಿನಲ್ಲಿ ಬೆಳೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಮಲಪ್ರಭಾ ಕಡಲೆ ತಳಿ ನೀರಾವರಿಗೆ ಸೂಕ್ತವೇ?",
+      "ಮಲಪ್ರಭಾ ತಳಿಯ ಇಳುವರಿ ಪ್ರಮಾಣ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "ಮಲಪ್ರಭಾ",
+      "ಕಡಲೆ",
+      "ನೀರಾವರಿ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ನೀರಾವರಿ ವಸತಿ ಇರುವ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯಲು ಸೂಕ್ತವಾದ ಕಡಲೆ ತಳಿ ಬೇಕಾಗಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಲಪ್ರಭಾ ತಳಿಯು ನೀರಾವರಿ ಸೌಲಭ್ಯವಿರುವ ಜಮೀನುಗಳಿಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ. ಇದು ನೀರಾವರಿಯ ಅಡಿಯಲ್ಲಿ ಅತಿಯಾಗಿ ಬೆಳೆಯದೆ ಉತ್ತಮ ಕಾಯಿ ಕಟಾವಿಗೆ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ನೀರಾವರಿ ಇದ್ದಾಗ ಕೆಲವು ಕಡಲೆ ತಳಿಗಳು ಅತಿಯಾಗಿ ಎಲೆ ಬೆಳೆದು ಕಾಯಿ ಕಟ್ಟುವುದು ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಆದರೆ ಮಲಪ್ರಭಾ ತಳಿಯು ನೀರಾವರಿಯಲ್ಲಿಯೂ ಸಮತೋಲಿತವಾಗಿ ಬೆಳೆದು ಎಕರೆಗೆ 9-11 ಕ್ವಿಂಟಾಲ್‌ನಷ್ಟು ಗರಿಷ್ಠ ಇಳುವರಿ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ತಳ ಗೊಬ್ಬರ ನೀಡಿ.",
+        "35 ಮತ್ತು 65 ದಿನಗಳಲ್ಲಿ ಎರಡು ಹಗುರ ನೀರಾವರಿ ಕೊಡಿ.",
+        "ಕಳೆ ನಿರ್ವಹಣೆ ಸರಿಯಾಗಿ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Malaprabha Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಅತಿಯಾಗಿ ನೀರು ಹಾಯಿಸಬೇಡಿ."
+      ]
+    },
+    "retrieval_text": "ಮಲಪ್ರಭಾ ಕಡಲೆ ತಳಿ: ನೀರಾವರಿಗೆ ಅತ್ಯುತ್ತಮ, ಅತಿಯಾದ ಸಸ್ಯ ಬೆಳೆ ತಡೆಯುತ್ತದೆ, ಇಳುವರಿ 9-11 ಕ್ವಿಂಟಾಲ್/ಎಕರೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ವಿಜಯ್ (Vijay) ಕಡಲೆ ತಳಿಯ ವಿಶೇಷತೆಗಳೇನು?",
+    "question_variants": [
+      "ವಿಜಯ್ ಕಡಲೆ ತಳಿ ಬರ ನಿರೋಧಕವೇ?",
+      "Vijay chickpea variety characteristics"
+    ],
+    "keywords": [
+      "ವಿಜಯ್",
+      "Vijay",
+      "ಕಡಲೆ",
+      "ಬರ ನಿರೋಧಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಿಮೆ ಮಳೆ ಬೀಳುವ ಬರಪೀಡಿತ ಪ್ರದೇಶದಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯಲು ಬಯಸಿದ್ದೇನೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ವಿಜಯ್ ತಳಿಯು ಅತ್ಯುತ್ತಮ ಬರ ನಿರೋಧಕ ಮತ್ತು ಸೊರಗು ರೋಗ ನಿರೋಧಕ ತಳಿಯಾಗಿದೆ. ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಿಗೆ ಇದು ಸೂಕ್ತ.",
+      "detailed_answer": "ವಿಜಯ್ (Vijay) ತಳಿಯು ಬೇರುಗಳನ್ನು ಆಳವಾಗಿ ಇಳಿಸುವುದರಿಂದ ಮಣ್ಣಿನ ಕೆಳಪದರದ ತೇವಾಂಶವನ್ನು ಬಳಸಿಕೊಂಡು ಬೆಳೆಯುತ್ತದೆ. ಇದು 85-90 ದಿನಗಳ ಅಲ್ಪಾವಧಿ ಬೆಳೆಯಾಗಿದ್ದು, ಎಕರೆಗೆ 5-6 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅಕ್ಟೋಬರ್ ಮೊದಲ ವಾರದಲ್ಲೇ ಬಿತ್ತನೆ ಮಾಡಿ ತೇವಾಂಶ ಬಳಸಿಕೊಳ್ಳಿ.",
+        "ಸಾಲುಗಳ ಅಂತರ 30 ಸೆಂ.ಮೀ ಇರಲಿ.",
+        "ಜೈವಿಕ ಗೊಬ್ಬರಗಳಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Vijay Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ವಿಜಯ್ ಕಡಲೆ ತಳಿ: ಅತ್ಯುತ್ತಮ ಬರ ನಿರೋಧಕ, 85-90 ದಿನಗಳ ಅಲ್ಪಾವಧಿ, ಆಳ ಬೇರು ವ್ಯವಸ್ಥೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Varieties",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ನಿಮ್ಮ ಜಮೀನಿಗೆ ಸೂಕ್ತವಾದ ಕಡಲೆ ತಳಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ತಳಿ ಆಯ್ಕೆ ಮಾಡುವಾಗ ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳೇನು?",
+      "ಯಾವ ಆಧಾರದ ಮೇಲೆ ಕಡಲೆ ಬೀಜ ಆಯ್ಕೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "ತಳಿ ಆಯ್ಕೆ",
+      "ಕಡಲೆ",
+      "ಬೀಜ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತವಾದ ಬೀಜ/ತಳಿ ಆಯ್ಕೆ ಮಾಡಲು ಮಾರ್ಗದರ್ಶನ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಆಳ, ತೇವಾಂಶ, ನೀರಾವರಿ ಲಭ್ಯತೆ ಮತ್ತು ರೋಗ ಇತಿಹಾಸದ ಆಧಾರದ ಮೇಲೆ ತಳಿ ಆಯ್ಕೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "1. ಒಣ ಬೇಸಾಯಕ್ಕೆ: JG-11, Annigeri-1, Vijay.\n2. ನೀರಾವರಿಗೆ: Malaprabha, BGD-103.\n3. ಯಂತ್ರ ಕೊಯ್ಲಿಗೆ: GBM-2.\n4. ಕಬುಲಿ/ರಫ್ತಿಗೆ: MNK-1, KAK-2.\n5. ಸೊರಗು ರೋಗ ಪೀಡಿತ ಜಮೀನಿಗೆ: JG-11, BGD-103.",
+      "step_by_step": [
+        "ನಿಮ್ಮ ಜಮೀನಿನ ನೀರಾವರಿ ಸೌಲಭ್ಯವನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡಿ.",
+        "ಹಿಂದಿನ ವರ್ಷ ಸೊರಗು ರೋಗ ಬಂದಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ.",
+        "ಕೃಷಿ ಇಲಾಖೆಯಿಂದ ದೃಢೀಕೃತ ಬೀಜಗಳನ್ನು ಮಾತ್ರ ಖರೀದಿಸಿ."
+      ],
+      "preventive_measures": [
+        "ಅಪರಿಚಿತ ಮೂಲಗಳಿಂದ ಬೀಜ ಖರೀದಿಸಬೇಡಿ."
+      ],
+      "recommended_products": [
+        "Certified Seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಡಲೆ ತಳಿ ಆಯ್ಕೆ: ಒಣ ಪ್ರದೇಶಕ್ಕೆ (JG-11, Annigeri-1), ನೀರಾವರಿಗೆ (Malaprabha), ಯಂತ್ರ ಕೊಯ್ಲಿಗೆ (GBM-2).",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲು ಯಾವ ರೀತಿಯ ಮಣ್ಣು ಅತ್ಯಂತ ಸೂಕ್ತ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಎಂತಹ ಮಣ್ಣು ಬೇಕು?",
+      "ಕಡಲೆ ಕೃಷಿಗೆ ಮಣ್ಣಿನ ರಸಸಾರ pH ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "ಮಣ್ಣು",
+      "ಕಪ್ಪು ಮಣ್ಣು",
+      "ಎರೆಮಣ್ಣು",
+      "pH"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬೆಳೆಯಲು ಜಮೀನಿನ ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆಯೇ ಎಂದು ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಲೆಗೆ ಆಳವಾದ ಕಪ್ಪು ಎರೆಮಣ್ಣು (Black Cotton Soil) ಅತ್ಯಂತ ಸೂಕ್ತ. ಮಣ್ಣಿನ ರಸಸಾರ (pH) 6.5 ರಿಂದ 8.5 ರ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರಬೇಕು.",
+      "detailed_answer": "ಕಡಲೆಗೆ ನೀರು ಸಾಗಿಸುವ ಮತ್ತು ತೇವಾಂಶವನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಆಳವಾದ ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತ. ಅತಿಯಾದ ಆಮ್ಲೀಯ ಮಣ್ಣು (pH 6.0 ಗಿಂತ ಕಡಿಮೆ) ಕಡಲೆಗೆ ಸೂಕ್ತವಲ್ಲ.",
+      "step_by_step": [
+        "ನೀರು ಬಸಿಯುವ ಕಪ್ಪು ಮಣ್ಣನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+        "ಆಮ್ಲೀಯ ಮಣ್ಣಿದ್ದರೆ ಸುಣ್ಣ ಪ್ರಯೋಗ ಮಾಡಿ.",
+        "ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ನೀರು ನಿಲ್ಲುವ ತಗ್ಗು ಮಣ್ಣಿನಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಬೇಡಿ."
+      ]
+    },
+    "retrieval_text": "ಕಡಲೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು: ಆಳವಾದ ಕಪ್ಪು ಎರೆಮಣ್ಣು, pH 6.5-8.5, ನೀರು ಬಸಿಯುವ ಗುಣ ಹೊಂದಿರಬೇಕು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಹವಾಮಾನ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಗೆ ಎಂತಹ ಹವಾಮಾನ ಮತ್ತು ತಾಪಮಾನ ಅಗತ್ಯ?",
+    "question_variants": [
+      "ಕಡಲೆ ಬೆಳೆಯಲು ಸೂಕ್ತ ಹವಾಮಾನ ಯಾವುದು?",
+      "ಕಡಲೆಗೆ ಎಷ್ಟು ತಾಪಮಾನ ಬೇಕು?"
+    ],
+    "keywords": [
+      "ಹವಾಮಾನ",
+      "ತಾಪಮಾನ",
+      "ಚಳಿಗಾಲ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬೆಳೆಗೆ ಅಗತ್ಯವಾದ ತಾಪಮಾನ ಮತ್ತು ವಾತಾವರಣದ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಲೆ ಹಿಂಗಾರು (ರಬಿ) ಬೆಳೆಯಾಗಿದ್ದು, ತಂಪಾದ ಮತ್ತು ಒಣ ಹವಾಮಾನ (15-25°C ತಾಪಮಾನ) ಅಗತ್ಯವಿದೆ.",
+      "detailed_answer": "ಹೂ ಬಿಡುವ ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ತಂಪಾದ ಚಳಿಯ ವಾತಾವರಣ (10-20°C) ಕಡಲೆ ಬೆಳೆಗೆ ಅತ್ಯಂತ ಪೂರಕ. ಹೂ ಬಿಡುವಾಗ ಅತಿಯಾದ ಬಿಸಿಲು ಅಥವಾ ಮಳೆಯಾದರೆ ಹೂವುಗಳು ಉದುರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್ ತಂಪಿನ ವಾತಾವರಣದಲ್ಲಿ ಬಿತ್ತಿ.",
+        "ಹೂ ಬಿಡುವಾಗ ಮಳೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಅತಿಯಾದ ಬಿಸಿಲಿದ್ದರೆ ಮೊಳಕೆ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗಬಹುದು."
+      ]
+    },
+    "retrieval_text": "ಕಡಲೆ ಹವಾಮಾನ: ತಂಪಾದ ಮತ್ತು ಒಣ ವಾತಾವರಣ, 15-25°C ತಾಪಮಾನ, ಚಳಿಗಾಲದ ರಬಿ ಅವಧಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಮಣ್ಣಿನ ಸಿದ್ಧತೆ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬಿತ್ತನೆಗೂ ಮುನ್ನ ಮಣ್ಣನ್ನು ಹೇಗೆ ಸಿದ್ಧಗೊಳಿಸಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡುವುದು?",
+      "ಆಳದ ಉಳುಮೆಯ ಪ್ರಾಮುಖ್ಯತೆ ಏನು?"
+    ],
+    "keywords": [
+      "ಉಳುಮೆ",
+      "ಭೂಮಿ ಸಿದ್ಧತೆ",
+      "ಕಡಲೆ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಜಮೀನನ್ನು ಹದಗೊಳಿಸುವ ಸೂಕ್ತ ವಿಧಾನ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ಆಳವಾದ ಉಳುಮೆ ಮಾಡಿ, ಬಿತ್ತನೆ ಮುನ್ನ 2-3 ಬಾರಿ ಕುಂಟೆ ಹೊಡೆದು ಮಣ್ಣನ್ನು ಹದಗೊಳಿಸಬೇಕು.",
+      "detailed_answer": "ಬೇಸಿಗೆಯ ಆಳದ ಉಳುಮೆಯಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಕೀಟಗಳ ಕೋಶಗಳು ಮತ್ತು ರೋಗಾಣುಗಳು ಸೂರ್ಯನ ಬಿಸಿಲಿಗೆ ನಾಶವಾಗುತ್ತವೆ. ಮುಂಗಾರು ಮಳೆ ನಂತರ ಮಣ್ಣಿನ ತೇವಾಂಶ ರಕ್ಷಿಸಲು ಲೆವೆಲರ್ ನಿಂದ ಸಮತಟ್ಟು ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ಕಲ್ಟಿವೇಟರ್/ನೇಗಿಲಿನಿಂದ ಆಳದ ಉಳುಮೆ ಮಾಡಿ.",
+        "ಎಕರೆಗೆ 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಬೆರೆಸಿ.",
+        "ಕುಂಟೆ ಹೊಡೆದು ಮಣ್ಣು ಹದ ಮಾಡಿ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "FYM / Organic Manure"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಭೂಮಿ ಸಿದ್ಧತೆ: ಬೇಸಿಗೆಯಲ್ಲಿ ಆಳದ ಉಳುಮೆ, 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಬೆರೆಸುವುದು, ಹದವಾದ ಮಣ್ಣು ಸಿದ್ಧತೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಮಣ್ಣಿನ ತೊಂದರೆ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕ್ಷಾರೀಯ ಮತ್ತು ಸವಳು ಮಣ್ಣಿನಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ಸವಳು ಮಣ್ಣಿನಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯಲು ಪರಿಹಾರವೇನು?",
+      "Saline soils chickpea management"
+    ],
+    "keywords": [
+      "ಸವಳು ಮಣ್ಣು",
+      "ಕ್ಷಾರೀಯತೆ",
+      "ಜಿಪ್ಸಮ್",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಜಮೀನಿನಲ್ಲಿ ಉಪ್ಪಿನ ಅಂಶ (Salinity) ಹೆಚ್ಚಿದ್ದು ಕಡಲೆ ಬೆಳೆಯಲು ತೊಂದರೆಯಾಗುತ್ತಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಲೆ ಸವಳು ಮತ್ತು ಕ್ಷಾರೀಯ ಮಣ್ಣಿಗೆ ಸಂವೇದನಾಶೀಲವಾಗಿದೆ. ಜಿಪ್ಸಮ್ ಮತ್ತು ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಿ ಮಣ್ಣು ಸುಧಾರಿಸಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಮಣ್ಣಿನ ಇಸಿ (EC) 1.5 ಗಿಂತ ಹೆಚ್ಚಿದ್ದರೆ ಕಡಲೆ ಮೊಳಕೆಯೊಡೆಯುವುದು ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಬಿತ್ತನೆ ಮುನ್ನ ಎಕರೆಗೆ 100-150 ಕೆಜಿ ಜಿಪ್ಸಮ್ ಹಾಕಿ ಉಳುಮೆ ಮಾಡುವುದರಿಂದ ಸವಳುತನ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸಿ ಇಸಿ ಮತ್ತು ಪಿಎಚ್ ತಿಳಿಯಿರಿ.",
+        "ಎಕರೆಗೆ 100-150 ಕೆಜಿ ಜಿಪ್ಸಮ್ ಹಾಕಿ.",
+        "ಸಾವಯವ ಗೊಬ್ಬರ ಮತ್ತು ಹಸಿರೆಲೆ ಗೊಬ್ಬರ ಬಳಸಿ."
+      ],
+      "preventive_measures": [
+        "ಸವಳು ಮಣ್ಣಿನಲ್ಲಿ ಬಿತ್ತನೆ ಪ್ರಮಾಣ 10-15% ಹೆಚ್ಚಿಸಿ."
+      ],
+      "recommended_products": [
+        "Gypsum"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸವಳು ಮಣ್ಣು ನಿರ್ವಹಣೆ: ಜಿಪ್ಸಮ್ 100-150 ಕೆಜಿ/ಎಕರೆ, ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ, ಹೆಚ್ಚಿನ ಬೀಜ ದರ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತೇವಾಂಶ ಸಂರಕ್ಷಣೆ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಮಳೆಯಾಶ್ರಿತ ಎರೆಮಣ್ಣಿನಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಸಂರಕ್ಷಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಬೆಳೆಗೆ ತೇವಾಂಶ ಕಾಯ್ದುಕೊಳ್ಳುವ ತಂತ್ರಗಳೇನು?",
+      "Moisture conservation chickpea"
+    ],
+    "keywords": [
+      "ತೇವಾಂಶ ಸಂರಕ್ಷಣೆ",
+      "ಕಂಟೂರ್ ಬಂಡ್",
+      "ಎರೆಮಣ್ಣು",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಹಿಂಗಾರು ಮಳೆಯ ನಂತರ ಮಣ್ಣಿನ ತೇವಾಂಶ ಶೀಘ್ರವಾಗಿ ಆವಿಯಾಗುತ್ತಿದ್ದು ಬೆಳೆ ಒಣಗುತ್ತಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಂಡ್ ನಿರ್ಮಾಣ, ಮಲ್ಚಿಂಗ್ (ಹೊದಿಕೆ) ಮತ್ತು ಅಂತರ ಬೇಸಾಯ (ಎಡೆಕುಂಟೆ) ಮಾಡುವ ಮೂಲಕ ತೇವಾಂಶ ಕಾಯ್ದುಕೊಳ್ಳಬಹುದು.",
+      "detailed_answer": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಎರೆಮಣ್ಣಿನಲ್ಲಿ ಮುಂಗಾರು ಮಳೆಯ ನೀರನ್ನು ತಡೆದು ನಿಲ್ಲಿಸಲು ಬಂಡ್ ಗಳನ್ನು ಮಾಡಬೇಕು. ಬಿತ್ತನೆಯ ನಂತರ 25-30 ದಿನಗಳಲ್ಲಿ ಅಂತರ ಬೇಸಾಯ ಮಾಡುವುದರಿಂದ ಮಣ್ಣಿನ ಮೇಲ್ಪದರದ ಬಿರುಕುಗಳು ಮುಚ್ಚಿ ನೀರು ಆವಿಯಾಗುವುದು ತಡೆಯಲ್ಪಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಜಮೀನಿನಲ್ಲಿ ಕಂಟೂರ್ ಬಂಡ್ ಮಾಡಿ ನೀರು ಇಂಗಿಸಿ.",
+        "ಬಿತ್ತನೆ ನಂತರ ಅಂತರ ಬೇಸಾಯ ಮಾಡಿ ಬಿರುಕು ಮುಚ್ಚಿ.",
+        "ಸಾಲುಗಳ ನಡುವೆ ಬೆಳೆ ತ್ಯಾಜ್ಯದ ಹೊದಿಕೆ ಹಾಕಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೇವಾಂಶ ಸಂರಕ್ಷಣೆ: ಬಂಡ್ ನಿರ್ಮಾಣ, ಬಿತ್ತನೆ ನಂತರ ಅಂತರ ಬೇಸಾಯದಿಂದ ಬಿರುಕು ಮುಚ್ಚುವುದು, ಮಲ್ಚಿಂಗ್.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಜೌಗು ಭೂಮಿ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ನೀರು ನಿಂತರೆ (ಜೌಗು) ಆಗುವ ಹಾನಿ ಏನು ಮತ್ತು ಪರಿಹಾರವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಜೌಗು ನೀರು ತೊಂದರೆಯೇ?",
+      "Waterlogging in chickpea solutions"
+    ],
+    "keywords": [
+      "ಜೌಗು ಭೂಮಿ",
+      "ನೀರು ನಿಲ್ಲುವುದು",
+      "ಕಡಲೆ",
+      "ಬಸಿಕಾಲುವೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಅಕಾಲಿಕ ಮಳೆಯಿಂದ ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ನೀರು ನಿಂತು ಗಿಡಗಳು ಹಳದಿಯಾಗುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಲೆ ಅತಿಯಾದ ನೀರಿಗೆ ಅತ್ಯಂತ ಸೂಕ್ಷ್ಮ ಬೆಳೆ. 24 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು ನೀರು ನಿಂತರೆ ಬೇರುಗಳು ಕೊಳೆತು ಗಿಡಗಳು ಸಾಯುತ್ತವೆ.",
+      "detailed_answer": "ಜೌಗು ವಾತಾವರಣದಲ್ಲಿ ಬೇರುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಸಿಗದೆ 'ಕಾಲರ್ ರೊಟ್' ಅಥವಾ 'ಸೊರಗು ರೋಗ' ತೀವ್ರವಾಗುತ್ತದೆ. ತಕ್ಷಣವೇ ಬಸಿಕಾಲುವೆ ಮಾಡಿ ನೀರನ್ನು ಹೊರಗೆ ಹಾಕಬೇಕು.",
+      "step_by_step": [
+        "ಜಮೀನಿನ ಸುತ್ತಲೂ 1 ಅಡಿ ಆಳದ ಬಸಿಕಾಲುವೆ ತೋಡಿ.",
+        "ನಿಂತ ನೀರನ್ನು ತಕ್ಷಣ ಹೊರಹಾಕಿ.",
+        "ನೀರು ಖಾಲಿಯಾದ ನಂತರ ಎಕರೆಗೆ 19:19:19 (5 ಗ್ರಾಂ/ಲೀ) ಸಿಂಪಡಿಸಿ ಗಿಡ ಚೇತರಿಸಿಕೊಳ್ಳಲು ನೆರವಾಗಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "19:19:19 Soluble Fertilizer"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ಎಂದಿಗೂ ನೀರು ನಿಲ್ಲಲು ಬಿಡಬೇಡಿ."
+      ]
+    },
+    "retrieval_text": "ಜೌಗು ಭೂಮಿ ಅಪಾಯ: 24 ಗಂಟೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆತ, ಬಸಿಕಾಲುವೆ ನಿರ್ಮಾಣ, 19:19:19 ಸಿಂಪರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಮೈಕ್ರೋ ಹವಾಮಾನ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಚಳಿಗಾಲದ ಇಬ್ಬನಿ (Dew) ಕಡಲೆ ಬೆಳೆಗೆ ಅನುಕೂಲಕರವೇ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಇಬ್ಬನಿ ಬಿದ್ದರೆ ಒಳ್ಳೆಯದೇ?",
+      "Effect of winter dew on chickpea"
+    ],
+    "keywords": [
+      "ಇಬ್ಬನಿ",
+      "Dew",
+      "ಚಳಿಗಾಲ",
+      "ಕಡಲೆ",
+      "ಕಾಯಿ ಕಟ್ಟುವುದು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಡಿಸೆಂಬರ್-ಜನವರಿಯಲ್ಲಿ ಬೀಳುವ ದಟ್ಟ ಇಬ್ಬನಿಯಿಂದ ಕಡಲೆ ಬೆಳೆಗೆ ಆಗುವ ಲಾಭ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಚಳಿಗಾಲದ രാತ್ರಿ ಬೀಳುವ ಇಬ್ಬನಿ ಕಡಲೆಯ ಎಲೆಗಳಲ್ಲಿರುವ ಆಮ್ಲೀಯ ರಸವನ್ನು (Malic acid) ಉತ್ತೇಜಿಸಿ ಕಾಯಿ ಕಟ್ಟಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಕಡಲೆ ಗಿಡದ ಎಲೆಗಳು ಮ್ಯಾಲಿಕ್ ಮತ್ತು ಆಕ್ಸಾಲಿಕ್ ಆಮ್ಲಗಳನ್ನು ಸ್ರವಿಸುತ್ತವೆ. ರಾತ್ರಿಯ ಇಬ್ಬನಿಯು ಈ ಆಮ್ಲಗಳನ್ನು ಕರಗಿಸಿ ಗಿಡಕ್ಕೆ ಅಗತ್ಯ ತೇವಾಂಶ ನೀಡುತ್ತದೆ ಹಾಗೂ ಕಾಯಿಕೊರಕ ಹುಳುಗಳನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇಬ್ಬನಿ ಬೀಳುವ ಸಮಯದಲ್ಲಿ ಬೆಳಿಗ್ಗೆ ಗಿಡಗಳನ್ನು ಅಲ್ಲಾಡಿಸಬೇಡಿ.",
+        "ಇಬ್ಬನಿಯಿಂದ ಸಿಗುವ ಸಹಜ ತೇವಾಂಶವನ್ನು ಬಳಸಿಕೊಳ್ಳಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಇಬ್ಬನಿ ಲಾಭ: ಮ್ಯಾಲಿಕ್ ಆಮ್ಲ ಸ್ರವಿಸುವಿಕೆಗೆ ನೆರವು, ಕಾಯಿ ಕಟ್ಟುವುದು ಹೆಚ್ಚಳ, ಸಹಜ ತೇವಾಂಶ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕೆಂಪು ಮಣ್ಣು",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕೆಂಪು ಮರಳು ಮಿಶ್ರಿತ ಮಣ್ಣಿನಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕೆಂಪು ಮಣ್ಣಿಗೆ ಕಡಲೆ ಸೂಕ್ತವೇ?",
+      "Chickpea in red sandy loam soil"
+    ],
+    "keywords": [
+      "ಕೆಂಪು ಮಣ್ಣು",
+      "ಮರಳು ಮಣ್ಣು",
+      "ನೀರಾವರಿ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ನನ್ನ ಬಳಿ ಕೆಂಪು ಮರಳು ಮಿಶ್ರಿತ ಮಣ್ಣಿದ್ದು ಕಡಲೆ ಬೆಳೆಯಲು ಬಯಸಿದ್ದೇನೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೆಂಪು ಮಣ್ಣಿನಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯಬಹುದು, ಆದರೆ ತೇವಾಂಶ ಧಾರಣ ಶಕ್ತಿ ಕಡಿಮೆಯಿರುವುದರಿಂದ 2-3 ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ ಅಗತ್ಯ.",
+      "detailed_answer": "ಎರೆಮಣ್ಣಿಗೆ ಹೋಲಿಸಿದರೆ ಕೆಂಪು ಮಣ್ಣಿನಲ್ಲಿ ನೀರು ಬೇಗ ಆವಿಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹೆಚ್ಚಾಗಿ ಹಾಕಿ, ಹೂ ಬಿಡುವಾಗ ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವಾಗ ನೀರಾವರಿ ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 4 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಿ.",
+        "ಸಾಲುಗಳ ಅಂತರ 30 ಸೆಂ.ಮೀ ಕಾಯ್ದುಕೊಳ್ಳಿ.",
+        "35 ಮತ್ತು 60 ನೇ ದಿನಗಳಲ್ಲಿ ನೀರಾವರಿ ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "FYM"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕೆಂಪು ಮಣ್ಣಿನಲ್ಲಿ ಕಡಲೆ: 2-3 ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ ಕಡ್ಡಾಯ, ಹೆಚ್ಚಿನ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಬಳಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬೆಳೆ ಪರಿವರ್ತನೆ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop Rotation) ಮಾಡುವುದರ ಪ್ರಾಮುಖ್ಯತೆ ಏನು?",
+    "question_variants": [
+      "ಕಡಲೆ ನಂತರ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬೇಕು?",
+      "Crop rotation for wilt control chickpea"
+    ],
+    "keywords": [
+      "ಬೆಳೆ ಪರಿವರ್ತನೆ",
+      "Crop Rotation",
+      "ಸೊರಗು ರೋಗ",
+      "ಜೋಳ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಪ್ರತಿ ವರ್ಷ ಕಡಲೆ ಬೆಳೆಯುವುದರಿಂದ ಜಮೀನಿನಲ್ಲಿ ಸೊರಗು ರೋಗ ಹೆಚ್ಚಾಗುತ್ತಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸತತವಾಗಿ ಕಡಲೆ ಬೆಳೆಯದೆ ಜೋಳ, ಸಜ್ಜೆ ಅಥವಾ ಎಳ್ಳು ಬೆಳೆಗಳೊಂದಿಗೆ ಬೆಳೆ ಪರಿವರ್ತನೆ ಮಾಡುವುದರಿಂದ ಸೊರಗು ರೋಗ 70% ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಡಲೆ ಸೊರಗು ರೋಗ ಉಂಟುಮಾಡುವ ಫ್ಯುಸೇರಿಯಮ್ ಶಿಲೀಂಧ್ರವು ಮಣ್ಣಿನಲ್ಲಿ ದೀರ್ಘಕಾಲ ಜೀವಿಸುತ್ತದೆ. 2-3 ವರ್ಷ ಏಕಧಾನ್ಯ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯುವುದರಿಂದ ಈ ರೋಗಾಣುಗಳ ಸಂತತಿ ನಶಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಡಲೆ ನಂತರ ಜೋಳ ಅಥವಾ ಸಜ್ಜೆ ಬೆಳೆಯಿರಿ.",
+        "ದ್ವಿದಳ ಧಾನ್ಯಗಳನ್ನು ಸತತವಾಗಿ ಅದೇ ಜಮೀನಿನಲ್ಲಿ ಬೆಳೆಯಬೇಡಿ.",
+        "ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಿ ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಹೆಚ್ಚಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬೆಳೆ ಪರಿವರ್ತನೆ: ಜೋಳ/ಸಜ್ಜೆಯೊಂದಿಗೆ ಆವರ್ತನೆ, ಸೊರಗು ರೋಗಾಣು ನಾಶ, ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಜಮೀನು ಸಮತಟ್ಟು",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬಿತ್ತನೆ ಮುನ್ನ ಜಮೀನು ಸಮತಟ್ಟು (Land Levelling) ಮಾಡುವುದು ಏಕೆ ಕಡ್ಡಾಯ?",
+    "question_variants": [
+      "ಜಮೀನು ಸಮತಟ್ಟು ಮಾಡುವುದು ಏಕೆ?",
+      "Land levelling benefits chickpea"
+    ],
+    "keywords": [
+      "ಸಮತಟ್ಟು",
+      "Land Levelling",
+      "ಬಸಿಕಾಲುವೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಜಮೀನಿನಲ್ಲಿ ತಗ್ಗು-ದಿಣ್ಣೆಗಳಿದ್ದು ನೀರು ಬಿಟ್ಟಾಗ ಅಥವಾ ಮಳೆಯಾದಾಗ ಕೆಲವು ಕಡೆ ಸಾಯುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಗ್ಗು ಪ್ರದೇಶದಲ್ಲಿ ನೀರು ನಿಂತು ಗಿಡಗಳು ಕೊಳೆಯುವುದನ್ನು ತಡೆಯಲು ಲೆವೆಲರ್ ಬಳಸಿ ಜಮೀನು ಸಮತಟ್ಟು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಸಮತಟ್ಟಾದ ಜಮೀನಿನಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಎಲ್ಲ ಕಡೆ ಒಂದೇ ಸಮನಾಗಿರುತ್ತದೆ ಮತ್ತು ಬಿತ್ತನೆ ಆಳ ಹಾಗೂ ಮೊಳಕೆ ಶೇಕಡಾವಾರು ಏಕರೂಪವಾಗಿರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಟ್ರ್ಯಾಕ್ಟರ್ ಲೆವೆಲರ್ ನಿಂದ ಜಮೀನು ಸಮತಟ್ಟು ಮಾಡಿ.",
+        "ನೀರು ಸರಾಗವಾಗಿ ಹರಿದು ಹೋಗಲು ಶೇ 0.1 ಓಲಾಣ ನೀಡಿ.",
+        "ನೀರು ನಿಲ್ಲದಂತೆ ಸಣ್ಣ ಬಸಿಕಾಲುವೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜಮೀನು ಸಮತಟ್ಟು: ಏಕರೂಪ ಮೊಳಕೆ, ಜೌಗು ತಡೆಗಟ್ಟುವಿಕೆ, ನೀರಾವರಿ ಸಮರ್ಥ ಬಳಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬಿತ್ತನೆ ಸಮಯ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬಿತ್ತನೆ ಮಾಡಲು ಅತ್ಯಂತ ಸೂಕ್ತವಾದ ಸಮಯ (Sowing Window) ಯಾವುದು?",
+    "question_variants": [
+      "ಕಡಲೆ ಯಾವ ತಿಂಗಳಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು?",
+      "Best sowing time for chickpea in Karnataka"
+    ],
+    "keywords": [
+      "ಬಿತ್ತನೆ ಸಮಯ",
+      "ಅಕ್ಟೋಬರ್",
+      "ನವೆಂಬರ್",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಹಿಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ ಕಡಲೆ ಬಿತ್ತನೆ ಮಾಡಲು ಸರಿಯಾದ ಸಮಯದ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅಕ್ಟೋಬರ್ 10 ರಿಂದ ನವೆಂಬರ್ 15 ರವರೆಗಿನ ಅವಧಿ ಕಡಲೆ ಬಿತ್ತನೆಗೆ ಅತ್ಯಂತ ಸೂಕ್ತವಾಗಿದೆ.",
+      "detailed_answer": "ಅಕ್ಟೋಬರ್ ಮಧ್ಯಭಾಗದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಿದರೆ ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಸಮೃದ್ಧವಾಗಿರುತ್ತದೆ ಮತ್ತು ಚಳಿಗಾಲದ ವಾತಾವರಣ ಗಿಡ ಬೆಳೆಯಲು ನೆರವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅಕ್ಟೋಬರ್ 15 ರಿಂದ 30 ರ ನಡುವೆ ಬಿತ್ತನೆ ಪೂರ್ಣಗೊಳಿಸಿ.",
+        "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶವಿರುವಾಗ ಬಿತ್ತಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬಿತ್ತನೆ ಸಮಯ: ಅಕ್ಟೋಬರ್ 10 ರಿಂದ ನವೆಂಬರ್ 15, ಅತ್ಯುತ್ತಮ ತೇವಾಂಶ ಮತ್ತು ಇಳುವರಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತಡವಾದ ಬಿತ್ತನೆ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ನವೆಂಬರ್ 20 ರ ನಂತರ ಕಡಲೆ ತಡವಾಗಿ ಬಿತ್ತನೆ ಮಾಡಿದರೆ ಆಗುವ ಅನಾಹುತಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ತಡವಾಗಿ ಬಿತ್ತಿದರೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆಯೇ?",
+      "Late sowing of chickpea consequences"
+    ],
+    "keywords": [
+      "ತಡವಾದ ಬಿತ್ತನೆ",
+      "ಇಳುವರಿ ನಷ್ಟ",
+      "ಸಸ್ಯ ಹೇನು",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಹಿಂಗಾರು ಮಳೆ ತಡವಾಗಿದ್ದರಿಂದ ನವೆಂಬರ್ ಕೊನೆಯಲ್ಲಿ ಕಡಲೆ ಬಿತ್ತನೆ ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನವೆಂಬರ್ 20 ರ ನಂತರ ಬಿತ್ತನೆ ಮಾಡಿದರೆ ಇಳುವರಿ 20-30% ಕಡಿಮೆಯಾಗುತ್ತದೆ ಮತ್ತು ಸಸ್ಯ ಹೇನು ಹಾಗೂ ತಾಪಮಾನದ ಹಾನಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+      "detailed_answer": "ತಡವಾಗಿ ಬಿತ್ತಿದ ಬೆಳೆಯು ಕಾಯಿ ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಫೆಬ್ರವರಿ ಬಿಸಿಲಿಗೆ ಸಿಲುಕಿ ಕಾಳುಗಳು ಸಣ್ಣದಾಗುತ್ತವೆ ಮತ್ತು ಹೂವುಗಳು ಬಿದಿರುಬೀಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ತಡವಾಗಿದ್ದರೆ ಬೀಜದ ಪ್ರಮಾಣ ಶೇ 20 ರಷ್ಟು ಹೆಚ್ಚಿಸಿ.",
+        "ಅಲ್ಪಾವಧಿ ತಳಿಗಳಾದ (Jaki 9218) ಬಳಸಿ.",
+        "ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತಡವಾದ ಬಿತ್ತನೆ ಅಪಾಯ: 20-30% ಇಳುವರಿ ನಷ್ಟ, ಬಿಸಿಲಿನ ಹೊಡೆತ, ಶೀಘ್ರ ತಳಿ ಆಯ್ಕೆ ಕಡ್ಡಾಯ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬೀಜದ ಪ್ರಮಾಣ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಎಕರೆಗೆ ಕಡಲೆ ಬಿತ್ತನೆಗೆ ಎಷ್ಟು ಕೆಜಿ ಬೀಜ (Seed Rate) ಬೇಕಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಕಡಲೆ ಬೀಜ ಬೇಕು?",
+      "Chickpea seed rate per acre"
+    ],
+    "keywords": [
+      "ಬೀಜದ ಪ್ರಮಾಣ",
+      "Seed Rate",
+      "ದೇಸಿ ಕಡಲೆ",
+      "ಕಬುಲಿ ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬಿತ್ತನೆಗೆ ಎಕರೆಗೆ ಕನಿಷ್ಠ ಎಷ್ಟು ಕೆಜಿ ಬೀಜ ಬೇಕು ಎಂದು ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಮಾನ್ಯ ದೇಸಿ ಕಡಲೆಗೆ ಎಕರೆಗೆ 25-30 ಕೆಜಿ ಮತ್ತು ದೊಡ್ಡ ಕಬುಲಿ ಕಡಲೆಗೆ 35-40 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಾಳಿನ ಗಾತ್ರದ ಮೇಲೆ ಬೀಜದ ಪ್ರಮಾಣ ಆಧಾರವಾಗಿರುತ್ತದೆ. ಜಿಜಿ-11 ನಂತಹ ಸಣ್ಣ/ಮಧ್ಯಮ ಕಾಳಿಗೆ 25 ಕೆಜಿ ಸಾಕಾದರೆ, ಬಿಜಿಡಿ-103 ನಂತಹ ದೊಡ್ಡ ಕಾಳಿಗೆ 30-35 ಕೆಜಿ ಬೇಕು.",
+      "step_by_step": [
+        "ಬೀಜದ ದೃಢೀಕರಣ ಚೀಟಿ ನೋಡಿ ಮೊಳಕೆ ಪ್ರಮಾಣ ಖಾತ್ರಿಪಡಿಸಿಕೊಳ್ಳಿ.",
+        "ದೊಡ್ಡ ಕಾಳಿದ್ದರೆ 35 ಕೆಜಿ ಬಳಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬೀಜ ಪ್ರಮಾಣ: ದೇಸಿ ತಳಿಗೆ 25-30 ಕೆಜಿ/ಎಕರೆ, ಕಬುಲಿ ತಳಿಗೆ 35-40 ಕೆಜಿ/ಎಕರೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸಾಲುಗಳ ಅಂತರ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬಿತ್ತನೆಯಲ್ಲಿ ಸಾಲುಗಳ ನಡುವಿನ ಮತ್ತು ಗಿಡಗಳ ನಡುವಿನ ಸರಿಯಾದ ಅಂತರ (Spacing) ಎಷ್ಟು?",
+    "question_variants": [
+      "ಕಡಲೆ ಸಾಲುಗಳ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+      "Chickpea plant spacing in cm"
+    ],
+    "keywords": [
+      "ಸಾಲುಗಳ ಅಂತರ",
+      "Spacing",
+      "30x10 cm",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಗಿಡಗಳು ದಟ್ಟವಾಗಿ ಬೆಳೆಯಲು ಸರಿಯಾದ ಅಂತರ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲುಗಳ ನಡುವೆ 30 ಸೆಂ.ಮೀ (1 ಅಡಿ) ಮತ್ತು ಗಿಡಗಳ ನಡುವೆ 10 ಸೆಂ.ಮೀ ಅಂತರವಿರಬೇಕು (30x10 cm).",
+      "detailed_answer": "ದೊಡ್ಡ ಕಬುಲಿ ಅಥವಾ ನೆಟ್ಟಗೆ ಬೆಳೆಯುವ ತಳಿಗಳಿಗೆ 45 ಸೆಂ.ಮೀ x 10 ಸೆಂ.ಮೀ ಅಂತರವನ್ನು ನೀಡಬೇಕು. ಇದರಿಂದ ಗಿಡಗಳಿಗೆ ಸಾಕಷ್ಟು ಗಾಳಿ ಬೆಳಕು ಸಿಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕೂರಿಗೆ ಸಾಲುಗಳ ನಡುವೆ 30 ಸೆಂ.ಮೀ ಅಂತರ ಸೆಟ್ ಮಾಡಿ.",
+        "ಬಿತ್ತನೆ ಆಳ 5-7 ಸೆಂ.ಮೀ ಇರಲಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಾಲುಗಳ ಅಂತರ: ದೇಸಿ (30x10 cm), ಕಬುಲಿ/ಎತ್ತರದ ತಳಿಗೆ (45x10 cm).",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬಿತ್ತನೆ ಆಳ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೀಜವನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಎಷ್ಟು ಆಳದಲ್ಲಿ (Sowing Depth) ಬಿತ್ತನೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆ ಬೀಜ ಎಷ್ಟು ಆಳಕ್ಕೆ ಬಿತ್ತಬೇಕು?",
+      "Sowing depth for chickpea"
+    ],
+    "keywords": [
+      "ಬಿತ್ತನೆ ಆಳ",
+      "Sowing Depth",
+      "ತೇವಾಂಶ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಎರೆಮಣ್ಣಿನಲ್ಲಿ ಬೀಜ ಮೇಲ್ಭಾಗದಲ್ಲಿದ್ದರೆ ಒಣಗುವ ಭಯವಿದೆ, ಎಷ್ಟು ಆಳಕ್ಕೆ ಬಿತ್ತಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಲೆ ಬೀಜವನ್ನು 5 ರಿಂದ 8 ಸೆಂ.ಮೀ (2-3 ಇಂಚು) ಆಳದಲ್ಲಿ ತೇವಾಂಶವಿರುವ ಮಣ್ಣಿನ ಪದರಕ್ಕೆ ತಲುಪುವಂತೆ ಬಿತ್ತಬೇಕು.",
+      "detailed_answer": "ಕಡಲೆ ಬೀಜವು ಆಳದಲ್ಲಿ ಬಿದ್ದಾಗ ಮಣ್ಣಿನ ತೇವಾಂಶವನ್ನು ಹೀರಿಕೊಂಡು ಬಲವಾದ ಬೇರು ಪಡೆಯುತ್ತದೆ ಮತ್ತು ಸೊರಗು ರೋಗದ ಬಾಧೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ತೇವಾಂಶವಿರುವ ಮಣ್ಣಿನ ಪದರಕ್ಕೆ ಬೀಜ ಬೀಳುವಂತೆ ಕೂರಿಗೆ ಹೊಂದಿಸಿ.",
+        "ಅತಿಯಾದ ಆಳ (10 ಸೆಂ.ಮೀ ಗಿಂತ ಹೆಚ್ಚು) ಬಿತ್ತಬೇಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬಿತ್ತನೆ ಆಳ: 5-8 ಸೆಂ.ಮೀ ಆಳ, ತೇವಾಂಶ ಪದರಕ್ಕೆ ಬೀಜ ಬಿತ್ತುವುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕೂರಿಗೆ ಬಿತ್ತನೆ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕೂರಿಗೆ (Seed Drill) ಬಳಸಿ ಕಡಲೆ ಬಿತ್ತನೆ ಮಾಡುವುದರ ಅನುಕೂಲಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಕೂರಿಗೆ ಬಿತ್ತನೆ ಉತ್ತಮವೇ?",
+      "Seed cum fertilizer drill chickpea"
+    ],
+    "keywords": [
+      "ಕೂರಿಗೆ",
+      "Seed Drill",
+      "ಬಿತ್ತನೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕೈಯಿಂದ ಬಿತ್ತುವುದಕ್ಕಿಂತ ಕೂರಿಗೆ ಯಂತ್ರ ಬಳಸಿ ಬಿತ್ತನೆ ಮಾಡುವ ಲಾಭ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೂರಿಗೆ ಬಳಸಿ ಬಿತ್ತುವುದರಿಂದ ಬೀಜ ಮತ್ತು ಗೊಬ್ಬರ ಒಂದೇ ಬಾರಿಗೆ ಸರಿಯಾದ ಆಳದಲ್ಲಿ ಬಿದ್ದು ಸಮಾನ ಅಂತರ ದೊರೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಸೀಡ್ ಕಮ್ ಫರ್ಟಿಲೈಸರ್ ಡ್ರಿಲ್ ಬಳಕೆಯು ಶ್ರಮ ಮತ್ತು ಸಮಯ ಉಳಿಸುತ್ತದೆ. ಎಕರೆಗೆ ಸರಿಯಾದ ಬೀಜ ಪ್ರಮಾಣ ಬೀಳುತ್ತದೆ.",
+      "step_by_step": [
+        "ಟ್ರ್ಯಾಕ್ಟರ್ ಅಥವಾ ಎತ್ತಿನ ಕೂರಿಗೆ ಬಳಸಿ ಬಿತ್ತನೆ ಮಾಡಿ.",
+        "ಬೀಜದ ಕೊಳವೆ ಮತ್ತು ಗೊಬ್ಬರದ ಕೊಳವೆ ಪ್ರತ್ಯೇಕವಾಗಿರಲಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕೂರಿಗೆ ಬಿತ್ತನೆ: ಏಕರೂಪ ಆಳ, ಸಮಯ ಉಳಿತಾಯ, ಗೊಬ್ಬರ ಮತ್ತು ಬೀಜ ಒಟ್ಟಿಗೆ ಬಿತ್ತನೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತೆಳುಗೊಳಿಸುವಿಕೆ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಸಸ್ಯಗಳ ತೆಳುಗೊಳಿಸುವಿಕೆ (Thinning) ಮತ್ತು ಸಸ್ಯ ಸಾಂದ್ರತೆ ನಿರ್ವಹಣೆ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಗಿಡ ದಟ್ಟವಾದರೆ ತೆಳುಗೊಳಿಸಬೇಕೇ?",
+      "Thinning in chickpea"
+    ],
+    "keywords": [
+      "ತೆಳುಗೊಳಿಸುವಿಕೆ",
+      "Thinning",
+      "ಸಸ್ಯ ಸಾಂದ್ರತೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬಿತ್ತನೆಯಾದ ನಂತರ ಕೆಲವು ಕಡೆ ಗಿಡಗಳು ಅತ್ಯಂತ ದಟ್ಟವಾಗಿ ಮೊಳಕೆಯೊಡೆದಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 15-20 ದಿನಗಳಲ್ಲಿ ದಟ್ಟವಾಗಿರುವ ಕಡೆ ಹೆಚ್ಚುವರಿ ಗಿಡಗಳನ್ನು ಕೀಳಿ ಎಕರೆಗೆ 1.3 ರಿಂದ 1.5 ಲಕ್ಷ ಸಸ್ಯ ಸಾಂದ್ರತೆ ನಿರ್ವಹಿಸಬೇಕು.",
+      "detailed_answer": "ದಟ್ಟವಾದ ಗಿಡಗಳಲ್ಲಿ ಸೂರ್ಯನ ಬೆಳಕು ಬೀಳದೆ ರೋಗ ಮತ್ತು ಕೀಟಗಳ ಆಕ್ರಮಣ ಹೆಚ್ಚಾಗುತ್ತದೆ ಹಾಗೂ ಕಾಯಿ ಕಟ್ಟುವಿಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "15-20 ನೇ ದಿನದಲ್ಲಿ ದುರ್ಬಲ ಗಿಡಗಳನ್ನು ಕೀಳಿ ತೆಗೆಯಿರಿ.",
+        "ಸಾಲುಗಳಲ್ಲಿ 10 ಸೆಂ.ಮೀ ಗೆ ಒಂದೇ ಗಿಡವಿರುವಂತೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೆಳುಗೊಳಿಸುವಿಕೆ: 15-20 ದಿನಗಳಲ್ಲಿ ದಟ್ಟ ಗಿಡಗಳನ್ನು ಕೀಳುವುದು, ಉತ್ತಮ ಬೆಳಕು ಮತ್ತು ಗಾಳಿ ಸಂಚಾರ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಪಾಪಟ ನೀರು",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಕಡಿಮೆಯಿದ್ದಾಗ ಅನುಸರಿಸುವ 'ಪಾಪಟ ನೀರು' (Pre-sowing irrigation) ವಿಧಾನವೇನು?",
+    "question_variants": [
+      "ತೇವಾಂಶ ಇಲ್ಲದೆ ಬಿತ್ತನೆ ಮಾಡುವುದು ಹೇಗೆ?",
+      "Pre-sowing irrigation chickpea"
+    ],
+    "keywords": [
+      "ಪಾಪಟ ನೀರು",
+      "Pre-sowing irrigation",
+      "ತೇವಾಂಶ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಅಕ್ಟೋಬರ್‌ನಲ್ಲಿ ಮಳೆ ಇಲ್ಲದೆ ಮಣ್ಣು ಒಣಗಿದೆ, ಬಿತ್ತನೆ ಮಾಡುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಗೂ 4-5 ದಿನ ಮುಂಚಿತವಾಗಿ ಹಗುರ ನೀರಾವರಿ (ಪಾಪಟ ನೀರು) ಕೊಟ್ಟು, ಮಣ್ಣು ಹದಕ್ಕೆ ಬಂದಾಗ ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಒಣ ಮಣ್ಣಿನಲ್ಲಿ ಬಿತ್ತಿ ನಂತರ ನೀರು ಹಾಯಿಸಿದರೆ ಮಣ್ಣು ಗಟ್ಟಿಯಾಗಿ ಮೊಳಕೆ ಬರುವುದಿಲ್ಲ. ಆದ್ದರಿಂದ ಮುಂಚಿತವಾಗಿ ನೀರು ಕೊಟ್ಟು ಹದವಾದಾಗ ಬಿತ್ತನೆ ಮಾಡುವುದು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಜಮೀನಿಗೆ ಹಗುರ ನೀರಾವರಿ ಕೊಡಿ.",
+        "3-4 ದಿನದ ನಂತರ ಮಣ್ಣು ಹದವಾದಾಗ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಪಾಪಟ ನೀರು: ಬಿತ್ತನೆ ಮುನ್ನ ಹಗುರ ನೀರಾವರಿ, ಹದವಾದ ಮಣ್ಣಿನಲ್ಲಿ ಬಿತ್ತನೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಮೊಳಕೆ ಪರೀಕ್ಷೆ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೀಜಗಳ ಮೊಳಕೆ ಶೇಕಡಾವಾರು ಪರೀಕ್ಷೆ (Germination Test) ಮಾಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಬೀಜ ಮೊಳಕೆ ಪರೀಕ್ಷೆ ಹೇಗೆ?",
+      "Chickpea seed germination testing"
+    ],
+    "keywords": [
+      "ಮೊಳಕೆ ಪರೀಕ್ಷೆ",
+      "Germination Test",
+      "ಬೀಜ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮಾರುಕಟ್ಟೆಯಿಂದ ತಂದ ಬೀಜಗಳು ಸರಿಯಾಗಿ ಮೊಳಕೆಯೊಡೆಯುತ್ತವೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "100 ಬೀಜಗಳನ್ನು ಒದ್ದೆ ಗೋಣಿಚೀಲದಲ್ಲಿ ಸುತ್ತಿಟ್ಟು 3-4 ದಿನಗಳ ನಂತರ ಮೊಳಕೆಯೊಡೆದ ಬೀಜಗಳನ್ನು ಎಣಿಸಬೇಕು. ಮೊಳಕೆ ಶೇ 85 ಗಿಂತ ಹೆಚ್ಚಿರಬೇಕು.",
+      "detailed_answer": "ಮೊಳಕೆ ಶೇಕಡಾವಾರು ಕಡಿಮೆಯಿದ್ದರೆ (ಉದಾ: ಶೇ 70), ಬಿತ್ತನೆ ಬೀಜದ ಪ್ರಮಾಣವನ್ನು ಶೇ 15-20 ರಷ್ಟು ಹೆಚ್ಚಿಸಬೇಕಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "100 ಮಾದರಿ ಬೀಜ ತೆಗೆದುಕೊಳ್ಳಿ.",
+        "ತೇವವಿರುವ ಬಟ್ಟೆಯಲ್ಲಿ 4 ದಿನ ಇರಿಸಿ.",
+        "ಮೊಳಕೆ ಶೇಕಡಾವಾರು 85% ಕ್ಕಿಂತ ಹೆಚ್ಚಿದ್ದರೆ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಮೊಳಕೆ ಪರೀಕ್ಷೆ: 85% ಕ್ಕಿಂತ ಹೆಚ್ಚು ಮೊಳಕೆ ಇರಬೇಕು, ಬೀಜದ ನಷ್ಟ ತಡೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಹಿಂಗಾರು ಹೊಂದಾಣಿಕೆ",
+    "subtopic": "Sowing & Spacing",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಹಿಂಗಾರು ಮಳೆ ತಡವಾದಾಗ ಕಡಲೆ ಬಿತ್ತನೆಯಲ್ಲಿ ಮಾಡಬೇಕಾದ ಹೊಂದಾಣಿಕೆಗಳೇನು?",
+    "question_variants": [
+      "ಮಳೆ ತಡವಾದರೆ ಕಡಲೆ ಬಿತ್ತನೆ ಹೇಗೆ?",
+      "Late monsoon chickpea adjustment"
+    ],
+    "keywords": [
+      "ಹಿಂಗಾರು ಮಳೆ",
+      "ತಡವಾದ ಬಿತ್ತನೆ",
+      "ಅಲ್ಪಾವಧಿ ತಳಿ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಅಕ್ಟೋಬರ್ ಕೊನೆಯವರೆಗೂ ಮಳೆಯಾಗಿಲ್ಲ, ನವೆಂಬರ್‌ನಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅಲ್ಪಾವಧಿ ಬರ ನಿರೋಧಕ ತಳಿಗಳಾದ (Jaki 9218 / Vijay) ಆಯ್ಕೆ ಮಾಡಿ ಬೀಜದ ಪ್ರಮಾಣವನ್ನು 20% ಹೆಚ್ಚಿಸಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಮಳೆ ತಡವಾದಾಗ ಮಣ್ಣಿನ ತೇವಾಂಶ ಬೇಗ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಆಳವಾಗಿ ಬಿತ್ತನೆ ಮಾಡಿ ಜೈವಿಕ ಗೊಬ್ಬರಗಳ ಉಪಚಾರ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಅಲ್ಪಾವಧಿ ತಳಿ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+        "ಸಾಲುಗಳ ನಡುವೆ ಅಂತರ 25 ಸೆಂ.ಮೀ ಗೆ ತಗ್ಗಿಸಿ ಸಸ್ಯ ಸಾಂದ್ರತೆ ಹೆಚ್ಚಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಹಿಂಗಾರು ಹೊಂದಾಣಿಕೆ: ಅಲ್ಪಾವಧಿ ತಳಿ, 20% ಹೆಚ್ಚಿನ ಬೀಜ ದರ, ಆಳ ಬಿತ್ತನೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ರೈಜೋಬಿಯಂ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೀಜಕ್ಕೆ ರೈಜೋಬಿಯಂ (Rhizobium) ಜೈವಿಕ ಗೊಬ್ಬರದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ರೈಜೋಬಿಯಂ ಉಪಚಾರ ಹೇಗೆ?",
+      "Rhizobium seed treatment chickpea"
+    ],
+    "keywords": [
+      "ರೈಜೋಬಿಯಂ",
+      "Rhizobium",
+      "ಬೀಜೋಪಚಾರ",
+      "ಸಾರಜನಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಗಾಳಿಯಲ್ಲಿರುವ ಸಾರಜನಕವನ್ನು ಗಿಡಗಳು ಹೀರಿಕೊಳ್ಳಲು ರೈಜೋಬಿಯಂ ಉಪಚಾರ ಮಾಡುವ ವಿವರ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "10 ಕೆಜಿ ಬೀಜಕ್ಕೆ 200 ಗ್ರಾಂ ರೈಜೋಬಿಯಂ ಕಲ್ಚರ್ ಅನ್ನು ಬೆಲ್ಲದ ದ್ರಾವಣದೊಂದಿಗೆ ಬೆರೆಸಿ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ರೈಜೋಬಿಯಂ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಡಲೆಯ ಬೇರಿನ ಗಂಟುಗಳಲ್ಲಿ ವಾಸಿಸಿ ಗಾಳಿಯಲ್ಲಿರುವ ಸಾರಜನಕವನ್ನು ಸ್ಥಿರೀಕರಿಸುತ್ತದೆ. ಇದರಿಂದ ರಸಗೊಬ್ಬರದ ವೆಚ್ಚ 25% ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "50 ಗ್ರಾಂ ಬೆಲ್ಲವನ್ನು 500 ಮಿಲಿ ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ ಬಿಸಿ ಮಾಡಿ ತಣ್ಣಗಾಗಿಸಿ.",
+        "200 ಗ್ರಾಂ ರೈಜೋಬಿಯಂ ಬೆರೆಸಿ ಬೀಜಗಳಿಗೆ ಲೇಪಿಸಿ.",
+        "30 ನಿಮಿಷ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ ಬಿತ್ತನೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Rhizobium Biofertilizer"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರೈಜೋಬಿಯಂ ಉಪಚಾರ: 200 ಗ್ರಾಂ/10 ಕೆಜಿ ಬೀಜ, ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣ, 25% ಗೊಬ್ಬರ ಉಳಿತಾಯ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಪಿಎಸ್‌ಬಿ ಜೈವಿಕ ಗೊಬ್ಬರ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಪಿಎಸ್‌ಬಿ (PSB - Phosphate Solubilizing Bacteria) ಜೈವಿಕ ಗೊಬ್ಬರ ಬೀಜೋಪಚಾರದ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಪಿಎಸ್ ಬಿ ಗೊಬ್ಬರ ಕಡಲೆಗೆ ಹೇಗೆ ಬಳಸಬೇಕು?",
+      "PSB biofertilizer for chickpea"
+    ],
+    "keywords": [
+      "PSB",
+      "ಪಿಎಸ್‌ಬಿ",
+      "ರಂಜಕ",
+      "ಬೀಜೋಪಚಾರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನಲ್ಲಿ ಸಿಲುಕಿರುವ ರಂಜಕವನ್ನು ಗಿಡಕ್ಕೆ ಸಿಗುವಂತೆ ಮಾಡಲು ಉಪಚಾರ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "10 ಕೆಜಿ ಬೀಜಕ್ಕೆ 200 ಗ್ರಾಂ ಪಿಎಸ್‌ಬಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಲೇಪಿಸುವುದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿ ಕರಗದ ರಂಜಕವು ಕರಗಿ ಬೇರುಗಳಿಗೆ ತಲುಪುತ್ತದೆ.",
+      "detailed_answer": "ರಂಜಕವು ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯಗತ್ಯ. ಪಿಎಸ್‌ಬಿ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಮಣ್ಣಿನಲ್ಲಿರುವ ಅಲಭ್ಯ ರಂಜಕವನ್ನು ಕರಗಿಸಿ ಗಿಡಕ್ಕೆ ಲಭ್ಯವಾಗುವಂತೆ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ರೈಜೋಬಿಯಂ ಜೊತೆಗೆ ಪಿಎಸ್‌ಬಿಯನ್ನೂ ಬೆರೆಸಬಹುದು.",
+        "ಬೀಜಗಳಿಗೆ ಸಮನಾಗಿ ಲೇಪಿಸಿ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "PSB Biofertilizer"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಪಿಎಸ್‌ಬಿ ಉಪಚಾರ: 200 ಗ್ರಾಂ/10 ಕೆಜಿ ಬೀಜ, ರಂಜಕ ಲಭ್ಯತೆ ಹೆಚ್ಚಳ, ಬೇರು ಬೆಳವಣಿಗೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಟ್ರೈಕೋಡರ್ಮಾ ಉಪಚಾರ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಸೊರಗು ರೋಗ ತಡೆಯಲು ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡಿ (Trichoderma viride) ಬೀಜೋಪಚಾರ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಸೊರಗು ರೋಗ ತಡೆಯಲು ಟ್ರೈಕೋಡರ್ಮಾ ಬಳಸುವುದು ಹೇಗೆ?",
+      "Trichoderma seed treatment chickpea"
+    ],
+    "keywords": [
+      "ಟ್ರೈಕೋಡರ್ಮಾ",
+      "Trichoderma",
+      "ಸೊರಗು ರೋಗ",
+      "ಬೀಜೋಪಚಾರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಪ್ರತಿ ವರ್ಷ ಕಡಲೆ ಗಿಡಗಳು ಸೊರಗಿ ಸಾಯುತ್ತಿದ್ದು ಜೈವಿಕ ಪರಿಹಾರ ಬೇಕಾಗಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 4-5 ಗ್ರಾಂ ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡಿ ಪುಡಿಯನ್ನು ಬೆರೆಸಿ ಬೀಜೋಪಚಾರ ಮಾಡುವುದರಿಂದ ಸೊರಗು ರೋಗ ಪರಿಣಾಮಕಾರಿಯಾಗಿ ತಡೆಯಲ್ಪಡುತ್ತದೆ.",
+      "detailed_answer": "ಟ್ರೈಕೋಡರ್ಮಾ ಉಪಕಾರಿ ಶಿಲೀಂಧ್ರವಾಗಿದ್ದು, ಕಡಲೆ ಬೇರಿನ ಸುತ್ತ ಬೆಳೆದು ಸೊರಗು ರೋಗ ತರುವ ಫ್ಯುಸೇರಿಯಮ್ ಶಿಲೀಂಧ್ರವನ್ನು ನಾಶಪಡಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "1 ಕೆಜಿ ಬೀಜಕ್ಕೆ 4-5 ಗ್ರಾಂ ಟ್ರೈಕೋಡರ್ಮಾ ಬೆರೆಸಿ.",
+        "ಸ್ವಲ್ಪ ನೀರು ಚಿಮುಕಿಸಿ ಬೀಜಗಳಿಗೆ ಅಂಟುವಂತೆ ಮಾಡಿ.",
+        "ಬಿತ್ತನೆಗೂ ಮುನ್ನ 1 ಗಂಟೆ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Trichoderma viride"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಟ್ರೈಕೋಡರ್ಮಾ ಬೀಜೋಪಚಾರ: 4-5 ಗ್ರಾಂ/ಕೆಜಿ ಬೀಜ, ಸೊರಗು ರೋಗ ಸಂಪೂರ್ಣ ತಡೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ರಾಸಾಯನಿಕ ಬೀಜೋಪಚಾರ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಸಾಯನಿಕ ಶಿಲೀಂಧ್ರನಾಶಕಗಳಾದ ಕಾರ್ಬನ್ಡಾಜಿಮ್ ಅಥವಾ ಥೈರಾಮ್ ನಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವ ವಿಧಾನವೇನು?",
+    "question_variants": [
+      "ಕಾರ್ಬನ್ಡಾಜಿಮ್ ಕಡಲೆ ಬೀಜೋಪಚಾರ?",
+      "Chemical seed treatment chickpea"
+    ],
+    "keywords": [
+      "ಕಾರ್ಬನ್ಡಾಜಿಮ್",
+      "ಥೈರಾಮ್",
+      "ಶಿಲೀಂಧ್ರನಾಶಕ",
+      "ಬೀಜೋಪಚಾರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬೀಜಜನ್ಯ ಮತ್ತು ಮಣ್ಣುಜನ್ಯ ಕೊಳೆ ರೋಗಗಳನ್ನು ರಾಸಾಯನಿಕದಿಂದ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಕಾರ್ಬನ್ಡಾಜಿಮ್ (50% WP) ಅಥವಾ 3 ಗ್ರಾಂ ಥೈರಾಮ್ ಬೆರೆಸಿ ಒಣ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ರಾಸಾಯನಿಕ ಶಿಲೀಂಧ್ರನಾಶಕವು ಬೀಜದ ಮೇಲಿರುವ ರೋಗಾಣುಗಳನ್ನು ತಕ್ಷಣವೇ ಕೊಲ್ಲುತ್ತದೆ ಮತ್ತು ಮೊಳಕೆಯೊಡೆಯುವಾಗ ಬೇರು ಕೊಳೆಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "1 ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಕಾರ್ಬನ್ಡಾಜಿಮ್ ಹಾಕಿ ಡ್ರಮ್ ನಲ್ಲಿ ಚನ್ನಾಗಿ ಕಲಸಿ.",
+        "ಬಿತ್ತನೆಗೆ ಬಳಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Carbendazim 50 WP",
+        "Thiram"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ರಾಸಾಯನಿಕ ಉಪಚಾರ ಮಾಡಿದ 24 ಗಂಟೆಯ ನಂತರವೇ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬೇಕು."
+      ]
+    },
+    "retrieval_text": "ರಾಸಾಯನಿಕ ಬೀಜೋಪಚಾರ: ಕಾರ್ಬನ್ಡಾಜಿಮ್ 2 ಗ್ರಾಂ/ಕೆಜಿ, ಬೇರು ಕೊಳೆ ರೋಗ ನಿಯಂತ್ರಣ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಉಪಚಾರ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಆರಂಭಿಕ ಕೀಟಗಳು ಮತ್ತು ಕತ್ತರಿಸುವ ಹುಳು ತಡೆಯಲು ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ (Imidacloprid) ಬೀಜೋಪಚಾರ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಕೀಟ ಬಾಧೆಗೆ ಬೀಜೋಪಚಾರ?",
+      "Imidacloprid seed treatment chickpea"
+    ],
+    "keywords": [
+      "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್",
+      "Imidacloprid",
+      "ಕೀಟಗಳು",
+      "ಬೀಜೋಪಚಾರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮೊಳಕೆಯೊಡೆದ ತಕ್ಷಣ ಕೀಟಗಳು ಎಲೆ ಕತ್ತರಿಸುತ್ತಿದ್ದು ಆರಂಭಿಕ ರಕ್ಷಣೆ ಬೇಕಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ (70% WS) ಬೆರೆಸಿ ಉಪಚರಿಸುವುದರಿಂದ ಮೊದಲ 25 ದಿನಗಳವರೆಗೆ ಕೀಟಗಳಿಂದ ರಕ್ಷಣೆ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಸಿಸ್ಟಮಿಕ್ ಕೀಟನಾಶಕವಾಗಿದ್ದು, ಮೊಳಕೆಯೊಡೆಯುವ ಸಸಿಯ ರಸದಲ್ಲಿ ಹರಿದು ಸಸ್ಯ ಹೇನು ಮತ್ತು ಕತ್ತರಿಸುವ ಹುಳುಗಳನ್ನು ನಾಶಪಡಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "1 ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಹಾಕಿ ಕಲಸಿ.",
+        "ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Imidacloprid 70 WS"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಉಪಚಾರ: 3 ಗ್ರಾಂ/ಕೆಜಿ ಬೀಜ, 25 ದಿನಗಳ ಆರಂಭಿಕ ಕೀಟ ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಉಪಚಾರ ಕ್ರಮಾಗತ ಸರಣಿ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ರಾಸಾಯನಿಕ ಮತ್ತು ಜೈವಿಕ ಬೀಜೋಪಚಾರಗಳನ್ನು ಒಟ್ಟಿಗೆ ಮಾಡುವಾಗ ಅನುಸರಿಸಬೇಕಾದ ಕ್ರಮಾಗತ ಸರಣಿ (FIR) ಯಾವುದು?",
+    "question_variants": [
+      "ಬೀಜೋಪಚಾರದ ಸರಿಯಾದ ಅನುಕ್ರಮ ಯಾವುದು?",
+      "Order of seed treatment FIR rule"
+    ],
+    "keywords": [
+      "FIR ನಿಯಮ",
+      "ಬೀಜೋಪಚಾರ ಸರಣಿ",
+      "ಶಿಲೀಂಧ್ರನಾಶಕ",
+      "ರೈಜೋಬಿಯಂ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಶಿಲೀಂಧ್ರನಾಶಕ, ಕೀಟನಾಶಕ ಮತ್ತು ಜೈವಿಕ ಗೊಬ್ಬರ ಎಲ್ಲವನ್ನೂ ಹೇಗೆ ಉಪಚರಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಫ್‌ಐಆರ್ (FIR) ನಿಯಮ ಪಾಲಿಸಿ: 1. ಶಿಲೀಂಧ್ರನಾಶಕ (Fungicide), 2. ಕೀಟನಾಶಕ (Insecticide), 3. ಜೈವಿಕ ಗೊಬ್ಬರ (Rhizobium/Bio-agent).",
+      "detailed_answer": "ರಾಸಾಯನಿಕ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಮೊದಲು ಹಾಕಿ, 24 ಗಂಟೆಯ ನಂತರ ಜೈವಿಕ ಗೊಬ್ಬರಗಳನ್ನು ಲೇಪಿಸಬೇಕು. ಒಟ್ಟಿಗೆ ಬೆರೆಸಿದರೆ ಜೈವಿಕ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸತ್ತುಹೋಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ದಿನ 1: ಕಾರ್ಬನ್ಡಾಜಿಮ್ ಲೇಪಿಸಿ.",
+        "ದಿನ 2: ಬಿತ್ತನೆ ಮುನ್ನ ರೈಜೋಬಿಯಂ ಮತ್ತು ಟ್ರೈಕೋಡರ್ಮಾ ಲೇಪಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬೀಜೋಪಚಾರ ಸರಣಿ (FIR): ಶಿಲೀಂಧ್ರನಾಶಕ -> ಕೀಟನಾಶಕ -> ಜೈವಿಕ ಗೊಬ್ಬರ (24 ಗಂಟೆ ಅಂತರ).",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸುವುದು",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಉಪಚರಿಸಿದ ಕಡಲೆ ಬೀಜಗಳನ್ನು ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸುವುದು ಏಕೆ ಕಡ್ಡಾಯ?",
+    "question_variants": [
+      "ಬೀಜೋಪಚಾರದ ನಂತರ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಬಹುದೇ?",
+      "Shade drying seeds importance"
+    ],
+    "keywords": [
+      "ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸುವುದು",
+      "ಬೀಜೋಪಚಾರ",
+      "ಬಿಸಿಲು",
+      "ಬ್ಯಾಕ್ಟೀರಿಯಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬೀಜೋಪಚಾರದ ನಂತರ ಬೀಜಗಳನ್ನು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೇರ ಸೂರ್ಯನ ಬಿಸಿಲು (UV ಕಿರಣಗಳು) ಜೈವಿಕ ಬ್ಯಾಕ್ಟೀರಿಯಾಗಳಾದ ರೈಜೋಬಿಯಂ ಮತ್ತು ಟ್ರೈಕೋಡರ್ಮಾವನ್ನು ಕೊಲ್ಲುತ್ತದೆ. ಆದ್ದರಿಂದ ನೆರಳಿನಲ್ಲೇ ಒಣಗಿಸಬೇಕು.",
+      "detailed_answer": "ಬೀಜೋಪಚಾರದ ನಂತರ ಬೀಜಗಳಲ್ಲಿ ಅತಿಯಾದ ತೇವಾಂಶವಿದ್ದರೆ ಕೂರಿಗೆಯಲ್ಲಿ ಸರಿಯಾಗಿ ಬೀಳುವುದಿಲ್ಲ. ನೆರಳಿನಲ್ಲಿ 30-45 ನಿಮಿಷ ಒಣಗಿಸಿದರೆ ಬೀಜಗಳು ಸುಲಭವಾಗಿ ಹರಿಯುತ್ತವೆ.",
+      "step_by_step": [
+        "ಉಪಚರಿಸಿದ ಬೀಜಗಳನ್ನು ತಂಪಾದ ನೆರಳಿನ ಜಾಗದಲ್ಲಿ ಚಾಪೆ ಮೇಲೆ ಹರಡಿ.",
+        "30 ನಿಮಿಷದ ನಂತರ ಬಿತ್ತನೆಗೆ ಬಳಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸುವುದು: ಜೈವಿಕ ಬ್ಯಾಕ್ಟೀರಿಯಾ ರಕ್ಷಣೆ, ಕೂರಿಗೆಯಲ್ಲಿ ಸರಾಗ ಬಿತ್ತನೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ವಿಎಎಮ್ ಮೈಕೋರೈಜಾ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ವಿಎಎಮ್ ಮೈಕೋರೈಜಾ (VAM Mycorrhiza) ಜೈವಿಕ ಗೊಬ್ಬರ ಬೀಜೋಪಚಾರದಿಂದ ಕಡಲೆಗೆ ಸಿಗುವ ಅನುಕೂಲಗಳೇನು?",
+    "question_variants": [
+      "ಮೈಕೋರೈಜಾ ಕಡಲೆಗೆ ಸೂಕ್ತವೇ?",
+      "VAM Mycorrhiza for chickpea"
+    ],
+    "keywords": [
+      "VAM",
+      "ಮೈಕೋರೈಜಾ",
+      "ರಂಜಕ",
+      "ತೇವಾಂಶ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಒಣ ಬೇಸಾಯದಲ್ಲಿ ಬೇರುಗಳ ಬೆಳವಣಿಗೆ ಮತ್ತು ನೀರು ಹೀರಿಕೊಳ್ಳುವಿಕೆ ಹೆಚ್ಚಿಸಲು ಪರಿಹಾರ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ವಿಎಎಮ್ ಮೈಕೋರೈಜಾ ಬೇರುಗಳೊಂದಿಗೆ ಸಹಜೀವನ ನಡೆಸಿ ಮಣ್ಣಿನ ಆಳದಿಂದ ರಂಜಕ ಮತ್ತು ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳಲು ನೆರವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಎಕರೆಗೆ 4 ಕೆಜಿ ಮೈಕೋರೈಜಾವನ್ನು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರದಲ್ಲಿ ಬೆರೆಸಿ ಮಣ್ಣಿಗೆ ಹಾಕಬಹುದು ಅಥವಾ ಬೀಜಕ್ಕೆ ಉಪಚರಿಸಬಹುದು. ಇದು ಬರದ ಸ್ಥಿತಿಯಲ್ಲೂ ಗಿಡ ಒಣಗದಂತೆ ಕಾಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 4 ಕೆಜಿ ವಿಎಎಮ್ ಮೈಕೋರೈಜಾ ಬಳಸಿ.",
+        "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ತಳ ಗೊಬ್ಬರದೊಂದಿಗೆ ನೀಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "VAM Biofertilizer"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ವಿಎಎಮ್ ಮೈಕೋರೈಜಾ: ಆಳದಿಂದ ನೀರು-ರಂಜಕ ಶೋಷಣೆ, ಬರದ ಸಹಿಷ್ಣುತೆ ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ವಿಟಾವಾಕ್ಸ್ ಪವರ್",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾರ್ಬೋಕ್ಸಿನ್ + ಥೈರಾಮ್ (Vitavax Power) ಸಂಯೋಜನೆಯಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ವಿಟಾವಾಕ್ಸ್ ಪವರ್ ಕಡಲೆ ಬೀಜೋಪಚಾರ?",
+      "Vitavax power chickpea dose"
+    ],
+    "keywords": [
+      "Vitavax Power",
+      "ಕಾರ್ಬೋಕ್ಸಿನ್",
+      "ಥೈರಾಮ್",
+      "ಬೀಜೋಪಚಾರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಸ್ಪರ್ಶ ಮತ್ತು ಅಂತರವ್ಯಾಪಿ ಶಿಲೀಂಧ್ರನಾಶಕಗಳ ಸಂಯೋಜನೆಯಿಂದ ಬೀಜ ರಕ್ಷಣೆ ಮಾಡುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2-3 ಗ್ರಾಂ ವಿಟಾವಾಕ್ಸ್ ಪವರ್ ಬೆರೆಸಿ ಉಪಚರಿಸುವುದರಿಂದ ಬೀಜ ಕೊಳೆತ ಮತ್ತು ಸಸಿ ಒಣಗುವ ರೋಗಗಳು ಪೂರ್ಣ ತಡೆಯಲ್ಪಡುತ್ತವೆ.",
+      "detailed_answer": "ಕಾರ್ಬೋಕ್ಸಿನ್ ಅಂತರವ್ಯಾಪಿಯಾಗಿ (Systemic) ಬೀಜದ ಒಳಗಿನ ರೋಗಾಣು ನಾಶಪಡಿಸಿದರೆ, ಥೈರಾಮ್ ಮೇಲ್ಮೈಯಲ್ಲಿರುವ (Contact) ರೋಗಾಣು ನಾಶಪಡಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "1 ಕೆಜಿ ಬೀಜಕ್ಕೆ 2.5 ಗ್ರಾಂ ವಿಟಾವಾಕ್ಸ್ ಪವರ್ ಹಾಕಿ ಒಣ ಉಪಚಾರ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Vitavax Power"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ವಿಟಾವಾಕ್ಸ್ ಪವರ್: 2.5 ಗ್ರಾಂ/ಕೆಜಿ ಬೀಜ, ದ್ವಿಮುಖ ಶಿಲೀಂಧ್ರ ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸುಪ್ತಾವಸ್ಥೆ ನಿವಾರಣೆ",
+    "subtopic": "Seed Treatment",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೀಜ ಸುಪ್ತಾವಸ್ಥೆ (Dormancy) ನಿವಾರಣೆ ಮತ್ತು ಮೊಳಕೆ ಹೆಚ್ಚಿಸುವ ಉಪಚಾರ ವಿಧಾನಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಬೀಜ ಶೀಘ್ರ ಮೊಳಕೆಗೆ ಏನು ಮಾಡಬೇಕು?",
+      "Breaking chickpea seed dormancy"
+    ],
+    "keywords": [
+      "ಸುಪ್ತಾವಸ್ಥೆ",
+      "Dormancy",
+      "ಮೊಳಕೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಹೊಸದಾಗಿ ಕೊಯ್ಲು ಮಾಡಿದ ಬೀಜಗಳನ್ನು ಬಿತ್ತಿದರೆ ಮೊಳಕೆ ಬರುವುದು ತಡವಾಗುತ್ತಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜಗಳನ್ನು 0.1% ಥಿಯೋಯೂರಿಯಾ ದ್ರಾವಣದಲ್ಲಿ ಅಥವಾ ಸಾಧಾರಣ ನೀರಿನಲ್ಲಿ 6 ಗಂಟೆ ನೆನೆಸಿ ನಂತರ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಸುಪ್ತಾವಸ್ಥೆಯಲ್ಲಿರುವ ಬೀಜಗಳಲ್ಲಿ ಹಾರ್ಮೋನ್ ಸಕ್ರಿಯಗೊಳ್ಳಲು ನೀರು ನೆನೆಸುವಿಕೆ ಅಥವಾ ಥಿಯೋಯೂರಿಯಾ ಉಪಚಾರ ನೆರವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "1 ಗ್ರಾಂ ಥಿಯೋಯೂರಿಯಾವನ್ನು 1 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ.",
+        "ಬೀಜಗಳನ್ನು 4-6 ಗಂಟೆ ನೆನೆಸಿ ಒಣಗಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Thiourea"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸುಪ್ತಾವಸ್ಥೆ ನಿವಾರಣೆ: ಥಿಯೋಯೂರಿಯಾ 0.1% ನೆನೆಸುವಿಕೆ, ಏಕರೂಪ ಶೀಘ್ರ ಮೊಳಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ರಸಗೊಬ್ಬರ ಪ್ರಮಾಣ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಗೆ ಶಿಫಾರಸು ಮಾಡಿದ ಎನ್‌ಪಿಕೆ (N:P:K) ರಸಗೊಬ್ಬರ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಎಷ್ಟು ಡಿಎಪಿ ಹಾಕಬೇಕು?",
+      "NPK fertilizer recommendation for chickpea per acre"
+    ],
+    "keywords": [
+      "NPK",
+      "ಡಿಎಪಿ",
+      "ರಸಗೊಬ್ಬರ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಎಕರೆಗೆ ಎಷ್ಟು ಗೊಬ್ಬರ ಹಾಕಬೇಕು ಎಂದು ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 10 ಕೆಜಿ ಸಾರಜನಕ, 20 ಕೆಜಿ ರಂಜಕ ಮತ್ತು 10 ಕೆಜಿ ಪೊಟ್ಯಾಷ್ (10:20:10 NPK) ಅಂದರೆ ಸುಮಾರು 50 ಕೆಜಿ ಡಿಎಪಿ (DAP) ಮತ್ತು 10 ಕೆಜಿ ಎಮ್‌ಒಪಿ (MOP) ಹಾಕಬೇಕು.",
+      "detailed_answer": "ಕಡಲೆ ದ್ವಿದಳ ಧಾನ್ಯವಾಗಿರುವುದರಿಂದ ಹೆಚ್ಚಿನ ಸಾರಜನಕದ ಅಗತ್ಯವಿಲ್ಲ. ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ತಳ ಗೊಬ್ಬರವಾಗಿ ಪೂರ್ಣ ಪ್ರಮಾಣದ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಕೂರಿಗೆಯ ಮೂಲಕ ತಳ ಗೊಬ್ಬರ ನೀಡಿ.",
+        "ಎಕರೆಗೆ 50 ಕೆಜಿ ಡಿಎಪಿ ಹಾಕಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "DAP",
+        "MOP"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಮೇಲ್ಗೊಬ್ಬರವಾಗಿ ಯೂರಿಯಾ ಹಾಕಿದರೆ ಗಿಡ ಅತಿಯಾಗಿ ಬೆಳೆದು ಕಾಯಿ ಕಟ್ಟುವುದು ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ]
+    },
+    "retrieval_text": "NPK ಪ್ರಮಾಣ: ಎಕರೆಗೆ 10:20:10 kg NPK (50 kg DAP + 10 kg MOP) ತಳ ಗೊಬ್ಬರವಾಗಿ ಹಾಕುವುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ರಂಜಕದ ಮಹತ್ವ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ರಂಜಕ (Phosphorus) ಪೋಷಕಾಂಶದ ಮುಖ್ಯ ಪಾತ್ರವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ರಂಜಕ ಏಕೆ ಬೇಕು?",
+      "Role of Phosphorus in chickpea"
+    ],
+    "keywords": [
+      "ರಂಜಕ",
+      "Phosphorus",
+      "ಬೇರಿನ ಗಂಟುಗಳು",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಬೇರುಗಳ ಬೆಳವಣಿಗೆ ಮತ್ತು ಹೂ ಕಟ್ಟುವುದು ಕಡಿಮೆಯಾಗಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಂಜಕವು ಕಡಲೆಯ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ ಮತ್ತು ಸಾರಜನಕ ಸ್ಥಿರೀಕರಿಸುವ ಬೇರಿನ ಗಂಟುಗಳ (Nodules) ಸಂಖ್ಯೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಸಾಕಷ್ಟು ರಂಜಕ ಸಿಕ್ಕಾಗ ಗಿಡವು ಬಲವಾದ ಆಳ ಬೇರು ವ್ಯವಸ್ಥೆ ಪಡೆದು ಬರದ ಸ್ಥಿತಿಯನ್ನು ತಡೆಯುತ್ತದೆ. ರಂಜಕದ ಕೊರತೆಯಿದ್ದರೆ ಎಲೆಗಳು ನೇರಳೆ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ವೇಳೆಯಲ್ಲೇ ರಂಜಕದ ಗೊಬ್ಬರ (DAP / SSP) ಹಾಕಿ.",
+        "ಪಿಎಸ್‌ಬಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಉಪಚಾರ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "SSP",
+        "DAP"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಂಜಕದ ಪಾತ್ರ: ಬೇರಿನ ಗಂಟುಗಳ ಹೆಚ್ಚಳ, ಬಲವಾದ ಬೇರು ವ್ಯವಸ್ಥೆ, ಹೂ ಕಟ್ಟುವುದು ಸುಧಾರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸಲ್ಫರ್ પೋಷಕಾಂಶ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಗೆ ಗಂಧಕ (Sulfur) ಪೋಷಕಾಂಶವನ್ನು ನೀಡುವುದರಿಂದ ಇಳುವರಿ ಮತ್ತು ಪ್ರೋಟೀನ್ ಹೇಗೆ ಹೆಚ್ಚುತ್ತದೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಸಲ್ಫರ್ ಹಾಕಬೇಕೇ?",
+      "Sulfur requirement for chickpea"
+    ],
+    "keywords": [
+      "ಸಲ್ಫರ್",
+      "ಗಂಧಕ",
+      "ಪ್ರೋಟೀನ್",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಕಾಳಿನ ತೂಕ ಮತ್ತು ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಹೆಚ್ಚಿಸಲು ಪರಿಹಾರ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 8-10 ಕೆಜಿ ಎಲಿಮೆಂಟಲ್ ಸಲ್ಫರ್ ಅಥವಾ 50 ಕೆಜಿ ಜಿಪ್ಸಮ್ ಕೊಡುವುದರಿಂದ ಇಳುವರಿ ಶೇ 15-20 ಮತ್ತು ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ದ್ವಿದಳ ಧಾನ್ಯಗಳಿಗೆ ಗಂಧಕವು ಅಮೈನೋ ಆಮ್ಲಗಳ ತಯಾರಿಕೆಗೆ ಅತ್ಯಗತ್ಯ. ಸಲ್ಫರ್ ಕೊರತೆಯಿದ್ದರೆ ಹೊಸ ಎಲೆಗಳು ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಮುನ್ನ 8-10 ಕೆಜಿ ಸಲ್ಫರ್ ಡಬ್ಲುಡಿಜಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸಿ.",
+        "ಅಥವಾ 50 ಕೆಜಿ ಜಿಪ್ಸಮ್ ಬಳಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sulfur 90% WDG",
+        "Gypsum"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಲ್ಫರ್ ನೀಡುವುದು: 8-10 ಕೆಜಿ/ಎಕರೆ, ಪ್ರೋಟೀನ್ ಮತ್ತು ಕಾಳಿನ ತೂಕ 15-20% ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಜಿಂಕ್ ಕೊರತೆ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಸತು (Zinc) ಕೊರತೆಯ ಲಕ್ಷಣಗಳು ಮತ್ತು ಪರಿಹಾರ ಕ್ರಮಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಎಲೆ ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+      "Zinc deficiency in chickpea"
+    ],
+    "keywords": [
+      "ಜಿಂಕ್",
+      "Zinc",
+      "ಸತು",
+      "ಎಲೆ ಹಳದಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಗಿಡಗಳ ನಡು ಎಲೆಗಳಲ್ಲಿ ಕಂಚಿನ ಬಣ್ಣದ ಚುಕ್ಕೆಗಳು ಬಂದು ಬೆಳವಣಿಗೆ ಕುಂಠಿತಗೊಂಡಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಸತು (Zinc) ಕೊರತೆಯಾಗಿದೆ. ಎಕರೆಗೆ 5 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ತಳ ಗೊಬ್ಬರವಾಗಿ ಹಾಕಿ ಅಥವಾ 0.5% ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಸುಣ್ಣದ ಅಂಶ ಹೆಚ್ಚಿರುವ ಎರೆಮಣ್ಣಿನಲ್ಲಿ ಸತುವಿನ ಕೊರತೆ ಸಾಮಾನ್ಯ. ಜಿಂಕ್ ಸಲ್ಫೇಟ್ (5 ಗ್ರಾಂ/ಲೀ) ಜೊತೆಗೆ 2.5 ಗ್ರಾಂ ಸುಣ್ಣದ ನೀರು ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 5 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಮಣ್ಣಿಗೆ ಹಾಕಿ.",
+        "ಕೊರತೆ ಇದ್ದರೆ 0.5% ಜಿಂಕ್ ಸಲ್ಫೇಟ್ (5g/L) ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Zinc Sulphate"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜಿಂಕ್ ಕೊರತೆ: ಕಂಚಿನ ಬಣ್ಣದ ಎಲೆಗಳು, 0.5% ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಸಿಂಪರಣೆ ಪರಿಹಾರ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬೋರಾನ್ ಕೊರತೆ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಬೋರಾನ್ (Boron) ಕೊರತೆಯಿಂದ ಹೂವುಗಳು ಉದುರುವುದನ್ನು ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಹೂವು ಉದುರುತ್ತಿದ್ದರೆ ಏನು ಸಿಂಪಡಿಸಬೇಕು?",
+      "Boron spray for chickpea flowering"
+    ],
+    "keywords": [
+      "ಬೋರಾನ್",
+      "Boron",
+      "ಹೂ ಉದುರುವುದು",
+      "Solubor"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಹೂ ಬಿಡುವಾಗ ಹೆಚ್ಚಿನ ಹೂವುಗಳು ಉದುರಿ ಕಾಯಿ ಕಟ್ಟುವುದು ಕಡಿಮೆಯಾಗುತ್ತಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ 0.2% ಬೋರಾನ್ (Solubor 2 ಗ್ರಾಂ/ಲೀ) ಸಿಂಪಡಿಸುವುದರಿಂದ ಪರಾgranಯಣ ಸುಲಭವಾಗಿ ಹೂ ಉದುರುವುದು ತಡೆಯಲ್ಪಡುತ್ತದೆ.",
+      "detailed_answer": "ಬೋರಾನ್ ಪೋಷಕಾಂಶವು ಪರಾಗಸ್ಪರ್ಶ (Pollination) ಮತ್ತು ಕಾಳು ಕಟ್ಟುವಿಕೆಗೆ ಅತ್ಯಗತ್ಯ. ಬೋರಾನ್ ಕೊರತೆಯಿದ್ದರೆ ಕಾಯಿಗಳು ಬಂಜೆಯಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವ ಪ್ರಾರಂಭದಲ್ಲಿ ಎಕರೆಗೆ 200 ಗ್ರಾಂ ಸೊಲ್ಯುಬೋರ್ (Solubor) ಸಿಂಪಡಿಸಿ.",
+        "ಮಣ್ಣು ಒಣಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Solubor Boron 20%"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬೋರಾನ್ ಸಿಂಪರಣೆ: ಸೊಲ್ಯುಬೋರ್ 2g/L (0.2%), ಪರಾಗಸ್ಪರ್ಶ ಸುಧಾರಣೆ, ಕಾಯಿ ಕಟ್ಟುವುದು ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಗೆ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಮತ್ತು ಎರೆಹುಳು ಗೊಬ್ಬರವನ್ನು ಎಷ್ಟು ಮತ್ತು ಯಾವಾಗ ಹಾಕಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಎಷ್ಟು ಸಗಣಿ ಗೊಬ್ಬರ ಹಾಕಬೇಕು?",
+      "FYM and vermicompost for chickpea"
+    ],
+    "keywords": [
+      "ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+      "ಎರೆಹುಳು ಗೊಬ್ಬರ",
+      "FYM",
+      "Vermicompost"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಮತ್ತು ನೀರು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಶಕ್ತಿ ಹೆಚ್ಚಿಸಲು ಸಾವಯವ ಗೊಬ್ಬರ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೊನೆಯ ಉಳುಮೆ ಸಮಯದಲ್ಲಿ ಎಕರೆಗೆ 2-3 ಟನ್ ಚೆನ್ನಾಗಿ ಕೊಳೆತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಅಥವಾ 1 ಟನ್ ಎರೆಹುಳು ಗೊಬ್ಬರ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "detailed_answer": "ಸಾವಯವ ಗೊಬ್ಬರವು ಮಣ್ಣಿನ ಸೂಕ್ಷ್ಮಾಣು ಜೀವಿಗಳನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ ಮತ್ತು ಹಿಂಗಾರಿನಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶವನ್ನು ದೀರ್ಘಕಾಲ ಕಾಯ್ದುಕೊಳ್ಳುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕೈಯಿಂದ ಸಗಣಿ ಗೊಬ್ಬರ ಚೆಲ್ಲಿ ಉಳುಮೆ ಮಾಡಿ.",
+        "ಟ್ರೈಕೋಡರ್ಮಾ ಬೆರೆಸಿ ಹಾಕುವುದು ಇನ್ನೂ ಉತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "FYM",
+        "Vermicompost"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಾವಯವ ಗೊಬ್ಬರ: 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ, ಮಣ್ಣಿನ ತೇವಾಂಶ ಧಾರಣೆ ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಯೂರಿಯಾ ಸಿಂಪರಣೆ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಯೂರಿಯಾ ಅಥವಾ 19:19:19 ನೀರಿನಲ್ಲಿ ಕರಗುವ ಗೊಬ್ಬರ ಸಿಂಪಡಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ 19:19:19 ಸಿಂಪಡಿಸಬಹುದೇ?",
+      "Foliar spray of Urea in chickpea"
+    ],
+    "keywords": [
+      "ಯೂರಿಯಾ",
+      "19:19:19",
+      "ಎಲೆ ಸಿಂಪರಣೆ",
+      "ಹೂ ಬಿಡುವುದು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬೆಳೆಯ ಸಸ್ಯಕ ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗಿದ್ದು ಶೀಘ್ರ ಪೋಷಕಾಂಶ ಪೂರೈಕೆಗೆ ಸಿಂಪರಣೆ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 30-35 ದಿನಗಳಲ್ಲಿ (ಹೂ ಬಿಡುವ ಮುನ್ನ) 2% ಯೂರಿಯಾ (20g/L) ಅಥವಾ 1% 19:19:19 (10g/L) ಎಲೆ ಸಿಂಪರಣೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಎಲೆ ಸಿಂಪರಣೆಯು ಸಸ್ಯಕ್ಕೆ ತಕ್ಷಣವೇ ಸಾರಜನಕ ಮತ್ತು ರಂಜಕವನ್ನು ನೀಡಿ ಗಿಡದಲ್ಲಿ ಕಾಯಿಗಳ ಸಂಖ್ಯೆಯನ್ನು ಶೇ 15-20 ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "100 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ 2 ಕೆಜಿ ಯೂರಿಯಾ ಬೆರೆಸಿ ಎಕರೆಗೆ ಸಿಂಪಡಿಸಿ.",
+        "ಸಂಜೆ ವೇಳೆಯಲ್ಲಿ ಸಿಂಪಡಿಸುವುದು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "19:19:19 NPK",
+        "Urea"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಎಲೆ ಸಿಂಪರಣೆ: 2% ಯೂರಿಯಾ ಅಥವಾ 1% 19:19:19 (35 DAS), ತಕ್ಷಣದ ಪೋಷಕಾಂಶ ಪೂರೈಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಜಿಪ್ಸಮ್ ಬಳಕೆ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ಜಿಪ್ಸಮ್ ಬಳಕೆ ಮಾಡುವುದರಿಂದ ಸಿಗುವ ಪ್ರಯೋಜನಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಜಿಪ್ಸಮ್ ಹಾಕುವುದರ ಲಾಭ ಏನು?",
+      "Gypsum application in chickpea"
+    ],
+    "keywords": [
+      "ಜಿಪ್ಸಮ್",
+      "Gypsum",
+      "ಕ್ಯಾಲ್ಸಿಯಂ",
+      "ಸಲ್ಫರ್"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮಣ್ಣು ಗಟ್ಟಿಯಾಗಿದ್ದು ಕಾಯಿಗಳಲ್ಲಿ ಕಾಳು ತುಂಬುತ್ತಿಲ್ಲ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 100-150 ಕೆಜಿ ಜಿಪ್ಸಮ್ ಹಾಕುವುದರಿಂದ ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಸಲ್ಫರ್ ಸಿಕ್ಕಿ ಮಣ್ಣು ಸಡಿಲಗೊಳ್ಳುತ್ತದೆ ಹಾಗೂ ಕಾಳು ಗಟ್ಟಿಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಜಿಪ್ಸಮ್ ನಲ್ಲಿ ಶೇ 21 ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಶೇ 18 ಸಲ್ಫರ್ ಇದೆ. ಇದು ಕಡಲೆಯ ಸಿಪ್ಪೆಯನ್ನು ಗಟ್ಟಿಗೊಳಿಸಿ ಕಾಯಿಗಳು ಖಾಲಿಯಾಗುವುದನ್ನು (Popties) ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಅಥವಾ ಅಂತರ ಬೇಸಾಯದ ಸಮಯದಲ್ಲಿ ಜಿಪ್ಸಮ್ ಹಾಕಿ.",
+        "ಮಣ್ಣಿನಲ್ಲಿ ಕಲೆಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Gypsum"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜಿಪ್ಸಮ್ ಲಾಭ: ಕ್ಯಾಲ್ಸಿಯಂ-ಸಲ್ಫರ್ ಪೂರೈಕೆ, ಸಡಿಲ ಮಣ್ಣು, ಕಾಯಿ ತುಂಬುವುದು ಸುಧಾರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಜೀವನಾಮೃತ ಬಳಕೆ",
+    "subtopic": "Soil & Climate",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಾವಯವ ಕಡಲೆ ಕೃಷಿಯಲ್ಲಿ ಜೀವನಾಮೃತ ಮತ್ತು ಪಂಚಗವ್ಯ ಬಳಕೆಯ ವಿಧಾನ ತಿಳಿಸಿ.",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಜೀವನಾಮೃತ ಹೇಗೆ ಕೊಡಬೇಕು?",
+      "Jeevamrutha and Panchagavya for chickpea"
+    ],
+    "keywords": [
+      "ಜೀವನಾಮೃತ",
+      "ಪಂಚಗವ್ಯ",
+      "ಸಾವಯವ ಕೃಷಿ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಬಳಸದೆ ನೈಸರ್ಗಿಕವಾಗಿ ಕಡಲೆ ಬೆಳೆಯಲು ದ್ರವ ಗೊಬ್ಬರ ಬಳಕೆ ತಿಳಿಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 200 ಲೀಟರ್ ಜೀವನಾಮೃತವನ್ನು ನೀರಾವರಿ ಜೊತೆ ಕೊಡಬೇಕು ಮತ್ತು ಹೂ ಬಿಡುವಾಗ 3% ಪಂಚಗವ್ಯ (30ml/L) ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಜೀವನಾಮೃತವು ಮಣ್ಣಿನ ಉಪಕಾರಿ ಜೀವHarmone ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಪಂಚಗವ್ಯವು ಗಿಡದಲ್ಲಿ ಹೂವು-ಕಾಯಿ ಕಟ್ಟುವುದು ಹೆಚ್ಚುವಂತೆ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಪ್ರತಿ 15 ದಿನಕ್ಕೊಮ್ಮೆ 200 ಲೀಟರ್ ಜೀವನಾಮೃತ ನೀಡಿ.",
+        "35 ಮತ್ತು 55 ದಿನಗಳಲ್ಲಿ 3% ಪಂಚಗವ್ಯ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Jeevamrutha",
+        "Panchagavya"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಾವಯವ ದ್ರವ ಗೊಬ್ಬರ: ಜೀವನಾಮೃತ 200L/ಎಕರೆ, ಪಂಚಗವ್ಯ 3% ಸಿಂಪರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕಬ್ಬಿಣದ ಕೊರತೆ",
+    "subtopic": "Fertilizer",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಸುಣ್ಣದ ಮಣ್ಣಿನಲ್ಲಿ ಕಾಣಿಸುವ ಕಬ್ಬಿಣದ ಕೊರತೆ (Iron Chlorosis) ಪರಿಹಾರವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಎಲೆ ಬೆಳ್ಳಗೆ/ಹಳದಿಯಾಗುತ್ತಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+      "Iron chlorosis in chickpea"
+    ],
+    "keywords": [
+      "ಕಬ್ಬಿಣದ ಕೊರತೆ",
+      "Iron Chlorosis",
+      "ಫೆರಸ್ ಸಲ್ಫೇಟ್",
+      "ಎಲೆ ಬೆಳ್ಳಗಾಗುವುದು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಉನ್ನತ ಪಿಎಚ್ ಮಣ್ಣಿನಲ್ಲಿ ಕಡಲೆ ಚಿಗುರು ಎಲೆಗಳು ಬೆಳ್ಳಗೆ ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಕಬ್ಬಿಣದ (Fe) ಕೊರತೆ. 0.5% ಫೆರಸ್ ಸಲ್ಫೇಟ್ (5g/L) + 1g ಸಿಟ್ರಿಕ್ ಆಮ್ಲ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಅತಿಯಾದ ಸುಣ್ಣವಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಗಿಡಕ್ಕೆ ಕಬ್ಬಿಣ ಸಿಗುವುದಿಲ್ಲ. ಎಲೆ ಸಿಂಪರಣೆ ಮಾಡುವುದರಿಂದ ಗಿಡಗಳು 4-5 ದಿನಗಳಲ್ಲಿ ಮರಳಿ ಹಸಿರಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "5 ಗ್ರಾಂ ಫೆರಸ್ ಸಲ್ಫೇಟ್ + 1 ಗ್ರಾಂ ಸಿಟ್ರಿಕ್ ಆಮ್ಲ 1 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ.",
+        "ಎರಡು ಬಾರಿ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Ferrous Sulphate"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಬ್ಬಿಣ ಕೊರತೆ: 0.5% FeSO4 + ಸಿಟ್ರಿಕ್ ಆಮ್ಲ ಸಿಂಪರಣೆ, ಎಲೆ ಹಸಿರೀಕರಣ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಮಳೆಯಾಶ್ರಿತ ನೀರಾವರಿ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಮಳೆಯಾಶ್ರಿತ ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಸಾಕಾಗದೇ ಇದ್ದಾಗ ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ ಕೊಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ ಯಾವಾಗ ಕೊಡ್ಬೇಕು?",
+      "Protective irrigation in rainfed chickpea"
+    ],
+    "keywords": [
+      "ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ",
+      "ಮಳೆಯಾಶ್ರಿತ",
+      "ತೇವಾಂಶ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮಳೆಯಾಶ್ರಿತ ಕಡಲೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಬತ್ತಿ ಹೋಗುತ್ತಿದ್ದು ಬೆಳೆ ಉಳಿಸಿಕೊಳ್ಳಲು ನೀರಾವರಿ ಸಲಹೆ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ (Life saving irrigation) ಬಿತ್ತನೆಯಾದ 40-45 ನೇ ದಿನದಲ್ಲಿ ನೀಡಿದರೆ ಇಳುವರಿ ಶೇ 40 ರಷ್ಟು ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಎರೆಮಣ್ಣಿನಲ್ಲಿ ಬಿರುಕುಗಳು ಮೂಡಿದಾಗ ಹಗುರವಾಗಿ ನೀರು ನೀಡಬೇಕು. ಅತಿಯಾಗಿ ನೀರು ಹಾಯಿಸದೆ ಬೋರ್ ವೆಲ್ ನಿಂದ ತುಂತುರು ನೀರಾವರಿ ಕೊಡುವುದು ಉತ್ತಮ.",
+      "step_by_step": [
+        "45 ನೇ ದಿನದಲ್ಲಿ 2 ಇಂಚು ಹಗುರ ನೀರಾವರಿ ಕೊಡಿ.",
+        "ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಕ್ಷಾತ್ಮಕ ನೀರಾವರಿ: 40-45 ದಿನಗಳಲ್ಲಿ 1 ಹಗುರ ನೀರು, 40% ಇಳುವರಿ ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಹೂ ಬಿಡುವ ಮುನ್ನಾ ನೀರಾವರಿ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಪ್ರಮುಖ ನೀರಾವರಿ ಹಂತ 1: ಹೂ ಬಿಡುವ ಮುನ್ನಾ ಹಂತ (Pre-flowering Stage) ದಲ್ಲಿ ನೀರಾವರಿ ಮಹತ್ವವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಮೊದಲ ನೀರಾವರಿ ಯಾವಾಗ?",
+      "Pre flowering irrigation chickpea"
+    ],
+    "keywords": [
+      "ಹೂ ಬಿಡುವ ಮುನ್ನ",
+      "Pre-flowering",
+      "ನೀರಾವರಿ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆಗೆ ಮೊದಲ ನೀರಾವರಿ ನೀಡಲು ಅತ್ಯಂತ ಸೂಕ್ತ ದಿನ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 35-40 ದಿನಗಳ ಅಂತರದಲ್ಲಿ (ಹೂ ಮೊಗ್ಗು ಬರುವ ಮುನ್ನ) ಮೊದಲ ನೀರಾವರಿ ನೀಡಬೇಕು.",
+      "detailed_answer": "ಈ ಹಂತದಲ್ಲಿ ನೀರು ನೀಡುವುದರಿಂದ ಗಿಡದಲ್ಲಿ ಶಾಖೆಗಳು (Branches) ಹೆಚ್ಚಾಗಿ ಹೂ ಮೊಗ್ಗುಗಳು ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯಲ್ಲಿ ಮೂಡುತ್ತವೆ.",
+      "step_by_step": [
+        "35-40 DAS ಹಂತದಲ್ಲಿ ಪ್ರಥಮ ನೀರಾವರಿ ಕೊಡಿ.",
+        "ಸಾಲುಗಳ ನಡುವೆ ನೀರು ಹರಿಯಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಮೊದಲ ನೀರಾವರಿ: 35-40 DAS (ಹೂ ಬಿಡುವ ಮುನ್ನ), ಹೆಚ್ಚಿನ ಕೊಂಬೆಗಳು ಮತ್ತು ಮೊಗ್ಗುಗಳು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕಾಯಿ ಕಟ್ಟುವಾಗ ನೀರಾವರಿ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಪ್ರಮುಖ ನೀರಾವರಿ ಹಂತ 2: ಕಾಯಿ ಕಟ್ಟುವ ಹಂತ (Pod Development Stage) ದಲ್ಲಿ ನೀರಾವರಿ ನೀಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಎರಡನೇ ನೀರಾವರಿ ಯಾವಾಗ?",
+      "Pod filling stage irrigation chickpea"
+    ],
+    "keywords": [
+      "ಕಾಯಿ ಕಟ್ಟುವಾಗ",
+      "Pod Development",
+      "ಎರಡನೇ ನೀರಾವರಿ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಾಯಿಗಳಲ್ಲಿ ಕಾಳು ಗಟ್ಟಿಯಾಗಲು ನೀರಾವರಿ ನೀಡುವ ಸಮಯ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 65-70 ದಿನಗಳಲ್ಲಿ (ಕಾಯಿ ಕಟ್ಟುವ ಹಂತ) ಎರಡನೇ ನೀರಾವರಿ ನೀಡುವುದರಿಂದ ಕಾಳುಗಳು ದಪ್ಪವಾಗಿ ತೂಕ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಈ ಹಂತದಲ್ಲಿ ತೇವಾಂಶದ ಕೊರತೆಯಾದರೆ ಕಾಳುಗಳು ಸುಕ್ಕುಗಟ್ಟಿ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಆದ್ದರಿಂದ ಹಗುರ ನೀರಾವರಿ ಕಡ್ಡಾಯ.",
+      "step_by_step": [
+        "65-70 DAS ಹಂತದಲ್ಲಿ ದ್ವಿತೀಯ ನೀರಾವರಿ ಕೊಡಿ.",
+        "ಮಣ್ಣು ಒಣಗದಂತೆ ಕಾಯ್ದುಕೊಳ್ಳಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಎರಡನೇ ನೀರಾವರಿ: 65-70 DAS (ಕಾಯಿ ಕಟ್ಟುವ ಹಂತ), ದಪ್ಪ ಮತ್ತು ತೂಕದ ಕಾಳುಗಳು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಹೂ ಬಿಡುವಾಗ ನೀರು ನಿಷೇಧ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಪೂರ್ಣ ಹೂ ಬಿಟ್ಟಾಗ (Peak Flowering) ನೀರು ಹಾಯಿಸಬಾರದು ಏಕೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಹೂ ಬಿಟ್ಟಾಗ ನೀರು ಹಾಯಿಸಬಹುದೇ?",
+      "Why avoid irrigation during peak flowering chickpea"
+    ],
+    "keywords": [
+      "ಹೂ ಬಿಡುವಾಗ ನೀರು",
+      "Peak Flowering",
+      "ಹೂ ಉದುರುವುದು",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಪೂರ್ಣ ಹೂ ಬಿಟ್ಟಿರುವಾಗ ನೀರು ಹಾಯಿಸಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪೂರ್ಣ ಹೂ ಬಿಟ್ಟಾಗ ನೀರು ಹಾಯಿಸಿದರೆ ಗಿಡವು ವೆಜಿಟೇಟಿವ್ ಗ್ರೋತ್ ಗೆ ಹೋಗಿ ಹೂವುಗಳೆಲ್ಲವೂ ಉದುರಿ ಹೋಗುತ್ತವೆ.",
+      "detailed_answer": "ಅತಿಯಾದ ತೇವಾಂಶದಿಂದ ಗಿಡದಲ್ಲಿ ಮ್ಯಾಲಿಕ್ ಆಮ್ಲ ಕಳೆದುಹೋಗಿ ಹೂವುಗಳು ಕಾಯಿಯಾಗದೆ ಉದುರುತ್ತವೆ. ಆದ್ದರಿಂದ ಹೂ ಬಿಡುವಾಗ ನೀರು ಹಾಯಿಸುವುದನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ತಡೆಯಬೇಕು.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವ ಮೊದಲು ನೀರು ಕೊಡಿ.",
+        "ಅಥವಾ ಕಾಯಿ ಕಟ್ಟಿದ ನಂತರ ನೀರು ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಪೂರ್ಣ ಹೂ ಬಿಟ್ಟಿರುವಾಗ ನೀರಾವರಿ ನೀಡಬೇಡಿ."
+      ]
+    },
+    "retrieval_text": "ಹೂ ಬಿಡುವಾಗ ನೀರು ನಿಷೇಧ: ಹೂವು ಉದುರುವುದು ತಡೆ, ಕಾಯಿ ಕಟ್ಟುವುದು ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಹನಿ ನೀರಾವರಿ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಗೆ ಹನಿ ನೀರಾವರಿ (Drip Irrigation) ವ್ಯವಸ್ಥೆ ಅಳವಡಿಸುವುದರಿಂದ ಸಿಗುವ ಲಾಭಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಹನಿ ನೀರಾವರಿ ಸೂಕ್ತವೇ?",
+      "Drip irrigation for chickpea"
+    ],
+    "keywords": [
+      "ಹನಿ ನೀರಾವರಿ",
+      "Drip Irrigation",
+      "ಫರ್ಟಿಗೇಷನ್",
+      "ನೀರು ಉಳಿತಾಯ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಿಮೆ ನೀರಿನಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯಲು ಹನಿ ನೀರಾವರಿ ಬಳಕೆಯ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹನಿ ನೀರಾವರಿಯಿಂದ ಶೇ 40 ರಷ್ಟು ನೀರು ಉಳಿತಾಯವಾಗುತ್ತದೆ ಮತ್ತು ಫರ್ಟಿಗೇಷನ್ ಮೂಲಕ ಗೊಬ್ಬರ ನೀಡುವುದರಿಂದ ಇಳುವರಿ 30% ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಹನಿ ನೀರಾವರಿಯಲ್ಲಿ ಗಿಡದ ಬೇರಿಗೆ ಮಾತ್ರ ನೀರು ಸಿಗುವುದರಿಂದ ಜಮೀನಿನಲ್ಲಿ ಕಳೆಗಳು ಬೆಳೆಯುವುದಿಲ್ಲ ಮತ್ತು ಸೊರಗು ರೋಗದ ಬಾಧೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇನ್-ಲೈನ್ ಡ್ರಿಪ್ ಲ್ಯಾಟ್ರಲ್ ಬಳಸಿ.",
+        "ಪ್ರತಿ 3-4 ದಿನಕ್ಕೊಮ್ಮೆ 1 ಗಂಟೆ ಹನಿ ನೀರಾವರಿ ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Drip System"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಹನಿ ನೀರಾವರಿ: 40% ನೀರು ಉಳಿತಾಯ, 30% ಹೆಚ್ಚಿನ ಇಳುವರಿ, ಕಡಿಮೆ ಕಳೆ ಬಾಧೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ತುಂತುರು ನೀರಾವರಿ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಗೆ ತುಂತುರು ನೀರಾವರಿ (Sprinkler Irrigation) ಬಳಸುವಾಗ ವಹಿಸಬೇಕಾದ ಎಚ್ಚರಿಕೆಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಸ್ಪ್ರಿಂಕ್ಲರ್ ಹಾಯಿಸಬಹುದೇ?",
+      "Sprinkler irrigation precautions chickpea"
+    ],
+    "keywords": [
+      "ತುಂತುರು ನೀರಾವರಿ",
+      "Sprinkler",
+      "ರಾತ್ರಿ ನೀರಾವರಿ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಸ್ಪ್ರಿಂಕ್ಲರ್ ಬಳಸಿ ನೀರು ಹಾಯಿಸುವಾಗ ಅನುಸರಿಸಬೇಕಾದ ನಿಯಮ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಂಜೆ ಅಥವಾ ರಾತ್ರಿ ವೇಳೆಯಲ್ಲಿ ತುಂತುರು ನೀರಾವರಿ ಕೊಡಬೇಕು. ಹಗಲಿನ ಅತಿಯಾದ ಒತ್ತಡದ ನೀರು ಹೂವುಗಳನ್ನು ಉದುರಿಸುತ್ತದೆ.",
+      "detailed_answer": "ತುಂತುರು ನೀರಾವರಿಯನ್ನು 2 ರಿಂದ 3 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು ಸಮಯ ಒಂದೇ ಕಡೆ ಓಡಿಸಬಾರದು. ನೀರು ನಿಂತರೆ ಬೇರು ಕೊಳೆತ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಂಜೆ ವೇಳೆ 2 ಗಂಟೆ ಸ್ಪ್ರಿಂಕ್ಲರ್ ಓಡಿಸಿ.",
+        "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ನೀರು ಸಿಂಪಡಿಸಬೇಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sprinkler Set"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತುಂತುರು ನೀರಾವರಿ: ರಾತ್ರಿ/ಸಂಜೆ 2 ಗಂಟೆ ಬಳಕೆ, ಹೂ ಬಿಡುವಾಗ ಒತ್ತಡ ನೀರು ನಿಷೇಧ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬಸಿಕಾಲುವೆ ನಿರ್ಮಾಣ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಜಮೀನಿನಿಂದ ಹೆಚ್ಚುವರಿ ನೀರು ಹೊರಹಾಕಲು ನೀರು ಬಸಿಕಾಲುವೆ (Drainage Channel) ನಿರ್ಮಾಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ಬಸಿಕಾಲುವೆ ಹೇಗೆ ಮಾಡುವುದು?",
+      "Drainage channel in chickpea"
+    ],
+    "keywords": [
+      "ಬಸಿಕಾಲುವೆ",
+      "Drainage",
+      "ಜೌಗು ತಡೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಅಕಾಲಿಕ ಮಳೆಯ ನೀರು ಜಮೀನಿನಲ್ಲಿ ಇಂಗದೆ ನಿಲ್ಲುತ್ತಿದ್ದು ಬಸಿಕಾಲುವೆ ನಿರ್ಮಾಣ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜಮೀನಿನ ಇಳಿಜಾರಿಗೆ ಅಡ್ಡಲಾಗಿ ಪ್ರತಿ 20 ಮೀಟರ್‌ಗೆ 1 ಅಡಿ ಆಳದ ಬಸಿಕಾಲುವೆಗಳನ್ನು ನಿರ್ಮಿಸಬೇಕು.",
+      "detailed_answer": "ಬಸಿಕಾಲುವೆಯಿಂದ ಅತಿಯಾದ ಮಳೆಯ ನೀರು ತಕ್ಷಣ ಹೊರಹೋಗಿ ಕಡಲೆ ಗಿಡಗಳು ಹಳದಿಯಾಗಿ ಸಾಯುವುದು ತಡೆಯಲ್ಪಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಉಳುಮೆ ವೇಳೆಯಲ್ಲೇ ಬಸಿಕಾಲುವೆ ಗೆರೆ ಹಾಕಿ.",
+        "ತಗ್ಗಿನ ಕಡೆ ನೀರು ಹೋಗಲು ದಾರಿ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬಸಿಕಾಲುವೆ: ಪ್ರತಿ 20 ಮೀಟರ್‌ಗೆ 1 ಅಡಿ ಕಾಲುವೆ, ಜೌಗು ನಿವಾರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಉಪ್ಪು ನೀರಾವರಿ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಉಪ್ಪು ಅಥವಾ ಗಡುಸು ನೀರನ್ನು (Saline Water) ಕಡಲೆಗೆ ನೀರಾವರಿಯಾಗಿ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ಉಪ್ಪು ನೀರಿನಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯಬಹುದೇ?",
+      "Saline water irrigation chickpea"
+    ],
+    "keywords": [
+      "ಉಪ್ಪು ನೀರು",
+      "Saline Water",
+      "ಇಸಿ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬೋರ್ ವೆಲ್ ನೀರು ಉಪ್ಪಾಗಿದ್ದು ಕಡಲೆಗೆ ಕೊಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರಿನ ಇಸಿ (EC) 2.0 dS/m ಗಿಂತ ಹೆಚ್ಚಿದ್ದರೆ ಕಡಲೆಗೆ ಬಳಸಬಾರದು. ಇದು ಗಿಡದ ಎಲೆಗಳನ್ನು ಸುಟ್ಟು ಕೊಲ್ಲುತ್ತದೆ.",
+      "detailed_answer": "ಉಪ್ಪು ನೀರು ಹಾಯಿಸಿದರೆ ಕಡಲೆ ಗಿಡಗಳ ಎಲೆ ಅಂಚುಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಒಣಗುತ್ತವೆ. ಮಳೆ ನೀರು ಸಂಗ್ರಹಿಸಿ ಅಥವಾ ಒಳ್ಳೆಯ ನೀರಿನೊಂದಿಗೆ ಬೆರೆಸಿ ಬಳಸಿ.",
+      "step_by_step": [
+        "ನೀರಿನ ಇಸಿ ಪರೀಕ್ಷೆ ಮಾಡಿಸಿ.",
+        "ಉಪ್ಪು ನೀರಿದ್ದರೆ ಹಗುರ ನೀರಾವರಿ ಮಾತ್ರ ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಉಪ್ಪು ನೀರು ಅತಿಯಾಗಿ ಹಾಯಿಸಿದರೆ ಬೆಳೆ ಪೂರ್ಣ ನಾಶವಾಗುತ್ತದೆ."
+      ]
+    },
+    "retrieval_text": "ಉಪ್ಪು ನೀರಾವರಿ ಎಚ್ಚರಿಕೆ: EC > 2.0 ಇದ್ದರೆ ಬಳಕೆ ನಿಷೇಧ, ಎಲೆ ಸುಡುವಿಕೆ ತಡೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಏಕ ನೀರಾವರಿ ಸಮಯ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದೇ ಒಂದು ನೀರಾವರಿ ಲಭ್ಯವಿದ್ದರೆ ಅದನ್ನು ಕಡಲೆಯ ಯಾವ ಹಂತದಲ್ಲಿ ಕೊಡಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಒಂದೇ ನೀರು ಕೊಡಲು ಸೂಕ್ತ ಸಮಯ?",
+      "Single irrigation stage for chickpea"
+    ],
+    "keywords": [
+      "ಏಕ ನೀರಾವರಿ",
+      "Single Irrigation",
+      "45 DAS",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ನನ್ನ ಬಳಿ ಕೇವಲ ಒಮ್ಮೆ ನೀರು ಹಾಯಿಸಲು ನೀರಿದೆ, ಅದನ್ನು ಯಾವ ದಿನ ಕೊಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 40-45 ನೇ ದಿನದಲ್ಲಿ (ಹೂ ಮೊಗ್ಗು ಹಂತ) ಆ ಒಂದು ನೀರಾವರಿಯನ್ನು ನೀಡಬೇಕು.",
+      "detailed_answer": "ಈ ಹಂತದಲ್ಲಿ ನೀಡುವ ಒಂದೇ ನೀರಾವರಿಯು ಬೆಳೆಯ ಇಳುವರಿಯನ್ನು ಮಳೆಯಾಶ್ರಿತಕ್ಕಿಂತ ಶೇ 35-40 ರಷ್ಟು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "42 ನೇ ದಿನದಲ್ಲಿ ಜಮೀನಿಗೆ ಹಗುರ ನೀರು ಹಾಯಿಸಿ.",
+        "ಅದರ ನಂತರ ಅಂತರ ಬೇಸಾಯ ಮಾಡಿ ನೀರು ಇಂಗಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಏಕ ನೀರಾವರಿ: 40-45 DAS ಹಂತದಲ್ಲಿ ನೀಡುವುದು, 35-40% ಇಳುವರಿ ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಹೊದಿಕೆ ನೀರಾವರಿ ಉಳಿತಾಯ",
+    "subtopic": "Irrigation",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಸಾಲುಗಳ ನಡುವೆ ಹೊದಿಕೆ (Mulching) ಹಾಕುವುದರಿಂದ ನೀರಾವರಿ ಉಳಿತಾಯ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಮಲ್ಚಿಂಗ್ ಹಾಕಬಹುದೇ?",
+      "Mulching for moisture saving in chickpea"
+    ],
+    "keywords": [
+      "ಮಲ್ಚಿಂಗ್",
+      "Mulching",
+      "ಹೊದಿಕೆ",
+      "ತೇವಾಂಶ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನ ನೀರು ಬೇಗ ಆವಿಯಾಗುವುದನ್ನು ತಡೆಯಲು ಸಾವಯವ ಹೊದಿಕೆ ಬಳಕೆ ತಿಳಿಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲುಗಳ ನಡುವೆ ಕಬ್ಬಿನ ಸಿಪ್ಪೆ ಅಥವಾ ಜೋಳದ ಚೊಪ್ಪಿನ ಹೊದಿಕೆ (Mulch) ಹಾಕುವುದರಿಂದ ನೀರು ಆವಿಯಾಗುವುದು 35% ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಹೊದಿಕೆಯು ಮಣ್ಣಿನ ತಾಪಮಾನವನ್ನು ತಂಪಾಗಿರಿಸುತ್ತದೆ ಮತ್ತು ಕಳೆಗಳು ಬೆಳೆಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 1.5 ಟನ್ ಒಣ ತ್ಯಾಜ್ಯ ಸಾಲುಗಳ ನಡುವೆ ಹರಡಿ.",
+        "ಬಿತ್ತನೆಯಾದ 20 ದಿನದ ನಂತರ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Crop Straw"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಮಲ್ಚಿಂಗ್: 35% ನೀರು ಆವಿಯಾಗುವುದು ತಡೆ, ಮಣ್ಣು ತಂಪಾಗಿರಿಸುವುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಪೆಂಡಿಮೆಥಾಲಿನ್ ಕಳೆನಾಶಕ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಬಿತ್ತನೆ ಪೂರ್ವ ಕಳೆನಾಶಕ ಪೆಂಡಿಮೆಥಾಲಿನ್ (Pendimethalin 30% EC) ಬಳಸುವ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+    "question_variants": [
+      "ಕಡಲೆ ಕಳೆನಾಶಕ ಪೆಂಡಿಮೆಥಾಲಿನ್ ಹೇಗೆ ಬಳಸಬೇಕು?",
+      "Pendimethalin use in chickpea"
+    ],
+    "keywords": [
+      "ಪೆಂಡಿಮೆಥಾಲಿನ್",
+      "Pendimethalin",
+      "ಕಳೆನಾಶಕ",
+      "ಬಿತ್ತನೆ ಪೂರ್ವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬಿತ್ತನೆ ಮಾಡಿದ ತಕ್ಷಣ ಕಳೆಗಳು ಬರದಂತೆ ತಡೆಯಲು ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸುವ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಮಾಡಿದ 48 ಗಂಟೆಗಳ ಒಳಗೆ (ಮೊಳಕೆ ಬರುವ ಮುನ್ನ) ಎಕರೆಗೆ 1.0 ರಿಂದ 1.25 ಲೀಟರ್ ಪೆಂಡಿಮೆಥಾಲಿನ್ 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ತೇವವಿರುವ ಮಣ್ಣಿಗೆ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಇದು ಮಣ್ಣಿನ ಮೇಲ್ಪದರದಲ್ಲಿ ಕಳೆ ಬೀಜಗಳು ಮೊಳಕೆಯೊಡೆಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶವಿದ್ದಾಗ ಸಿಂಪಡಿಸಿದರೆ 30 ದಿನ ಕಳೆ ಬರುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "ಬಿತ್ತಿದ 24-48 ಗಂಟೆಯೊಳಗೆ ಸಿಂಪಡಿಸಿ.",
+        "ಫ್ಲಾಟ್ ಫ್ಯಾನ್ ನಾಜಲ್ ಬಳಸಿ ಎಕರೆಗೆ 200 ಲೀ ನೀರು ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pendimethalin 30 EC"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬೀಜ ಮೊಳಕೆಯೊಡೆದ ನಂತರ ಸಿಂಪಡಿಸಬೇಡಿ."
+      ]
+    },
+    "retrieval_text": "ಪೆಂಡಿಮೆಥಾಲಿನ್: 1-1.25 L/ಎಕರೆ (48 ಗಂಟೆಯೊಳಗೆ), 30 ದಿನ ಕಳೆ ತಡೆಗಟ್ಟುವಿಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಅಂತರ ಬೇಸಾಯ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಎಡೆಕುಂಟೆ (Inter-cultivation / Hoeing) ಹೊಡೆಯುವುದರ ಪ್ರಯೋಜನಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಎಡೆಕುಂಟೆ ಯಾವಾಗ ಹೊಡೆಯಬೇಕು?",
+      "Inter cultivation benefits chickpea"
+    ],
+    "keywords": [
+      "ಎಡೆಕುಂಟೆ",
+      "ಅಂತರ ಬೇಸಾಯ",
+      "ಕಳೆ",
+      "ಬಿರುಕು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಎಡೆಕುಂಟೆ ಹೊಡೆಯುವುದರಿಂದ ಗಿಡದ ಬೆಳವಣಿಗೆ ಹೇಗೆ ಹೆಚ್ಚುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 20-25 ಮತ್ತು 40 ನೇ ದಿನಗಳಲ್ಲಿ ಎಡೆಕುಂಟೆ ಹೊಡೆಯುವುದರಿಂದ ಕಳೆ ನಾಶವಾಗಿ, ಮಣ್ಣಿನ ಬಿರುಕು ಮುಚ್ಚಿ ಬೇರಿಗೆ ಗಾಳಿ ಆಡುತ್ತದೆ.",
+      "detailed_answer": "ಎಡೆಕುಂಟೆಯು ಮಣ್ಣಿನಲ್ಲಿ 'ಡಸ್ಟ್ ಮಲ್ಚಿಂಗ್' ಉಂಟುಮಾಡಿ ತೇವಾಂಶ ಆವಿಯಾಗುವುದನ್ನು ತಡೆಯುತ್ತದೆ ಮತ್ತು ಸಸ್ಯಗಳ ಪಕ್ಕದ ಬೇರುಗಳನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "25 ನೇ ದಿನದಲ್ಲಿ ಮೊದಲ ಎಡೆಕುಂಟೆ ಹೊಡೆಯಿರಿ.",
+        "40 ನೇ ದಿನದಲ್ಲಿ ಎರಡನೇ ಎಡೆಕುಂಟೆ ಮಾಡಿ ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಎಡೆಕುಂಟೆ: 25 ಮತ್ತು 40 DAS, ಕಳೆ ನಾಶ, ಮಣ್ಣಿನ ಬಿರುಕು ಮುಚ್ಚುವುದು, ತೇವಾಂಶ ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕೈ ಕಳೆ ತೆಗೆಯುವುದು",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಕೈ ಕಳೆ (Hand Weeding) ತೆಗೆಯಲು ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?",
+    "question_variants": [
+      "ಕಡಲೆ ಕಳೆ ಕೀಳುವುದು ಯಾವಾಗ?",
+      "Hand weeding in chickpea timing"
+    ],
+    "keywords": [
+      "ಕೈ ಕಳೆ",
+      "Hand Weeding",
+      "ಕಳೆ ಕೀಳುವುದು",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಸಾಲುಗಳ ನಡುವಿನ ಕಳೆಗಳನ್ನು ಕೈಯಿಂದ ಕೀಳಲು ಸೂಕ್ತ ದಿನ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 25-30 ದಿನಗಳ ಹಂತದಲ್ಲಿ ಕಡಲೆ ಸಸ್ಯಗಳ ನಡುವೆ ಬೆಳೆದಿರುವ ಕಳೆಗಳನ್ನು ಕೈಯಿಂದ ಕೀಳಬೇಕು.",
+      "detailed_answer": "ಈ ಹಂತದ ನಂತರ ಕಡಲೆ ಗಿಡಗಳು ಹರಡಿಕೊಳ್ಳುವುದರಿಂದ ಆಮೇಲೆ ಕಳೆ ಕೀಳಲು ಹೋದರೆ ಕೊಂಬೆಗಳು ಮುರಿದುಹೋಗುತ್ತವೆ.",
+      "step_by_step": [
+        "25-30 DAS ಹಂತದಲ್ಲಿ ಕೈ ಕಳೆ ಕೀಳಿಸಿ.",
+        "ಸಾಲುಗಳ ಒಳಗಿನ ಕಳೆಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ತೆಗೆಯಿರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕೈ ಕಳೆ: 25-30 DAS ಸೂಕ್ತ ಸಮಯ, ಗಿಡದ ಕೊಂಬೆ ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಎಲೆ ಅಗಲದ ಕಳೆ ನಿಯಂತ್ರಣ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ಎಲೆ ಅಗಲದ ಕಳೆಗಳನ್ನು (Broad-leaf weeds) ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಯಲ್ಲಿ ಅಗಲ ಎಲೆ ಕಳೆ ನಿಯಂತ್ರಣ?",
+      "Broad leaf weed control chickpea"
+    ],
+    "keywords": [
+      "ಎಲೆ ಅಗಲ ಕಳೆ",
+      "Chenopodium",
+      "ಹುಚ್ಚು ಬಸಳೆ",
+      "ಕಳೆನಾಶಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ಬಸಳೆ ಮತ್ತಿತರ ಅಗಲ ಎಲೆಯ ಕಳೆಗಳು ಹೆಚ್ಚಾಗಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಪೂರ್ವ ಪೆಂಡಿಮೆಥಾಲಿನ್ ಬಳಸಿ ನಂತರ 25 ನೇ ದಿನ ಕೈಯಿಂದ ಕೀಳಬೇಕು. ಕಡಲೆಯಲ್ಲಿ ಬಿತ್ತನೆ ನಂತರ ಅಗಲ ಎಲೆ ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಿದರೆ ಕಡಲೆ ಗಿಡವೂ ಸಾಯುತ್ತದೆ.",
+      "detailed_answer": "ಕಡಲೆ ತಾನೇ ಒಂದು ಅಗಲ ಎಲೆಯ ದ್ವಿದಳ ಧಾನ್ಯವಾಗಿರುವುದರಿಂದ ಬಿತ್ತನೆ ನಂತರದ ಅಗಲ ಎಲೆ ಕಳೆನಾಶಕಗಳು (2,4-D ನಂತಹವು) ಕಡಲೆಗೆ ವಿಷವಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಪೆಂಡಿಮೆಥಾಲಿನ್ ಮುನ್ನೆಚ್ಚರಿಕೆಯಾಗಿ ಬಳಸಿ.",
+        "ಮೊಳಕೆ ಬಂದ ನಂತರ ಕೈ ಕಳೆ ಮಾತ್ರ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pendimethalin"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಕಡಲೆ ಬಿತ್ತನೆ ನಂತರ 2,4-D ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಬೇಡಿ."
+      ]
+    },
+    "retrieval_text": "ಅಗಲ ಎಲೆ ಕಳೆ: ಬಿತ್ತನೆ ಪೂರ್ವ ಕಳೆನಾಶಕ + ಕೈ ಕಳೆ ಮಾತ್ರ, ರಾಸಾಯನಿಕ ಸಿಂಪರಣೆ ಅಪಾಯ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಹುಲ್ಲು ಕಳೆ ಕಳೆನಾಶಕ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಹುಲ್ಲು ಜಾತಿಯ ಕಳೆಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಕ್ವಿಜಾಲೋಫಾಪ್-ಪಿ-ಈಥೈಲ್ (Quizalofop-p-ethyl) ಬಳಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಯಲ್ಲಿ ಹುಲ್ಲು ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಬಹುದೇ?",
+      "Quizalofop for grass weeds in chickpea"
+    ],
+    "keywords": [
+      "ಕ್ವಿಜಾಲೋಫಾಪ್",
+      "Quizalofop",
+      "ಹುಲ್ಲು ಕಳೆ",
+      "ಕಳೆನಾಶಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಸಸಿಗಳ ನಡುವೆ ಗರಿ ಹುಲ್ಲು ಮತ್ತಿತರ ಹುಲ್ಲು ಜಾತಿಯ ಕಳೆಗಳು ಬಂದಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 20-25 ದಿನಗಳಲ್ಲಿ ಎಕರೆಗೆ 400 ಮಿಲಿ ಕ್ವಿಜಾಲೋಫಾಪ್-ಪಿ-ಈಥೈಲ್ (5% EC) ಸಿಂಪಡಿಸಿದರೆ ಹುಲ್ಲು ಕಳೆಗಳು ಮಾತ್ರ ಸಾಯುತ್ತವೆ.",
+      "detailed_answer": "ಈ ಕಳೆನಾಶಕವು ಕಡಲೆ ಗಿಡಕ್ಕೆ ಯಾವುದೇ ಹಾನಿ ಮಾಡದೆ ಕೇವಲ ಏಕದಳ ಹುಲ್ಲು ಜಾತಿಯ ಕಳೆಗಳನ್ನು ಆಯ್ದು ಕೊಲ್ಲುತ್ತದೆ (Selective herbicide).",
+      "step_by_step": [
+        "400 ಮಿಲಿ ಕ್ವಿಜಾಲೋಫಾಪ್ 150 ಲೀ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+        "ಹುಲ್ಲು 3-4 ಎಲೆ ಹಂತದಲ್ಲಿದ್ದಾಗ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Quizalofop-p-ethyl 5 EC"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಹುಲ್ಲು ಕಳೆನಾಶಕ: ಕ್ವಿಜಾಲೋಫಾಪ್ 400 ml/ಎಕರೆ, ಹುಲ್ಲು ಕಳೆಗಳ ಆಯ್ದ ನಾಶ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕುಡಿ ಚಿವುಟುವುದು (Nipping)",
+    "subtopic": "Agronomy",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಗಿಡಗಳ ಕುಡಿ ಚಿವುಟುವುದು (Nipping / Topping) ಎಂದರೇನು ಮತ್ತು ಇದರ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಕುಡಿ ಚಿವುಟುವುದು ಏಕೆ?",
+      "Chickpea nipping process and yield benefits"
+    ],
+    "keywords": [
+      "ಕುಡಿ ಚಿವುಟುವುದು",
+      "Nipping",
+      "Topping",
+      "ಶಾಖೆಗಳು",
+      "ಇಳುವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಗಿಡಗಳು ಎತ್ತರಕ್ಕೆ ಬೆಳೆಯದೆ ಪಕ್ಕದ ಕೊಂಬೆಗಳು ಹೆಚ್ಚಾಗಲು ಮಾಡುವ ತಂತ್ರ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 30-35 ದಿನಗಳಲ್ಲಿ ಗಿಡದ ತುದಿಯ ಕುಡಿಯನ್ನು (1-2 ಇಂಚು) ಚಿವುಟುವುದರಿಂದ ಪಕ್ಕದ ಕೊಂಬೆಗಳು ಹೆಚ್ಚಾಗಿ ಇಳುವರಿ 20-25% ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ತುದಿಯ ಕುಡಿಯನ್ನು ಚಿವುಟಿದಾಗ 'ಆಕ್ಸಿನ್' ಹಾರ್ಮೋನ್ ಪ್ರಭಾವ ಕಡಿಮೆಯಾಗಿ ಪಕ್ಕದ ಕೊಂಬೆಗಳು (Lateral branching) ದಟ್ಟವಾಗಿ ಬೆಳೆದು ಕಾಯಿಗಳ ಸಂಖ್ಯೆ ದುಪ್ಪಟ್ಟಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "30-35 DAS ಹಂತದಲ್ಲಿ ಮೇಲಿನ ಕುಡಿ ಚಿವುಟಿ.",
+        "ಚಿವುಟಿದ ಕಡಲೆ ಸೊಪ್ಪನ್ನು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಮಾರಾಟ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕುಡಿ ಚಿವುಟುವುದು (Nipping): 30-35 DAS ಹಂತ, ಪಕ್ಕದ ಕೊಂಬೆಗಳು ಹೆಚ್ಚಳ, 20-25% ಹೆಚ್ಚಿನ ಇಳುವರಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕಳೆ ಪೈಪೋಟಿ ಅವಧಿ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಕಳೆಗಳ ಕ್ರಾಂತಿಕಾರಿ ಪೈಪೋಟಿ ಅವಧಿ (Critical Crop-Weed Competition Period) ಎಷ್ಟು ದಿನಗಳು?",
+    "question_variants": [
+      "ಕಡಲೆಯಲ್ಲಿ ಕಳೆ ಯಾವಾಗ ತಡೆಯಬೇಕು?",
+      "Critical weed period chickpea"
+    ],
+    "keywords": [
+      "ಕ್ರಾಂತಿಕಾರಿ ಅವಧಿ",
+      "Critical Period",
+      "ಕಳೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬೆಳೆಯ ಯಾವ ಹಂತದಲ್ಲಿ ಕಳೆಗಳನ್ನು ಮುಕ್ತವಾಗಿಡುವುದು ಅತ್ಯಂತ ತುರ್ತು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ ಮೊದಲ 30 ರಿಂದ 45 ದಿನಗಳು ಕಡಲೆಯ ಕಳೆ ಪೈಪೋಟಿ ಅವಧಿಯಾಗಿದೆ. ಈ ಸಮಯದಲ್ಲಿ ಕಳೆ ರಹಿತವಾಗಿಡುವುದು ಕಡ್ಡಾಯ.",
+      "detailed_answer": "ಮೊದಲ 45 ದಿನಗಳಲ್ಲಿ ಕಳೆಗಳಿದ್ದರೆ ಅವು ಪೋಷಕಾಂಶ ಮತ್ತು ನೀರನ್ನು ಹೀರಿಕೊಂಡು ಕಡಲೆ ಇಳುವರಿಯನ್ನು ಶೇ 50 ರಷ್ಟು ತಗ್ಗಿಸುತ್ತವೆ.",
+      "step_by_step": [
+        "ಮೊದಲ 45 ದಿನಗಳಲ್ಲಿ ಜಮೀನನ್ನು ಸಂಪೂರ್ಣ ಕಳೆ ರಹಿತವಾಗಿಡಿ.",
+        "ಅಂತರ ಬೇಸಾಯ ಮತ್ತು ಕೈ ಕಳೆ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಳೆ ಪೈಪೋಟಿ ಅವಧಿ: ಮೊದಲ 30-45 ದಿನಗಳು, ಶೇ 50 ಇಳುವರಿ ನಷ್ಟ ತಡೆಗಟ್ಟುವಿಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಚಕ್ರದ ಕಳೆನಾಶಕ ಯಂತ್ರ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಚಕ್ರದ ಕಳೆನಾಶಕ ಯಂತ್ರ (Cycle Weeder) ಬಳಸಿ ಕಡಲೆಯಲ್ಲಿ ಕಳೆ ತೆಗೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಚಕ್ರದ ಕುಂಟೆ ಬಳಸಬಹುದೇ?",
+      "Cycle weeder in chickpea"
+    ],
+    "keywords": [
+      "ಚಕ್ರದ ಕುಂಟೆ",
+      "Cycle Weeder",
+      "ಕೈ ಯಂತ್ರ",
+      "ಕಳೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕೂಲಿ ಆಳುಗಳಿಲ್ಲದೆ ಸಣ್ಣ ರೈತರು ಸಾಲುಗಳ ನಡುವೆ ಕಳೆ ತೆಗೆಯಲು ಉಪಕರಣ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "30 ಸೆಂ.ಮೀ ಸಾಲುಗಳ ಅಂತರದಲ್ಲಿ ಚಕ್ರದ ಕಳೆ ಯಂತ್ರವನ್ನು (Cycle Weeder) ತಳ್ಳಿ ಸುಲಭವಾಗಿ ಕಳೆ ತೆಗೆಯಬಹುದು.",
+      "detailed_answer": "ಈ ಯಂತ್ರವನ್ನು ಒಬ್ಬನೇ ವ್ಯಕ್ತಿ ಸುಲಭವಾಗಿ ತಳ್ಳಬಹುದು. ದಿನಕ್ಕೆ 1 ಎಕರೆ ಕಳೆ ತೆಗೆಯಬಹುದು ಹಾಗೂ ವೆಚ್ಚ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಅಂತರ 30 ಸೆಂ.ಮೀ ಸರಿಯಾಗಿರಲಿ.",
+        "ಕಳೆ ಸಣ್ಣದಿದ್ದಾಗ ಚಕ್ರದ ಯಂತ್ರ ಚಲಾಯಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Cycle Weeder Equipment"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಚಕ್ರದ ಕುಂಟೆ: ಶ್ರಮ ರಹಿತ ಕಳೆ ತೆಗೆಯುವಿಕೆ, ದಿನಕ್ಕೆ 1 ಎಕರೆ ಕವರ್.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "2,4-ಡಿ ಕಳೆನಾಶಕ ವಿಷಕಾರಿ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಗೆ 2,4-ಡಿ (2,4-D) ನಂತಹ ಕಳೆನಾಶಕಗಳು ತಾಗಿದರೆ ಆಗುವ ಹಾನಿ ಮತ್ತು ಎಚ್ಚರಿಕೆ ಏನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ 2,4-D ತಾಗಿದರೆ ಏನಾಗುತ್ತದೆ?",
+      "2,4-D toxicity on chickpea"
+    ],
+    "keywords": [
+      "2,4-D",
+      "ವಿಷಕಾರಿ",
+      "ಕಳೆನಾಶಕ",
+      "ಕಡಲೆ ನಾಶ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಪಕ್ಕದ ಜಮೀನಿನಿಂದ 2,4-ಡಿ ಕಳೆನಾಶಕದ ಗಾಳಿ ತಾಗಿ ಕಡಲೆ ಎಲೆಗಳು ಮುದುಡುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "2,4-ಡಿ ಕಳೆನಾಶಕವು ಕಡಲೆ ಬೆಳೆಗೆ ಅತ್ಯಂತ ಮಾರಕ. ಇದರ ಸಣ್ಣ ಹನಿಯು ಬಿದ್ದರೂ ಗಿಡದ ಕಾಂಡ ತಿರುಚಿಕೊಂಡು ಬೆಳೆ ಸಂಪೂರ್ಣ ನಾಶವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಪಕ್ಕದ ಜೋಳ ಅಥವಾ ಗೋಧಿ ಜಮೀನಿನಲ್ಲಿ 2,4-ಡಿ ಸಿಂಪಡಿಸುವಾಗ ಗಾಳಿ ಕಡಲೆ ಕಡೆಗೆ ಬೀಸದಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು.",
+      "step_by_step": [
+        "ಕಡಲೆ ಹತ್ತಿರ 2,4-ಡಿ ಸಿಂಪಡಿಸಬೇಡಿ.",
+        "ಅಕಸ್ಮಾತ್ ತಾಗಿದರೆ 19:19:19 (5g/L) + ಹ್ಯೂಮಿಕ್ ಆಮ್ಲ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "2,4-D ಕಳೆನಾಶಕವನ್ನು ಕಡಲೆ ಹತ್ತಿರ ಎಂದಿಗೂ ಬಳಸಬೇಡಿ."
+      ]
+    },
+    "retrieval_text": "2,4-D ವಿಷಕಾರಿ ಅಪಾಯ: ಕಾಂಡ ತಿರುಚುವಿಕೆ, ಬೆಳೆ ಸಂಪೂರ್ಣ ನಾಶ, ಕಟ್ಟುನಿಟ್ಟಿನ ತಡೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸಾವಯವ ಕಳೆ ತಡೆ",
+    "subtopic": "Weed Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಾವಯವ ಕಡಲೆ ಕೃಷಿಯಲ್ಲಿ ಕಳೆಗಳನ್ನು ನೈಸರ್ಗಿಕವಾಗಿ ನಿಯಂತ್ರಿಸುವ ತಂತ್ರಗಳೇನು?",
+    "question_variants": [
+      "ಸಾವಯವ ಕಡಲೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "Organic weed control chickpea"
+    ],
+    "keywords": [
+      "ಸಾವಯವ ಕಳೆ ನಿಯಂತ್ರಣ",
+      "Stale Seedbed",
+      "ಕಳೆ ತಡೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ರಾಸಾಯನಿಕ ಕಳೆನಾಶಕ ಬಳಸದೆ ಕಳೆ ನಿಯಂತ್ರಿಸುವ ನೈಸರ್ಗಿಕ ವಿಧಾನ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "'ಸ್ಟೇಲ್ ಸೀಡ್ ಬೆಡ್' (Stale Seedbed) ವಿಧಾನ ಅನುಸರಿಸಿ: ಬಿತ್ತನೆ ಮುನ್ನ ನೀರು ಹಾಯಿಸಿ ಕಳೆ ಮೊಳಕೆಯೊಡೆದ ನಂತರ ಕುಂಟೆ ಹೊಡೆದು ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಈ ವಿಧಾನದಿಂದ ಮಣ್ಣಿನ ಮೇಲ್ಪದರದಲ್ಲಿದ್ದ 80% ಕಳೆ ಬೀಜಗಳು ಮುಂಚಿತವಾಗಿಯೇ ನಾಶವಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ 10 ದಿನ ಮುಂಚೆ ಹಗುರ ನೀರು ಕೊಡಿ.",
+        "ಕಳೆ ಬಂದ ನಂತರ ಕುಂಟೆ ಹೊಡೆದು ಕಡಲೆ ಬಿತ್ತಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಾವಯವ ಕಳೆ ತಡೆ: ಸ್ಟೇಲ್ ಸೀಡ್ ಬೆಡ್ ವಿಧಾನ, 80% ಕಳೆ ಬೀಜ ಮುಂಚಿತ ನಾಶ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕಾಯಿಕೊರಕ ಹುಳು",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿಕೊರಕ ಹುಳು (Helicoverpa armigera / Pod Borer) ಹಾನಿಯ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಕಾಯಿಕೊರಕ ಹುಳು ಲಕ್ಷಣಗಳೇನು?",
+      "Pod borer damage symptoms chickpea"
+    ],
+    "keywords": [
+      "ಕಾಯಿಕೊರಕ",
+      "Helicoverpa",
+      "Pod Borer",
+      "ಕಾಯಿ ತೂತು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಎಲೆಗಳು ಕತ್ತರಿಸಲ್ಪಟ್ಟಿದ್ದು ಕಾಯಿಗಳಿಗೆ ದುಂಡಗಿನ ತೂತುಗಳು ಬಿದ್ದಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಕಾಯಿಕೊರಕ ಹುಳುವಿನ (Helicoverpa) ಬಾಧೆ. ಹುಳುವು ತನ್ನ ಅರ್ಧ ದೇಹವನ್ನು ಕಾಯಿಯೊಳಗೆ ತೂರಿಸಿ ಕಾಳುಗಳನ್ನು ತಿನ್ನುತ್ತದೆ.",
+      "detailed_answer": "ಒಂದು ಹುಳು ತನ್ನ ಜೀವಿತಾವಧಿಯಲ್ಲಿ 30-40 ಕಾಯಿಗಳನ್ನು ನಾಶಪಡಿಸುತ್ತದೆ. ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ನಿಯಂತ್ರಿಸದಿದ್ದರೆ 50-80% ಇಳುವರಿ ನಷ್ಟವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಚೆಂಡು ಹೂ ಆಕರ್ಷಕ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಿರಿ.",
+        "ಫೆರೊಮೋನ್ ಬಲೆ ಅಳವಡಿಸಿ.",
+        "ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಯಿಕೊರಕ ಲಕ್ಷಣ: ಕಾಯಿಗಳಿಗೆ ದುಂಡಗಿನ ತೂತು, 50-80% ಇಳುವರಿ ನಷ್ಟ ಅಪಾಯ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಫೆರೊಮೋನ್ ಬಲೆಗಳು",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಯಿಕೊರಕ ಹುಳುವಿನ ಪತಂಗಗಳನ್ನು ಕಣ್ಣಾವಲು ಮಾಡಲು ಫೆರೊಮೋನ್ ಬಲೆ (Pheromone Trap) ಬಳಸುವ ವಿಧಾನ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಫೆರೊಮೋನ್ ಬಲೆ ಹೇಗೆ ಅಳವಡಿಸಬೇಕು?",
+      "Pheromone traps for pod borer chickpea"
+    ],
+    "keywords": [
+      "ಫೆರೊಮೋನ್ ಬಲೆ",
+      "Pheromone Trap",
+      "Helilure",
+      "ಪತಂಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಾಯಿಕೊರಕ ಬರುವುದನ್ನು ಮುಂಚಿತವಾಗಿಯೇ ಪತ್ತೆ ಹಚ್ಚಿ ನಿಯಂತ್ರಿಸಲು ಬಲೆಗಳ ಬಳಕೆ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 4-5 ಫೆರೊಮೋನ್ ಬಲೆಗಳನ್ನು ಗಿಡದ ಎತ್ತರಕ್ಕಿಂತ 1 ಅಡಿ ಎತ್ತರದಲ್ಲಿ ಅಳವಡಿಸಬೇಕು. ಹೆಲಿಲೂರ್ (Helilure) ಬಳಸಿ ಗಂಡು ಪತಂಗ ಆಕರ್ಷಿಸಬೇಕು.",
+      "detailed_answer": "ದಿನಕ್ಕೆ ಬಲೆಯಲ್ಲಿ 8-10 ಪತಂಗಗಳು ಬಿದ್ದರೆ ಕೀಟ ಬಾಧೆ ತೀವ್ರವಾಗಲಿದೆ ಎಂದು ತಿಳಿದು ತಕ್ಷಣವೇ ಸಿಂಪರಣೆ ಕೈಗೊಳ್ಳಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 4-5 ಬಲೆ ನಿಲ್ಲಿಸಿ.",
+        "ಪ್ರತಿ 30 ದಿನಕ್ಕೊಮ್ಮೆ ಲೂರ್ (Lure) ಬದಲಾಯಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pheromone Traps",
+        "Helilure"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಫೆರೊಮೋನ್ ಬಲೆ: ಎಕರೆಗೆ 4-5 ಬಲೆ, ಗಂಡು ಪತಂಗ ಬಂಧನ, ಕೀಟ ಮುನ್ಸೂಚನೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಪಕ್ಷಿ ಆಕರ್ಷಕ ಕಂಬಗಳು",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಜಮೀನಿನಲ್ಲಿ ಪಕ್ಷಿ ಆಕರ್ಷಕ (T-shaped Bird Perches) ಕಂಬಗಳನ್ನು ನಿಲ್ಲಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಟಿ-ಆಕಾರದ ಕಂಬ ನಿಲ್ಲಿಸುವುದು ಏಕೆ?",
+      "Bird perches for pest control chickpea"
+    ],
+    "keywords": [
+      "ಪಕ್ಷಿ ಕಂಬಗಳು",
+      "T-Perches",
+      "ಜೈವಿಕ ನಿಯಂತ್ರಣ",
+      "ಕಾಯಿಕೊರಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಯಾವುದೇ ವೆಚ್ಚವಿಲ್ಲದೆ ಪಕ್ಷಿಗಳ ಮೂಲಕ ಕಾಯಿಕೊರಕ ಹುಳು ನಾಶಪಡಿಸುವ ವಿಧಾನ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 20 ಟಿ-ಆಕಾರದ (T-shaped) ಮರದ ಕಂಬಗಳನ್ನು ನಿಲ್ಲಿಸುವುದರಿಂದ ಗುಬ್ಬಚ್ಚಿ ಮತ್ತು ಕಾಗೆಗಳು ಬಂದು ಕಾಯಿಕೊರಕ ಹುಳುಗಳನ್ನು ತಿನ್ನುತ್ತವೆ.",
+      "detailed_answer": "ಪಕ್ಷಿಗಳು ಬೆಳಿಗ್ಗೆ ಮತ್ತು ಸಂಜೆ ವೇಳೆ ಈ ಕಂಬಗಳ ಮೇಲೆ ಕುಳಿತು ಕಡಲೆ ಗಿಡಗಳಲ್ಲಿರುವ ದಪ್ಪ ಹುಳುಗಳನ್ನು ಆಯ್ದು ತಿನ್ನುತ್ತವೆ. ಇದರಿಂದ 30% ಹುಳು ನಾಶವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 20 ಟಿ-ಕಂಬಗಳನ್ನು ನೆಡಿ.",
+        "ಹೂ ಬಿಡುವಾಗ ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವಾಗ ಕಂಬಗಳು ಇರಲಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "T-shaped wooden sticks"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸುವ ದಿನಗಳಲ್ಲಿ ಪಕ್ಷಿ ಕಂಬ ತೆರವುಗೊಳಿಸಿ."
+      ]
+    },
+    "retrieval_text": "ಪಕ್ಷಿ ಆಕರ್ಷಕ ಕಂಬಗಳು: ಎಕರೆಗೆ 20 ಟಿ-ಕಂಬಗಳು, ಉಚಿತ ಜೈವಿಕ ಹುಳು ನಾಶ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಚೆಂಡು ಹೂ ಆಕರ್ಷಕ ಬೆಳೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಯಿಕೊರಕ ಹುಳು ನಿಯಂತ್ರಣಕ್ಕೆ ಚೆಂಡು ಹೂ (Marigold) ಆಕರ್ಷಕ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಯಲ್ಲಿ ಚೆಂಡು ಹೂ ಬೆಳೆಯುವುದು ಏಕೆ?",
+      "Marigold trap crop chickpea"
+    ],
+    "keywords": [
+      "ಚೆಂಡು ಹೂ",
+      "Marigold",
+      "Trap Crop",
+      "ಆಕರ್ಷಕ ಬೆಳೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಾಯಿಕೊರಕ ಹುಳು ಕಡಲೆ ಜಮೀನಿಗೆ ಬಾರದಂತೆ ತಡೆಯಲು ಆಕರ್ಷಕ ಬೆಳೆ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ 16 ಸಾಲು ಕಡಲೆಗೆ 1 ಸಾಲು ಚೆಂಡು ಹೂ (Marigold) ಬೆಳೆದರೆ ಕಾಯಿಕೊರಕ ಪತಂಗಗಳು ಕಡಲೆ ಬಿಟ್ಟು ಚೆಂಡು ಹೂವಿನ ಮೇಲೆ ಮೊಟ್ಟೆಯಿಡುತ್ತವೆ.",
+      "detailed_answer": "ಚೆಂಡು ಹೂವಿನ ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ಪತಂಗಗಳು ಆಕರ್ಷಿತವಾಗುತ್ತವೆ. ಚೆಂಡು ಹೂವಿನ ಮೇಲಿನ ಹುಳುಗಳನ್ನು ಸುಲಭವಾಗಿ ನಾಶಪಡಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಬದುಗಳಲ್ಲಿ ಅಥವಾ 16:1 ಸಾಲಿನಲ್ಲಿ ಚೆಂಡು ಹೂ ಬಿತ್ತಿ.",
+        "ಚೆಂಡು ಹೂವಿಗೆ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Marigold seeds"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಚೆಂಡು ಹೂ ಆಕರ್ಷಕ ಬೆಳೆ: 16:1 ಸಾಲಿನಲ್ಲಿ ಬಿತ್ತನೆ, ಕಾಯಿಕೊರಕ ಮೊಟ್ಟೆ ಆಕರ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಎಚ್‌ಎನ್‌ಪಿವಿ ವೈರಸ್ ಸಿಂಪರಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಯಿಕೊರಕ ಹುಳುವಿನ ಜೈವಿಕ ನಿಯಂತ್ರಣಕ್ಕೆ ಎಚ್‌ಎನ್‌ಪಿವಿ (HaNPV) ವೈರಸ್ ಸಿಂಪಡಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "HaNPV ವೈರಸ್ ಕಡಲೆಗೆ ಹೇಗೆ ಬಳಸಬೇಕು?",
+      "HaNPV spray for pod borer chickpea"
+    ],
+    "keywords": [
+      "HaNPV",
+      "ಜೈವಿಕ ಕೀಟನಾಶಕ",
+      "ವೈರಸ್",
+      "ಕಾಯಿಕೊರಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಾಯಿಕೊರಕ ಹುಳುಗಳಿಗೆ ಸಾವಯವ ಜೈವಿಕ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸುವ ವಿವರ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 250 ಎಲ್‌ಇ (LE) HaNPV ವೈರಸ್ ರಸವನ್ನು 200 ಗ್ರಾಂ ಬೆಲ್ಲದೊಂದಿಗೆ ಬೆರೆಸಿ ಸಂಜೆ ವೇಳೆಯಲ್ಲಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "HaNPV ವೈರಸ್ ತಿಂದ ಕಾಯಿಕೊರಕ ಹುಳುಗಳು ತಲೆಕೆಳಗಾಗಿ ನೇತಾಡಿ ಸಾಯುತ್ತವೆ. ಇದು ಕೇವಲ ಕಾಯಿಕೊರಕ ಹುಳುವಿಗೆ ಮಾತ್ರ ಮಾರಕ.",
+      "step_by_step": [
+        "250 LE HaNPV + 200g ಬೆಲ್ಲ + 200L ನೀರು ಬೆರೆಸಿ.",
+        "ಸಂಜೆ 5 ಗಂಟೆಯ ನಂತರ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "HaNPV 250 LE"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "HaNPV ಸಿಂಪರಣೆ: 250 LE/ಎಕರೆ, ಬೆಲ್ಲದೊಂದಿಗೆ ಸಂಜೆ ಸಿಂಪರಣೆ, ತಲೆಕೆಳಗಾಗಿ ಹುಳು ಸಾವು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬೇವಿನ ಕಷಾಯ ಸಿಂಪರಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬೇವಿನ ಕಷಾಯ (NSKE 5%) ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ಕಾಯಿಕೊರಕ ಹುಳು ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಬಹುದೇ?",
+      "Neem oil for chickpea pod borer"
+    ],
+    "keywords": [
+      "ಬೇವಿನ ಎಣ್ಣೆ",
+      "NSKE 5%",
+      "ಬೇವಿನ ಕಷಾಯ",
+      "ಮೊಟ್ಟೆ ನಾಶ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಾಯಿಕೊರಕ ಹುಳು ಮೊಟ್ಟೆಯಿಡುವ ಹಂತದಲ್ಲೇ ಸಾವಯವ ನಿಯಂತ್ರಣ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಕೊರಕದ ಮೊಟ್ಟೆ ಕಾಣಿಸಿಕೊಂಡಾಗ ಎಕರೆಗೆ 1 ಲೀಟರ್ ಬೇವಿನ ಎಣ್ಣೆ (10,000 ppm) ಅಥವಾ 5% ಬೇವಿನ ಬೀಜದ ಕಷಾಯ (NSKE) ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಬೇವಿನ ಕಷಾಯವು ಪತಂಗಗಳು ಮೊಟ್ಟೆಯಿಡುವುದನ್ನು ತಡೆಯುತ್ತದೆ ಮತ್ತು ಮೊಟ್ಟೆಗಳು ಒಡೆದು ಮರಿ ಹುಳು ಬಾರದಂತೆ ನಾಶಪಡಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "10,000 ppm ಬೇವಿನ ಎಣ್ಣೆ 2 ಮಿಲಿ/ಲೀ ನೀರಿಗೆ ಬೆರೆಸಿ.",
+        "ಅದಕ್ಕೆ 1 ಮಿಲಿ ಸೋಪು ನೀರು ಸೇರಿಸಿ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Neem Oil 10000 ppm",
+        "NSKE 5%"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬೇವಿನ ಕಷಾಯ: NSKE 5% ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ 2ml/L, ಮೊಟ್ಟೆ ಇಡುವುದು ತಡೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕೊರಾಜನ್ ಸಿಂಪರಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಯಿಕೊರಕ ಬಾಧೆ ತೀವ್ರವಾಗಿದ್ದಾಗ ಕ್ಲೋರಾಂಟ್ರಾನಿಲಿಪ್ರೋಲ್ (Coragen / Chlorantraniliprole) ಸಿಂಪಡಿಸುವ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "question_variants": [
+      "ಕಡಲೆ ಕಾಯಿಕೊರಕಕ್ಕೆ ಕೊರಾಜನ್ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+      "Coragen dose for chickpea pod borer"
+    ],
+    "keywords": [
+      "ಕೊರಾಜನ್",
+      "Coragen",
+      "Chlorantraniliprole",
+      "ಕಾಯಿಕೊರಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಾಯಿಕೊರಕ ಹುಳುಗಳು ತೀವ್ರವಾಗಿ ವ್ಯಾಪಿಸಿದ್ದು ಶಕ್ತಿಯುತ ರಾಸಾಯನಿಕ ಸಿಂಪರಣೆ ಬೇಕಾಗಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 60 ಮಿಲಿ ಕ್ಲೋರಾಂಟ್ರಾನಿಲಿಪ್ರೋಲ್ 18.5% SC (Coragen) ಅನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು (0.3 ml/L).",
+      "detailed_answer": "ಕೊರಾಜನ್ ಕೀಟನಾಶಕವು ಹುಳುವಿನ ಸ್ನಾಯುಗಳನ್ನು ಪಾರ್ಶ್ವವಾಯುವಿಗೆ ಒಳಪಡಿಸಿ ತಕ್ಷಣವೇ ತಿನ್ನುವುದನ್ನು ನಿಲ್ಲಿಸುತ್ತದೆ. ಇದು 20 ದಿನಗಳ ಸುದೀರ್ಘ ರಕ್ಷಣೆ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 60 ಮಿಲಿ ಕೊರಾಜನ್ ಸಿಂಪಡಿಸಿ.",
+        "ಕಾಯಿ ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಸಿಂಪಡಿಸುವುದು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Coragen 18.5 SC"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕೊರಾಜನ್ ಸಿಂಪರಣೆ: 60 ml/ಎಕರೆ (0.3 ml/L), 20 ದಿನಗಳ ಸುದೀರ್ಘ ಕಾಯಿಕೊರಕ ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೊಯೇಟ್",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೊಯೇಟ್ (Emamectin Benzoate 5% SG) ಕೀಟನಾಶಕವನ್ನು ಕಾಯಿಕೊರಕಕ್ಕೆ ಹೇಗೆ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಪ್ರೊಕ್ಲೇಮ್/ಎಮಾಮೆಕ್ಟಿನ್ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+      "Emamectin benzoate dose for chickpea"
+    ],
+    "keywords": [
+      "ಎಮಾಮೆಕ್ಟಿನ್",
+      "Proclaim",
+      "Emamectin Benzoate",
+      "ಕಾಯಿಕೊರಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ದಪ್ಪ ಹಸಿರು ಕಾಯಿಕೊರಕ ಹುಳುಗಳನ್ನು ಶೀಘ್ರವಾಗಿ ಕೊಲ್ಲಲು ರಾಸಾಯನಿಕ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 80 ಗ್ರಾಂ ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೊಯೇಟ್ (5% SG) ಅನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು (0.4 g/L).",
+      "detailed_answer": "ಇದು ಹುಳುಗಳ ಹೊಟ್ಟೆ ಸೇರಿ ತಕ್ಷಣವೇ ಅವುಗಳನ್ನು ಸಾಯಿಸುತ್ತದೆ. ಕಾಯಿ ತೂತು ಮಾಡುತ್ತಿರುವ ಹುಳುಗಳಿಗೆ ಇದು ಅತ್ಯಂತ ಪರಿಣಾಮಕಾರಿ.",
+      "step_by_step": [
+        "80 ಗ್ರಾಂ ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೊಯೇಟ್ 200 ಲೀ ನೀರಿನಲ್ಲಿ ಕರಗಿಸಿ.",
+        "ಸಂಜೆ ವೇಳೆ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Emamectin Benzoate 5 SG"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೊಯೇಟ್: 80g/ಎಕರೆ (0.4 g/L), ತಕ್ಷಣದ ಕಾಯಿಕೊರಕ ನಾಶ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕತ್ತರಿಸುವ ಹುಳು ನಿಯಂತ್ರಣ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಕತ್ತರಿಸುವ ಹುಳು (Cutworm / Agrotis ipsilon) ಬಾಧೆಗೆ ಪರಿಹಾರವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಸಸಿ ಕತ್ತರಿಸುವ ಹುಳು ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "Cutworm control in chickpea"
+    ],
+    "keywords": [
+      "ಕತ್ತರಿಸುವ ಹುಳು",
+      "Cutworm",
+      "Agrotis",
+      "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ರಾತ್ರಿ ವೇಳೆ ಹುಳುಗಳು ನೆಲದ ಮಟ್ಟದಲ್ಲಿ ಕಡಲೆ ಸಸಿಗಳನ್ನು ಕತ್ತರಿಸಿ ಹಾಕುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಂಜೆ ವೇಳೆ ಗಿಡದ ಬುಡಕ್ಕೆ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 20 EC (2 ml/L) ಅಥವಾ ಲ್ಯಾಂಬ್ಡಾ ಸೈಹಾ ಲೋಥ್ರಿನ್ ಸಿಂಪಡಿಸಿ ಮಣ್ಣು ನೆನೆಯುವಂತೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಕತ್ತರಿಸುವ ಹುಳುಗಳು ಹಗಲಿನಲ್ಲಿ ಮಣ್ಣಿನಲ್ಲಿ ಅಡಗಿ ರಾತ್ರಿ ಬಂದು ಗಿಡ ಕತ್ತರಿಸುತ್ತವೆ. ಜಮೀನಿನ ಸುತ್ತಲು ವಿಷಮಿಶ್ರಿತ ತೌಡು (Toxic bait) ಇಡುವುದು ಮತ್ತೊಂದು ಪರಿಹಾರ.",
+      "step_by_step": [
+        "10 ಕೆಜಿ ತೌಡು + 1 ಕೆಜಿ ಬೆಲ್ಲ + 250 ಮಿಲಿ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಬೆರೆಸಿ ಉಂಡೆ ಮಾಡಿ ಜಮೀನಿನಲ್ಲಿ ಇರಿಸಿ.",
+        "ಅಥವಾ ಬುಡಕ್ಕೆ ಕೀಟನಾಶಕ ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Chlorpyrifos 20 EC"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕತ್ತರಿಸುವ ಹುಳು: ವಿಷ ತೌಡು ಉಂಡೆ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 2ml/L ಬುಡ ಸಿಂಪರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸಸ್ಯ ಹೇನು ಮತ್ತು ಹಳದಿ ಬಲೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಸಸ್ಯ ಹೇನು (Aphids) ಮತ್ತು ನೊಣಗಳನ್ನು ಹಳದಿ ಅಂಟಿನ ಬಲೆ (Yellow Sticky Traps) ಬಳಸಿ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆಗೆ ಹಳದಿ ಬಲೆ ಅಳವಡಿಸುವುದು ಏಕೆ?",
+      "Aphid control yellow sticky traps chickpea"
+    ],
+    "keywords": [
+      "ಸಸ್ಯ ಹೇನು",
+      "Aphids",
+      "ಹಳದಿ ಬಲೆ",
+      "Sticky Traps"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಚಿಗುರುಗಳಲ್ಲಿ ಕಪ್ಪು/ಹಸಿರು ಸಸ್ಯ ಹೇನುಗಳು ರಸ ಹೀರುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 10-12 ಹಳದಿ ಅಂಟಿನ ಬಲೆಗಳನ್ನು (Yellow Sticky Traps) ಗಿಡದ ಎತ್ತರದಲ್ಲಿ ನಿಲ್ಲಿಸುವುದರಿಂದ ರಸಹೀರುವ ಕೀಟಗಳು ಬಲಗೆ ಅಂಟಿ ಸಾಯುತ್ತವೆ.",
+      "detailed_answer": "ಸಸ್ಯ ಹೇನುಗಳು ರಸ ಹೀರಿ 'ಸ್ಟಂಟ್ ವೈರಸ್' ರೋಗವನ್ನು ಹರಡುತ್ತವೆ. ಬಾಧೆ ಹೆಚ್ಚಿದ್ದರೆ ಡೈಮಿಥೋಯೇಟ್ (2 ml/L) ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 10 ಹಳದಿ ಬಲೆ ನಿಲ್ಲಿಸಿ.",
+        "ರಸಹೀರುವ ಕೀಟ ಹೆಚ್ಚಿದ್ದರೆ ಡೈಮಿಥೋಯೇಟ್ 2ml/L ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Yellow Sticky Traps",
+        "Dimethoate"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಸ್ಯ ಹೇನು ನಿಯಂತ್ರಣ: ಎಕರೆಗೆ 10 ಹಳದಿ ಬಲೆ, ಡೈಮಿಥೋಯೇಟ್ 2ml/L ಸಿಂಪರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸೊರಗು ರೋಗ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಸೊರಗು ರೋಗ (Fusarium Wilt) ಲಕ್ಷಣಗಳು ಮತ್ತು ನಿರ್ವಹಣಾ ಕ್ರಮಗಳೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಸೊರಗು ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "Fusarium wilt symptoms chickpea"
+    ],
+    "keywords": [
+      "ಸೊರಗು ರೋಗ",
+      "Fusarium Wilt",
+      "ಫ್ಯುಸೇರಿಯಮ್",
+      "ಗಿಡ ಒಣಗುವುದು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಗಿಡಗಳು ಹಠಾತ್ತನೆ ಬಾಡಿ ಒಣಗಿ ಸಾಯುತ್ತಿವೆ, ಕಾಂಡ ಸೀಳಿದರೆ ಕಪ್ಪು ಗೆರೆ ಕಾಣಿಸುತ್ತಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಫ್ಯುಸೇರಿಯಮ್ ಸೊರಗು ರೋಗ. ರೋಗ ನಿರೋಧಕ ತಳಿ (JG-11), ಟ್ರೈಕೋಡರ್ಮಾ ಬೀಜೋಪಚಾರ ಮತ್ತು ಬೆಳೆ ಪರಿವರ್ತನೆಯಿಂದ ತಡೆಯಬಹುದು.",
+      "detailed_answer": "ಸೊರಗು ರೋಗದ ಶಿಲೀಂಧ್ರವು ಮಣ್ಣಿನಲ್ಲಿದ್ದು ಬೇರಿನ ಮೂಲಕ ಕಾಂಡ ಹೊಕ್ಕು ನೀರು ಹರಿಯುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಗಿಡ ಒಣಗಿದ ಮೇಲೆ ಔಷಧ ಹೊಡೆದರೆ ಗುಣವಾಗುವುದಿಲ್ಲ, ಮುನ್ನೆಚ್ಚರಿಕೆಯೇ ಪರಿಹಾರ.",
+      "step_by_step": [
+        "ಟ್ರೈಕೋಡರ್ಮಾ 4g/kg ಬೀಜೋಪಚಾರ ಮಾಡಿ.",
+        "ಸೊರಗು ರೋಗ ಬಂದ ಗಿಡಗಳನ್ನು ಕಿತ್ತು ಸುಡಿ.",
+        "100kg ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರಕ್ಕೆ 2kg ಟ್ರೈಕೋಡರ್ಮಾ ಬೆರೆಸಿ ಮಣ್ಣಿಗೆ ಹಾಕಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Trichoderma viride"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ರೋಗ ಬಂದ ಮೇಲೆ ರಕ್ಷಿಸುವುದು ಕಷ್ಟ, ಮುನ್ನೆಚ್ಚರಿಕೆ ಕಡ್ಡಾಯ."
+      ]
+    },
+    "retrieval_text": "ಸೊರಗು ರೋಗ (Wilt): ರೋಗ ನಿರೋಧಕ ತಳಿ (JG-11), ಟ್ರೈಕೋಡರ್ಮಾ ಉಪಚಾರ, ಬೆಳೆ ಪರಿವರ್ತನೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಒಣ ಬೇರು ಕೊಳೆ ರೋಗ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಒಣ ಬೇರು ಕೊಳೆ ರೋಗ (Dry Root Rot / Rhizoctonia) ಲಕ್ಷಣಗಳು ಮತ್ತು ಪರಿಹಾರವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಒಣ ಬೇರು ಕೊಳೆ ರೋಗ ಪರಿಹಾರ?",
+      "Dry root rot symptoms chickpea"
+    ],
+    "keywords": [
+      "ಒಣ ಬೇರು ಕೊಳೆ",
+      "Dry Root Rot",
+      "Rhizoctonia",
+      "ಬೇರು ಕಪ್ಪು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬಿಸಿಲು ಹೆಚ್ಚಾದಾಗ ಗಿಡಗಳು ಒಣಗುತ್ತಿದ್ದು ಬೇರುಗಳು ಕಪ್ಪಾಗಿ ನಾರಿನಂತಾಗಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ರೈಜೋಕ್ಟೋನಿಯಾ ಒಣ ಬೇರು ಕೊಳೆ ರೋಗ. ತೇವಾಂಶ ಕಾಪಾಡುವುದು ಮತ್ತು ಕಾರ್ಬನ್ಡಾಜಿಮ್+ಮ್ಯಾಂಕೋಜೆಬ್ (SAAF 2g/L) drenching ಪರಿಹಾರ.",
+      "detailed_answer": "ಹೆಚ್ಚಿನ ತಾಪಮಾನ (30°C ಗಿಂತ ಹೆಚ್ಚು) ಮತ್ತು ಮಣ್ಣಿನ ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಈ ರೋಗ ತೀವ್ರವಾಗುತ್ತದೆ. ಮುಖ್ಯ ಬೇರು ಕಪ್ಪಾಗಿ ಮುರಿದುಹೋಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಕಾಯ್ದುಕೊಳ್ಳಿ.",
+        "ಗಿಡದ ಬುಡಕ್ಕೆ ಸಾಫ್ (SAAF 2g/L) ದ್ರಾವಣ ಸುರಿಯಿರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "SAAF Fungicide"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಒಣ ಬೇರು ಕೊಳೆ: ತೇವಾಂಶ ಕಾಯ್ದುಕೊಳ್ಳುವುದು, ಸಾಫ್ 2g/L drenching.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕತ್ತಿನ ಕೊಳೆ ರೋಗ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಗಿಡದ ಕತ್ತಿನ ಭಾಗದಲ್ಲಿ ಬಿಳಿ ಬೂಷ್ಟು ಬರುವ ಕತ್ತಿನ ಕೊಳೆ ರೋಗ (Collar Rot) ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಕತ್ತಿನ ಕೊಳೆ ರೋಗ ಪರಿಹಾರ?",
+      "Collar rot control chickpea"
+    ],
+    "keywords": [
+      "ಕತ್ತಿನ ಕೊಳೆ",
+      "Collar Rot",
+      "Sclerotium",
+      "ಕತ್ತಿನ ಭಾಗ ಕೊಳೆತ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ನೆಲದ ಮಟ್ಟದ ಗಿಡದ ಕತ್ತಿನ ಭಾಗದಲ್ಲಿ ಬಿಳಿ ಬೂಷ್ಟು ಮೂಡಿ ಸಾಾಸಿವೆ ಕಾಳಿನಂತಹ ಕೀಟಾಣುಗಳು ಕಾಣಿಸುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಸ್ಕ್ಲೆರೋಷಿಯಮ್ ಕತ್ತಿನ ಕೊಳೆ ರೋಗ. ಜೌಗು ತಡೆದು ಕಾರ್ಬನ್ಡಾಜಿಮ್ 2 ಗ್ರಾಂ/ಲೀ ಗಿಡದ ಬುಡಕ್ಕೆ ಸುರಿಯಬೇಕು.",
+      "detailed_answer": "ಅತಿಯಾದ ತೇವಾಂಶ ಮತ್ತು ಕೊಳೆಯದ ಕಸ ಮಣ್ಣಿನಲ್ಲಿದ್ದಾಗ ಈ ರೋಗ ಬರುತ್ತದೆ. ಗಿಡದ ಕತ್ತಿನ ಭಾಗ ಕೊಳೆತು ಗಿಡ ನೆಲಕ್ಕೆ ಒರಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಜಮೀನಿನಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+        "ಕಾರ್ಬನ್ಡಾಜಿಮ್ (2g/L) ಬುಡಕ್ಕೆ ಡ್ರೆಂಚಿಂಗ್ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Carbendazim 50 WP"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕತ್ತಿನ ಕೊಳೆ ರೋಗ: ಜೌಗು ತಡೆ, ಕಾರ್ಬನ್ಡಾಜಿಮ್ 2g/L ಬುಡಕ್ಕೆ drenching.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬೂದಿ ರೋಗ ನಿಯಂತ್ರಣ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಎಲೆಗಳ ಮೇಲೆ ಬಿಳಿ ಪುಡಿ ಆವರಿಸುವ ಬೂದಿ ರೋಗ (Powdery Mildew) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆ ಬೂದಿ ರೋಗಕ್ಕೆ ಏನು ಸಿಂಪಡಿಸಬೇಕು?",
+      "Powdery mildew chickpea control"
+    ],
+    "keywords": [
+      "ಬೂದಿ ರೋಗ",
+      "Powdery Mildew",
+      "ಕರಗುವ ಗಂಧಕ",
+      "Sulfur"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಎಲೆ ಮತ್ತು ಕಾಂಡಗಳ ಮೇಲೆ ಬಿಳಿ ಬೂದಿಯಂತಹ ಪುಡಿ ಆವರಿಸಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 500 ಗ್ರಾಂ ನೀರಿನಲ್ಲಿ ಕರಗುವ ಗಂಧಕ (Soluble Sulfur 80% WDG 3g/L) ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಬೂದಿ ರೋಗವು ಎಲೆಗಳ ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆಯನ್ನು ತಡೆದು ಗಿಡಗಳನ್ನು ಒಣಗಿಸುತ್ತದೆ. ಕರಗುವ ಗಂಧಕ ಸಿಂಪಡಿಸಿದರೆ ರೋಗ ತಕ್ಷಣ ನಿಯಂತ್ರಣಕ್ಕೆ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "3 ಗ್ರಾಂ ಸಲ್ಫರ್ 80% WDG 1 ಲೀ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+        "ರೋಗ ಲಕ್ಷಣ ಕಂಡ ತಕ್ಷಣ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sulfur 80 WDG"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಬೂದಿ ರೋಗ: ಕರಗುವ ಗಂಧಕ 3g/L ಸಿಂಪರಣೆ, ಬಿಳಿ ಪುಡಿ ರೋಗ ನಿಯಂತ್ರಣ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಆಲ್ಟರ್ನೇರಿಯಾ ಎಲೆ ಚುಕ್ಕೆ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆಯಲ್ಲಿ ಆಲ್ಟರ್ನೇರಿಯಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ (Alternaria Blight) ಕಾಣಿಸಿಕೊಂಡರೆ ಯಾವ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ ಪರಿಹಾರ?",
+      "Alternaria blight chickpea control"
+    ],
+    "keywords": [
+      "ಆಲ್ಟರ್ನೇರಿಯಾ",
+      "Alternaria Blight",
+      "ಎಲೆ ಚುಕ್ಕೆ",
+      "ಮ್ಯಾಂಕೋಜೆಬ್"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ವೃತ್ತಾಕಾರದ ಚುಕ್ಕೆಗಳು ಮೂಡಿ ಎಲೆಗಳು ಉದುರುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 400 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ (Mancozeb 75% WP 2g/L) ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಮೋಡ ಕವಿದ ವಾತಾವರಣ ಮತ್ತು ಹೆಚ್ಚಿನ ಶೇಕಡಾ ತೇವಾಂಶವಿದ್ದಾಗ ಆಲ್ಟರ್ನೇರಿಯಾ ರೋಗ ತೀವ್ರವಾಗಿ ವ್ಯಾಪಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "2 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ 1 ಲೀ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+        "15 ದಿನಗಳ ನಂತರ ಇನ್ನೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Mancozeb 75 WP"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಆಲ್ಟರ್ನೇರಿಯಾ ಎಲೆ ಚುಕ್ಕೆ: ಮ್ಯಾಂಕೋಜೆಬ್ 2g/L ಸಿಂಪರಣೆ, ಕಂದು ಚುಕ್ಕೆ ತಡೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸ್ಟಂಟ್ ವೈರಸ್ ರೋಗ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಸ್ಟಂಟ್ ವೈರಸ್ (Chickpea Stunt Virus) ರೋಗದ ಲಕ್ಷಣಗಳು ಮತ್ತು ವಾಹಕ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಗಿಡ ಗಿಡ್ಡಗಾಗುತ್ತಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+      "Chickpea stunt virus symptoms"
+    ],
+    "keywords": [
+      "ಸ್ಟಂಟ್ ವೈರಸ್",
+      "Stunt Virus",
+      "ಸಸ್ಯ ಹೇನು",
+      "ಗಿಡ್ಡ ಗಿಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಗಿಡಗಳು ಬೆಳೆಯದೆ ಗಿಡ್ಡಗಾಗಿ ಎಲೆಗಳು ಕೆಂಪು-ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ ಕಸಬರಗಿಯಂತೆ ಆಗುತ್ತಿವೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಸಸ್ಯ ಹೇನುಗಳಿಂದ ಹರಡುವ ಸ್ಟಂಟ್ ವೈರಸ್. ರೋಗಪೀಡಿತ ಗಿಡಗಳನ್ನು ಕಿತ್ತು ಸುಟ್ಟು, ಸಸ್ಯ ಹೇನು ನಿಯಂತ್ರಣಕ್ಕೆ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ (0.3 ml/L) ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ವೈರಸ್ ರೋಗಕ್ಕೆ ನೇರ ಔಷಧವಿಲ್ಲ. ರೋಗ ಹರಡುವ ಸಸ್ಯ ಹೇನುಗಳನ್ನು ನಾಶಪಡಿಸುವುದೇ ಏಕೈಕ ಮಾರ್ಗ.",
+      "step_by_step": [
+        "ರೋಗ ಬಂದ ಗಿಡಗಳನ್ನು ಕಿತ್ತು ಸುಡಿ.",
+        "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ (0.3 ml/L) ಸಿಂಪಡಿಸಿ ಹೇನು ನಾಶಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Imidacloprid 17.8 SL"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸ್ಟಂಟ್ ವೈರಸ್: ಗಿಡ್ಡ ಗಿಡ ಲಕ್ಷಣ, ರೋಗಪೀಡಿತ ಗಿಡ ಸುಡುವುದು, ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಸಿಂಪರಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಟ್ರೈಕೋಡರ್ಮಾ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕ ಟ್ರೈಕೋಡರ್ಮಾ (Trichoderma) ವನ್ನು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರದಲ್ಲಿ ಬೆರೆಸಿ ಮಣ್ಣಿಗೆ ಹಾಕುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಟ್ರೈಕೋಡರ್ಮಾ ಗೊಬ್ಬರದಲ್ಲಿ ಬೆರೆಸುವುದು ಹೇಗೆ?",
+      "Trichoderma enrichment in FYM"
+    ],
+    "keywords": [
+      "ಟ್ರೈಕೋಡರ್ಮಾ",
+      "Trichoderma",
+      "ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+      "ಮಣ್ಣು ಉಪಚಾರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಜಮೀನಿನಲ್ಲಿ ಮಣ್ಣುಜನ್ಯ ರೋಗಗಳನ್ನು ತಡೆಯಲು ಟ್ರೈಕೋಡರ್ಮಾ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವ ವಿಧಾನ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "100 ಕೆಜಿ ತೇವವಿರುವ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರಕ್ಕೆ 2 ಕೆಜಿ ಟ್ರೈಕೋಡರ್ಮಾ ಪುಡಿ ಬೆರೆಸಿ 7 ದಿನ ನೆರಳಿನಲ್ಲಿ ಗೋಣಿಚೀಲ ಮುಚ್ಚಿಟ್ಟು ನಂತರ ಎಕರೆ ಜಮೀನಿಗೆ ಹರಡಬೇಕು.",
+      "detailed_answer": "7 ದಿನಗಳಲ್ಲಿ ಟ್ರೈಕೋಡರ್ಮಾ ಬೂಷ್ಟು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರದಲ್ಲಿ ಕೋಟಿಗಟ್ಟಲೆ ವೃದ್ಧಿಯಾಗುತ್ತದೆ. ಇದನ್ನು ಮಣ್ಣಿಗೆ ಹಾಕಿದರೆ ಸೊರಗು ರೋಗ ಸಂಪೂರ್ಣ ನಿಯಂತ್ರಣಕ್ಕೆ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "100 ಕೆಜಿ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ + 2 ಕೆಜಿ ಟ್ರೈಕೋಡರ್ಮಾ ಬೆರೆಸಿ.",
+        "7 ದಿನ ನೆರಳಿನಲ್ಲಿ ಇರಿಸಿ.",
+        "ಉಳುಮೆ ವೇಳೆ ಮಣ್ಣಿಗೆ ಸೇರಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Trichoderma viride"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಟ್ರೈಕೋಡರ್ಮಾ ಬೆರೆಸುವುದು: 2kg/100kg FYM, 7 ದಿನ ನೆರಳಿನಲ್ಲಿ ವೃದ್ಧಿ, ಅತ್ಯುತ್ತಮ ಮಣ್ಣು ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸ್ಯೂಡೋಮೊನಾಸ್ ಜೈವಿಕ ನಿಯಂತ್ರಣ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸ್ಯೂಡೋಮೊನಾಸ್ ಫ್ಲೋರೆಸೆನ್ಸ್ (Pseudomonas fluorescens) ನಿಂದ ಕಡಲೆ ಬೇರು ರೋಗಗಳ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಸ್ಯೂಡೋಮೊನಾಸ್ ಕಡಲೆಗೆ ಹೇಗೆ ಬಳಸಬೇಕು?",
+      "Pseudomonas fluorescens for chickpea"
+    ],
+    "keywords": [
+      "ಸ್ಯೂಡೋಮೊನಾಸ್",
+      "Pseudomonas",
+      "ಜೈವಿಕ ಕೀಟನಾಶಕ",
+      "ಬೇರು ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ಆಧಾರಿತ ಜೈವಿಕ ಶಿಲೀಂಧ್ರನಾಶಕದಿಂದ ಬೇರು ರೋಗ ನಿಯಂತ್ರಿಸುವ ಮಾಹಿತಿ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 1 ಕೆಜಿ ಸ್ಯೂಡೋಮೊನಾಸ್ ಫ್ಲೋರೆಸೆನ್ಸ್ ಪುಡಿಯನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಗಿಡಗಳ ಬುಡಕ್ಕೆ ಸುರಿಯಬೇಕು ಅಥವಾ ಬೀಜೋಪಚಾರ (10g/kg) ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಸ್ಯೂಡೋಮೊನಾಸ್ ಬ್ಯಾಕ್ಟೀರಿಯಾ ಸಸ್ಯಕ್ಕೆ ರೋಗನಿರೋಧಕ ಶಕ್ತಿ (Induced Systemic Resistance) ನೀಡುತ್ತದೆ ಮತ್ತು ಬೇರು ಕೊಳೆತ ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "10 ಗ್ರಾಂ/ಕೆಜಿ ಬೀಜೋಪಚಾರ ಮಾಡಿ.",
+        "ಅಥವಾ 5 ಗ್ರಾಂ/ಲೀ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಬುಡಕ್ಕೆ ಹಾಕಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pseudomonas fluorescens"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸ್ಯೂಡೋಮೊನಾಸ್: 10g/kg ಬೀಜೋಪಚಾರ, ಸಸ್ಯ ನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಳ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸಾಫ್ ಶಿಲೀಂಧ್ರನಾಶಕ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಾಫ್ (SAAF - Carbendazim 12% + Mancozeb 63% WP) ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಕೆಯ ವಿಧಾನ ತಿಳಿಸಿ.",
+    "question_variants": [
+      "ಕಡಲೆ ಸಾಫ್ ಶಿಲೀಂಧ್ರನಾಶಕ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+      "SAAF fungicide dose for chickpea"
+    ],
+    "keywords": [
+      "SAAF",
+      "ಸಾಫ್",
+      "ಕಾರ್ಬನ್ಡಾಜಿಮ್",
+      "ಮ್ಯಾಂಕೋಜೆಬ್"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ಬೇರು ಕೊಳೆತ ಎರಡೂ ಒಟ್ಟಿಗೆ ಬಂದಾಗ ಯಾವ ಔಷಧ ಹೊಡೆಯಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 400 ಗ್ರಾಂ ಸಾಫ್ (SAAF) ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು (2g/L).",
+      "detailed_answer": "ಸಾಫ್ ನಲ್ಲಿ ಅಂತರವ್ಯಾಪಿ (Carbendazim) ಮತ್ತು ಸ್ಪರ್ಶ (Mancozeb) ಎರಡೂ ಶಿಲೀಂಧ್ರನಾಶಕಗಳಿರುವುದರಿಂದ ದ್ವಿಮುಖ ರಕ್ಷಣೆ ಸಿಗುತ್ತದೆ.",
+      "step_by_step": [
+        "2 ಗ್ರಾಂ ಸಾಫ್ 1 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+        "ಬುಡಕ್ಕೂ ಸುರಿಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "SAAF Fungicide"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಾಫ್ ಸಿಂಪರಣೆ: 2g/L (400g/ಎಕರೆ), ದ್ವಿಮುಖ ಶಿಲೀಂಧ್ರ ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಬೆಳೆ ಸರದಿ ನಿಯಮ",
+    "subtopic": "Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ರೋಗಗಳನ್ನು ತಡೆಯಲು 3 ವರ್ಷಗಳ ಬೆಳೆ ಸರದಿ (Crop Rotation) ಏಕೆ ಕಡ್ಡಾಯ?",
+    "question_variants": [
+      "ಕಡಲೆ ಬೆಳೆ ಸರದಿ ನಿಯಮ ಏನು?",
+      "3 year crop rotation for chickpea wilt"
+    ],
+    "keywords": [
+      "ಬೆಳೆ ಸರದಿ",
+      "Crop Rotation",
+      "ಸೊರಗು ರೋಗ",
+      "ಮಣ್ಣು ರಕ್ಷಣೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಸೊರಗು ರೋಗದ ಬೂಷ್ಟು ಮಣ್ಣಿನಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ನಾಶವಾಗಲು ಎಷ್ಟು ವರ್ಷ ಬೆಳೆ ಸರದಿ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೊರಗು ರೋಗಪೀಡಿತ ಜಮೀನಿನಲ್ಲಿ ಕನಿಷ್ಠ 3 ವರ್ಷಗಳ ಕಾಲ ದ್ವಿದಳ ಧಾನ್ಯಗಳನ್ನು ಬೆಳೆಯದೆ ಜೋಳ, ಮೆಕ್ಕೆಜೋಳ ಅಥವಾ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಬೇಕು.",
+      "detailed_answer": "ಫ್ಯುಸೇರಿಯಮ್ ಬೂಷ್ಟು ಮಣ್ಣಿನಲ್ಲಿ 3 ವರ್ಷಗಳವರೆಗೆ ಜೀವಿಸಬಲ್ಲದು. 3 ವರ್ಷ ಏಕಧಾನ್ಯ ಬೆಳೆದಾಗ ಆಹಾರ ಸಿಗದೆ ಬೂಷ್ಟು ನಾಶವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "3 ವರ್ಷ ಕಡಲೆ ಬೆಳೆಯಬೇಡಿ.",
+        "ಜೋಳ ಅಥವಾ ಮೆಕ್ಕೆಜೋಳ ಬೆಳೆಯಿರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "3 ವರ್ಷ ಬೆಳೆ ಸರದಿ: ಸೊರಗು ರೋಗಾಣು ಸಂಪೂರ್ಣ ನಾಶ, ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಮರುಸ್ಥಾಪನೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕೊಯ್ಲಿನ ಸರಿಯಾದ ಸಮಯ",
+    "subtopic": "Harvest & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಕೊಯ್ಲು ಮಾಡಲು ಸೂಕ್ತ ಸಮಯವನ್ನು ಹೇಗೆ ಗುರುತಿಸಬೇಕು?",
+    "question_variants": [
+      "ಕಡಲೆ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+      "Chickpea harvest time indicators"
+    ],
+    "keywords": [
+      "ಕೊಯ್ಲು ಸಮಯ",
+      "Harvesting",
+      "ಹಳದಿ ಎಲೆ",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಬೆಳೆ ಕೊಯ್ಲಿಗೆ ಬಂದಿದೆ ಎಂದು ತಿಳಿಯುವ ಬಾಹ್ಯ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ 85-90 ರಷ್ಟು ಗಿಡಗಳ ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಒಣಗಿ ಬಿದ್ದಾಗ ಮತ್ತು ಕಾಯಿಗಳನ್ನು ಅಲ್ಲಾಡಿಸಿದರೆ ಕಾಳುಗಳ ಸದ್ದು ಬರುವಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಅತಿಯಾಗಿ ಒಣಗಲು ಬಿಟ್ಟರೆ ಕಾಯಿಗಳು ಸಿಡಿದು ಕಾಳುಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಪೋಲಾಗುತ್ತವೆ. ತೀರಾ ಹಸಿಯಾಗಿದ್ದಾಗ ಕೊಯ್ಲು ಮಾಡಿದರೆ ಕಾಳುಗಳು ಮುದುಡುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಒಣಗಿ ಬಿದ್ದಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+        "ಬೆಳಿಗ್ಗೆ ವೇಳೆಯಲ್ಲಿ ಕೊಯ್ಲು ಮಾಡುವುದು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕೊಯ್ಲು ಸಮಯ: 85-90% ಎಲೆ ಒಣಗಿ ಬಿದ್ದಾಗ, ಕಾಯಿಗಳಲ್ಲಿ ಕಾಳಿನ ಸದ್ದು ಬರುವಾಗ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಯಂತ್ರ ಕೊಯ್ಲು",
+    "subtopic": "Harvest & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಯಂತ್ರ ಚಾಲಿತ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಮೂಲಕ ಕಡಲೆ ಕೊಯ್ಲು ಮಾಡುವಾಗ ಅನುಸರಿಸಬೇಕಾದ ಕ್ರಮಗಳೇನು?",
+    "question_variants": [
+      "ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಕಡಲೆ ಕೊಯ್ಲು?",
+      "Combine harvester for chickpea guidelines"
+    ],
+    "keywords": [
+      "ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್",
+      "ಯಂತ್ರ ಕೊಯ್ಲು",
+      "GBM-2",
+      "ತೇವಾಂಶ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಯಂತ್ರ ಬಳಸಿ ಕಡಲೆ ಕೊಯ್ಲು ಮಾಡುವಾಗ ಕಾಳು ಒಡೆಯದಂತೆ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಳಿನ ತೇವಾಂಶ ಶೇ 13-15 ರಷ್ಟಿದ್ದಾಗ ಮತ್ತು ನೆಟ್ಟಗೆ ಬೆಳೆಯುವ ತಳಿಗಳಲ್ಲಿ (GBM-2) ಯಂತ್ರ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಯಂತ್ರದ ಸಿಲಿಂಡರ್ ಸ್ಪೀಡ್ ತಗ್ಗಿಸಬೇಕು (400-500 RPM). ಇಲ್ಲದಿದ್ದರೆ ಕಡಲೆ ಕಾಳುಗಳು ಸಿಡಿದು ಎರಡು ಹೋಳಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಹಾರ್ವೆಸ್ಟರ್ ಸಿಲಿಂಡರ್ ಸ್ಪೀಡ್ 450 RPM ಗೆ ಹೊಂದಿಸಿ.",
+        "ಬೆಳಿಗ್ಗೆ ಇಬ್ಬನಿ ಆರಿದ ನಂತರ ಕೊಯ್ಲು ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Combine Harvester"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಯಂತ್ರ ಕೊಯ್ಲು: ಕಾಳು ತೇವಾಂಶ 13-15%, ಸಿಲಿಂಡರ್ ಸ್ಪೀಡ್ 450 RPM, ಕಡಿಮೆ ನಷ್ಟ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಒಕ್ಕಣೆ ಮತ್ತು ಒಣಗಿಸುವಿಕೆ",
+    "subtopic": "Harvest & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಒಕ್ಕಣೆ (Threshing) ಮತ್ತು ಧಾನ್ಯ ಬೇರ್ಪಡಿಸುವ ವಿಧಾನ ತಿಳಿಸಿ.",
+    "question_variants": [
+      "ಕಡಲೆ ಒಕ್ಕಣೆ ಮಾಡುವುದು ಹೇಗೆ?",
+      "Threshing and drying chickpea"
+    ],
+    "keywords": [
+      "ಒಕ್ಕಣೆ",
+      "Threshing",
+      "ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವುದು",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕೊಯ್ಲು ಮಾಡಿದ ಕಡಲೆ ಗಿಡಗಳನ್ನು ಒಕ್ಕಣೆ ಮಾಡಲು ಹದಗೊಳಿಸುವ ವಿಧಾನ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೊಯ್ಲು ಮಾಡಿದ ಗಿಡಗಳನ್ನು ಜಮೀನಿನಲ್ಲಿ 3-4 ದಿನ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿ, ನಂತರ ಒಕ್ಕಣೆ ಯಂತ್ರ ಅಥವಾ ಟ್ರ್ಯಾಕ್ಟರ್ ತುಳಿಸಿ ಧಾನ್ಯ ಬೇರ್ಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಒಣಗಿದ ಕಾಯಿಗಳಿಂದ ಕಾಳುಗಳು ಸುಲಭವಾಗಿ ಬೇರ್ಪಡುತ್ತವೆ. ಧಾನ್ಯವನ್ನು ತೂರಲು (Winnowing) ಯಂತ್ರ ಬಳಸಿ ಧೂಳು ರಹಿತಗೊಳಿಸಬೇಕು.",
+      "step_by_step": [
+        "3-4 ದಿನ ಗಿಡಗಳನ್ನು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿ.",
+        "ಒಕ್ಕಣೆ ಯಂತ್ರ ಬಳಸಿ ಕಾಳು ಪ್ರತ್ಯೇಕಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pulse Thresher"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಒಕ್ಕಣೆ ವಿಧಾನ: 3-4 ದಿನ ಬಿಸಿಲು ಒಣಗಿಸುವಿಕೆ, ಒಕ್ಕಣೆ ಯಂತ್ರದಿಂದ ಕಾಳು ಬೇರ್ಪಡಿಸುವಿಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಶೇಖರಣಾ ತೇವಾಂಶ",
+    "subtopic": "Harvest & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಖರಣೆಗೆ ಮುನ್ನ ಕಡಲೆ ಕಾಳಿನಲ್ಲಿ ಇರಬೇಕಾದ ಅತ್ಯುತ್ತಮ ತೇವಾಂಶ (Moisture Content) ಎಷ್ಟು?",
+    "question_variants": [
+      "ಕಡಲೆ ಸಂಗ್ರಹಿಸಲು ಎಷ್ಟು ತೇವಾಂಶ ಇರಬೇಕು?",
+      "Storage moisture content for chickpea"
+    ],
+    "keywords": [
+      "ಶೇಖರಣಾ ತೇವಾಂಶ",
+      "Moisture Content",
+      "8-9%",
+      "ದಾಸ್ತಾನು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಕಾಳುಗಳನ್ನು ಚೀಲದಲ್ಲಿ ತುಂಬಿ ಇಡುವ ಮುನ್ನ ಎಷ್ಟು ಒಣಗಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇಖರಣೆಗೆ ಮುನ್ನ ಕಡಲೆ ಕಾಳಿನ ತೇವಾಂಶ ಶೇ 8 ರಿಂದ 9 ಕ್ಕಿಂತ ಕಡಿಮೆಯಿರಬೇಕು.",
+      "detailed_answer": "ತೇವಾಂಶ ಶೇ 10 ಗಿಂತ ಹೆಚ್ಚಿದ್ದರೆ ಕಣಜದ ಕೀಟ ಕಡೆತ ಹುಳು (Pulse beetle) ಮತ್ತು ಬೂಷ್ಟು ಬಾಧೆ ಉಂಟಾಗಿ ಧಾನ್ಯ ಹಾಳಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕೊಯ್ಲಾದ ಧಾನ್ಯವನ್ನು 4-5 ದಿನ ಬಿಸಿಲಿನಲ್ಲಿ ಹರಡಿ ಒಣಗಿಸಿ.",
+        "ಹಲ್ಲಿನಿಂದ ಕಡಿದಾಗ 'ಟಕ್' ಶಬ್ದ ಬಂದರೆ ತೇವಾಂಶ ಸರಿಯಾಗಿದೆ ಎಂದು ಅರ್ಥ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಖರಣಾ ತೇವಾಂಶ: 8-9% ಕ್ಕಿಂತ ಕಡಿಮೆ ತೇವಾಂಶ, 4-5 ದಿನ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕಣಜದ ಕಡೆತ ಹುಳು (Pulse Beetle)",
+    "subtopic": "Harvest & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಧಾನ್ಯ ಶೇಖರಣೆಯಲ್ಲಿ ಬರುವ ಕಣಜದ ಕೀಟ ಕಡೆತ ಹುಳು (Pulse Beetle / Bruchids) ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಕಾಳಿಗೆ ಹುಳು ಬಾರದಂತೆ ತಡೆಯುವುದು ಹೇಗೆ?",
+      "Pulse beetle control in stored chickpea"
+    ],
+    "keywords": [
+      "ಕಣಜದ ಹುಳು",
+      "Pulse Beetle",
+      "Bruchids",
+      "ಬೇವಿನ ಎಣ್ಣೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಶೇಖರಿಸಿಟ್ಟ ಕಡಲೆ ಕಾಳುಗಳಿಗೆ ಸಣ್ಣ ದುಂಡಗಿನ ತೂತು ಬಿದ್ದು ಹಿಟ್ಟಾಗುತ್ತಿದೆ.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "1 ಕೆಜಿ ಕಾಳಿಗೆ 5 ಮಿಲಿ ಬೇವಿನ ಎಣ್ಣೆ ಅಥವಾ ಅಡುಗೆ ಎಣ್ಣೆ ಬೆರೆಸಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು.",
+      "detailed_answer": "ಬೇವಿನ ಎಣ್ಣೆಯು ಕಾಳಿನ ಮೇಲೆ ತೆಳುವಾದ ಪೊರೆ ಉಂಟುಮಾಡಿ ಪತಂಗಗಳು ಮೊಟ್ಟೆಯಿಡುವುದನ್ನು ತಡೆಯುತ್ತದೆ. ಕಾಳಿನ ರುಚಿ ಅಥವಾ ಮೊಳಕೆಗೆ ಹಾನಿಯಾಗುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "100 ಕೆಜಿ ಕಡಲೆ ಕಾಳಿಗೆ 500 ಮಿಲಿ ಬೇವಿನ ಎಣ್ಣೆ ಬೆರೆಸಿ ಕಸಿ ಮಾಡಿ.",
+        "ಅಥವಾ ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ ಬಳಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Neem Oil"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಣಜದ ಹುಳು ತಡೆ: 5 ಮಿಲಿ ಬೇವಿನ ಎಣ್ಣೆ/ಕೆಜಿ ಕಾಳಿಗೆ ಲೇಪನ, ಪತಂಗ ಮೊಟ್ಟೆ ತಡೆಗಟ್ಟುವಿಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸೂಪರ್ ಗ್ರೇನ್ ಚೀಲಗಳು",
+    "subtopic": "Harvest & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂಪರ್ ಗ್ರೇನ್ ಚೀಲಗಳು (SuperGrain / Hermetic Bags) ಬಳಸಿ ಕಡಲೆ ಸಂಗ್ರಹಿಸುವುದರ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಕಡಲೆ ಸಂಗ್ರಹಕ್ಕೆ ಸೂಪರ್ ಗ್ರೇನ್ ಚೀಲ ಉತ್ತಮವೇ?",
+      "Hermetic bags for chickpea storage"
+    ],
+    "keywords": [
+      "SuperGrain Bag",
+      "Hermetic Bag",
+      "ಗಾಳಿ ರಹಿತ",
+      "ದಾಸ್ತಾನು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಯಾವುದೇ ರಾಸಾಯನಿಕ ಬಳಸದೆ 1-2 ವರ್ಷ ಕಡಲೆ ಕಾಳುಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಚೀಲ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂಪರ್ ಗ್ರೇನ್ (Hermetic) ಗಾಳಿಯಾಡದ ಚೀಲಗಳಲ್ಲಿ ಕಡಲೆ ತುಂಬಿಟ್ಟರೆ ಆಮ್ಲಜನಕ ಸಿಗದೆ ಹುಳುಗಳು ತಾನಾಗಿಯೇ ಸಾಯುತ್ತವೆ.",
+      "detailed_answer": "ಈ ಚೀಲಗಳು ಹೊರಗಿನಿಂದ ತೇವಾಂಶ ಮತ್ತು ಹುಳುಗಳು ಒಳಗೆ ಬರದಂತೆ ಶೇ 100 ರಕ್ಷಣೆ ನೀಡುತ್ತವೆ. 18 ತಿಂಗಳವರೆಗೆ ಧಾನ್ಯ ಸುರಕ್ಷಿತವಾಗಿರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಡಲೆ ಕಾಳನ್ನು ಸೂಪರ್ ಗ್ರೇನ್ ಒಳಚೀಲದಲ್ಲಿ ತುಂಬಿ ಕಟ್ಟಿ.",
+        "ಹೊರಗಿನ ಗೋಣಿಚೀಲದಲ್ಲಿ ಇರಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "SuperGrain Hermetic Bags"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂಪರ್ ಗ್ರೇನ್ ಚೀಲ: ಗಾಳಿಯಾಡದ ದಾಸ್ತಾನು, ರಾಸಾಯನಿಕ ರಹಿತ 18 ತಿಂಗಳು ರಕ್ಷಣೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಪ್ರತಿ ಎಕರೆ ಇಳುವರಿ",
+    "subtopic": "Harvest & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಕಡಲೆ ಬೆಳೆಯಲ್ಲಿ ಪಡೆಯಬಹುದಾದ ಸರಾಸರಿ ಇಳುವರಿ (Yield) ಎಷ್ಟು?",
+    "question_variants": [
+      "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಕ್ವಿಂಟಾಲ್ ಕಡಲೆ ಸಿಗುತ್ತದೆ?",
+      "Chickpea yield per acre in Karnataka"
+    ],
+    "keywords": [
+      "ಇಳುವರಿ",
+      "Yield per acre",
+      "ಕ್ವಿಂಟಾಲ್",
+      "ಕಡಲೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ಕಡಲೆ ಬೆಳೆಯ ಸರಾಸರಿ ಇಳುವರಿ ನಿರೀಕ್ಷೆ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ ಎಕರೆಗೆ 5 ರಿಂದ 7 ಕ್ವಿಂಟಾಲ್ ಮತ್ತು ನೀರಾವರಿಯಲ್ಲಿ ಎಕರೆಗೆ 8 ರಿಂದ 11 ಕ್ವಿಂಟಾಲ್ ಇಳುವರಿ ಪಡೆಯಬಹುದು.",
+      "detailed_answer": "ಉತ್ತಮ ತಳಿ (JG-11 / BGD-103), ಬೀಜೋಪಚಾರ ಮತ್ತು ಕಾಯಿಕೊರಕ ನಿಯಂತ್ರಣ ಮಾಡಿದ್ದರೆ ಗರಿಷ್ಠ 12 ಕ್ವಿಂಟಾಲ್ ವರೆಗೂ ಇಳುವರಿ ಪಡೆಯಲು ಸಾಧ್ಯವಿದೆ.",
+      "step_by_step": [
+        "ಶಿಫಾರಸು ಮಾಡಿದ ಬೇಸಾಯ ಕ್ರಮ ಪಾಲಿಸಿ.",
+        "ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ರೋಗ-ಕೀಟ ನಿಯಂತ್ರಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸರಾಸರಿ ಇಳುವರಿ: ಮಳೆಯಾಶ್ರಿತ (5-7 ಕ್ವಿಂಟಾಲ್/ಎಕರೆ), ನೀರಾವರಿ (8-11 ಕ್ವಿಂಟಾಲ್/ಎಕರೆ).",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಸರ್ಕಾರಿ ಬೆಂಬಲ ಬೆಲೆ (MSP)",
+    "subtopic": "Market & Economics",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಕಡಲೆಗೆ ಸರ್ಕಾರಿ ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ (MSP) ಮತ್ತು ಖರೀದಿ ಕೇಂದ್ರಗಳ ಮಾಹಿತಿ ಪಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಸರ್ಕಾರಿ ಬೆಂಬಲ ಬೆಲೆ ಎಷ್ಟು?",
+      "Chickpea MSP procurement Karnataka"
+    ],
+    "keywords": [
+      "MSP",
+      "ಬೆಂಬಲ ಬೆಲೆ",
+      "NAFED",
+      "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಬೆಲೆ ಕಡಿಮೆಯಿದ್ದಾಗ ಸರ್ಕಾರಕ್ಕೆ ಬೆಂಬಲ ಬೆಲೆಯಲ್ಲಿ ಕಡಲೆ ಮಾರಾಟ ಮಾಡುವ ವಿಧಾನ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರ ಅಥವಾ ಪ್ರೈಸ್ ಡೆಫಿಷಿಯನ್ಸಿ ಪಾವತಿ ಯೋಜನೆಯಡಿ (PM-AASHA / NAFED) ನೊಂದಾಯಿಸಿಕೊಂಡು ಬೆಂಬಲ ಬೆಲೆಯಲ್ಲಿ ಮಾರಾಟ ಮಾಡಬಹುದು.",
+      "detailed_answer": "ಸರ್ಕಾರವು ಪ್ರತಿ ಕ್ವಿಂಟಾಲ್ ಕಡಲೆಗೆ ನಿಗದಿಪಡಿಸಿದ ಎಮ್‌ಎಸ್‌ಪಿ (MSP) ಬೆಲೆಯಲ್ಲಿ ನೇರವಾಗಿ ರೈತರ ಖಾತೆಗೆ ಹಣ ಜಮೆ ಮಾಡುತ್ತದೆ. ಫ್ರೂಟ್ಸ್ (FRUITS ID) ಕಡ್ಡಾಯ.",
+      "step_by_step": [
+        "ಫ್ರೂಟ್ಸ್ ಐಡಿ ಮತ್ತು ಪಹಣಿ ಯೊಂದಿಗೆ ಖರೀದಿ ಕೇಂದ್ರದಲ್ಲಿ ಹೆಸರು ನೋಂದಾಯಿಸಿ.",
+        "ನಿಗದಿತ ದಿನಾಂಕದಂದು ಧಾನ್ಯ ನೀಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "PM-AASHA / NAFED Portal"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸರ್ಕಾರಿ ಬೆಂಬಲ ಬೆಲೆ (MSP): ಫ್ರೂಟ್ಸ್ ಐಡಿ ನೊಂದಣಿ, NAFED ಮೂಲಕ ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ ಮಂಜೂರಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕಡಲೆ ಹೊಟ್ಟು ಮತ್ತು ಹುಲ್ಲು",
+    "subtopic": "Market & Economics",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಕೊಯ್ಲಿನ ನಂತರ ಸಿಗುವ ಹೊಟ್ಟು ಮತ್ತು ಹುಲ್ಲು (Chickpea Straw / Bhusa) ದನಗಳಿಗೆ ಬಳಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಹೊಟ್ಟು ದನಗಳಿಗೆ ಒಳ್ಳೆಯದೇ?",
+      "Chickpea straw fodder value"
+    ],
+    "keywords": [
+      "ಕಡಲೆ ಹೊಟ್ಟು",
+      "Bhusa",
+      "ದನಗಳ ಮೇವು",
+      "ಪ್ರೋಟಿನ್ ಮೇವು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕಡಲೆ ಒಕ್ಕಣೆ ನಂತರ ಸಿಗುವ ಹೊಟ್ಟು ಪಶುಗಳಿಗೆ ಪೌಷ್ಟಿಕ ಮೇವೇ ತಿಳಿಯಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಲೆ ಹೊಟ್ಟು (Bhusa) ಪ್ರೋಟೀನ್ ಸಮೃದ್ಧವಾಗಿದ್ದು, ದನ, ಕುರಿ ಮತ್ತು ಮೇಕೆಗಳಿಗೆ ಅತ್ಯಂತ ಪೌಷ್ಟಿಕ ಒಣ ಮೇವಾಗಿದೆ.",
+      "detailed_answer": "ಕಡಲೆ ಹೊಟ್ಟಿನಲ್ಲಿ ಶೇ 10-12 ಪ್ರೋಟೀನ್ ಇದೆ. ಇದನ್ನು ಜೋಳದ ಕಡ್ಡಿಯೊಂದಿಗೆ ಬೆರೆಸಿ ನೀಡಿದರೆ ಹಾಲಿನ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಡಲೆ ಹೊಟ್ಟನ್ನು ಮಳೆಯಿಂದ ರಕ್ಷಿಸಿ ದಾಸ್ತಾನು ಮಾಡಿ.",
+        "ಕುರಿ ಮೇಕೆಗಳಿಗೆ ಪೌಷ್ಟಿಕ ಮೇವಾಗಿ ಬಳಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಡಲೆ ಹೊಟ್ಟು: ಪ್ರೋಟೀನ್ ಸಮೃದ್ಧ ಪಶು ಮೇವು, ಕುರಿ-ಮೇಕೆಗಳಿಗೆ ಅತ್ಯುತ್ತಮ feed.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ಕಡಲೆ (Chickpea / Bengal Gram)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Rabi",
+    "topic": "ಕಡಲೆ ಸೊಪ್ಪಿನ ಮೌಲ್ಯವರ್ಧನೆ",
+    "subtopic": "Market & Economics",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಡಲೆ ಕುಡಿ ಚಿವುಟುವಿಕೆಯಿಂದ ಸಿಗುವ ಕಡಲೆ ಸೊಪ್ಪನ್ನು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಮೌಲ್ಯವರ್ಧನೆ ಮಾಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಡಲೆ ಸೊಪ್ಪು ಮಾರಾಟ ಲಾಭದಾಯಕವೇ?",
+      "Kadale soppu market value addition"
+    ],
+    "keywords": [
+      "ಕಡಲೆ ಸೊಪ್ಪು",
+      "Kadale Soppu",
+      "ಮೌಲ್ಯವರ್ಧನೆ",
+      "ಹೆಚ್ಚುವರಿ ಆದಾಯ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Black Cotton Soil",
+      "climate": "Cool & Dry Rabi",
+      "temperature": "15-25°C",
+      "rainfall": "350-600 mm"
+    },
+    "problem_description": "ಕುಡಿ ಚಿವುಟಿದ ಕಡಲೆ ಸೊಪ್ಪಿನಿಂದ ಹೆಚ್ಚುವರಿ ಆದಾಯ ಪಡೆಯುವ ಮಾರ್ಗ ಬೇಕು.",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಚಿವುಟಿದ ಎಳೆಯ ಕಡಲೆ ಸೊಪ್ಪನ್ನು ಕಟ್ಟು ಕಟ್ಟಿ ತರಕಾರಿ ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಮಾರಾಟ ಮಾಡುವುದರಿಂದ ಎಕರೆಗೆ ₹ 2000-3000 ಹೆಚ್ಚುವರಿ ಆದಾಯ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಡಲೆ ಸೊಪ್ಪಿನಲ್ಲಿ ಹುಳಿ (Malic acid) ಇರುವುದರಿಂದ ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಕಡಲೆ ಸೊಪ್ಪಿನ ಪಲ್ಯ ಮತ್ತು ತೊವ್ವೆಗೆ ಭಾರಿ ಬೇಡಿಕೆಯಿದೆ. ಇದನ್ನು ಒಣಗಿಸಿ ಪುಡಿ ಮಾಡಿಯೂ ಮಾರಬಹುದು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಯಾದ 30 ದಿನದಲ್ಲಿ ಎಳೆಯ ಕುಡಿಗಳನ್ನು ಚಿವುಟಿ.",
+        "ಸ್ವಚ್ಛಗೊಳಿಸಿ ತರಕಾರಿ ಮಾರುಕಟ್ಟೆಗೆ ಕಳುಹಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Fresh Kadale Soppu"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಡಲೆ ಸೊಪ್ಪು ಮಾರಾಟ: ಎಕರೆಗೆ ₹2000-3000 ಹೆಚ್ಚುವರಿ ಆದಾಯ, ಪೌಷ್ಟಿಕ ತರಕಾರಿ ಬೇಡಿಕೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / UAS Raichur Package of Practices",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  }
+]

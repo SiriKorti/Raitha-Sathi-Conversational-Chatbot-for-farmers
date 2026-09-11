@@ -1,0 +1,5534 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ (Finger Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ (Finger Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?"
+    ],
+    "keywords": [
+      "Finger",
+      "Finger Millet",
+      "Karnataka",
+      "Millet",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ (Finger Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ರಾಗಿಯು ಉಷ್ಣವಲಯದ ಬೆಳೆಯಾಗಿದ್ದು, 25°C ದಿಂದ 30°C ತಾಪಮಾನ ಮತ್ತು 500-1000 ಮಿ.ಮೀ ಮಳೆಯಾಗುವ ಪ್ರದೇಶಗಳು ಸೂಕ್ತ.",
+      "detailed_answer": "ರಾಗಿಯು ಉಷ್ಣವಲಯದ ಬೆಳೆಯಾಗಿದ್ದು, 25°C ದಿಂದ 30°C ತಾಪಮಾನ ಮತ್ತು 500-1000 ಮಿ.ಮೀ ಮಳೆಯಾಗುವ ಪ್ರದೇಶಗಳು ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ರಾಗಿಯು ಉಷ್ಣವಲಯದ ಬೆಳೆಯಾಗಿದ್ದು",
+        "25°C ದಿಂದ 30°C ತಾಪಮಾನ",
+        "500-1000 ಮಿ.ಮೀ ಮಳೆಯಾಗುವ ಪ್ರದೇಶಗಳು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ (Finger Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರಾಗಿಯು ಉಷ್ಣವಲಯದ ಬೆಳೆಯಾಗಿದ್ದು, 25°C ದಿಂದ 30°C ತಾಪಮಾನ ಮತ್ತು 500-1000 ಮಿ.ಮೀ ಮಳೆಯಾಗುವ ಪ್ರದೇಶಗಳು ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಏನುುವು?",
+      "ರೈತರು ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತುಮಕೂರು, ಮಂಡ್ಯ, ಹಾಸನ, ಮೈಸೂರು, ಕೋಲಾರ, ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಮತ್ತು ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ.",
+      "detailed_answer": "ತುಮಕೂರು, ಮಂಡ್ಯ, ಹಾಸನ, ಮೈಸೂರು, ಕೋಲಾರ, ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಮತ್ತು ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ.",
+      "step_by_step": [
+        "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+        "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತುಮಕೂರು, ಮಂಡ್ಯ, ಹಾಸನ, ಮೈಸೂರು, ಕೋಲಾರ, ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಮತ್ತು ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Red",
+      "Red loamy soil",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರು ಬಸಿದು ಹೋಗುವ ಕೆಂಪು ಮಣ್ಣು (Red loamy soil) ಮತ್ತು ದೋಮಟ್ಟು ಮಣ್ಣು ಅತ್ಯುತ್ತಮ.",
+      "detailed_answer": "ನೀರು ಬಸಿದು ಹೋಗುವ ಕೆಂಪು ಮಣ್ಣು (Red loamy soil) ಮತ್ತು ದೋಮಟ್ಟು ಮಣ್ಣು ಅತ್ಯುತ್ತಮ.",
+      "step_by_step": [
+        "ನೀರು ಬಸಿದು ಹೋಗುವ ಕೆಂಪು ಮಣ್ಣು (Red loamy soil)",
+        "ದೋಮಟ್ಟು ಮಣ್ಣು ಅತ್ಯುತ್ತಮ."
+      ],
+      "preventive_measures": [
+        "ನೀರು ಬಸಿದು ಹೋಗುವ ಕೆಂಪು ಮಣ್ಣು (Red loamy soil) ಮತ್ತು ದೋಮಟ್ಟು ಮಣ್ಣು ಅತ್ಯುತ್ತಮ"
+      ],
+      "recommended_products": [
+        "Red loamy soil"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರು ಬಸಿದು ಹೋಗುವ ಕೆಂಪು ಮಣ್ಣು (Red loamy soil) ಮತ್ತು ದೋಮಟ್ಟು ಮಣ್ಣು ಅತ್ಯುತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಅಲ್ಪಾವಧಿ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಅಲ್ಪಾವಧಿ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಅಲ್ಪಾವಧಿ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "100-105 ದಿನಗಳು",
+      "GPU-",
+      "Indaf-",
+      "Indaf-9",
+      "KMR-",
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಅಲ್ಪಾವಧಿ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಂಡಾಫ್-9 (Indaf-9), GPU-48, ಮತ್ತು KMR-301 (100-105 ದಿನಗಳು).",
+      "detailed_answer": "ಇಂಡಾಫ್-9 (Indaf-9), GPU-48, ಮತ್ತು KMR-301 (100-105 ದಿನಗಳು).",
+      "step_by_step": [
+        "ಇಂಡಾಫ್-9 (Indaf-9)",
+        "KMR-301 (100-105 ದಿನಗಳು)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Indaf-9",
+        "100-105 ದಿನಗಳು"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಅಲ್ಪಾವಧಿ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಇಂಡಾಫ್-9 (Indaf-9), GPU-48, ಮತ್ತು KMR-301 (100-105 ದಿನಗಳು).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯ ಮಧ್ಯಮಾವಧಿ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ರಾಗಿಯ ಮಧ್ಯಮಾವಧಿ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ರಾಗಿಯ ಮಧ್ಯಮಾವಧಿ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "110-115 ದಿನಗಳು",
+      "GPU-",
+      "Karnataka",
+      "MR-",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯ ಮಧ್ಯಮಾವಧಿ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "GPU-28, MR-1, ಮತ್ತು MR-6 (110-115 ದಿನಗಳು).",
+      "detailed_answer": "GPU-28, MR-1, ಮತ್ತು MR-6 (110-115 ದಿನಗಳು).",
+      "step_by_step": [
+        "MR-6 (110-115 ದಿನಗಳು)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "110-115 ದಿನಗಳು"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯ ಮಧ್ಯಮಾವಧಿ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: GPU-28, MR-1, ಮತ್ತು MR-6 (110-115 ದಿನಗಳು).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯ ದೀರ್ಘಾವಧಿ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ರಾಗಿಯ ದೀರ್ಘಾವಧಿ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ರಾಗಿಯ ದೀರ್ಘಾವಧಿ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "120 ದಿನಗಳಿಗೂ ಹೆಚ್ಚು",
+      "Karnataka",
+      "MR-",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯ ದೀರ್ಘಾವಧಿ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "MR-2, MR-6 ಮತ್ತು L-5 (120 ದಿನಗಳಿಗೂ ಹೆಚ್ಚು).",
+      "detailed_answer": "MR-2, MR-6 ಮತ್ತು L-5 (120 ದಿನಗಳಿಗೂ ಹೆಚ್ಚು).",
+      "step_by_step": [
+        "L-5 (120 ದಿನಗಳಿಗೂ ಹೆಚ್ಚು)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "120 ದಿನಗಳಿಗೂ ಹೆಚ್ಚು"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯ ದೀರ್ಘಾವಧಿ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: MR-2, MR-6 ಮತ್ತು L-5 (120 ದಿನಗಳಿಗೂ ಹೆಚ್ಚು).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿರುವ ರಾಗಿ ತಳಿ ಯಾವುದು?",
+    "question_variants": [
+      "ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿರುವ ರಾಗಿ ತಳಿ ಏನುುದು?",
+      "ರೈತರು ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿರುವ ರಾಗಿ ತಳಿ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Blast",
+      "GPU-",
+      "Karnataka",
+      "crop variety",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿರುವ ರಾಗಿ ತಳಿ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "GPU-28 ತಳಿಯು ಬೆಂಕಿ ರೋಗ (Blast) ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದ್ದು ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿದೆ.",
+      "detailed_answer": "GPU-28 ತಳಿಯು ಬೆಂಕಿ ರೋಗ (Blast) ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದ್ದು ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿದೆ.",
+      "step_by_step": [
+        "GPU-28 ತಳಿಯು ಬೆಂಕಿ ರೋಗ (Blast) ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದ್ದು ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Blast"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿರುವ ರಾಗಿ ತಳಿ ಯಾವುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: GPU-28 ತಳಿಯು ಬೆಂಕಿ ರೋಗ (Blast) ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದ್ದು ಅತಿ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಳಿ ರಾಗಿ (White Ragi) ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಬಿಳಿ ರಾಗಿ (White Ragi) ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ಬಿಳಿ ರಾಗಿ (White Ragi) ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "GPU-",
+      "KMR-",
+      "Karnataka",
+      "Ragi",
+      "White",
+      "White Ragi",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿಳಿ ರಾಗಿ (White Ragi) ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "KMR-340 ಮತ್ತು GPU-67. ಇವುಗಳಿಂದ ಮಾಡುವ ಬೇಕರಿ ಪದಾರ್ಥಗಳು ಕಪ್ಪಾಗಿರುವುದಿಲ್ಲ.",
+      "detailed_answer": "KMR-340 ಮತ್ತು GPU-67. ಇವುಗಳಿಂದ ಮಾಡುವ ಬೇಕರಿ ಪದಾರ್ಥಗಳು ಕಪ್ಪಾಗಿರುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "GPU-67. ಇವುಗಳಿಂದ ಮಾಡುವ ಬೇಕರಿ ಪದಾರ್ಥಗಳು ಕಪ್ಪಾಗಿರುವುದಿಲ್ಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿಳಿ ರಾಗಿ (White Ragi) ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: KMR-340 ಮತ್ತು GPU-67. ಇವುಗಳಿಂದ ಮಾಡುವ ಬೇಕರಿ ಪದಾರ್ಥಗಳು ಕಪ್ಪಾಗಿರುವುದಿಲ್ಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?",
+    "question_variants": [
+      "ರಾಗಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಏನುುದು?",
+      "ರೈತರು ರಾಗಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜುಲೈ 2ನೇ ವಾರದಿಂದ ಆಗಸ್ಟ್ 2ನೇ ವಾರದವರೆಗೆ.",
+      "detailed_answer": "ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜುಲೈ 2ನೇ ವಾರದಿಂದ ಆಗಸ್ಟ್ 2ನೇ ವಾರದವರೆಗೆ.",
+      "step_by_step": [
+        "ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜುಲೈ 2ನೇ ವಾರದಿಂದ ಆಗಸ್ಟ್ 2ನೇ ವಾರದವರೆಗೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜುಲೈ 2ನೇ ವಾರದಿಂದ ಆಗಸ್ಟ್ 2ನೇ ವಾರದವರೆಗೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಾಗಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಾಗಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಾಗಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೈಯಿಂದ ಬಿತ್ತಲು ಎಕರೆಗೆ 4-5 ಕೆಜಿ ಬೀಜ ಬೇಕು.",
+      "detailed_answer": "ಕೈಯಿಂದ ಬಿತ್ತಲು ಎಕರೆಗೆ 4-5 ಕೆಜಿ ಬೀಜ ಬೇಕು.",
+      "step_by_step": [
+        "ಕೈಯಿಂದ ಬಿತ್ತಲು ಎಕರೆಗೆ 4-5 ಕೆಜಿ ಬೀಜ ಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಾಗಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೈಯಿಂದ ಬಿತ್ತಲು ಎಕರೆಗೆ 4-5 ಕೆಜಿ ಬೀಜ ಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಏನು ಔಷಧ ಬಳಸಬೇಕು?",
+      "ರೈತರು ರಾಗಿ ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Captan",
+      "Karnataka",
+      "Seed",
+      "Seed treatment",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಕ್ಯಾಪ್ಟಾನ್ (Captan) ಅಥವಾ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಬೆರೆಸಬೇಕು.",
+      "detailed_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಕ್ಯಾಪ್ಟಾನ್ (Captan) ಅಥವಾ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಬೆರೆಸಬೇಕು.",
+      "step_by_step": [
+        "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಕ್ಯಾಪ್ಟಾನ್ (Captan) ಅಥವಾ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಬೆರೆಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Captan",
+        "2 ಗ್ರಾಂ",
+        "3 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಕ್ಯಾಪ್ಟಾನ್ (Captan) ಅಥವಾ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಬೆರೆಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ (Bio-fertilizer) ಉಪಚರಿಸಬಹುದೇ?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ (Bio-fertilizer) ಉಪಚರಿಸಬಹುದೇ?",
+      "ರೈತರು ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ (Bio-fertilizer) ಉಪಚರಿಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Azospirillum",
+      "Bio-fertilizer",
+      "Karnataka",
+      "PSB",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ (Bio-fertilizer) ಉಪಚರಿಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಅಜೋಸ್ಪೈರಿಲಂ (Azospirillum) ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ (PSB) ಬೆರೆಸಿ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ ಬಿತ್ತಬೇಕು.",
+      "detailed_answer": "ಹೌದು, ಅಜೋಸ್ಪೈರಿಲಂ (Azospirillum) ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ (PSB) ಬೆರೆಸಿ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ ಬಿತ್ತಬೇಕು.",
+      "step_by_step": [
+        "ಅಜೋಸ್ಪೈರಿಲಂ (Azospirillum)",
+        "ಪಿ.ಎಸ್.ಬಿ (PSB) ಬೆರೆಸಿ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ ಬಿತ್ತಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Azospirillum",
+        "PSB"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ (Bio-fertilizer) ಉಪಚರಿಸಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಅಜೋಸ್ಪೈರಿಲಂ (Azospirillum) ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ (PSB) ಬೆರೆಸಿ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ ಬಿತ್ತಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 25 ಸೆಂ.ಮೀ. ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10-15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು.",
+      "detailed_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 25 ಸೆಂ.ಮೀ. ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10-15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು.",
+      "step_by_step": [
+        "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 25 ಸೆಂ.ಮೀ.",
+        "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10-15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 25 ಸೆಂ.ಮೀ. ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10-15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ನಾಟಿ ರಾಗಿ (Transplanted Ragi) ಪದ್ಧತಿ ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ನಾಟಿ ರಾಗಿ (Transplanted Ragi) ಪದ್ಧತಿ ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Ragi",
+      "Transplanted",
+      "Transplanted Ragi",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ನಾಟಿ ರಾಗಿ (Transplanted Ragi) ಪದ್ಧತಿ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಸಿ ಮಡಿಯಲ್ಲಿ ರಾಗಿ ಸಸಿ ಬೆಳೆಸಿ, 21-25 ದಿನದ ಸಸಿಗಳನ್ನು ಹೊಲದಲ್ಲಿ ನಾಟಿ ಮಾಡುವುದು (ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ).",
+      "detailed_answer": "ಸಸಿ ಮಡಿಯಲ್ಲಿ ರಾಗಿ ಸಸಿ ಬೆಳೆಸಿ, 21-25 ದಿನದ ಸಸಿಗಳನ್ನು ಹೊಲದಲ್ಲಿ ನಾಟಿ ಮಾಡುವುದು (ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ).",
+      "step_by_step": [
+        "ಸಸಿ ಮಡಿಯಲ್ಲಿ ರಾಗಿ ಸಸಿ ಬೆಳೆಸಿ",
+        "21-25 ದಿನದ ಸಸಿಗಳನ್ನು ಹೊಲದಲ್ಲಿ ನಾಟಿ ಮಾಡುವುದು (ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ನಾಟಿ ರಾಗಿ (Transplanted Ragi) ಪದ್ಧತಿ ಎಂದರೇನು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಸಿ ಮಡಿಯಲ್ಲಿ ರಾಗಿ ಸಸಿ ಬೆಳೆಸಿ, 21-25 ದಿನದ ಸಸಿಗಳನ್ನು ಹೊಲದಲ್ಲಿ ನಾಟಿ ಮಾಡುವುದು (ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ನಾಟಿ ರಾಗಿ ಪದ್ಧತಿಗೆ ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜ ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ನಾಟಿ ರಾಗಿ ಪದ್ಧತಿಗೆ ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜ ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ನಾಟಿ ರಾಗಿ ಪದ್ಧತಿಗೆ ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಸಿ ಮಡಿ ಮಾಡಲು ಕೇವಲ 2 ಕೆಜಿ ಬೀಜ ಸಾಕು.",
+      "detailed_answer": "ಸಸಿ ಮಡಿ ಮಾಡಲು ಕೇವಲ 2 ಕೆಜಿ ಬೀಜ ಸಾಕು.",
+      "step_by_step": [
+        "ಸಸಿ ಮಡಿ ಮಾಡಲು ಕೇವಲ 2 ಕೆಜಿ ಬೀಜ ಸಾಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ನಾಟಿ ರಾಗಿ ಪದ್ಧತಿಗೆ ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜ ಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಸಿ ಮಡಿ ಮಾಡಲು ಕೇವಲ 2 ಕೆಜಿ ಬೀಜ ಸಾಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "NPK",
+      "fertilizer",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ನೀರಾವರಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:16:16 ಕೆಜಿ ಮತ್ತು ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:20 ಕೆಜಿ NPK ಬೇಕು.",
+      "detailed_answer": "ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:16:16 ಕೆಜಿ ಮತ್ತು ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:20 ಕೆಜಿ NPK ಬೇಕು.",
+      "step_by_step": [
+        "ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:16:16 ಕೆಜಿ",
+        "ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:20 ಕೆಜಿ NPK ಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:16:16 ಕೆಜಿ ಮತ್ತು ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:20 ಕೆಜಿ NPK ಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಾರಜನಕವನ್ನು (Urea) ರಾಗಿಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು?",
+    "question_variants": [
+      "ಸಾರಜನಕವನ್ನು (Urea) ರಾಗಿಗೆ ಏನುಾಗ ಕೊಡಬೇಕು?",
+      "ರೈತರು ಸಾರಜನಕವನ್ನು (Urea) ರಾಗಿಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Urea",
+      "ಕರ್ನಾಟಕ",
+      "ಕುಂಟೆ ಹೊಡೆಯುವಾಗ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಸಾರಜನಕವನ್ನು (Urea) ರಾಗಿಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ ಮತ್ತು ಬಿತ್ತಿದ 30 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ.",
+      "detailed_answer": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ ಮತ್ತು ಬಿತ್ತಿದ 30 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ",
+        "ಬಿತ್ತಿದ 30 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಕುಂಟೆ ಹೊಡೆಯುವಾಗ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಾರಜನಕವನ್ನು (Urea) ರಾಗಿಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ ಮತ್ತು ಬಿತ್ತಿದ 30 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ (Inter-cultivation) ಏಕೆ ಹೊಡೆಯಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ (Inter-cultivation) ಏಕೆ ಹೊಡೆಯಬೇಕು?"
+    ],
+    "keywords": [
+      "Inter-cultivation",
+      "Karnataka",
+      "Tillering",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ (Inter-cultivation) ಏಕೆ ಹೊಡೆಯಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕುಂಟೆ ಹೊಡೆಯುವುದರಿಂದ ಕಳೆ ನಾಶವಾಗುತ್ತದೆ ಮತ್ತು ಗಿಡ ಹೆಚ್ಚು ಕವಲೊಡೆಯುತ್ತದೆ (Tillering).",
+      "detailed_answer": "ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕುಂಟೆ ಹೊಡೆಯುವುದರಿಂದ ಕಳೆ ನಾಶವಾಗುತ್ತದೆ ಮತ್ತು ಗಿಡ ಹೆಚ್ಚು ಕವಲೊಡೆಯುತ್ತದೆ (Tillering).",
+      "step_by_step": [
+        "ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕುಂಟೆ ಹೊಡೆಯುವುದರಿಂದ ಕಳೆ ನಾಶವಾಗುತ್ತದೆ",
+        "ಗಿಡ ಹೆಚ್ಚು ಕವಲೊಡೆಯುತ್ತದೆ (Tillering)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Tillering"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ (Inter-cultivation) ಏಕೆ ಹೊಡೆಯಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕುಂಟೆ ಹೊಡೆಯುವುದರಿಂದ ಕಳೆ ನಾಶವಾಗುತ್ತದೆ ಮತ್ತು ಗಿಡ ಹೆಚ್ಚು ಕವಲೊಡೆಯುತ್ತದೆ (Tillering).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆನಾಶಕ (Weedicide) ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆನಾಶಕ (Weedicide) ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Isoproturon",
+      "Karnataka",
+      "Weedicide",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆನಾಶಕ (Weedicide) ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಐಸೊಪ್ರೊಟ್ಯುರಾನ್ (Isoproturon) ಅಥವಾ ಪೆಂಡಿಮಿಥಾಲಿನ್ ಸಿಂಪಡಿಸಬಹುದು.",
+      "detailed_answer": "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಐಸೊಪ್ರೊಟ್ಯುರಾನ್ (Isoproturon) ಅಥವಾ ಪೆಂಡಿಮಿಥಾಲಿನ್ ಸಿಂಪಡಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಐಸೊಪ್ರೊಟ್ಯುರಾನ್ (Isoproturon) ಅಥವಾ ಪೆಂಡಿಮಿಥಾಲಿನ್ ಸಿಂಪಡಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Isoproturon"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆನಾಶಕ (Weedicide) ಬಳಸಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಐಸೊಪ್ರೊಟ್ಯುರಾನ್ (Isoproturon) ಅಥವಾ ಪೆಂಡಿಮಿಥಾಲಿನ್ ಸಿಂಪಡಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರು ಹಾಯಿಸಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರು ಹಾಯಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Flowering",
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರು ಹಾಯಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರಾವರಿ ಇದ್ದರೆ 15-20 ದಿನಗಳಿಗೊಮ್ಮೆ, ಮುಖ್ಯವಾಗಿ ಹೂ ಬಿಡುವ (Flowering) ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ನೀರು ಕಡ್ಡಾಯ.",
+      "detailed_answer": "ನೀರಾವರಿ ಇದ್ದರೆ 15-20 ದಿನಗಳಿಗೊಮ್ಮೆ, ಮುಖ್ಯವಾಗಿ ಹೂ ಬಿಡುವ (Flowering) ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ನೀರು ಕಡ್ಡಾಯ.",
+      "step_by_step": [
+        "ನೀರಾವರಿ ಇದ್ದರೆ 15-20 ದಿನಗಳಿಗೊಮ್ಮೆ",
+        "ಮುಖ್ಯವಾಗಿ ಹೂ ಬಿಡುವ (Flowering)",
+        "ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ನೀರು ಕಡ್ಡಾಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Flowering"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರು ಹಾಯಿಸಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರಾವರಿ ಇದ್ದರೆ 15-20 ದಿನಗಳಿಗೊಮ್ಮೆ, ಮುಖ್ಯವಾಗಿ ಹೂ ಬಿಡುವ (Flowering) ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ನೀರು ಕಡ್ಡಾಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಏನುುದು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Blast",
+      "Blast disease",
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆಂಕಿ ರೋಗ (Blast disease) ರಾಗಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ರೋಗ.",
+      "detailed_answer": "ಬೆಂಕಿ ರೋಗ (Blast disease) ರಾಗಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ರೋಗ.",
+      "step_by_step": [
+        "ಬೆಂಕಿ ರೋಗ (Blast disease) ರಾಗಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ರೋಗ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Blast disease"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೆಂಕಿ ರೋಗ (Blast disease) ರಾಗಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ರೋಗ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬೆಂಕಿ ರೋಗದ (Blast) ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಬೆಂಕಿ ರೋಗದ (Blast) ಲಕ್ಷಣಗಳೇನು?",
+      "ರೈತರು ಬೆಂಕಿ ರೋಗದ (Blast) ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Blast",
+      "Karnataka",
+      "Neck",
+      "Neck blast",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೆಂಕಿ ರೋಗದ (Blast) ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಮೇಲೆ ಕಣ್ಣಿನ ಆಕಾರದ ಚುಕ್ಕೆಗಳು"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಣ್ಣಿನ ಆಕಾರದ ಚುಕ್ಕೆಗಳು, ಕತ್ತು ಬೆಂಕಿ (Neck blast) ಬಂದಾಗ ತೆನೆಗಳು ಮುರಿದು ಜೋತುಬೀಳುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಣ್ಣಿನ ಆಕಾರದ ಚುಕ್ಕೆಗಳು, ಕತ್ತು ಬೆಂಕಿ (Neck blast) ಬಂದಾಗ ತೆನೆಗಳು ಮುರಿದು ಜೋತುಬೀಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಕಣ್ಣಿನ ಆಕಾರದ ಚುಕ್ಕೆಗಳು",
+        "ಕತ್ತು ಬೆಂಕಿ (Neck blast) ಬಂದಾಗ ತೆನೆಗಳು ಮುರಿದು ಜೋತುಬೀಳುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Neck blast"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೆಂಕಿ ರೋಗದ (Blast) ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಕಣ್ಣಿನ ಆಕಾರದ ಚುಕ್ಕೆಗಳು, ಕತ್ತು ಬೆಂಕಿ (Neck blast) ಬಂದಾಗ ತೆನೆಗಳು ಮುರಿದು ಜೋತುಬೀಳುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬೆಂಕಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಬೆಂಕಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಬೆಂಕಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಬೆಂಕಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Tricyclazole",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೆಂಕಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ (Tricyclazole) 0.6 ಗ್ರಾಂ. ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ (Tricyclazole) 0.6 ಗ್ರಾಂ. ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ (Tricyclazole) 0.6 ಗ್ರಾಂ. ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Tricyclazole",
+        "0.6 ಗ್ರಾಂ",
+        "1 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೆಂಕಿ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ (Tricyclazole) 0.6 ಗ್ರಾಂ. ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಗಿಡ ಒಣಗಲು (Foot rot) ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಗಿಡ ಒಣಗಲು (Foot rot) ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Foot",
+      "Foot rot",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಗಿಡ ಒಣಗಲು (Foot rot) ಕಾರಣವೇನು?",
+    "symptoms": [
+      "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಂಡದ ಬುಡ ಕೊಳೆಯುತ್ತದೆ"
+    ],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಂಡದ ಬುಡ ಕೊಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಂಡದ ಬುಡ ಕೊಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಂಡದ ಬುಡ ಕೊಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಗಿಡ ಒಣಗಲು (Foot rot) ಕಾರಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಂಡದ ಬುಡ ಕೊಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬುಡ ಕೊಳೆಯುವ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಬುಡ ಕೊಳೆಯುವ ರೋಗ ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಬುಡ ಕೊಳೆಯುವ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಬುಡ ಕೊಳೆಯುವ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Drainage",
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬುಡ ಕೊಳೆಯುವ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ನೀರು ನಿಲ್ಲದಂತೆ ಬಸಿಗಾಲುವೆ (Drainage) ಮಾಡುವುದು.",
+      "detailed_answer": "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ನೀರು ನಿಲ್ಲದಂತೆ ಬಸಿಗಾಲುವೆ (Drainage) ಮಾಡುವುದು.",
+      "step_by_step": [
+        "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು",
+        "ನೀರು ನಿಲ್ಲದಂತೆ ಬಸಿಗಾಲುವೆ (Drainage) ಮಾಡುವುದು."
+      ],
+      "preventive_measures": [
+        "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ನೀರು ನಿಲ್ಲದಂತೆ ಬಸಿಗಾಲುವೆ (Drainage) ಮಾಡುವುದು"
+      ],
+      "recommended_products": [
+        "Drainage"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬುಡ ಕೊಳೆಯುವ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ನೀರು ನಿಲ್ಲದಂತೆ ಬಸಿಗಾಲುವೆ (Drainage) ಮಾಡುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಏನುುದು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Borer",
+      "Flea",
+      "Flea beetle",
+      "Karnataka",
+      "Pink",
+      "Pink Stem Borer",
+      "Stem",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕ (Pink Stem Borer) ಮತ್ತು ಕವಡೆ ಹುಳು (Flea beetle).",
+      "detailed_answer": "ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕ (Pink Stem Borer) ಮತ್ತು ಕವಡೆ ಹುಳು (Flea beetle).",
+      "step_by_step": [
+        "ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕ (Pink Stem Borer)",
+        "ಕವಡೆ ಹುಳು (Flea beetle)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pink Stem Borer",
+        "Flea beetle"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕ (Pink Stem Borer) ಮತ್ತು ಕವಡೆ ಹುಳು (Flea beetle).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?",
+      "ರೈತರು ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Dead",
+      "Dead heart",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [
+      "ಹುಳುಗಳು ಕಾಂಡವನ್ನು ಕೊರೆದು ತಿನ್ನುವುದರಿಂದ ಸುಳಿ ಒಣಗುತ್ತದೆ (Dead heart)"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹುಳುಗಳು ಕಾಂಡವನ್ನು ಕೊರೆದು ತಿನ್ನುವುದರಿಂದ ಸುಳಿ ಒಣಗುತ್ತದೆ (Dead heart).",
+      "detailed_answer": "ಹುಳುಗಳು ಕಾಂಡವನ್ನು ಕೊರೆದು ತಿನ್ನುವುದರಿಂದ ಸುಳಿ ಒಣಗುತ್ತದೆ (Dead heart).",
+      "step_by_step": [
+        "ಹುಳುಗಳು ಕಾಂಡವನ್ನು ಕೊರೆದು ತಿನ್ನುವುದರಿಂದ ಸುಳಿ ಒಣಗುತ್ತದೆ (Dead heart)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Dead heart"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗುಲಾಬಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹುಳುಗಳು ಕಾಂಡವನ್ನು ಕೊರೆದು ತಿನ್ನುವುದರಿಂದ ಸುಳಿ ಒಣಗುತ್ತದೆ (Dead heart).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಂಡ ಕೊರಕ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಾಂಡ ಕೊರಕ ಕೀಟ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಕಾಂಡ ಕೊರಕ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಕಾಂಡ ಕೊರಕ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರಾಗಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕಾಂಡ ಕೊರಕ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 2 ಮಿ.ಲೀ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 2 ಮಿ.ಲೀ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 2 ಮಿ.ಲೀ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "2 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಂಡ ಕೊರಕ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 2 ಮಿ.ಲೀ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೆನೆ ತಿಗಣೆ (Earhead Bug) ಹಾವಳಿ ಎಂದರೇನು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ: ತೆನೆ ತಿಗಣೆ (Earhead Bug) ಹಾವಳಿ ಎಂದರೇನು?",
+      "ರೈತರು ತೆನೆ ತಿಗಣೆ (Earhead Bug) ಹಾವಳಿ ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Bug",
+      "Earhead",
+      "Earhead Bug",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ತೆನೆ ತಿಗಣೆ (Earhead Bug) ಹಾವಳಿ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಹಾಲಿನ ಹಂತದಲ್ಲಿರುವಾಗ ತಿಗಣೆಗಳು ರಸ ಹೀರಿ ಕಾಳು ಜೊಳ್ಳಾಗುವಂತೆ ಮಾಡುತ್ತವೆ.",
+      "detailed_answer": "ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಹಾಲಿನ ಹಂತದಲ್ಲಿರುವಾಗ ತಿಗಣೆಗಳು ರಸ ಹೀರಿ ಕಾಳು ಜೊಳ್ಳಾಗುವಂತೆ ಮಾಡುತ್ತವೆ.",
+      "step_by_step": [
+        "ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಹಾಲಿನ ಹಂತದಲ್ಲಿರುವಾಗ ತಿಗಣೆಗಳು ರಸ ಹೀರಿ ಕಾಳು ಜೊಳ್ಳಾಗುವಂತೆ ಮಾಡುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೆನೆ ತಿಗಣೆ (Earhead Bug) ಹಾವಳಿ ಎಂದರೇನು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಹಾಲಿನ ಹಂತದಲ್ಲಿರುವಾಗ ತಿಗಣೆಗಳು ರಸ ಹೀರಿ ಕಾಳು ಜೊಳ್ಳಾಗುವಂತೆ ಮಾಡುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೆನೆ ತಿಗಣೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ತೆನೆ ತಿಗಣೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರಾಗಿ ಬೆಳೆಗೆ: ತೆನೆ ತಿಗಣೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ತೆನೆ ತಿಗಣೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Dusting",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ತೆನೆ ತಿಗಣೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮ್ಯಾಲಾಥಿಯಾನ್ 5% ಪುಡಿಯನ್ನು ಸಂಜೆ ಹೊತ್ತು ಹೊಲದಲ್ಲಿ ಧೂಳೀಕರಿಸಬೇಕು (Dusting).",
+      "detailed_answer": "ಮ್ಯಾಲಾಥಿಯಾನ್ 5% ಪುಡಿಯನ್ನು ಸಂಜೆ ಹೊತ್ತು ಹೊಲದಲ್ಲಿ ಧೂಳೀಕರಿಸಬೇಕು (Dusting).",
+      "step_by_step": [
+        "ಮ್ಯಾಲಾಥಿಯಾನ್ 5% ಪುಡಿಯನ್ನು ಸಂಜೆ ಹೊತ್ತು ಹೊಲದಲ್ಲಿ ಧೂಳೀಕರಿಸಬೇಕು (Dusting)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Dusting",
+        "5%"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೆನೆ ತಿಗಣೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮ್ಯಾಲಾಥಿಯಾನ್ 5% ಪುಡಿಯನ್ನು ಸಂಜೆ ಹೊತ್ತು ಹೊಲದಲ್ಲಿ ಧೂಳೀಕರಿಸಬೇಕು (Dusting).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Intercrop",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ರಾಗಿ:ಅವರೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅವರೆ, ತೊಗರಿ ಅಥವಾ ಸಾಸಿವೆಯನ್ನು 8:1 (ರಾಗಿ:ಅವರೆ) ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಅವರೆ, ತೊಗರಿ ಅಥವಾ ಸಾಸಿವೆಯನ್ನು 8:1 (ರಾಗಿ:ಅವರೆ) ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ತೊಗರಿ ಅಥವಾ ಸಾಸಿವೆಯನ್ನು 8:1 (ರಾಗಿ:ಅವರೆ) ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ರಾಗಿ:ಅವರೆ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅವರೆ, ತೊಗರಿ ಅಥವಾ ಸಾಸಿವೆಯನ್ನು 8:1 (ರಾಗಿ:ಅವರೆ) ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ-ಅವರೆ ಮಿಶ್ರಬೆಳೆಯ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ-ಅವರೆ ಮಿಶ್ರಬೆಳೆಯ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ-ಅವರೆ ಮಿಶ್ರಬೆಳೆಯ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅವರೆ ಗಿಡ ಗಾಳಿಯ ಸಾರಜನಕವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಆದಾಯ ನೀಡುತ್ತದೆ.",
+      "detailed_answer": "ಅವರೆ ಗಿಡ ಗಾಳಿಯ ಸಾರಜನಕವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಆದಾಯ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅವರೆ ಗಿಡ ಗಾಳಿಯ ಸಾರಜನಕವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸುತ್ತದೆ",
+        "ಹೆಚ್ಚುವರಿ ಆದಾಯ ನೀಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ-ಅವರೆ ಮಿಶ್ರಬೆಳೆಯ ಲಾಭವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅವರೆ ಗಿಡ ಗಾಳಿಯ ಸಾರಜನಕವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಆದಾಯ ನೀಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯಲ್ಲಿ ಕ್ಯಾಲ್ಸಿಯಂ (Calcium) ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯಲ್ಲಿ ಕ್ಯಾಲ್ಸಿಯಂ (Calcium) ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "344 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ",
+      "Calcium",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯಲ್ಲಿ ಕ್ಯಾಲ್ಸಿಯಂ (Calcium) ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲ್ಲಾ ಧಾನ್ಯಗಳಿಗಿಂತ ರಾಗಿಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಕ್ಯಾಲ್ಸಿಯಂ (344 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ.",
+      "detailed_answer": "ಎಲ್ಲಾ ಧಾನ್ಯಗಳಿಗಿಂತ ರಾಗಿಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಕ್ಯಾಲ್ಸಿಯಂ (344 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಲ್ಲಾ ಧಾನ್ಯಗಳಿಗಿಂತ ರಾಗಿಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಕ್ಯಾಲ್ಸಿಯಂ (344 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "344 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ",
+        "100 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯಲ್ಲಿ ಕ್ಯಾಲ್ಸಿಯಂ (Calcium) ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಲ್ಲಾ ಧಾನ್ಯಗಳಿಗಿಂತ ರಾಗಿಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಕ್ಯಾಲ್ಸಿಯಂ (344 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಮುದ್ದೆ (Ragi Mudde) ಏಕೆ ಆರೋಗ್ಯಕರ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಮುದ್ದೆ (Ragi Mudde) ಏಕೆ ಆರೋಗ್ಯಕರ?"
+    ],
+    "keywords": [
+      "Fiber",
+      "Karnataka",
+      "Mudde",
+      "Ragi",
+      "Ragi Mudde",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಮುದ್ದೆ (Ragi Mudde) ಏಕೆ ಆರೋಗ್ಯಕರ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದರಲ್ಲಿ ನಾರಿನಂಶ (Fiber) ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಹೆಚ್ಚಿದ್ದು, ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶವನ್ನು ನಿಧಾನವಾಗಿ ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಇದರಲ್ಲಿ ನಾರಿನಂಶ (Fiber) ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಹೆಚ್ಚಿದ್ದು, ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶವನ್ನು ನಿಧಾನವಾಗಿ ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದರಲ್ಲಿ ನಾರಿನಂಶ (Fiber)",
+        "ಕ್ಯಾಲ್ಸಿಯಂ ಹೆಚ್ಚಿದ್ದು",
+        "ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶವನ್ನು ನಿಧಾನವಾಗಿ ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Fiber"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಮುದ್ದೆ (Ragi Mudde) ಏಕೆ ಆರೋಗ್ಯಕರ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದರಲ್ಲಿ ನಾರಿನಂಶ (Fiber) ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಹೆಚ್ಚಿದ್ದು, ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶವನ್ನು ನಿಧಾನವಾಗಿ ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಮಾಲ್ಟ್ (Ragi Malt) ಹೇಗೆ ತಯಾರಿಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರಾಗಿ ಮಾಲ್ಟ್ (Ragi Malt) ಯಾವ ರೀತಿ ತಯಾರಿಸುತ್ತಾರೆ?",
+      "ರೈತರು ರಾಗಿ ಮಾಲ್ಟ್ (Ragi Malt) ಹೇಗೆ ತಯಾರಿಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Malt",
+      "Ragi",
+      "Ragi Malt",
+      "Sprouting",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಮಾಲ್ಟ್ (Ragi Malt) ಹೇಗೆ ತಯಾರಿಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿಯನ್ನು ಮೊಳಕೆ ಬರಿಸಿ (Sprouting), ಹುರಿದು ಪುಡಿ ಮಾಡುವುದರಿಂದ ಅದರಲ್ಲಿ ವಿಟಮಿನ್ ಸಿ ಮತ್ತು ಕಬ್ಬಿಣಾಂಶ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ರಾಗಿಯನ್ನು ಮೊಳಕೆ ಬರಿಸಿ (Sprouting), ಹುರಿದು ಪುಡಿ ಮಾಡುವುದರಿಂದ ಅದರಲ್ಲಿ ವಿಟಮಿನ್ ಸಿ ಮತ್ತು ಕಬ್ಬಿಣಾಂಶ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ರಾಗಿಯನ್ನು ಮೊಳಕೆ ಬರಿಸಿ (Sprouting)",
+        "ಹುರಿದು ಪುಡಿ ಮಾಡುವುದರಿಂದ ಅದರಲ್ಲಿ ವಿಟಮಿನ್ ಸಿ",
+        "ಕಬ್ಬಿಣಾಂಶ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sprouting"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಮಾಲ್ಟ್ (Ragi Malt) ಹೇಗೆ ತಯಾರಿಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರಾಗಿಯನ್ನು ಮೊಳಕೆ ಬರಿಸಿ (Sprouting), ಹುರಿದು ಪುಡಿ ಮಾಡುವುದರಿಂದ ಅದರಲ್ಲಿ ವಿಟಮಿನ್ ಸಿ ಮತ್ತು ಕಬ್ಬಿಣಾಂಶ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಧುಮೇಹಿಗಳಿಗೆ (Diabetes) ರಾಗಿ ಒಳ್ಳೆಯದೇ?",
+    "question_variants": [
+      "ರೈತರು ಮಧುಮೇಹಿಗಳಿಗೆ (Diabetes) ರಾಗಿ ಒಳ್ಳೆಯದೇ?"
+    ],
+    "keywords": [
+      "Diabetes",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಧುಮೇಹಿಗಳಿಗೆ (Diabetes) ರಾಗಿ ಒಳ್ಳೆಯದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಇದರ ಗ್ಲೈಸೆಮಿಕ್ ಇಂಡೆಕ್ಸ್ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಸಕ್ಕರೆ ಕಾಯಿಲೆ ಇರುವವರಿಗೆ ಅತ್ಯುತ್ತಮ ಆಹಾರ.",
+      "detailed_answer": "ಹೌದು, ಇದರ ಗ್ಲೈಸೆಮಿಕ್ ಇಂಡೆಕ್ಸ್ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಸಕ್ಕರೆ ಕಾಯಿಲೆ ಇರುವವರಿಗೆ ಅತ್ಯುತ್ತಮ ಆಹಾರ.",
+      "step_by_step": [
+        "ಇದರ ಗ್ಲೈಸೆಮಿಕ್ ಇಂಡೆಕ್ಸ್ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಸಕ್ಕರೆ ಕಾಯಿಲೆ ಇರುವವರಿಗೆ ಅತ್ಯುತ್ತಮ ಆಹಾರ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಧುಮೇಹಿಗಳಿಗೆ (Diabetes) ರಾಗಿ ಒಳ್ಳೆಯದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಇದರ ಗ್ಲೈಸೆಮಿಕ್ ಇಂಡೆಕ್ಸ್ ಕಡಿಮೆ ಇರುವುದರಿಂದ ಸಕ್ಕರೆ ಕಾಯಿಲೆ ಇರುವವರಿಗೆ ಅತ್ಯುತ್ತಮ ಆಹಾರ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿ ಕಟಾವು ಏನುಾಗ ಮಾಡಬೇಕು?",
+      "ರೈತರು ರಾಗಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಬಿತ್ತಿದ 110-120 ದಿನಗಳ ನಂತರ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 110-120 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 110-120 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ",
+        "ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 110-120 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಬಿತ್ತಿದ 110-120 ದಿನಗಳ ನಂತರ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 110-120 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಸ್ಕರಿಸಬೇಕು?",
+    "question_variants": [
+      "ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಯಾವ ರೀತಿ ಸಂಸ್ಕರಿಸಬೇಕು?",
+      "ರೈತರು ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಸ್ಕರಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಸ್ಕರಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಲದಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಿ, ಟ್ರ್ಯಾಕ್ಟರ್ ಅಥವಾ ರಾಗಿ ಥ್ರೆಶರ್ ಮೂಲಕ ಬಡಿದು ಕಾಳು ಬೇರ್ಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಹೊಲದಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಿ, ಟ್ರ್ಯಾಕ್ಟರ್ ಅಥವಾ ರಾಗಿ ಥ್ರೆಶರ್ ಮೂಲಕ ಬಡಿದು ಕಾಳು ಬೇರ್ಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಹೊಲದಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಿ",
+        "ಟ್ರ್ಯಾಕ್ಟರ್ ಅಥವಾ ರಾಗಿ ಥ್ರೆಶರ್ ಮೂಲಕ ಬಡಿದು ಕಾಳು ಬೇರ್ಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಸ್ಕರಿಸಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಹೊಲದಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಿ, ಟ್ರ್ಯಾಕ್ಟರ್ ಅಥವಾ ರಾಗಿ ಥ್ರೆಶರ್ ಮೂಲಕ ಬಡಿದು ಕಾಳು ಬೇರ್ಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಒಣಗಿಸುವಾಗ ಕಾಳಿನ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಒಣಗಿಸುವಾಗ ಕಾಳಿನ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಒಣಗಿಸುವಾಗ ಕಾಳಿನ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇಖರಣೆಗೂ ಮುನ್ನ ಕಾಳಿನ ತೇವಾಂಶ ಶೇ. 10-12 ಕ್ಕೆ ಇಳಿಯುವವರೆಗೆ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಬೇಕು.",
+      "detailed_answer": "ಶೇಖರಣೆಗೂ ಮುನ್ನ ಕಾಳಿನ ತೇವಾಂಶ ಶೇ. 10-12 ಕ್ಕೆ ಇಳಿಯುವವರೆಗೆ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಶೇಖರಣೆಗೂ ಮುನ್ನ ಕಾಳಿನ ತೇವಾಂಶ ಶೇ. 10-12 ಕ್ಕೆ ಇಳಿಯುವವರೆಗೆ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಶೇಖರಣೆಗೂ ಮುನ್ನ ಕಾಳಿನ ತೇವಾಂಶ ಶೇ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಒಣಗಿಸುವಾಗ ಕಾಳಿನ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶೇಖರಣೆಗೂ ಮುನ್ನ ಕಾಳಿನ ತೇವಾಂಶ ಶೇ. 10-12 ಕ್ಕೆ ಇಳಿಯುವವರೆಗೆ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆದ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆದ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆದ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 8 ದಿಂದ 10 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 8 ದಿಂದ 10 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 8 ದಿಂದ 10 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆದ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 8 ದಿಂದ 10 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ನೀರಾವರಿ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ನೀರಾವರಿ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "irrigation",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ನೀರಾವರಿ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಎಕರೆಗೆ 15 ರಿಂದ 18 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಪಡೆಯಬಹುದು.",
+      "detailed_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಎಕರೆಗೆ 15 ರಿಂದ 18 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಪಡೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಎಕರೆಗೆ 15 ರಿಂದ 18 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಪಡೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ನೀರಾವರಿ ರಾಗಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಎಕರೆಗೆ 15 ರಿಂದ 18 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಪಡೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಹುಲ್ಲನ್ನು (Ragi Straw) ಏನು ಮಾಡುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರಾಗಿ ಹುಲ್ಲನ್ನು (Ragi Straw) ಯಾವುದು ಮಾಡುತ್ತಾರೆ?",
+      "ರೈತರು ರಾಗಿ ಹುಲ್ಲನ್ನು (Ragi Straw) ಏನು ಮಾಡುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Ragi",
+      "Ragi Straw",
+      "Straw",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಹುಲ್ಲನ್ನು (Ragi Straw) ಏನು ಮಾಡುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಮತ್ತು ಅಚ್ಚುಮೆಚ್ಚಿನ ಒಣ ಮೇವಾಗಿದೆ.",
+      "detailed_answer": "ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಮತ್ತು ಅಚ್ಚುಮೆಚ್ಚಿನ ಒಣ ಮೇವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ",
+        "ಅಚ್ಚುಮೆಚ್ಚಿನ ಒಣ ಮೇವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಹುಲ್ಲನ್ನು (Ragi Straw) ಏನು ಮಾಡುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಮತ್ತು ಅಚ್ಚುಮೆಚ್ಚಿನ ಒಣ ಮೇವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ (Azolla) ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ (Azolla) ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Azolla",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ (Azolla) ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಅಜೋಲ್ಲಾ ಭತ್ತದ ಗದ್ದೆಯಂತೆ ನೀರು ನಿಲ್ಲುವ ಜಾಗದಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ. ರಾಗಿಗೆ ಜೀವಾಮೃತ ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಇಲ್ಲ, ಅಜೋಲ್ಲಾ ಭತ್ತದ ಗದ್ದೆಯಂತೆ ನೀರು ನಿಲ್ಲುವ ಜಾಗದಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ. ರಾಗಿಗೆ ಜೀವಾಮೃತ ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಅಜೋಲ್ಲಾ ಭತ್ತದ ಗದ್ದೆಯಂತೆ ನೀರು ನಿಲ್ಲುವ ಜಾಗದಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ. ರಾಗಿಗೆ ಜೀವಾಮೃತ ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಅಜೋಲ್ಲಾ ಭತ್ತದ ಗದ್ದೆಯಂತೆ ನೀರು ನಿಲ್ಲುವ ಜಾಗದಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ",
+        "ರಾಗಿಗೆ ಜೀವಾಮೃತ ಬಳಸಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ (Azolla) ಬಳಸಬಹುದೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಲ್ಲ, ಅಜೋಲ್ಲಾ ಭತ್ತದ ಗದ್ದೆಯಂತೆ ನೀರು ನಿಲ್ಲುವ ಜಾಗದಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ. ರಾಗಿಗೆ ಜೀವಾಮೃತ ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಲು ಮಣ್ಣಿನ pH ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಲು ಮಣ್ಣಿನ pH ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಲು ಮಣ್ಣಿನ pH ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "5.5 ರಿಂದ 7.5 ರವರೆಗಿನ pH ರಾಗಿ ಬೆಳೆಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ.",
+      "detailed_answer": "5.5 ರಿಂದ 7.5 ರವರೆಗಿನ pH ರಾಗಿ ಬೆಳೆಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ.",
+      "step_by_step": [
+        "5.5 ರಿಂದ 7.5 ರವರೆಗಿನ pH ರಾಗಿ ಬೆಳೆಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಲು ಮಣ್ಣಿನ pH ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: 5.5 ರಿಂದ 7.5 ರವರೆಗಿನ pH ರಾಗಿ ಬೆಳೆಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಆಮ್ಲೀಯ (Acidic) ಮಣ್ಣಿನಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಆಮ್ಲೀಯ (Acidic) ಮಣ್ಣಿನಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಆಮ್ಲೀಯ (Acidic) ಮಣ್ಣಿನಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Acidic",
+      "Agricultural",
+      "Agricultural Lime",
+      "Karnataka",
+      "Lime",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಆಮ್ಲೀಯ (Acidic) ಮಣ್ಣಿನಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿಗೆ ಕೃಷಿ ಸುಣ್ಣ (Agricultural Lime) ಸೇರಿಸುವುದರಿಂದ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಮಣ್ಣಿಗೆ ಕೃಷಿ ಸುಣ್ಣ (Agricultural Lime) ಸೇರಿಸುವುದರಿಂದ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿಗೆ ಕೃಷಿ ಸುಣ್ಣ (Agricultural Lime) ಸೇರಿಸುವುದರಿಂದ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Agricultural Lime"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಆಮ್ಲೀಯ (Acidic) ಮಣ್ಣಿನಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿಗೆ ಕೃಷಿ ಸುಣ್ಣ (Agricultural Lime) ಸೇರಿಸುವುದರಿಂದ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಾವಯವ ರಾಗಿ ಬೆಳೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಸಾವಯವ ರಾಗಿ ಬೆಳೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಸಾವಯವ ರಾಗಿ ಬೆಳೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ರಾಗಿ",
+      "ಸಾವಯವ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಸಾವಯವ ರಾಗಿ ಬೆಳೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಸಾಯನಿಕಗಳ ಬದಲಿಗೆ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ, ಪಂಚಗವ್ಯ ಮತ್ತು ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ಬೆಳೆಯುವುದು.",
+      "detailed_answer": "ರಾಸಾಯನಿಕಗಳ ಬದಲಿಗೆ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ, ಪಂಚಗವ್ಯ ಮತ್ತು ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ಬೆಳೆಯುವುದು.",
+      "step_by_step": [
+        "ರಾಸಾಯನಿಕಗಳ ಬದಲಿಗೆ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+        "ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ಬೆಳೆಯುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ರಾಸಾಯನಿಕಗಳ ಬದಲಿಗೆ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+        "ಪಂಚಗವ್ಯ ಮತ್ತು ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ಬೆಳೆಯುವುದು"
+      ],
+      "warnings": [
+        "ರಾಸಾಯನಿಕಗಳ ಬದಲಿಗೆ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ"
+      ]
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಾವಯವ ರಾಗಿ ಬೆಳೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಾಸಾಯನಿಕಗಳ ಬದಲಿಗೆ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ, ಪಂಚಗವ್ಯ ಮತ್ತು ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ಬೆಳೆಯುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೀಜಗಳ ಜೀವಿತಾವಧಿ (Seed viability) ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೀಜಗಳ ಜೀವಿತಾವಧಿ (Seed viability) ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Seed",
+      "Seed viability",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೀಜಗಳ ಜೀವಿತಾವಧಿ (Seed viability) ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿ ಬೀಜಗಳನ್ನು ಒಣ ಜಾಗದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದರೆ 2-3 ವರ್ಷಗಳವರೆಗೆ ಹಾಳಾಗದೆ ಮೊಳಕೆ ಬರುತ್ತವೆ.",
+      "detailed_answer": "ರಾಗಿ ಬೀಜಗಳನ್ನು ಒಣ ಜಾಗದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದರೆ 2-3 ವರ್ಷಗಳವರೆಗೆ ಹಾಳಾಗದೆ ಮೊಳಕೆ ಬರುತ್ತವೆ.",
+      "step_by_step": [
+        "ರಾಗಿ ಬೀಜಗಳನ್ನು ಒಣ ಜಾಗದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದರೆ 2-3 ವರ್ಷಗಳವರೆಗೆ ಹಾಳಾಗದೆ ಮೊಳಕೆ ಬರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೀಜಗಳ ಜೀವಿತಾವಧಿ (Seed viability) ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ರಾಗಿ ಬೀಜಗಳನ್ನು ಒಣ ಜಾಗದಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದರೆ 2-3 ವರ್ಷಗಳವರೆಗೆ ಹಾಳಾಗದೆ ಮೊಳಕೆ ಬರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಹುಳು ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಹುಳು ಬಂದರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ರಾಗಿ ಹೊಲದಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಹುಳು ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಹುಳು ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "2 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಹೊಲದಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಹುಳು ಬಂದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬೀಜಕ್ಕಾಗಿ ರಾಗಿಯನ್ನು ಹೇಗೆ ಆರಿಸಬೇಕು?",
+    "question_variants": [
+      "ಬೀಜಕ್ಕಾಗಿ ರಾಗಿಯನ್ನು ಯಾವ ರೀತಿ ಆರಿಸಬೇಕು?",
+      "ರೈತರು ಬೀಜಕ್ಕಾಗಿ ರಾಗಿಯನ್ನು ಹೇಗೆ ಆರಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "plant disease",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೀಜಕ್ಕಾಗಿ ರಾಗಿಯನ್ನು ಹೇಗೆ ಆರಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಲದಲ್ಲಿ ರೋಗವಿಲ್ಲದ, ಉತ್ತಮ ಗಾತ್ರದ ಮತ್ತು ಒಂದೇ ಸಮನಾಗಿ ಬೆಳೆದ ತೆನೆಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಟಾವು ಮಾಡಿ ಬೀಜ ಮಾಡಿಕೊಳ್ಳಬೇಕು.",
+      "detailed_answer": "ಹೊಲದಲ್ಲಿ ರೋಗವಿಲ್ಲದ, ಉತ್ತಮ ಗಾತ್ರದ ಮತ್ತು ಒಂದೇ ಸಮನಾಗಿ ಬೆಳೆದ ತೆನೆಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಟಾವು ಮಾಡಿ ಬೀಜ ಮಾಡಿಕೊಳ್ಳಬೇಕು.",
+      "step_by_step": [
+        "ಹೊಲದಲ್ಲಿ ರೋಗವಿಲ್ಲದ",
+        "ಉತ್ತಮ ಗಾತ್ರದ",
+        "ಒಂದೇ ಸಮನಾಗಿ ಬೆಳೆದ ತೆನೆಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಟಾವು ಮಾಡಿ ಬೀಜ ಮಾಡಿಕೊಳ್ಳಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೀಜಕ್ಕಾಗಿ ರಾಗಿಯನ್ನು ಹೇಗೆ ಆರಿಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೊಲದಲ್ಲಿ ರೋಗವಿಲ್ಲದ, ಉತ್ತಮ ಗಾತ್ರದ ಮತ್ತು ಒಂದೇ ಸಮನಾಗಿ ಬೆಳೆದ ತೆನೆಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಟಾವು ಮಾಡಿ ಬೀಜ ಮಾಡಿಕೊಳ್ಳಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೆಳೆಗೆ ಜಿಂಕ್ (Zinc) ಕೊರತೆ ಬಂದರೆ ಏನು ಲಕ್ಷಣ?",
+    "question_variants": [
+      "ಬೆಳೆಗೆ ಜಿಂಕ್ (Zinc) ಕೊರತೆ ಬಂದರೆ ಯಾವುದು ಲಕ್ಷಣ?",
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಬೆಳೆಗೆ ಜಿಂಕ್ (Zinc) ಕೊರತೆ ಬಂದರೆ ಏನು ಲಕ್ಷಣ?",
+      "ರೈತರು ಬೆಳೆಗೆ ಜಿಂಕ್ (Zinc) ಕೊರತೆ ಬಂದರೆ ಏನು ಲಕ್ಷಣ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Zinc",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೆಳೆಗೆ ಜಿಂಕ್ (Zinc) ಕೊರತೆ ಬಂದರೆ ಏನು ಲಕ್ಷಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ನಡುವೆ ಬಿಳಿ ಮತ್ತು ಹಳದಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಿ ಸರಿಪಡಿಸಬಹುದು.",
+      "detailed_answer": "ಎಲೆಗಳ ನಡುವೆ ಬಿಳಿ ಮತ್ತು ಹಳದಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಿ ಸರಿಪಡಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ನಡುವೆ ಬಿಳಿ",
+        "ಹಳದಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಿ ಸರಿಪಡಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೆಳೆಗೆ ಜಿಂಕ್ (Zinc) ಕೊರತೆ ಬಂದರೆ ಏನು ಲಕ್ಷಣ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ನಡುವೆ ಬಿಳಿ ಮತ್ತು ಹಳದಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಿ ಸರಿಪಡಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Sulphur",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ರಾಗಿಗೆ ಹೆಚ್ಚಾಗಿ ಸಾರಜನಕ, ರಂಜಕ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಮಾತ್ರ ಬೇಕಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಇಲ್ಲ, ರಾಗಿಗೆ ಹೆಚ್ಚಾಗಿ ಸಾರಜನಕ, ರಂಜಕ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಮಾತ್ರ ಬೇಕಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ರಾಗಿಗೆ ಹೆಚ್ಚಾಗಿ ಸಾರಜನಕ",
+        "ಕ್ಯಾಲ್ಸಿಯಂ ಮಾತ್ರ ಬೇಕಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಲ್ಲ, ರಾಗಿಗೆ ಹೆಚ್ಚಾಗಿ ಸಾರಜನಕ, ರಂಜಕ ಮತ್ತು ಕ್ಯಾಲ್ಸಿಯಂ ಮಾತ್ರ ಬೇಕಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೇಸಿಗೆ ರಾಗಿ (Summer Ragi) ಬೆಳೆಯುವ ತಿಂಗಳು ಯಾವುದು?",
+    "question_variants": [
+      "ಬೇಸಿಗೆ ರಾಗಿ (Summer Ragi) ಬೆಳೆಯುವ ತಿಂಗಳು ಏನುುದು?",
+      "ರೈತರು ಬೇಸಿಗೆ ರಾಗಿ (Summer Ragi) ಬೆಳೆಯುವ ತಿಂಗಳು ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Ragi",
+      "Summer",
+      "Summer Ragi",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೇಸಿಗೆ ರಾಗಿ (Summer Ragi) ಬೆಳೆಯುವ ತಿಂಗಳು ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ನೀರಾವರಿ ಆಶ್ರಯದಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ನೀರಾವರಿ ಆಶ್ರಯದಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ನೀರಾವರಿ ಆಶ್ರಯದಲ್ಲಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೇಸಿಗೆ ರಾಗಿ (Summer Ragi) ಬೆಳೆಯುವ ತಿಂಗಳು ಯಾವುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ನೀರಾವರಿ ಆಶ್ರಯದಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೇಸಿಗೆ ರಾಗಿಗೆ ಮಳೆಗಾಲದ ರಾಗಿಗಿಂತ ಹೆಚ್ಚು ನೀರು ಬೇಕೇ?",
+    "question_variants": [
+      "ರೈತರು ಬೇಸಿಗೆ ರಾಗಿಗೆ ಮಳೆಗಾಲದ ರಾಗಿಗಿಂತ ಹೆಚ್ಚು ನೀರು ಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೇಸಿಗೆ ರಾಗಿಗೆ ಮಳೆಗಾಲದ ರಾಗಿಗಿಂತ ಹೆಚ್ಚು ನೀರು ಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ವಾತಾವರಣದಲ್ಲಿ ಉಷ್ಣಾಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ಹಾಯಿಸಬೇಕು.",
+      "detailed_answer": "ಹೌದು, ವಾತಾವರಣದಲ್ಲಿ ಉಷ್ಣಾಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ಹಾಯಿಸಬೇಕು.",
+      "step_by_step": [
+        "ವಾತಾವರಣದಲ್ಲಿ ಉಷ್ಣಾಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ಹಾಯಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೇಸಿಗೆ ರಾಗಿಗೆ ಮಳೆಗಾಲದ ರಾಗಿಗಿಂತ ಹೆಚ್ಚು ನೀರು ಬೇಕೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ವಾತಾವರಣದಲ್ಲಿ ಉಷ್ಣಾಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ 7-10 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ಹಾಯಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಕಾಳು ಕಪ್ಪಾಗಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಕಾಳು ಕಪ್ಪಾಗಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಕಾಳು ಕಪ್ಪಾಗಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಟಾವಿನ ಹಂತದಲ್ಲಿ ಅಥವಾ ಒಣಗಿಸುವಾಗ ಮಳೆ ಬಂದರೆ ಕಾಳು ಕಪ್ಪಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಟಾವಿನ ಹಂತದಲ್ಲಿ ಅಥವಾ ಒಣಗಿಸುವಾಗ ಮಳೆ ಬಂದರೆ ಕಾಳು ಕಪ್ಪಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಟಾವಿನ ಹಂತದಲ್ಲಿ ಅಥವಾ ಒಣಗಿಸುವಾಗ ಮಳೆ ಬಂದರೆ ಕಾಳು ಕಪ್ಪಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಕಾಳು ಕಪ್ಪಾಗಲು ಕಾರಣವೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಕಟಾವಿನ ಹಂತದಲ್ಲಿ ಅಥವಾ ಒಣಗಿಸುವಾಗ ಮಳೆ ಬಂದರೆ ಕಾಳು ಕಪ್ಪಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಕಾಳು ಕಪ್ಪಾದರೆ ಏನು ತೊಂದರೆ?",
+    "question_variants": [
+      "ರಾಗಿ ಕಾಳು ಕಪ್ಪಾದರೆ ಯಾವುದು ತೊಂದರೆ?",
+      "ರೈತರು ರಾಗಿ ಕಾಳು ಕಪ್ಪಾದರೆ ಏನು ತೊಂದರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Poultry",
+      "Poultry feed",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಕಾಳು ಕಪ್ಪಾದರೆ ಏನು ತೊಂದರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಬೆಲೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ, ಆದರೆ ಪ್ರಾಣಿಗಳಿಗೆ ಮೇವಾಗಿ (Poultry feed) ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಬೆಲೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ, ಆದರೆ ಪ್ರಾಣಿಗಳಿಗೆ ಮೇವಾಗಿ (Poultry feed) ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಬೆಲೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+        "ಆದರೆ ಪ್ರಾಣಿಗಳಿಗೆ ಮೇವಾಗಿ (Poultry feed) ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Poultry feed"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಕಾಳು ಕಪ್ಪಾದರೆ ಏನು ತೊಂದರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಬೆಲೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ, ಆದರೆ ಪ್ರಾಣಿಗಳಿಗೆ ಮೇವಾಗಿ (Poultry feed) ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯನ್ನು 'ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ' (King of Millets) ಎಂದು ಕರೆಯುತ್ತಾರೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯನ್ನು 'ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ' (King of Millets) ಎಂದು ಕರೆಯುತ್ತಾರೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "King",
+      "King of Millets",
+      "Millets",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯನ್ನು 'ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ' (King of Millets) ಎಂದು ಕರೆಯುತ್ತಾರೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ರಾಗಿಯನ್ನು ಅದರ ಅಪಾರ ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಪೌಷ್ಟಿಕಾಂಶಗಳಿಂದಾಗಿ ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ ಎನ್ನುತ್ತಾರೆ.",
+      "detailed_answer": "ಹೌದು, ರಾಗಿಯನ್ನು ಅದರ ಅಪಾರ ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಪೌಷ್ಟಿಕಾಂಶಗಳಿಂದಾಗಿ ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ ಎನ್ನುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ರಾಗಿಯನ್ನು ಅದರ ಅಪಾರ ಕ್ಯಾಲ್ಸಿಯಂ",
+        "ಪೌಷ್ಟಿಕಾಂಶಗಳಿಂದಾಗಿ ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ ಎನ್ನುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯನ್ನು 'ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ' (King of Millets) ಎಂದು ಕರೆಯುತ್ತಾರೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ರಾಗಿಯನ್ನು ಅದರ ಅಪಾರ ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ಪೌಷ್ಟಿಕಾಂಶಗಳಿಂದಾಗಿ ಸಿರಿಧಾನ್ಯಗಳ ರಾಜ ಎನ್ನುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿಯನ್ನು ಯಾವ ರೀತಿ ಸಂಗ್ರಹಿಸಬೇಕು?",
+      "ರೈತರು ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೇವಾಂಶವಿಲ್ಲದ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ, ಬೇವಿನ ಸೊಪ್ಪು ಹಾಕಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "detailed_answer": "ತೇವಾಂಶವಿಲ್ಲದ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ, ಬೇವಿನ ಸೊಪ್ಪು ಹಾಕಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "step_by_step": [
+        "ತೇವಾಂಶವಿಲ್ಲದ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ",
+        "ಬೇವಿನ ಸೊಪ್ಪು ಹಾಕಿ ಸಂಗ್ರಹಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬೇವಿನ ಸೊಪ್ಪು ಹಾಕಿ ಸಂಗ್ರಹಿಸಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತೇವಾಂಶವಿಲ್ಲದ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ, ಬೇವಿನ ಸೊಪ್ಪು ಹಾಕಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯ ಕಾಂಡವು (Stem) ಬಲವಾಗಿರಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿಯ ಕಾಂಡವು (Stem) ಬಲವಾಗಿರಲು ಏನು ಪೋಷಕಾಂಶ ಬೇಕು?",
+      "ರೈತರು ರಾಗಿಯ ಕಾಂಡವು (Stem) ಬಲವಾಗಿರಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Lodging",
+      "Potash",
+      "Stem",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯ ಕಾಂಡವು (Stem) ಬಲವಾಗಿರಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರವು ಕಾಂಡವನ್ನು ಬಲಪಡಿಸಿ ಗಿಡ ಗಾಳಿಗೆ ಬೀಳದಂತೆ (Lodging) ತಡೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರವು ಕಾಂಡವನ್ನು ಬಲಪಡಿಸಿ ಗಿಡ ಗಾಳಿಗೆ ಬೀಳದಂತೆ (Lodging) ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರವು ಕಾಂಡವನ್ನು ಬಲಪಡಿಸಿ ಗಿಡ ಗಾಳಿಗೆ ಬೀಳದಂತೆ (Lodging) ತಡೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರವು ಕಾಂಡವನ್ನು ಬಲಪಡಿಸಿ ಗಿಡ ಗಾಳಿಗೆ ಬೀಳದಂತೆ (Lodging) ತಡೆಯುತ್ತದೆ"
+      ],
+      "recommended_products": [
+        "Potash",
+        "Lodging"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯ ಕಾಂಡವು (Stem) ಬಲವಾಗಿರಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರವು ಕಾಂಡವನ್ನು ಬಲಪಡಿಸಿ ಗಿಡ ಗಾಳಿಗೆ ಬೀಳದಂತೆ (Lodging) ತಡೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯ ಜೊತೆ ಸಾಸಿವೆ ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯ ಜೊತೆ ಸಾಸಿವೆ ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Trap",
+      "Trap crop",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯ ಜೊತೆ ಸಾಸಿವೆ ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಸಾಸಿವೆ ಗಿಡವು ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವ 'ಟ್ರ್ಯಾಪ್ ಕ್ರಾಪ್' (Trap crop) ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಸಾಸಿವೆ ಗಿಡವು ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವ 'ಟ್ರ್ಯಾಪ್ ಕ್ರಾಪ್' (Trap crop) ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಾಸಿವೆ ಗಿಡವು ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವ 'ಟ್ರ್ಯಾಪ್ ಕ್ರಾಪ್' (Trap crop) ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Trap crop"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯ ಜೊತೆ ಸಾಸಿವೆ ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾಸಿವೆ ಗಿಡವು ಕೀಟಗಳನ್ನು ಆಕರ್ಷಿಸುವ 'ಟ್ರ್ಯಾಪ್ ಕ್ರಾಪ್' (Trap crop) ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "90-120 ಸೆಂ.ಮೀ.",
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಳಿಯನ್ನು ಅವಲಂಬಿಸಿ 3 ರಿಂದ 4 ಅಡಿ (90-120 ಸೆಂ.ಮೀ.) ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ತಳಿಯನ್ನು ಅವಲಂಬಿಸಿ 3 ರಿಂದ 4 ಅಡಿ (90-120 ಸೆಂ.ಮೀ.) ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ತಳಿಯನ್ನು ಅವಲಂಬಿಸಿ 3 ರಿಂದ 4 ಅಡಿ (90-120 ಸೆಂ.ಮೀ.) ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "90-120 ಸೆಂ.ಮೀ."
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ತಳಿಯನ್ನು ಅವಲಂಬಿಸಿ 3 ರಿಂದ 4 ಅಡಿ (90-120 ಸೆಂ.ಮೀ.) ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ರಾಗಿ ಬೆಳೆಗಾರರಿಗೆ ಏನು ಸೌಲಭ್ಯ ನೀಡುತ್ತದೆ?",
+    "question_variants": [
+      "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ರಾಗಿ ಬೆಳೆಗಾರರಿಗೆ ಯಾವುದು ಸೌಲಭ್ಯ ನೀಡುತ್ತದೆ?",
+      "ರೈತರು ಕರ್ನಾಟಕ ಸರ್ಕಾರ ರಾಗಿ ಬೆಳೆಗಾರರಿಗೆ ಏನು ಸೌಲಭ್ಯ ನೀಡುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "MSP",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ರಾಗಿ ಬೆಳೆಗಾರರಿಗೆ ಏನು ಸೌಲಭ್ಯ ನೀಡುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ (MSP) ಮೂಲಕ ರಾಗಿ ಖರೀದಿಸಿ ಅನ್ನಭಾಗ್ಯ ಯೋಜನೆಯಡಿ ವಿತರಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ (MSP) ಮೂಲಕ ರಾಗಿ ಖರೀದಿಸಿ ಅನ್ನಭಾಗ್ಯ ಯೋಜನೆಯಡಿ ವಿತರಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ (MSP) ಮೂಲಕ ರಾಗಿ ಖರೀದಿಸಿ ಅನ್ನಭಾಗ್ಯ ಯೋಜನೆಯಡಿ ವಿತರಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "MSP"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕ ಸರ್ಕಾರ ರಾಗಿ ಬೆಳೆಗಾರರಿಗೆ ಏನು ಸೌಲಭ್ಯ ನೀಡುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕನಿಷ್ಠ ಬೆಂಬಲ ಬೆಲೆ (MSP) ಮೂಲಕ ರಾಗಿ ಖರೀದಿಸಿ ಅನ್ನಭಾಗ್ಯ ಯೋಜನೆಯಡಿ ವಿತರಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಗಿಡಕ್ಕೆ ಎಷ್ಟು ಕವಲುಗಳು (Tillers) ಬರುತ್ತವೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಗಿಡಕ್ಕೆ ಎಷ್ಟು ಕವಲುಗಳು (Tillers) ಬರುತ್ತವೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Tillers",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಗಿಡಕ್ಕೆ ಎಷ್ಟು ಕವಲುಗಳು (Tillers) ಬರುತ್ತವೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಗಿಡಕ್ಕೆ 4 ರಿಂದ 6 ತೆನೆ ಬಿಡುವ ಕವಲುಗಳು ಬರುತ್ತವೆ.",
+      "detailed_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಗಿಡಕ್ಕೆ 4 ರಿಂದ 6 ತೆನೆ ಬಿಡುವ ಕವಲುಗಳು ಬರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಗಿಡಕ್ಕೆ 4 ರಿಂದ 6 ತೆನೆ ಬಿಡುವ ಕವಲುಗಳು ಬರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಗಿಡಕ್ಕೆ ಎಷ್ಟು ಕವಲುಗಳು (Tillers) ಬರುತ್ತವೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಒಂದು ಗಿಡಕ್ಕೆ 4 ರಿಂದ 6 ತೆನೆ ಬಿಡುವ ಕವಲುಗಳು ಬರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಹರಗುವುದು (Ploughing) ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಹರಗುವುದು (Ploughing) ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಹರಗುವುದು (Ploughing) ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Ploughing",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಹರಗುವುದು (Ploughing) ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮುಂಗಾರು ಮಳೆಯಾಗುತ್ತಲೇ 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಭೂಮಿ ಹದ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಮುಂಗಾರು ಮಳೆಯಾಗುತ್ತಲೇ 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಭೂಮಿ ಹದ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಮುಂಗಾರು ಮಳೆಯಾಗುತ್ತಲೇ 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಭೂಮಿ ಹದ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಹರಗುವುದು (Ploughing) ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮುಂಗಾರು ಮಳೆಯಾಗುತ್ತಲೇ 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಭೂಮಿ ಹದ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಗುಡ್ಡಗಾಡು (Hilly) ಪ್ರದೇಶಗಳಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಗುಡ್ಡಗಾಡು (Hilly) ಪ್ರದೇಶಗಳಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Hilly",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಗುಡ್ಡಗಾಡು (Hilly) ಪ್ರದೇಶಗಳಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಹಾಸನ, ಚಿಕ್ಕಮಗಳೂರು ಮತ್ತು ಕೊಡಗಿನ ಇಳಿಜಾರು ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ಮಳೆಯಾಶ್ರಿತವಾಗಿ ರಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ಹೌದು, ಹಾಸನ, ಚಿಕ್ಕಮಗಳೂರು ಮತ್ತು ಕೊಡಗಿನ ಇಳಿಜಾರು ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ಮಳೆಯಾಶ್ರಿತವಾಗಿ ರಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಚಿಕ್ಕಮಗಳೂರು",
+        "ಕೊಡಗಿನ ಇಳಿಜಾರು ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ಮಳೆಯಾಶ್ರಿತವಾಗಿ ರಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗುಡ್ಡಗಾಡು (Hilly) ಪ್ರದೇಶಗಳಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಹಾಸನ, ಚಿಕ್ಕಮಗಳೂರು ಮತ್ತು ಕೊಡಗಿನ ಇಳಿಜಾರು ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ಮಳೆಯಾಶ್ರಿತವಾಗಿ ರಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿದೆ?"
+    ],
+    "keywords": [
+      "Anemia",
+      "Iron",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ 100 ಗ್ರಾಂ ರಾಗಿಯಲ್ಲಿ 3.9 ಮಿ.ಗ್ರಾಂ. ಕಬ್ಬಿಣಾಂಶ ಇರುತ್ತದೆ, ಇದು ರಕ್ತಹೀನತೆ (Anemia) ತಡೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಪ್ರತಿ 100 ಗ್ರಾಂ ರಾಗಿಯಲ್ಲಿ 3.9 ಮಿ.ಗ್ರಾಂ. ಕಬ್ಬಿಣಾಂಶ ಇರುತ್ತದೆ, ಇದು ರಕ್ತಹೀನತೆ (Anemia) ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಪ್ರತಿ 100 ಗ್ರಾಂ ರಾಗಿಯಲ್ಲಿ 3.9 ಮಿ.ಗ್ರಾಂ. ಕಬ್ಬಿಣಾಂಶ ಇರುತ್ತದೆ",
+        "ಇದು ರಕ್ತಹೀನತೆ (Anemia) ತಡೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಕಬ್ಬಿಣಾಂಶ ಇರುತ್ತದೆ, ಇದು ರಕ್ತಹೀನತೆ (Anemia) ತಡೆಯುತ್ತದೆ"
+      ],
+      "recommended_products": [
+        "Anemia",
+        "100 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ 100 ಗ್ರಾಂ ರಾಗಿಯಲ್ಲಿ 3.9 ಮಿ.ಗ್ರಾಂ. ಕಬ್ಬಿಣಾಂಶ ಇರುತ್ತದೆ, ಇದು ರಕ್ತಹೀನತೆ (Anemia) ತಡೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?"
+    ],
+    "keywords": [
+      "Eleusine",
+      "Eleusine coracana",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲುಸಿನ್ ಕೊರಕಾನ (Eleusine coracana).",
+      "detailed_answer": "ಎಲುಸಿನ್ ಕೊರಕಾನ (Eleusine coracana).",
+      "step_by_step": [
+        "ಎಲುಸಿನ್ ಕೊರಕಾನ (Eleusine coracana)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Eleusine coracana"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಲುಸಿನ್ ಕೊರಕಾನ (Eleusine coracana).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯ ಹುಟ್ಟೂರು (Origin) ಯಾವುದು?",
+    "question_variants": [
+      "ರಾಗಿಯ ಹುಟ್ಟೂರು (Origin) ಏನುುದು?",
+      "ರೈತರು ರಾಗಿಯ ಹುಟ್ಟೂರು (Origin) ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Origin",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯ ಹುಟ್ಟೂರು (Origin) ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿಯ ಮೂಲ ಆಫ್ರಿಕಾ ಖಂಡದ ಇಥಿಯೋಪಿಯಾ, ಅಲ್ಲಿಂದ ಇದು ಭಾರತಕ್ಕೆ ಬಂತು.",
+      "detailed_answer": "ರಾಗಿಯ ಮೂಲ ಆಫ್ರಿಕಾ ಖಂಡದ ಇಥಿಯೋಪಿಯಾ, ಅಲ್ಲಿಂದ ಇದು ಭಾರತಕ್ಕೆ ಬಂತು.",
+      "step_by_step": [
+        "ರಾಗಿಯ ಮೂಲ ಆಫ್ರಿಕಾ ಖಂಡದ ಇಥಿಯೋಪಿಯಾ",
+        "ಅಲ್ಲಿಂದ ಇದು ಭಾರತಕ್ಕೆ ಬಂತು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯ ಹುಟ್ಟೂರು (Origin) ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರಾಗಿಯ ಮೂಲ ಆಫ್ರಿಕಾ ಖಂಡದ ಇಥಿಯೋಪಿಯಾ, ಅಲ್ಲಿಂದ ಇದು ಭಾರತಕ್ಕೆ ಬಂತು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಭಾರತದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ರಾಜ್ಯ ಯಾವುದು?",
+    "question_variants": [
+      "ಭಾರತದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ರಾಜ್ಯ ಏನುುದು?",
+      "ರೈತರು ಭಾರತದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ರಾಜ್ಯ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಭಾರತದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ರಾಜ್ಯ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕರ್ನಾಟಕವು ಭಾರತದಲ್ಲೇ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ಮತ್ತು ಉತ್ಪಾದಿಸುವ ರಾಜ್ಯವಾಗಿದೆ.",
+      "detailed_answer": "ಕರ್ನಾಟಕವು ಭಾರತದಲ್ಲೇ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ಮತ್ತು ಉತ್ಪಾದಿಸುವ ರಾಜ್ಯವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಕರ್ನಾಟಕವು ಭಾರತದಲ್ಲೇ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ",
+        "ಉತ್ಪಾದಿಸುವ ರಾಜ್ಯವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಭಾರತದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ರಾಜ್ಯ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕರ್ನಾಟಕವು ಭಾರತದಲ್ಲೇ ಅತಿ ಹೆಚ್ಚು ರಾಗಿ ಬೆಳೆಯುವ ಮತ್ತು ಉತ್ಪಾದಿಸುವ ರಾಜ್ಯವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯಲ್ಲಿ ಲ್ಯಾಟರಲ್ ಬೇರುಗಳು (Lateral roots) ಹೇಗಿರುತ್ತವೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯಲ್ಲಿ ಲ್ಯಾಟರಲ್ ಬೇರುಗಳು (Lateral roots) ಹೇಗಿರುತ್ತವೆ?"
+    ],
+    "keywords": [
+      "Fibrous",
+      "Fibrous roots",
+      "Karnataka",
+      "Lateral",
+      "Lateral roots",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯಲ್ಲಿ ಲ್ಯಾಟರಲ್ ಬೇರುಗಳು (Lateral roots) ಹೇಗಿರುತ್ತವೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿಯ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಹೋಗುವುದಿಲ್ಲ, ಬದಲಾಗಿ ಮೇಲ್ಮೈ ಮಣ್ಣಿನಲ್ಲಿ ತಂತು ಬೇರುಗಳಾಗಿ (Fibrous roots) ಹರಡುತ್ತವೆ.",
+      "detailed_answer": "ರಾಗಿಯ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಹೋಗುವುದಿಲ್ಲ, ಬದಲಾಗಿ ಮೇಲ್ಮೈ ಮಣ್ಣಿನಲ್ಲಿ ತಂತು ಬೇರುಗಳಾಗಿ (Fibrous roots) ಹರಡುತ್ತವೆ.",
+      "step_by_step": [
+        "ರಾಗಿಯ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಹೋಗುವುದಿಲ್ಲ",
+        "ಬದಲಾಗಿ ಮೇಲ್ಮೈ ಮಣ್ಣಿನಲ್ಲಿ ತಂತು ಬೇರುಗಳಾಗಿ (Fibrous roots) ಹರಡುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Fibrous roots"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯಲ್ಲಿ ಲ್ಯಾಟರಲ್ ಬೇರುಗಳು (Lateral roots) ಹೇಗಿರುತ್ತವೆ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಾಗಿಯ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಹೋಗುವುದಿಲ್ಲ, ಬದಲಾಗಿ ಮೇಲ್ಮೈ ಮಣ್ಣಿನಲ್ಲಿ ತಂತು ಬೇರುಗಳಾಗಿ (Fibrous roots) ಹರಡುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜದ ದರ (Seed rate) ಕಡಿಮೆ ಮಾಡಲು ಯಾವ ಯಂತ್ರ ಬಳಸಬಹುದು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜದ ದರ (Seed rate) ಕಡಿಮೆ ಮಾಡಲು ಏನು ಯಂತ್ರ ಬಳಸಬಹುದು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜದ ದರ (Seed rate) ಕಡಿಮೆ ಮಾಡಲು ಯಾವ ಯಂತ್ರ ಬಳಸಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Seed",
+      "Seed rate",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜದ ದರ (Seed rate) ಕಡಿಮೆ ಮಾಡಲು ಯಾವ ಯಂತ್ರ ಬಳಸಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಟ್ರಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಕಮ್ ಫರ್ಟಿಲೈಸರ್ ಡ್ರಿಲ್ ಬಳಸುವುದರಿಂದ ಬೀಜ ಮತ್ತು ಗೊಬ್ಬರ ಒಂದೇ ಸಾಲಿನಲ್ಲಿ ಬೀಳುತ್ತದೆ.",
+      "detailed_answer": "ಟ್ರಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಕಮ್ ಫರ್ಟಿಲೈಸರ್ ಡ್ರಿಲ್ ಬಳಸುವುದರಿಂದ ಬೀಜ ಮತ್ತು ಗೊಬ್ಬರ ಒಂದೇ ಸಾಲಿನಲ್ಲಿ ಬೀಳುತ್ತದೆ.",
+      "step_by_step": [
+        "ಟ್ರಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಕಮ್ ಫರ್ಟಿಲೈಸರ್ ಡ್ರಿಲ್ ಬಳಸುವುದರಿಂದ ಬೀಜ",
+        "ಗೊಬ್ಬರ ಒಂದೇ ಸಾಲಿನಲ್ಲಿ ಬೀಳುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜದ ದರ (Seed rate) ಕಡಿಮೆ ಮಾಡಲು ಯಾವ ಯಂತ್ರ ಬಳಸಬಹುದು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಟ್ರಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಕಮ್ ಫರ್ಟಿಲೈಸರ್ ಡ್ರಿಲ್ ಬಳಸುವುದರಿಂದ ಬೀಜ ಮತ್ತು ಗೊಬ್ಬರ ಒಂದೇ ಸಾಲಿನಲ್ಲಿ ಬೀಳುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ (Biopesticide) ಯಾವುದನ್ನು ಬಳಸಬಹುದು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ (Biopesticide) ಏನುುದನ್ನು ಬಳಸಬಹುದು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ (Biopesticide) ಯಾವುದನ್ನು ಬಳಸಬಹುದು?"
+    ],
+    "keywords": [
+      "Biopesticide",
+      "Karnataka",
+      "Neem",
+      "Neem Oil 10000 ppm",
+      "Oil",
+      "pest control",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರಾಗಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ (Biopesticide) ಯಾವುದನ್ನು ಬಳಸಬಹುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಬೇವಿನ ಎಣ್ಣೆ (Neem Oil 10000 ppm) ಅಥವಾ ಪಂಚಗವ್ಯವನ್ನು ಸಿಂಪಡಿಸಬಹುದು.",
+      "detailed_answer": "ಬೇವಿನ ಎಣ್ಣೆ (Neem Oil 10000 ppm) ಅಥವಾ ಪಂಚಗವ್ಯವನ್ನು ಸಿಂಪಡಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಬೇವಿನ ಎಣ್ಣೆ (Neem Oil 10000 ppm) ಅಥವಾ ಪಂಚಗವ್ಯವನ್ನು ಸಿಂಪಡಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Neem Oil 10000 ppm"
+      ],
+      "organic_solutions": [
+        "ಬೇವಿನ ಎಣ್ಣೆ (Neem Oil 10000 ppm) ಅಥವಾ ಪಂಚಗವ್ಯವನ್ನು ಸಿಂಪಡಿಸಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ (Biopesticide) ಯಾವುದನ್ನು ಬಳಸಬಹುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇವಿನ ಎಣ್ಣೆ (Neem Oil 10000 ppm) ಅಥವಾ ಪಂಚಗವ್ಯವನ್ನು ಸಿಂಪಡಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ (Drip irrigation) ಸೂಕ್ತವೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ (Drip irrigation) ಸೂಕ್ತವೇ?"
+    ],
+    "keywords": [
+      "Drip",
+      "Drip irrigation",
+      "Karnataka",
+      "Sprinkler",
+      "Sprinkler - ತುಂತುರು ನೀರಾವರಿ",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ (Drip irrigation) ಸೂಕ್ತವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿ ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಡ್ರಿಪ್ ಬಳಸುವುದಿಲ್ಲ, ಸ್ಪ್ರಿಂಕ್ಲರ್ (Sprinkler - ತುಂತುರು ನೀರಾವರಿ) ಹೆಚ್ಚು ಸೂಕ್ತ.",
+      "detailed_answer": "ರಾಗಿ ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಡ್ರಿಪ್ ಬಳಸುವುದಿಲ್ಲ, ಸ್ಪ್ರಿಂಕ್ಲರ್ (Sprinkler - ತುಂತುರು ನೀರಾವರಿ) ಹೆಚ್ಚು ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ರಾಗಿ ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಡ್ರಿಪ್ ಬಳಸುವುದಿಲ್ಲ",
+        "ಸ್ಪ್ರಿಂಕ್ಲರ್ (Sprinkler - ತುಂತುರು ನೀರಾವರಿ) ಹೆಚ್ಚು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sprinkler - ತುಂತುರು ನೀರಾವರಿ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ (Drip irrigation) ಸೂಕ್ತವೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಾಗಿ ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಡ್ರಿಪ್ ಬಳಸುವುದಿಲ್ಲ, ಸ್ಪ್ರಿಂಕ್ಲರ್ (Sprinkler - ತುಂತುರು ನೀರಾವರಿ) ಹೆಚ್ಚು ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಕ್ಕಿಗಳು ರಾಗಿ ಹೊಲಕ್ಕೆ ಬರದಂತೆ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಹಕ್ಕಿಗಳು ರಾಗಿ ಹೊಲಕ್ಕೆ ಬರದಂತೆ ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಹಕ್ಕಿಗಳು ರಾಗಿ ಹೊಲಕ್ಕೆ ಬರದಂತೆ ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Reflective",
+      "Reflective ribbons",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹಕ್ಕಿಗಳು ರಾಗಿ ಹೊಲಕ್ಕೆ ಬರದಂತೆ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು ಅಥವಾ ಪ್ರತಿಫಲಿಸುವ ರಿಬ್ಬನ್ (Reflective ribbons) ಕಟ್ಟುವುದು.",
+      "detailed_answer": "ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು ಅಥವಾ ಪ್ರತಿಫಲಿಸುವ ರಿಬ್ಬನ್ (Reflective ribbons) ಕಟ್ಟುವುದು.",
+      "step_by_step": [
+        "ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು ಅಥವಾ ಪ್ರತಿಫಲಿಸುವ ರಿಬ್ಬನ್ (Reflective ribbons) ಕಟ್ಟುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Reflective ribbons"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಕ್ಕಿಗಳು ರಾಗಿ ಹೊಲಕ್ಕೆ ಬರದಂತೆ ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು ಅಥವಾ ಪ್ರತಿಫಲಿಸುವ ರಿಬ್ಬನ್ (Reflective ribbons) ಕಟ್ಟುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ರಾಗಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ರಾಗಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Yellowing",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ರಾಗಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿ ಗಿಡಗಳು ಹಳದಿಯಾಗುತ್ತವೆ (Yellowing) ಮತ್ತು ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗುತ್ತದೆ. ತಕ್ಷಣ ನೀರು ಬಸಿಯಬೇಕು.",
+      "detailed_answer": "ರಾಗಿ ಗಿಡಗಳು ಹಳದಿಯಾಗುತ್ತವೆ (Yellowing) ಮತ್ತು ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗುತ್ತದೆ. ತಕ್ಷಣ ನೀರು ಬಸಿಯಬೇಕು.",
+      "step_by_step": [
+        "ರಾಗಿ ಗಿಡಗಳು ಹಳದಿಯಾಗುತ್ತವೆ (Yellowing)",
+        "ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗುತ್ತದೆ. ತಕ್ಷಣ ನೀರು ಬಸಿಯಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ತಕ್ಷಣ ನೀರು ಬಸಿಯಬೇಕು"
+      ],
+      "recommended_products": [
+        "Yellowing"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ರಾಗಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಾಗಿ ಗಿಡಗಳು ಹಳದಿಯಾಗುತ್ತವೆ (Yellowing) ಮತ್ತು ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗುತ್ತದೆ. ತಕ್ಷಣ ನೀರು ಬಸಿಯಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ. 7 ರಿಂದ 8 ರಷ್ಟು ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "detailed_answer": "ಶೇ. 7 ರಿಂದ 8 ರಷ್ಟು ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಶೇ. 7 ರಿಂದ 8 ರಷ್ಟು ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಶೇ. 7 ರಿಂದ 8 ರಷ್ಟು ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಕ್ಕಳಿಗೆ ರಾಗಿ ಸರಿ (Ragi Sari) ಮಾಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಮಕ್ಕಳಿಗೆ ರಾಗಿ ಸರಿ (Ragi Sari) ಮಾಡುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಮಕ್ಕಳಿಗೆ ರಾಗಿ ಸರಿ (Ragi Sari) ಮಾಡುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Ragi",
+      "Ragi Sari",
+      "Sari",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಕ್ಕಳಿಗೆ ರಾಗಿ ಸರಿ (Ragi Sari) ಮಾಡುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮೊಳಕೆ ಕಟ್ಟಿದ ರಾಗಿಯನ್ನು ಒಣಗಿಸಿ ಪುಡಿಮಾಡಿ, ಹಾಲಿನಲ್ಲಿ ಬೇಯಿಸಿ ಮಕ್ಕಳಿಗೆ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿ ನೀಡುತ್ತಾರೆ.",
+      "detailed_answer": "ಮೊಳಕೆ ಕಟ್ಟಿದ ರಾಗಿಯನ್ನು ಒಣಗಿಸಿ ಪುಡಿಮಾಡಿ, ಹಾಲಿನಲ್ಲಿ ಬೇಯಿಸಿ ಮಕ್ಕಳಿಗೆ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿ ನೀಡುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಮೊಳಕೆ ಕಟ್ಟಿದ ರಾಗಿಯನ್ನು ಒಣಗಿಸಿ ಪುಡಿಮಾಡಿ",
+        "ಹಾಲಿನಲ್ಲಿ ಬೇಯಿಸಿ ಮಕ್ಕಳಿಗೆ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿ ನೀಡುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಕ್ಕಳಿಗೆ ರಾಗಿ ಸರಿ (Ragi Sari) ಮಾಡುವುದು ಹೇಗೆ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಮೊಳಕೆ ಕಟ್ಟಿದ ರಾಗಿಯನ್ನು ಒಣಗಿಸಿ ಪುಡಿಮಾಡಿ, ಹಾಲಿನಲ್ಲಿ ಬೇಯಿಸಿ ಮಕ್ಕಳಿಗೆ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿ ನೀಡುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಏರಿಸುವಿಕೆ (Earthing up) ಏಕೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಏರಿಸುವಿಕೆ (Earthing up) ಏಕೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Earthing",
+      "Earthing up",
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಏರಿಸುವಿಕೆ (Earthing up) ಏಕೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕುಂಟೆ ಹೊಡೆಯುವಾಗ ಗಿಡದ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರುವುದರಿಂದ ಗಿಡಗಳು ಬಲವಾಗಿ ನಿಲ್ಲುತ್ತವೆ.",
+      "detailed_answer": "ಕುಂಟೆ ಹೊಡೆಯುವಾಗ ಗಿಡದ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರುವುದರಿಂದ ಗಿಡಗಳು ಬಲವಾಗಿ ನಿಲ್ಲುತ್ತವೆ.",
+      "step_by_step": [
+        "ಕುಂಟೆ ಹೊಡೆಯುವಾಗ ಗಿಡದ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರುವುದರಿಂದ ಗಿಡಗಳು ಬಲವಾಗಿ ನಿಲ್ಲುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಏರಿಸುವಿಕೆ (Earthing up) ಏಕೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕುಂಟೆ ಹೊಡೆಯುವಾಗ ಗಿಡದ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರುವುದರಿಂದ ಗಿಡಗಳು ಬಲವಾಗಿ ನಿಲ್ಲುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಏನುಾಗ ಹಾಕಬೇಕು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಗೆ 15 ದಿನಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 3 ಟನ್ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿ ಉಳುಮೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆಗೆ 15 ದಿನಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 3 ಟನ್ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿ ಉಳುಮೆ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ 15 ದಿನಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 3 ಟನ್ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿ ಉಳುಮೆ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬಿತ್ತನೆಗೆ 15 ದಿನಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 3 ಟನ್ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿ ಉಳುಮೆ ಮಾಡಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆಗೆ 15 ದಿನಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 3 ಟನ್ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿ ಉಳುಮೆ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಎಷ್ಟು ದಿನಗಳವರೆಗೆ ಶೇಖರಿಸಿಡಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಎಷ್ಟು ದಿನಗಳವರೆಗೆ ಶೇಖರಿಸಿಡಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಎಷ್ಟು ದಿನಗಳವರೆಗೆ ಶೇಖರಿಸಿಡಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸರಿಯಾಗಿ ಶೇಖರಿಸಿದರೆ ರಾಗಿಯನ್ನು 10 ವರ್ಷಗಳಿಗೂ ಹೆಚ್ಚು ಕಾಲ ಕೆಡದಂತೆ ಇಡಬಹುದು, ಇದು ಬಡವರ 'ಬರಗಾಲದ ಆಹಾರ ನಿಧಿ'.",
+      "detailed_answer": "ಸರಿಯಾಗಿ ಶೇಖರಿಸಿದರೆ ರಾಗಿಯನ್ನು 10 ವರ್ಷಗಳಿಗೂ ಹೆಚ್ಚು ಕಾಲ ಕೆಡದಂತೆ ಇಡಬಹುದು, ಇದು ಬಡವರ 'ಬರಗಾಲದ ಆಹಾರ ನಿಧಿ'.",
+      "step_by_step": [
+        "ಸರಿಯಾಗಿ ಶೇಖರಿಸಿದರೆ ರಾಗಿಯನ್ನು 10 ವರ್ಷಗಳಿಗೂ ಹೆಚ್ಚು ಕಾಲ ಕೆಡದಂತೆ ಇಡಬಹುದು",
+        "ಇದು ಬಡವರ 'ಬರಗಾಲದ ಆಹಾರ ನಿಧಿ'."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಟಾವಿನ ನಂತರ ರಾಗಿಯನ್ನು ಎಷ್ಟು ದಿನಗಳವರೆಗೆ ಶೇಖರಿಸಿಡಬಹುದು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಸರಿಯಾಗಿ ಶೇಖರಿಸಿದರೆ ರಾಗಿಯನ್ನು 10 ವರ್ಷಗಳಿಗೂ ಹೆಚ್ಚು ಕಾಲ ಕೆಡದಂತೆ ಇಡಬಹುದು, ಇದು ಬಡವರ 'ಬರಗಾಲದ ಆಹಾರ ನಿಧಿ'.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಹಿಟ್ಟಿನಿಂದ ಏನೆಲ್ಲಾ ಮಾಡಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಹಿಟ್ಟಿನಿಂದ ಏನೆಲ್ಲಾ ಮಾಡಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಹಿಟ್ಟಿನಿಂದ ಏನೆಲ್ಲಾ ಮಾಡಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿ ಮುದ್ದೆ, ರೊಟ್ಟಿ, ದೋಸೆ, ಇಡ್ಲಿ, ಮಾಲ್ಟ್, ಬಿಸ್ಕತ್ತು ಮತ್ತು ಹಪ್ಪಳ ಮಾಡಬಹುದು.",
+      "detailed_answer": "ರಾಗಿ ಮುದ್ದೆ, ರೊಟ್ಟಿ, ದೋಸೆ, ಇಡ್ಲಿ, ಮಾಲ್ಟ್, ಬಿಸ್ಕತ್ತು ಮತ್ತು ಹಪ್ಪಳ ಮಾಡಬಹುದು.",
+      "step_by_step": [
+        "ರಾಗಿ ಮುದ್ದೆ",
+        "ಹಪ್ಪಳ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಹಿಟ್ಟಿನಿಂದ ಏನೆಲ್ಲಾ ಮಾಡಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರಾಗಿ ಮುದ್ದೆ, ರೊಟ್ಟಿ, ದೋಸೆ, ಇಡ್ಲಿ, ಮಾಲ್ಟ್, ಬಿಸ್ಕತ್ತು ಮತ್ತು ಹಪ್ಪಳ ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯ ಎಲೆಗಳು ಒಣಗಲು (Drought stress) ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಯ ಎಲೆಗಳು ಒಣಗಲು (Drought stress) ಆರಂಭಿಸಿದರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯ ಎಲೆಗಳು ಒಣಗಲು (Drought stress) ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Drought",
+      "Drought stress",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯ ಎಲೆಗಳು ಒಣಗಲು (Drought stress) ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ. 2 ರ ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಿದರೆ ಗಿಡಗಳು ಬರವನ್ನು ತಡೆದುಕೊಂಡು ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "detailed_answer": "ಶೇ. 2 ರ ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಿದರೆ ಗಿಡಗಳು ಬರವನ್ನು ತಡೆದುಕೊಂಡು ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ಶೇ. 2 ರ ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಿದರೆ ಗಿಡಗಳು ಬರವನ್ನು ತಡೆದುಕೊಂಡು ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತವೆ."
+      ],
+      "preventive_measures": [
+        "2 ರ ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಿದರೆ ಗಿಡಗಳು ಬರವನ್ನು ತಡೆದುಕೊಂಡು ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತವೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯ ಎಲೆಗಳು ಒಣಗಲು (Drought stress) ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶೇ. 2 ರ ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಿದರೆ ಗಿಡಗಳು ಬರವನ್ನು ತಡೆದುಕೊಂಡು ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಪದ್ಧತಿಯಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಪದ್ಧತಿಯಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Tillage",
+      "Zero",
+      "Zero Tillage",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಪದ್ಧತಿಯಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ರಾಗಿ ಬಿತ್ತನೆ ಮಾಡುವ ಪದ್ಧತಿ ಇದೆ.",
+      "detailed_answer": "ಹೌದು, ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ರಾಗಿ ಬಿತ್ತನೆ ಮಾಡುವ ಪದ್ಧತಿ ಇದೆ.",
+      "step_by_step": [
+        "ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ರಾಗಿ ಬಿತ್ತನೆ ಮಾಡುವ ಪದ್ಧತಿ ಇದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಪದ್ಧತಿಯಲ್ಲಿ ರಾಗಿ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಹೌದು, ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ರಾಗಿ ಬಿತ್ತನೆ ಮಾಡುವ ಪದ್ಧತಿ ಇದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ತೆನೆಗಳ ಆಕಾರ ಹೇಗಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ತೆನೆಗಳ ಆಕಾರ ಹೇಗಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Finger",
+      "Finger Millet",
+      "Karnataka",
+      "Millet",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ತೆನೆಗಳ ಆಕಾರ ಹೇಗಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆರಳುಗಳಂತೆ ಕವಲೊಡೆದಿರುವುದರಿಂದ ಇದನ್ನು 'ಫಿಂಗರ್ ಮಿಲೆಟ್' (Finger Millet) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ಬೆರಳುಗಳಂತೆ ಕವಲೊಡೆದಿರುವುದರಿಂದ ಇದನ್ನು 'ಫಿಂಗರ್ ಮಿಲೆಟ್' (Finger Millet) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಬೆರಳುಗಳಂತೆ ಕವಲೊಡೆದಿರುವುದರಿಂದ ಇದನ್ನು 'ಫಿಂಗರ್ ಮಿಲೆಟ್' (Finger Millet) ಎಂದು ಕರೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Finger Millet"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ತೆನೆಗಳ ಆಕಾರ ಹೇಗಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೆರಳುಗಳಂತೆ ಕವಲೊಡೆದಿರುವುದರಿಂದ ಇದನ್ನು 'ಫಿಂಗರ್ ಮಿಲೆಟ್' (Finger Millet) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮುಚ್ಚು ತೆನೆ (Incurved) ಮತ್ತು ತೆರೆದ ತೆನೆ (Top curved) ಎಂದರೆ ಏನು?",
+    "question_variants": [
+      "ಮುಚ್ಚು ತೆನೆ (Incurved) ಮತ್ತು ತೆರೆದ ತೆನೆ (Top curved) ಎಂದರೆ ಯಾವುದು?",
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಮುಚ್ಚು ತೆನೆ (Incurved) ಮತ್ತು ತೆರೆದ ತೆನೆ (Top curved) ಎಂದರೆ ಏನು?",
+      "ರೈತರು ಮುಚ್ಚು ತೆನೆ (Incurved) ಮತ್ತು ತೆರೆದ ತೆನೆ (Top curved) ಎಂದರೆ ಏನು?"
+    ],
+    "keywords": [
+      "Incurved",
+      "Karnataka",
+      "Top",
+      "Top curved",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮುಚ್ಚು ತೆನೆ (Incurved) ಮತ್ತು ತೆರೆದ ತೆನೆ (Top curved) ಎಂದರೆ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿ ತಳಿಗಳಲ್ಲಿ ತೆನೆಗಳು ಒಳಮುಖವಾಗಿ ಬಾಗಿರುವುದು ಮತ್ತು ಮೇಲ್ಮುಖವಾಗಿ ತೆರೆದಿರುವುದು ಎಂದು ಎರಡು ವಿಧಗಳಿವೆ.",
+      "detailed_answer": "ರಾಗಿ ತಳಿಗಳಲ್ಲಿ ತೆನೆಗಳು ಒಳಮುಖವಾಗಿ ಬಾಗಿರುವುದು ಮತ್ತು ಮೇಲ್ಮುಖವಾಗಿ ತೆರೆದಿರುವುದು ಎಂದು ಎರಡು ವಿಧಗಳಿವೆ.",
+      "step_by_step": [
+        "ರಾಗಿ ತಳಿಗಳಲ್ಲಿ ತೆನೆಗಳು ಒಳಮುಖವಾಗಿ ಬಾಗಿರುವುದು",
+        "ಮೇಲ್ಮುಖವಾಗಿ ತೆರೆದಿರುವುದು ಎಂದು ಎರಡು ವಿಧಗಳಿವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮುಚ್ಚು ತೆನೆ (Incurved) ಮತ್ತು ತೆರೆದ ತೆನೆ (Top curved) ಎಂದರೆ ಏನು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ರಾಗಿ ತಳಿಗಳಲ್ಲಿ ತೆನೆಗಳು ಒಳಮುಖವಾಗಿ ಬಾಗಿರುವುದು ಮತ್ತು ಮೇಲ್ಮುಖವಾಗಿ ತೆರೆದಿರುವುದು ಎಂದು ಎರಡು ವಿಧಗಳಿವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯನ್ನು ಗಾಳಿಗೆ ಬೀಳದಂತೆ ಕಾಪಾಡುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಯನ್ನು ಗಾಳಿಗೆ ಬೀಳದಂತೆ ಕಾಪಾಡುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯನ್ನು ಗಾಳಿಗೆ ಬೀಳದಂತೆ ಕಾಪಾಡುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Nitrogen",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯನ್ನು ಗಾಳಿಗೆ ಬೀಳದಂತೆ ಕಾಪಾಡುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯ ಅಂತರ ಸರಿಯಾಗಿರಬೇಕು ಮತ್ತು ಅತಿಯಾಗಿ ಯೂರಿಯಾ (Nitrogen) ಬಳಸಬಾರದು.",
+      "detailed_answer": "ಬಿತ್ತನೆಯ ಅಂತರ ಸರಿಯಾಗಿರಬೇಕು ಮತ್ತು ಅತಿಯಾಗಿ ಯೂರಿಯಾ (Nitrogen) ಬಳಸಬಾರದು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಯ ಅಂತರ ಸರಿಯಾಗಿರಬೇಕು",
+        "ಅತಿಯಾಗಿ ಯೂರಿಯಾ (Nitrogen) ಬಳಸಬಾರದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Nitrogen"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬಿತ್ತನೆಯ ಅಂತರ ಸರಿಯಾಗಿರಬೇಕು ಮತ್ತು ಅತಿಯಾಗಿ ಯೂರಿಯಾ (Nitrogen) ಬಳಸಬಾರದು"
+      ]
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯನ್ನು ಗಾಳಿಗೆ ಬೀಳದಂತೆ ಕಾಪಾಡುವುದು ಹೇಗೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆಯ ಅಂತರ ಸರಿಯಾಗಿರಬೇಕು ಮತ್ತು ಅತಿಯಾಗಿ ಯೂರಿಯಾ (Nitrogen) ಬಳಸಬಾರದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ (Poultry feed) ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ (Poultry feed) ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Poultry",
+      "Poultry feed",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ (Poultry feed) ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ರಾಗಿ ನುಚ್ಚನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಬೆರೆಸುವುದರಿಂದ ಕೋಳಿ ಮೊಟ್ಟೆಯ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ರಾಗಿ ನುಚ್ಚನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಬೆರೆಸುವುದರಿಂದ ಕೋಳಿ ಮೊಟ್ಟೆಯ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ರಾಗಿ ನುಚ್ಚನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಬೆರೆಸುವುದರಿಂದ ಕೋಳಿ ಮೊಟ್ಟೆಯ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ (Poultry feed) ಬಳಸಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ರಾಗಿ ನುಚ್ಚನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಬೆರೆಸುವುದರಿಂದ ಕೋಳಿ ಮೊಟ್ಟೆಯ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಗೆ ಯಾವ ಹವಾಮಾನ ತೊಂದರೆ ಕೊಡುತ್ತದೆ?",
+    "question_variants": [
+      "ರಾಗಿ ಬೆಳೆಗೆ ಏನು ಹವಾಮಾನ ತೊಂದರೆ ಕೊಡುತ್ತದೆ?",
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಗೆ ಯಾವ ಹವಾಮಾನ ತೊಂದರೆ ಕೊಡುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಗೆ ಯಾವ ಹವಾಮಾನ ತೊಂದರೆ ಕೊಡುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ಹೂ ಬಿಡುವಾಗ 35°C ಗಿಂತ ಹೆಚ್ಚು ತಾಪಮಾನ ಮತ್ತು ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ಕಾಳು ಕಟ್ಟುವುದಿಲ್ಲ.",
+      "detailed_answer": "ಹೂ ಬಿಡುವಾಗ 35°C ಗಿಂತ ಹೆಚ್ಚು ತಾಪಮಾನ ಮತ್ತು ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ಕಾಳು ಕಟ್ಟುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವಾಗ 35°C ಗಿಂತ ಹೆಚ್ಚು ತಾಪಮಾನ",
+        "ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ಕಾಳು ಕಟ್ಟುವುದಿಲ್ಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಗೆ ಯಾವ ಹವಾಮಾನ ತೊಂದರೆ ಕೊಡುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೂ ಬಿಡುವಾಗ 35°C ಗಿಂತ ಹೆಚ್ಚು ತಾಪಮಾನ ಮತ್ತು ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ಕಾಳು ಕಟ್ಟುವುದಿಲ್ಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ರಾಗಿ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲಿ ಬಿಲಗಳಿಗೆ ಅಲ್ಯೂಮಿನಿಯಂ ಫಾಸ್ಫೈಡ್ ಬಿಲ್ಲೆಗಳನ್ನು ಇಟ್ಟು ಮಣ್ಣಿನಿಂದ ಮುಚ್ಚಬೇಕು.",
+      "detailed_answer": "ಇಲಿ ಬಿಲಗಳಿಗೆ ಅಲ್ಯೂಮಿನಿಯಂ ಫಾಸ್ಫೈಡ್ ಬಿಲ್ಲೆಗಳನ್ನು ಇಟ್ಟು ಮಣ್ಣಿನಿಂದ ಮುಚ್ಚಬೇಕು.",
+      "step_by_step": [
+        "ಇಲಿ ಬಿಲಗಳಿಗೆ ಅಲ್ಯೂಮಿನಿಯಂ ಫಾಸ್ಫೈಡ್ ಬಿಲ್ಲೆಗಳನ್ನು ಇಟ್ಟು ಮಣ್ಣಿನಿಂದ ಮುಚ್ಚಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಲಿ ಬಿಲಗಳಿಗೆ ಅಲ್ಯೂಮಿನಿಯಂ ಫಾಸ್ಫೈಡ್ ಬಿಲ್ಲೆಗಳನ್ನು ಇಟ್ಟು ಮಣ್ಣಿನಿಂದ ಮುಚ್ಚಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಕಾಳುಗಳ ಮೇಲಿನ ಸಿಪ್ಪೆ ತೆಗೆಯುವುದು ಅಗತ್ಯವೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಕಾಳುಗಳ ಮೇಲಿನ ಸಿಪ್ಪೆ ತೆಗೆಯುವುದು ಅಗತ್ಯವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Whole",
+      "Whole grain",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಕಾಳುಗಳ ಮೇಲಿನ ಸಿಪ್ಪೆ ತೆಗೆಯುವುದು ಅಗತ್ಯವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿಯ ಸಿಪ್ಪೆ ಬಹಳ ತೆಳುವಾಗಿರುವುದರಿಂದ ಸಿಪ್ಪೆ ತೆಗೆಯದೆ (Whole grain) ಹಾಗೆಯೇ ಪುಡಿಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+      "detailed_answer": "ರಾಗಿಯ ಸಿಪ್ಪೆ ಬಹಳ ತೆಳುವಾಗಿರುವುದರಿಂದ ಸಿಪ್ಪೆ ತೆಗೆಯದೆ (Whole grain) ಹಾಗೆಯೇ ಪುಡಿಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ರಾಗಿಯ ಸಿಪ್ಪೆ ಬಹಳ ತೆಳುವಾಗಿರುವುದರಿಂದ ಸಿಪ್ಪೆ ತೆಗೆಯದೆ (Whole grain) ಹಾಗೆಯೇ ಪುಡಿಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Whole grain"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಕಾಳುಗಳ ಮೇಲಿನ ಸಿಪ್ಪೆ ತೆಗೆಯುವುದು ಅಗತ್ಯವೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರಾಗಿಯ ಸಿಪ್ಪೆ ಬಹಳ ತೆಳುವಾಗಿರುವುದರಿಂದ ಸಿಪ್ಪೆ ತೆಗೆಯದೆ (Whole grain) ಹಾಗೆಯೇ ಪುಡಿಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯ ಬೇರುಗಳು ಮಣ್ಣಿನ ಸವಕಳಿ (Soil erosion) ತಡೆಯುತ್ತವೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯ ಬೇರುಗಳು ಮಣ್ಣಿನ ಸವಕಳಿ (Soil erosion) ತಡೆಯುತ್ತವೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Soil",
+      "Soil erosion",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯ ಬೇರುಗಳು ಮಣ್ಣಿನ ಸವಕಳಿ (Soil erosion) ತಡೆಯುತ್ತವೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ತಂತು ಬೇರುಗಳು ಮಣ್ಣನ್ನು ಭದ್ರವಾಗಿ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದರಿಂದ ಮಣ್ಣಿನ ಸವಕಳಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ತಂತು ಬೇರುಗಳು ಮಣ್ಣನ್ನು ಭದ್ರವಾಗಿ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದರಿಂದ ಮಣ್ಣಿನ ಸವಕಳಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ತಂತು ಬೇರುಗಳು ಮಣ್ಣನ್ನು ಭದ್ರವಾಗಿ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದರಿಂದ ಮಣ್ಣಿನ ಸವಕಳಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯ ಬೇರುಗಳು ಮಣ್ಣಿನ ಸವಕಳಿ (Soil erosion) ತಡೆಯುತ್ತವೆಯೇ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ತಂತು ಬೇರುಗಳು ಮಣ್ಣನ್ನು ಭದ್ರವಾಗಿ ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವುದರಿಂದ ಮಣ್ಣಿನ ಸವಕಳಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಕೃಷಿಯಲ್ಲಿ ಹೆಣ್ಣುಮಕ್ಕಳ ಪಾತ್ರವೇನು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಕೃಷಿಯಲ್ಲಿ ಹೆಣ್ಣುಮಕ್ಕಳ ಪಾತ್ರವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಕೃಷಿಯಲ್ಲಿ ಹೆಣ್ಣುಮಕ್ಕಳ ಪಾತ್ರವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ, ಕಳೆ ಕೀಳುವುದು ಮತ್ತು ಕಟಾವಿನ ಕೆಲಸಗಳಲ್ಲಿ ಹಳ್ಳಿಗಳಲ್ಲಿ ಮಹಿಳೆಯರು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಬಿತ್ತನೆ, ಕಳೆ ಕೀಳುವುದು ಮತ್ತು ಕಟಾವಿನ ಕೆಲಸಗಳಲ್ಲಿ ಹಳ್ಳಿಗಳಲ್ಲಿ ಮಹಿಳೆಯರು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕಳೆ ಕೀಳುವುದು",
+        "ಕಟಾವಿನ ಕೆಲಸಗಳಲ್ಲಿ ಹಳ್ಳಿಗಳಲ್ಲಿ ಮಹಿಳೆಯರು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಕೃಷಿಯಲ್ಲಿ ಹೆಣ್ಣುಮಕ್ಕಳ ಪಾತ್ರವೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಬಿತ್ತನೆ, ಕಳೆ ಕೀಳುವುದು ಮತ್ತು ಕಟಾವಿನ ಕೆಲಸಗಳಲ್ಲಿ ಹಳ್ಳಿಗಳಲ್ಲಿ ಮಹಿಳೆಯರು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop rotation) ರಾಗಿಗೆ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ರೈತರು ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop rotation) ರಾಗಿಗೆ ಏಕೆ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Crop",
+      "Crop rotation",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop rotation) ರಾಗಿಗೆ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಗಿ ಬೆಳೆದ ನಂತರ ಕಡಲೆಕಾಯಿ ಅಥವಾ ಹುರುಳಿ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಉಳಿಯುತ್ತದೆ.",
+      "detailed_answer": "ರಾಗಿ ಬೆಳೆದ ನಂತರ ಕಡಲೆಕಾಯಿ ಅಥವಾ ಹುರುಳಿ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಉಳಿಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ರಾಗಿ ಬೆಳೆದ ನಂತರ ಕಡಲೆಕಾಯಿ ಅಥವಾ ಹುರುಳಿ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಉಳಿಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop rotation) ರಾಗಿಗೆ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಾಗಿ ಬೆಳೆದ ನಂತರ ಕಡಲೆಕಾಯಿ ಅಥವಾ ಹುರುಳಿ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಉಳಿಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಯಲ್ಲಿ ಪಾಸ್ಪರಸ್ (Phosphorus) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಯಲ್ಲಿ ಪಾಸ್ಪರಸ್ (Phosphorus) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Phosphorus",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಯಲ್ಲಿ ಪಾಸ್ಪರಸ್ (Phosphorus) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಕಡು ಹಸಿರು ಅಥವಾ ನೇರಳೆ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಗಳು ಕಡು ಹಸಿರು ಅಥವಾ ನೇರಳೆ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಕಡು ಹಸಿರು ಅಥವಾ ನೇರಳೆ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಯಲ್ಲಿ ಪಾಸ್ಪರಸ್ (Phosphorus) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಲೆಗಳು ಕಡು ಹಸಿರು ಅಥವಾ ನೇರಳೆ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಪಾಸ್ಪರಸ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಪಾಸ್ಪರಸ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ರಾಗಿ ಬೆಳೆಗೆ: ಪಾಸ್ಪರಸ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಪಾಸ್ಪರಸ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "DAP",
+      "Karnataka",
+      "SSP",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಪಾಸ್ಪರಸ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಡಿ.ಎ.ಪಿ (DAP) ಅಥವಾ ಸಿಂಗಲ್ ಸೂಪರ್ ಫಾಸ್ಫೇಟ್ (SSP) ಸೇರಿಸಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಡಿ.ಎ.ಪಿ (DAP) ಅಥವಾ ಸಿಂಗಲ್ ಸೂಪರ್ ಫಾಸ್ಫೇಟ್ (SSP) ಸೇರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಡಿ.ಎ.ಪಿ (DAP) ಅಥವಾ ಸಿಂಗಲ್ ಸೂಪರ್ ಫಾಸ್ಫೇಟ್ (SSP) ಸೇರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಡಿ"
+      ],
+      "recommended_products": [
+        "DAP",
+        "SSP"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಪಾಸ್ಪರಸ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಡಿ.ಎ.ಪಿ (DAP) ಅಥವಾ ಸಿಂಗಲ್ ಸೂಪರ್ ಫಾಸ್ಫೇಟ್ (SSP) ಸೇರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮ್ಯಾಗ್ನೀಷಿಯಂ ಕೊರತೆ ಬಂದರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮ್ಯಾಗ್ನೀಷಿಯಂ ಕೊರತೆ ಬಂದರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮ್ಯಾಗ್ನೀಷಿಯಂ ಕೊರತೆ ಬಂದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ನರಗಳ ಮಧ್ಯೆ ಹಳದಿ ಬಣ್ಣ ಮೂಡುತ್ತದೆ. ಮ್ಯಾಗ್ನೀಷಿಯಂ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಎಲೆಗಳ ನರಗಳ ಮಧ್ಯೆ ಹಳದಿ ಬಣ್ಣ ಮೂಡುತ್ತದೆ. ಮ್ಯಾಗ್ನೀಷಿಯಂ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ನರಗಳ ಮಧ್ಯೆ ಹಳದಿ ಬಣ್ಣ ಮೂಡುತ್ತದೆ. ಮ್ಯಾಗ್ನೀಷಿಯಂ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಲ್ಲಿ ಮ್ಯಾಗ್ನೀಷಿಯಂ ಕೊರತೆ ಬಂದರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಲೆಗಳ ನರಗಳ ಮಧ್ಯೆ ಹಳದಿ ಬಣ್ಣ ಮೂಡುತ್ತದೆ. ಮ್ಯಾಗ್ನೀಷಿಯಂ ಸಲ್ಫೇಟ್ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿಗೆ ರಸಗೊಬ್ಬರವನ್ನು ಡಿ.ಎ.ಪಿ (DAP) ರೂಪದಲ್ಲಿ ಕೊಡಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿಗೆ ರಸಗೊಬ್ಬರವನ್ನು ಡಿ.ಎ.ಪಿ (DAP) ರೂಪದಲ್ಲಿ ಕೊಡಬಹುದೇ?"
+    ],
+    "keywords": [
+      "DAP",
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿಗೆ ರಸಗೊಬ್ಬರವನ್ನು ಡಿ.ಎ.ಪಿ (DAP) ರೂಪದಲ್ಲಿ ಕೊಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಡಿ.ಎ.ಪಿ ಕೊಡುವುದು ರಾಗಿ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯುತ್ತಮ.",
+      "detailed_answer": "ಹೌದು, ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಡಿ.ಎ.ಪಿ ಕೊಡುವುದು ರಾಗಿ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯುತ್ತಮ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಡಿ.ಎ.ಪಿ ಕೊಡುವುದು ರಾಗಿ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯುತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿಗೆ ರಸಗೊಬ್ಬರವನ್ನು ಡಿ.ಎ.ಪಿ (DAP) ರೂಪದಲ್ಲಿ ಕೊಡಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಡಿ.ಎ.ಪಿ ಕೊಡುವುದು ರಾಗಿ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯುತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ?",
+    "question_variants": [
+      "ರೈತರು ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ?"
+    ],
+    "keywords": [
+      "Farm",
+      "GKVK",
+      "Karnataka",
+      "V.C. Farm",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ವಿ.ಸಿ. ಫಾರ್ಮ್ (V.C. Farm) ಮಂಡ್ಯ ಮತ್ತು ಗಾಂಧಿ ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ (GKVK) ಬೆಂಗಳೂರು.",
+      "detailed_answer": "ವಿ.ಸಿ. ಫಾರ್ಮ್ (V.C. Farm) ಮಂಡ್ಯ ಮತ್ತು ಗಾಂಧಿ ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ (GKVK) ಬೆಂಗಳೂರು.",
+      "step_by_step": [
+        "ವಿ.ಸಿ. ಫಾರ್ಮ್ (V.C. Farm) ಮಂಡ್ಯ",
+        "ಗಾಂಧಿ ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ (GKVK) ಬೆಂಗಳೂರು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "V.C. Farm",
+        "GKVK"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದಲ್ಲಿ ರಾಗಿ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ವಿ.ಸಿ. ಫಾರ್ಮ್ (V.C. Farm) ಮಂಡ್ಯ ಮತ್ತು ಗಾಂಧಿ ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ (GKVK) ಬೆಂಗಳೂರು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೊಸ ರಾಗಿ ತಳಿಗಳನ್ನು ರೈತರು ಎಲ್ಲಿಂದ ಪಡೆಯಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ಹೊಸ ರಾಗಿ ತಳಿಗಳನ್ನು ರೈತರು ಎಲ್ಲಿಂದ ಪಡೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "KVK",
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹೊಸ ರಾಗಿ ತಳಿಗಳನ್ನು ರೈತರು ಎಲ್ಲಿಂದ ಪಡೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳು ಮತ್ತು ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರಗಳಿಂದ (KVK) ಪಡೆಯಬಹುದು.",
+      "detailed_answer": "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳು ಮತ್ತು ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರಗಳಿಂದ (KVK) ಪಡೆಯಬಹುದು.",
+      "step_by_step": [
+        "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳು",
+        "ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರಗಳಿಂದ (KVK) ಪಡೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "KVK"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೊಸ ರಾಗಿ ತಳಿಗಳನ್ನು ರೈತರು ಎಲ್ಲಿಂದ ಪಡೆಯಬಹುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಗಳು ಮತ್ತು ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರಗಳಿಂದ (KVK) ಪಡೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅತಿಯಾದ ಕಳೆ ಇದ್ದರೆ ಇಳುವರಿ ಎಷ್ಟು ಕುಸಿಯುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅತಿಯಾದ ಕಳೆ ಇದ್ದರೆ ಇಳುವರಿ ಎಷ್ಟು ಕುಸಿಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅತಿಯಾದ ಕಳೆ ಇದ್ದರೆ ಇಳುವರಿ ಎಷ್ಟು ಕುಸಿಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಆರಂಭಿಕ 30 ದಿನಗಳಲ್ಲಿ ಕಳೆ ತೆಗೆಯದಿದ್ದರೆ ಇಳುವರಿ ಶೇ. 30 ರಿಂದ 40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಆರಂಭಿಕ 30 ದಿನಗಳಲ್ಲಿ ಕಳೆ ತೆಗೆಯದಿದ್ದರೆ ಇಳುವರಿ ಶೇ. 30 ರಿಂದ 40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಆರಂಭಿಕ 30 ದಿನಗಳಲ್ಲಿ ಕಳೆ ತೆಗೆಯದಿದ್ದರೆ ಇಳುವರಿ ಶೇ. 30 ರಿಂದ 40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಹೊಲದಲ್ಲಿ ಅತಿಯಾದ ಕಳೆ ಇದ್ದರೆ ಇಳುವರಿ ಎಷ್ಟು ಕುಸಿಯುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಆರಂಭಿಕ 30 ದಿನಗಳಲ್ಲಿ ಕಳೆ ತೆಗೆಯದಿದ್ದರೆ ಇಳುವರಿ ಶೇ. 30 ರಿಂದ 40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ರಾಗಿ (Finger Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಾಗಿ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ರಾಗಿ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ರಾಗಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Sandy Loam / Laterite",
+      "climate": "Semi-arid",
+      "temperature": "20-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಾಗಿ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಿಮೆ ಖರ್ಚು, ಕಡಿಮೆ ನೀರು, ಬರ ತಡೆಯುವ ಶಕ್ತಿ ಮತ್ತು ಮೇವಿನ ಜೊತೆಗೆ ಆಹಾರ ಭದ್ರತೆ ಒದಗಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಕಡಿಮೆ ಖರ್ಚು, ಕಡಿಮೆ ನೀರು, ಬರ ತಡೆಯುವ ಶಕ್ತಿ ಮತ್ತು ಮೇವಿನ ಜೊತೆಗೆ ಆಹಾರ ಭದ್ರತೆ ಒದಗಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಡಿಮೆ ಖರ್ಚು",
+        "ಬರ ತಡೆಯುವ ಶಕ್ತಿ",
+        "ಮೇವಿನ ಜೊತೆಗೆ ಆಹಾರ ಭದ್ರತೆ ಒದಗಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಕಡಿಮೆ ಖರ್ಚು, ಕಡಿಮೆ ನೀರು, ಬರ ತಡೆಯುವ ಶಕ್ತಿ ಮತ್ತು ಮೇವಿನ ಜೊತೆಗೆ ಆಹಾರ ಭದ್ರತೆ ಒದಗಿಸುತ್ತದೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ರಾಗಿ (Finger Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಗಿ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಡಿಮೆ ಖರ್ಚು, ಕಡಿಮೆ ನೀರು, ಬರ ತಡೆಯುವ ಶಕ್ತಿ ಮತ್ತು ಮೇವಿನ ಜೊತೆಗೆ ಆಹಾರ ಭದ್ರತೆ ಒದಗಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  }
+]

@@ -1,0 +1,410 @@
+/*
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ *  RAITHA SATHI — CROP PROGRESS STYLES
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ */
+
+.progress-page-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 48px;
+}
+
+/* Loading Wrapper */
+.progress-loading-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 64px 24px;
+  gap: 16px;
+  text-align: center;
+}
+
+.progress-loading-text {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+/* Crop Progress Cards Grid */
+.crops-progress-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 20px;
+}
+
+.crop-progress-card {
+  padding: 24px;
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+  position: relative;
+  overflow: hidden;
+}
+
+.crop-progress-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Card Header */
+.card-top-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.crop-title-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.crop-icon-badge {
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-md);
+  background: var(--primary-light);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.crop-name-heading {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin: 0;
+  line-height: 1.2;
+}
+
+.crop-variety-pill {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+}
+
+.days-elapsed-tag {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  background: var(--primary-light);
+  color: var(--primary);
+  white-space: nowrap;
+}
+
+.card-top-right-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.crop-delete-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.crop-delete-btn:hover {
+  background: rgba(239, 68, 68, 0.12);
+  color: #ef4444;
+  border-color: rgba(239, 68, 68, 0.3);
+  transform: scale(1.05);
+}
+
+.crop-delete-btn:active {
+  transform: scale(0.95);
+}
+
+/* Metadata Row */
+.card-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--bg-subtle);
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.sowing-date-label,
+.duration-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.card-meta-row strong {
+  color: var(--text-main);
+  font-weight: 600;
+}
+
+/* Progress Meter */
+.progress-meter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.progress-meter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 0.85rem;
+}
+
+.progress-meter-title {
+  font-weight: 600;
+  color: var(--text-main);
+}
+
+.progress-percentage-val {
+  font-weight: 700;
+  color: var(--primary);
+  font-size: 0.95rem;
+}
+
+.progress-track {
+  height: 10px;
+  border-radius: var(--radius-full);
+  background: var(--border-subtle);
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill-solid {
+  height: 100%;
+  background: var(--primary);
+  border-radius: var(--radius-full);
+  transition: width 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.progress-fill-range {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--primary),
+    var(--primary) 6px,
+    var(--accent) 6px,
+    var(--accent) 12px
+  );
+  opacity: 0.65;
+  border-radius: var(--radius-full);
+}
+
+.progress-unavailable-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  background: rgba(204, 120, 92, 0.08);
+  color: var(--warning);
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+/* Stage Status */
+.stage-status-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-top: 4px;
+}
+
+.stage-label-heading {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-subtle);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.stage-info-content {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.stage-name-badge {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.stage-description-text {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.stage-unavailable-text {
+  font-size: 0.85rem;
+  color: var(--text-subtle);
+  font-style: italic;
+}
+
+/* Harvest Section */
+.harvest-window-section {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  border-radius: var(--radius-md);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-subtle);
+}
+
+.harvest-date-box,
+.countdown-box {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.harvest-title,
+.countdown-title {
+  font-size: 0.75rem;
+  color: var(--text-subtle);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.harvest-value {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.countdown-value {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.unavailable-text {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-subtle);
+}
+
+/* Reference Footer */
+.card-reference-footer {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  color: var(--text-subtle);
+  padding-top: 6px;
+  border-top: 1px dashed var(--border-subtle);
+}
+
+/* Add Crop Modal Form */
+.add-crop-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.modal-instruction-text {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.form-error-banner {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--danger-bg);
+  color: var(--danger);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.form-field-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-actions-row {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+/* Delete Crop Confirmation Modal */
+.delete-crop-modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 8px;
+}
+
+.delete-crop-modal-text {
+  color: var(--text-main);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.delete-crop-modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .crops-progress-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .crop-progress-card {
+    padding: 18px;
+  }
+
+  .harvest-window-section {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

@@ -1,0 +1,431 @@
+/* ── Ambient Floating Background System (High-Visibility Edition) ───────── */
+
+.ambient-floating-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+  contain: strict;
+  transform: translateZ(0);
+}
+
+/* ── 1. Breathing Aurora Glowing Blobs (Enhanced Saturation & Depth) ────── */
+.ambient-orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(85px);
+  opacity: 0.38;
+  will-change: transform, opacity;
+  transition: opacity var(--transition-slow);
+}
+
+[data-theme="dark"] .ambient-orb {
+  opacity: 0.28;
+  filter: blur(100px);
+}
+
+/* Emerald Primary Bloom */
+.orb-primary {
+  width: 580px;
+  height: 580px;
+  top: -100px;
+  left: -80px;
+  background: radial-gradient(circle, rgba(45, 106, 79, 0.7) 0%, rgba(45, 106, 79, 0) 70%);
+  animation: floatOrbEmerald 24s infinite alternate ease-in-out;
+}
+
+[data-theme="dark"] .orb-primary {
+  background: radial-gradient(circle, rgba(82, 183, 136, 0.8) 0%, rgba(82, 183, 136, 0) 70%);
+}
+
+/* Golden Harvest Sunlight Bloom */
+.orb-gold {
+  width: 520px;
+  height: 520px;
+  top: 30%;
+  right: -100px;
+  background: radial-gradient(circle, rgba(224, 159, 62, 0.75) 0%, rgba(224, 159, 62, 0) 70%);
+  animation: floatOrbGold 28s infinite alternate ease-in-out;
+}
+
+/* Sage Dewdrop Bloom */
+.orb-sage {
+  width: 540px;
+  height: 540px;
+  bottom: -120px;
+  left: 20%;
+  background: radial-gradient(circle, rgba(64, 145, 108, 0.65) 0%, rgba(64, 145, 108, 0) 70%);
+  animation: floatOrbSage 26s infinite alternate ease-in-out;
+}
+
+/* Warm Terracotta Ambient Bloom */
+.orb-warm {
+  width: 440px;
+  height: 440px;
+  top: 60%;
+  right: 25%;
+  background: radial-gradient(circle, rgba(212, 122, 91, 0.55) 0%, rgba(212, 122, 91, 0) 70%);
+  animation: floatOrbWarm 30s infinite alternate ease-in-out;
+}
+
+@keyframes floatOrbEmerald {
+  0% { transform: translate3d(0, 0, 0) scale(1); }
+  50% { transform: translate3d(140px, 90px, 0) scale(1.18); }
+  100% { transform: translate3d(50px, 160px, 0) scale(0.96); }
+}
+
+@keyframes floatOrbGold {
+  0% { transform: translate3d(0, 0, 0) scale(0.95); }
+  50% { transform: translate3d(-130px, -70px, 0) scale(1.15); }
+  100% { transform: translate3d(-70px, 90px, 0) scale(1.02); }
+}
+
+@keyframes floatOrbSage {
+  0% { transform: translate3d(0, 0, 0) scale(1.05); }
+  50% { transform: translate3d(-90px, -100px, 0) scale(0.92); }
+  100% { transform: translate3d(100px, -50px, 0) scale(1.12); }
+}
+
+@keyframes floatOrbWarm {
+  0% { transform: translate3d(0, 0, 0) scale(1); }
+  50% { transform: translate3d(-80px, 80px, 0) scale(1.14); }
+  100% { transform: translate3d(70px, -60px, 0) scale(0.95); }
+}
+
+/* ── 2. Drifting Agricultural Motifs (Crisp & Highly Visible) ────────────── */
+.floating-objects-container {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.floating-object {
+  position: absolute;
+  will-change: transform, opacity;
+  pointer-events: none;
+  opacity: 0.68;
+  transition: opacity 0.5s ease;
+}
+
+[data-theme="dark"] .floating-object {
+  opacity: 0.62;
+}
+
+/* ── Individual Agricultural Elements Styling ────────────────────────────── */
+
+/* Leaf 1: Emerald Farm Leaf */
+.drift-leaf-1 {
+  bottom: 10%;
+  left: 8%;
+  color: #2D6A4F;
+  filter: drop-shadow(0 3px 8px rgba(45, 106, 79, 0.35));
+  animation: driftAndSway1 20s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* Leaf 2: Terracotta / Amber Herbal Leaf */
+.drift-leaf-2 {
+  top: 14%;
+  right: 12%;
+  color: #D47A5B;
+  filter: drop-shadow(0 3px 8px rgba(212, 122, 91, 0.35));
+  animation: driftAndSway2 24s cubic-bezier(0.4, 0, 0.2, 1) infinite -6s;
+}
+
+/* Leaf 3: Fresh Sage Slender Leaf */
+.drift-leaf-3 {
+  top: 48%;
+  right: 6%;
+  color: #40916C;
+  filter: drop-shadow(0 3px 8px rgba(64, 145, 108, 0.35));
+  animation: driftAndSway3 22s ease-in-out infinite -12s;
+}
+
+/* Leaf 4: Forest Green Curved Leaf */
+.drift-leaf-4 {
+  top: 22%;
+  left: 18%;
+  color: #1B4332;
+  filter: drop-shadow(0 3px 8px rgba(27, 67, 50, 0.35));
+  animation: driftBuoyant 25s ease-in-out infinite -4s;
+}
+
+/* Leaf 5: Golden Harvest Leaf */
+.drift-leaf-5 {
+  bottom: 24%;
+  left: 38%;
+  color: #D97706;
+  filter: drop-shadow(0 3px 8px rgba(217, 119, 6, 0.35));
+  animation: driftAndSway2 26s cubic-bezier(0.4, 0, 0.2, 1) infinite -15s;
+}
+
+/* Sprout 1: Two-leaf Sprout */
+.drift-sprout-1 {
+  top: 60%;
+  left: 5%;
+  color: #2D6A4F;
+  filter: drop-shadow(0 3px 8px rgba(45, 106, 79, 0.35));
+  animation: driftBuoyant 22s ease-in-out infinite -8s;
+}
+
+/* Sprout 2: Flourishing Seedling near top */
+.drift-sprout-2 {
+  top: 8%;
+  left: 45%;
+  color: #52B788;
+  filter: drop-shadow(0 3px 8px rgba(82, 183, 136, 0.35));
+  animation: driftAndSway1 24s cubic-bezier(0.4, 0, 0.2, 1) infinite -14s;
+}
+
+/* Sprout 3: Emerald Sprout on Right */
+.drift-sprout-3 {
+  bottom: 18%;
+  right: 18%;
+  color: #2D6A4F;
+  filter: drop-shadow(0 3px 8px rgba(45, 106, 79, 0.35));
+  animation: driftAndSway3 21s ease-in-out infinite -3s;
+}
+
+/* Grain 1: Golden Wheat Ear */
+.drift-grain-1 {
+  top: 36%;
+  right: 22%;
+  color: #D97706;
+  filter: drop-shadow(0 3px 8px rgba(217, 119, 6, 0.35));
+  animation: driftAndSway2 23s cubic-bezier(0.4, 0, 0.2, 1) infinite -10s;
+}
+
+/* Grain 2: Sunlit Paddy Ear */
+.drift-grain-2 {
+  top: 38%;
+  left: 12%;
+  color: #E09F3E;
+  filter: drop-shadow(0 3px 8px rgba(224, 159, 62, 0.35));
+  animation: driftAndSway1 25s ease-in-out infinite -5s;
+}
+
+/* Grain 3: Harvest Golden Kernel */
+.drift-grain-3 {
+  bottom: 8%;
+  right: 36%;
+  color: #C87D20;
+  filter: drop-shadow(0 3px 8px rgba(200, 125, 32, 0.35));
+  animation: driftAndSway3 20s ease-in-out infinite -17s;
+}
+
+/* Grain 4: Wheat Stalk near top right */
+.drift-grain-4 {
+  top: 6%;
+  right: 32%;
+  color: #D48B38;
+  filter: drop-shadow(0 3px 8px rgba(212, 139, 56, 0.35));
+  animation: driftBuoyant 24s ease-in-out infinite -9s;
+}
+
+/* Dark theme element color adjustments for luminous pop */
+[data-theme="dark"] .drift-leaf-1,
+[data-theme="dark"] .drift-leaf-3,
+[data-theme="dark"] .drift-sprout-1,
+[data-theme="dark"] .drift-sprout-3 {
+  color: #52B788;
+  filter: drop-shadow(0 0 10px rgba(82, 183, 136, 0.4));
+}
+
+[data-theme="dark"] .drift-leaf-2,
+[data-theme="dark"] .drift-leaf-4,
+[data-theme="dark"] .drift-leaf-5,
+[data-theme="dark"] .drift-grain-1,
+[data-theme="dark"] .drift-grain-2,
+[data-theme="dark"] .drift-grain-3,
+[data-theme="dark"] .drift-grain-4 {
+  color: #F4A261;
+  filter: drop-shadow(0 0 10px rgba(244, 162, 97, 0.4));
+}
+
+/* ── High-Visibility Glowing Fireflies & Harvest Pollen Sparks ───────────── */
+.drift-mote-1 {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #D97706;
+  box-shadow: 0 0 18px #D97706, 0 0 8px #F59E0B;
+  top: 22%;
+  left: 32%;
+  animation: floatMote1 12s infinite ease-in-out;
+}
+
+.drift-mote-2 {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #2D6A4F;
+  box-shadow: 0 0 16px #52B788, 0 0 6px #52B788;
+  bottom: 28%;
+  right: 20%;
+  animation: floatMote2 15s infinite ease-in-out -4s;
+}
+
+.drift-mote-3 {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #D47A5B;
+  box-shadow: 0 0 20px #D47A5B, 0 0 10px #F4A261;
+  top: 65%;
+  left: 42%;
+  animation: floatMote1 18s infinite ease-in-out -8s;
+}
+
+.drift-mote-4 {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #10B981;
+  box-shadow: 0 0 16px #10B981, 0 0 6px #34D399;
+  top: 40%;
+  left: 70%;
+  animation: floatMote2 16s infinite ease-in-out -11s;
+}
+
+.drift-mote-5 {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #F59E0B;
+  box-shadow: 0 0 14px #F59E0B;
+  bottom: 12%;
+  left: 20%;
+  animation: floatMote1 14s infinite ease-in-out -2s;
+}
+
+.drift-mote-6 {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #52B788;
+  box-shadow: 0 0 18px #52B788;
+  top: 15%;
+  right: 40%;
+  animation: floatMote2 17s infinite ease-in-out -6s;
+}
+
+/* ── Motion Keyframes for Floating Objects ───────────────────────────────── */
+@keyframes driftAndSway1 {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(0deg) scale(0.92);
+    opacity: 0.55;
+  }
+  25% {
+    transform: translate3d(45px, -60px, 0) rotate(22deg) scale(1.08);
+    opacity: 0.78;
+  }
+  50% {
+    transform: translate3d(20px, -130px, 0) rotate(10deg) scale(1);
+    opacity: 0.65;
+  }
+  75% {
+    transform: translate3d(55px, -190px, 0) rotate(28deg) scale(1.1);
+    opacity: 0.75;
+  }
+  100% {
+    transform: translate3d(0, -260px, 0) rotate(0deg) scale(0.92);
+    opacity: 0.5;
+  }
+}
+
+@keyframes driftAndSway2 {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(0deg) scale(1);
+    opacity: 0.58;
+  }
+  30% {
+    transform: translate3d(-50px, -55px, 0) rotate(-20deg) scale(1.12);
+    opacity: 0.82;
+  }
+  60% {
+    transform: translate3d(-20px, -115px, 0) rotate(-8deg) scale(0.96);
+    opacity: 0.62;
+  }
+  85% {
+    transform: translate3d(-60px, -175px, 0) rotate(-26deg) scale(1.08);
+    opacity: 0.74;
+  }
+  100% {
+    transform: translate3d(0, -240px, 0) rotate(0deg) scale(1);
+    opacity: 0.52;
+  }
+}
+
+@keyframes driftAndSway3 {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(25deg);
+    opacity: 0.52;
+  }
+  50% {
+    transform: translate3d(-40px, -70px, 0) rotate(50deg) scale(1.18);
+    opacity: 0.85;
+  }
+  100% {
+    transform: translate3d(0, 0, 0) rotate(25deg);
+    opacity: 0.52;
+  }
+}
+
+@keyframes driftBuoyant {
+  0%, 100% {
+    transform: translate3d(0, 0, 0) rotate(0deg) scale(1);
+    opacity: 0.58;
+  }
+  33% {
+    transform: translate3d(28px, -40px, 0) rotate(15deg) scale(1.12);
+    opacity: 0.82;
+  }
+  66% {
+    transform: translate3d(-20px, -65px, 0) rotate(-10deg) scale(0.95);
+    opacity: 0.65;
+  }
+}
+
+@keyframes floatMote1 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0) scale(0.85);
+    opacity: 0.55;
+  }
+  50% {
+    transform: translate3d(35px, -50px, 0) scale(1.4);
+    opacity: 1;
+  }
+}
+
+@keyframes floatMote2 {
+  0%, 100% {
+    transform: translate3d(0, 0, 0) scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: translate3d(-30px, -45px, 0) scale(1.45);
+    opacity: 1;
+  }
+}
+
+/* ── Accessibility & Performance ─────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .ambient-orb,
+  .floating-object {
+    animation: none !important;
+    transform: none !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .ambient-orb {
+    filter: blur(65px);
+    transform: scale(0.85);
+  }
+  .floating-object {
+    opacity: 0.58;
+  }
+}

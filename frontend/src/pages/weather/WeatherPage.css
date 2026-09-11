@@ -1,0 +1,769 @@
+/* ── WeatherPage.css ────────────────────────────────────────── */
+
+.weather-page-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem 1rem;
+}
+
+/* ── Google Weather Card Widget ──────────────────────────────── */
+.google-weather-card {
+  background-color: #202124;
+  color: #e8eaed;
+  border-radius: 16px;
+  padding: 1.75rem 2rem 1.25rem 2rem;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+  margin-bottom: 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  user-select: none;
+}
+
+/* Top Location Bar */
+.google-weather-location-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.location-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.location-left:hover {
+  opacity: 0.85;
+}
+
+.loc-pin-icon {
+  color: #9aa0a6;
+  flex-shrink: 0;
+}
+
+.loc-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #e8eaed;
+}
+
+.choose-area-link {
+  font-size: 0.95rem;
+  color: #8ab4f8;
+  font-weight: 500;
+  margin-left: 0.25rem;
+}
+
+.btn-dots-menu {
+  background: transparent;
+  border: none;
+  color: #9aa0a6;
+  cursor: pointer;
+  padding: 0.35rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.btn-dots-menu:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+/* Collapsible District Selector Panel */
+.district-dropdown-panel {
+  background-color: #2d2f34;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.picker-title {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #8ab4f8;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.district-pills-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.85rem;
+}
+
+.district-pill {
+  padding: 0.35rem 0.85rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border-radius: 20px;
+  background-color: #3c4043;
+  color: #e8eaed;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.district-pill:hover {
+  background-color: #4a4f54;
+}
+
+.district-pill.active {
+  background-color: #10b981;
+  color: #ffffff;
+  border-color: #059669;
+}
+
+.custom-location-inline {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 420px;
+}
+
+.text-input-mini {
+  flex: 1;
+  background-color: #1f2228;
+  border: 1px solid #5f6368;
+  color: #e8eaed;
+  padding: 0.45rem 0.75rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+}
+
+.text-input-mini:focus {
+  outline: none;
+  border-color: #8ab4f8;
+}
+
+.btn-apply-loc {
+  padding: 0.45rem 1rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  background-color: #8ab4f8;
+  color: #202124;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* ── Main Temperature & Weather Row ─────────────────────────── */
+.google-weather-main-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  gap: 1.5rem;
+}
+
+.temp-hero-block {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.hero-weather-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+}
+
+.weather-icon-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.weather-icon-wrapper.cloudy .icon-cloud {
+  color: #bdc1c6;
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+}
+
+.weather-icon-wrapper.sunny .icon-sun {
+  color: #fbbc04;
+  filter: drop-shadow(0 0 10px rgba(251, 188, 4, 0.4));
+}
+
+.weather-icon-wrapper.rainy .icon-cloud-rain {
+  color: #8ab4f8;
+}
+
+.weather-icon-wrapper.partly-cloudy {
+  position: relative;
+}
+
+.weather-icon-wrapper.partly-cloudy .sun-behind {
+  position: absolute;
+  top: 4px;
+  right: 6px;
+  width: 28px;
+  height: 28px;
+  background: radial-gradient(circle, #fbbc04 60%, #ea4335 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 12px #fbbc04;
+}
+
+.weather-icon-wrapper.partly-cloudy .icon-cloud-front {
+  color: #d1d5db;
+  position: relative;
+  z-index: 2;
+  filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.4));
+}
+
+.temp-number-wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.35rem;
+}
+
+.temp-big-value {
+  font-size: clamp(3.8rem, 6vw, 4.8rem);
+  font-weight: 400;
+  line-height: 0.9;
+  color: #e8eaed;
+  letter-spacing: -0.04em;
+}
+
+.temp-unit-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 1.1rem;
+  margin-top: 0.25rem;
+}
+
+.unit-btn {
+  background: transparent;
+  border: none;
+  color: #9aa0a6;
+  font-size: 1.15rem;
+  cursor: pointer;
+  padding: 0;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.unit-btn.unit-active {
+  color: #e8eaed;
+  font-weight: 700;
+}
+
+.unit-divider {
+  color: #5f6368;
+  font-size: 1.1rem;
+}
+
+.weather-stats-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: #9aa0a6;
+}
+
+.stat-line {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.stat-label {
+  color: #9aa0a6;
+}
+
+.stat-val {
+  color: #bdc1c6;
+  font-weight: 500;
+}
+
+/* Right Side Block */
+.condition-info-block {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.weather-heading {
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #e8eaed;
+  margin: 0 0 0.25rem 0;
+}
+
+.day-time-text {
+  font-size: 0.98rem;
+  color: #9aa0a6;
+  margin-bottom: 0.2rem;
+}
+
+.condition-text {
+  font-size: 0.98rem;
+  color: #bdc1c6;
+  font-weight: 500;
+}
+
+/* ── Google Weather Tabs ─────────────────────────────────────── */
+.google-weather-tabs-row {
+  display: flex;
+  gap: 1.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin-bottom: 1rem;
+}
+
+.g-tab-btn {
+  background: transparent;
+  border: none;
+  color: #9aa0a6;
+  font-size: 0.95rem;
+  font-weight: 500;
+  padding: 0.5rem 0.25rem 0.65rem 0.25rem;
+  cursor: pointer;
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+.g-tab-btn:hover {
+  color: #e8eaed;
+}
+
+.g-tab-btn.active-tab {
+  color: #e8eaed;
+  font-weight: 600;
+}
+
+.g-tab-btn.active-tab::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background-color: #fbbc04;
+  border-radius: 3px 3px 0 0;
+}
+
+/* ── Hourly Bezier Graph Section ─────────────────────────────── */
+.google-weather-graph-section {
+  position: relative;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.google-graph-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.google-weather-svg {
+  width: 100%;
+  height: 110px;
+  overflow: visible;
+}
+
+.graph-point-text {
+  fill: #e8eaed;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: inherit;
+}
+
+.google-graph-time-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.4rem 10px 0 10px;
+}
+
+.time-col {
+  flex: 1;
+  text-align: center;
+}
+
+.time-tick-label {
+  font-size: 0.85rem;
+  color: #9aa0a6;
+}
+
+.graph-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  height: 120px;
+  color: #9aa0a6;
+  font-size: 0.9rem;
+}
+
+/* ── 7-Day Daily Forecast Strip ──────────────────────────────── */
+.google-7day-forecast-row {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 0.4rem;
+  padding-top: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.day-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.75rem 0.25rem;
+  border-radius: 12px;
+  background-color: transparent;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+  cursor: pointer;
+}
+
+.day-card:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.day-card.day-active {
+  background-color: #303134;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.day-name {
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #e8eaed;
+  margin-bottom: 0.5rem;
+}
+
+.day-icon-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  margin-bottom: 0.5rem;
+}
+
+.day-temps {
+  display: flex;
+  gap: 0.35rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
+.temp-max {
+  color: #e8eaed;
+}
+
+.temp-min {
+  color: #9aa0a6;
+}
+
+/* Card Footer */
+.google-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: #9aa0a6;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  padding-top: 0.75rem;
+}
+
+.footer-source {
+  color: #9aa0a6;
+}
+
+.footer-link-btn {
+  background: transparent;
+  border: none;
+  color: #9aa0a6;
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.8rem;
+  text-decoration: underline;
+}
+
+.footer-link-btn:hover {
+  color: #8ab4f8;
+}
+
+/* ── Agricultural Spray Advisory Card ────────────────────────── */
+.agricultural-advisory-container {
+  margin-bottom: 2rem;
+}
+
+.advisory-banner {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-fast);
+}
+
+.advisory-banner.safe {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(6, 78, 59, 0.25) 100%);
+  border-color: rgba(16, 185, 129, 0.4);
+  color: #d1fae5;
+}
+
+.advisory-banner.safe .advisory-badge-icon {
+  color: #10b981;
+}
+
+.advisory-banner.warning {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(120, 53, 15, 0.25) 100%);
+  border-color: rgba(245, 158, 11, 0.4);
+  color: #fef3c7;
+}
+
+.advisory-banner.warning .advisory-badge-icon {
+  color: #f59e0b;
+}
+
+.advisory-banner.danger {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.15) 0%, rgba(127, 29, 29, 0.25) 100%);
+  border-color: rgba(239, 68, 68, 0.4);
+  color: #fee2e2;
+}
+
+.advisory-banner.danger .advisory-badge-icon {
+  color: #ef4444;
+}
+
+.advisory-badge-icon {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.advisory-text-content {
+  flex: 1;
+}
+
+.advisory-status-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.advisory-detail-p {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin: 0;
+  opacity: 0.9;
+}
+
+.btn-quick-ask {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.15rem;
+  font-size: 0.84rem;
+  font-weight: 700;
+  border-radius: 8px;
+  background-color: var(--primary);
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--transition-fast);
+}
+
+.btn-quick-ask:hover {
+  background-color: var(--primary-hover);
+  transform: translateY(-1px);
+}
+
+/* ── Quick Advisories Grid ───────────────────────────────────── */
+.weather-advisories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.weather-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.35rem;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-sm);
+  transition: border-color var(--transition-fast), transform var(--transition-fast);
+}
+
+.weather-card:hover {
+  border-color: var(--border-glass);
+  transform: translateY(-2px);
+}
+
+.weather-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: 0.75rem;
+}
+
+.weather-icon-badge {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  background-color: var(--bg-subtle);
+  color: var(--info);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border-subtle);
+}
+
+.weather-card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin: 0;
+  line-height: 1.3;
+}
+
+.weather-card-desc {
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+  flex: 1;
+}
+
+.weather-target-location {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.78rem;
+  color: var(--text-subtle);
+  margin-bottom: 1rem;
+}
+
+.btn-weather-ask {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.55rem 1rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  border-radius: var(--radius-sm);
+  background-color: var(--bg-subtle);
+  color: var(--text-main);
+  border: 1px solid var(--border-subtle);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.btn-weather-ask:hover {
+  background-color: var(--primary);
+  color: var(--text-inverse);
+  border-color: var(--primary);
+}
+
+/* ── Custom Weather Query Form ───────────────────────────────── */
+.weather-custom-query-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.35rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.custom-card-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.85rem;
+}
+
+.custom-card-header .header-icon {
+  color: var(--primary);
+}
+
+.custom-card-header h3 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin: 0;
+}
+
+.custom-weather-form {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.custom-weather-form .text-input {
+  flex: 1;
+}
+
+.btn-weather-submit {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0 1.25rem;
+  font-size: 0.86rem;
+  font-weight: 700;
+  border-radius: var(--radius-sm);
+  background-color: var(--primary);
+  color: var(--text-inverse);
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--transition-fast);
+}
+
+.btn-weather-submit:hover {
+  background-color: var(--primary-hover);
+  box-shadow: 0 4px 12px var(--primary-glow-alpha);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .google-weather-card {
+    padding: 1.25rem 1rem;
+  }
+  .google-weather-main-row {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .condition-info-block {
+    text-align: left;
+  }
+  .google-7day-forecast-row {
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 0.75rem;
+  }
+  .advisory-banner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .btn-quick-ask {
+    width: 100%;
+    justify-content: center;
+  }
+  .custom-weather-form {
+    flex-direction: column;
+  }
+  .btn-weather-submit {
+    height: 44px;
+    justify-content: center;
+  }
+}

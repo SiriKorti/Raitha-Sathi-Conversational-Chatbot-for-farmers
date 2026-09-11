@@ -1,0 +1,5391 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆ ಏನು ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಉಷ್ಣವಲಯದ ಮತ್ತು ಬೆಚ್ಚನೆಯ ಹವಾಮಾನವು ಅತ್ಯಂತ ಸೂಕ್ತವಾಗಿದೆ.",
+      "detailed_answer": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಉಷ್ಣವಲಯದ ಮತ್ತು ಬೆಚ್ಚನೆಯ ಹವಾಮಾನವು ಅತ್ಯಂತ ಸೂಕ್ತವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಶೇಂಗಾ ಬೆಳೆಗೆ ಉಷ್ಣವಲಯದ",
+        "ಬೆಚ್ಚನೆಯ ಹವಾಮಾನವು ಅತ್ಯಂತ ಸೂಕ್ತವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಶೇಂಗಾ ಬೆಳೆಗೆ ಉಷ್ಣವಲಯದ ಮತ್ತು ಬೆಚ್ಚನೆಯ ಹವಾಮಾನವು ಅತ್ಯಂತ ಸೂಕ್ತವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಬೇಕಾಗುವ ಸರಾಸರಿ ತಾಪಮಾನ ಎಷ್ಟು?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಗೆ ಬೇಕಾಗುವ ಸರಾಸರಿ ತಾಪಮಾನ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಬೇಕಾಗುವ ಸರಾಸರಿ ತಾಪಮಾನ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಈ ಬೆಳೆಗೆ ಸುಮಾರು 25°C ದಿಂದ 30°C ತಾಪಮಾನವು ಬೆಳವಣಿಗೆಗೆ ಉತ್ತಮ.",
+      "detailed_answer": "ಈ ಬೆಳೆಗೆ ಸುಮಾರು 25°C ದಿಂದ 30°C ತಾಪಮಾನವು ಬೆಳವಣಿಗೆಗೆ ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಈ ಬೆಳೆಗೆ ಸುಮಾರು 25°C ದಿಂದ 30°C ತಾಪಮಾನವು ಬೆಳವಣಿಗೆಗೆ ಉತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಗೆ ಬೇಕಾಗುವ ಸರಾಸರಿ ತಾಪಮಾನ ಎಷ್ಟು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಈ ಬೆಳೆಗೆ ಸುಮಾರು 25°C ದಿಂದ 30°C ತಾಪಮಾನವು ಬೆಳವಣಿಗೆಗೆ ಉತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅತಿಯಾದ ಮಳೆ ಶೇಂಗಾ ಬೆಳೆಗೆ ಪೂರಕವೇ?",
+    "question_variants": [
+      "ರೈತರು ಅತಿಯಾದ ಮಳೆ ಶೇಂಗಾ ಬೆಳೆಗೆ ಪೂರಕವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಅತಿಯಾದ ಮಳೆ ಶೇಂಗಾ ಬೆಳೆಗೆ ಪೂರಕವೇ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಅತಿಯಾದ ಮಳೆ ಮತ್ತು ಮೋಡ ಕವಿದ ವಾತಾವರಣವು ಕೀಟ ಮತ್ತು ರೋಗಗಳ ಹರಡುವಿಕೆಗೆ ಕಾರಣವಾಗಬಹುದು.",
+      "detailed_answer": "ಇಲ್ಲ, ಅತಿಯಾದ ಮಳೆ ಮತ್ತು ಮೋಡ ಕವಿದ ವಾತಾವರಣವು ಕೀಟ ಮತ್ತು ರೋಗಗಳ ಹರಡುವಿಕೆಗೆ ಕಾರಣವಾಗಬಹುದು.",
+      "step_by_step": [
+        "ಮೋಡ ಕವಿದ ವಾತಾವರಣವು ಕೀಟ",
+        "ರೋಗಗಳ ಹರಡುವಿಕೆಗೆ ಕಾರಣವಾಗಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅತಿಯಾದ ಮಳೆ ಶೇಂಗಾ ಬೆಳೆಗೆ ಪೂರಕವೇ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಲ್ಲ, ಅತಿಯಾದ ಮಳೆ ಮತ್ತು ಮೋಡ ಕವಿದ ವಾತಾವರಣವು ಕೀಟ ಮತ್ತು ರೋಗಗಳ ಹರಡುವಿಕೆಗೆ ಕಾರಣವಾಗಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯಲು ಯಾವ ಮಣ್ಣು ಶ್ರೇಷ್ಠ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಯಲು ಏನು ಮಣ್ಣು ಶ್ರೇಷ್ಠ?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯಲು ಯಾವ ಮಣ್ಣು ಶ್ರೇಷ್ಠ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯಲು ಯಾವ ಮಣ್ಣು ಶ್ರೇಷ್ಠ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮರಳು ಮಿಶ್ರಿತ ಕೆಂಪು ಲೋಮ್ ಮಣ್ಣು ಅಥವಾ ಚೆನ್ನಾಗಿ ನೀರು ಬಸಿದು ಹೋಗುವ ಹಗುರವಾದ ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತ.",
+      "detailed_answer": "ಮರಳು ಮಿಶ್ರಿತ ಕೆಂಪು ಲೋಮ್ ಮಣ್ಣು ಅಥವಾ ಚೆನ್ನಾಗಿ ನೀರು ಬಸಿದು ಹೋಗುವ ಹಗುರವಾದ ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ಮರಳು ಮಿಶ್ರಿತ ಕೆಂಪು ಲೋಮ್ ಮಣ್ಣು ಅಥವಾ ಚೆನ್ನಾಗಿ ನೀರು ಬಸಿದು ಹೋಗುವ ಹಗುರವಾದ ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [
+        "ಮರಳು ಮಿಶ್ರಿತ ಕೆಂಪು ಲೋಮ್ ಮಣ್ಣು ಅಥವಾ ಚೆನ್ನಾಗಿ ನೀರು ಬಸಿದು ಹೋಗುವ ಹಗುರವಾದ ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯಲು ಯಾವ ಮಣ್ಣು ಶ್ರೇಷ್ಠ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮರಳು ಮಿಶ್ರಿತ ಕೆಂಪು ಲೋಮ್ ಮಣ್ಣು ಅಥವಾ ಚೆನ್ನಾಗಿ ನೀರು ಬಸಿದು ಹೋಗುವ ಹಗುರವಾದ ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಣ್ಣಿನ pH ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಮಣ್ಣಿನ pH ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು?",
+      "ರೈತರು ಮಣ್ಣಿನ pH ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನ pH ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ pH ಪ್ರಮಾಣವು 5.5 ರಿಂದ 7.5 ರ ನಡುವೆ ಇರುವುದು ಉತ್ತಮ.",
+      "detailed_answer": "ಮಣ್ಣಿನ pH ಪ್ರಮಾಣವು 5.5 ರಿಂದ 7.5 ರ ನಡುವೆ ಇರುವುದು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ pH ಪ್ರಮಾಣವು 5.5 ರಿಂದ 7.5 ರ ನಡುವೆ ಇರುವುದು ಉತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಣ್ಣಿನ pH ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ pH ಪ್ರಮಾಣವು 5.5 ರಿಂದ 7.5 ರ ನಡುವೆ ಇರುವುದು ಉತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [
+      "ನೀರು ನಿಲ್ಲುವ ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆದರೆ ಕಾಯಿ ಕೊಳೆಯುವ ಸಂಭವವಿರುತ್ತದೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ನೀರು ನಿಲ್ಲುವ ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆದರೆ ಕಾಯಿ ಕೊಳೆಯುವ ಸಂಭವವಿರುತ್ತದೆ.",
+      "detailed_answer": "ಇಲ್ಲ, ನೀರು ನಿಲ್ಲುವ ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆದರೆ ಕಾಯಿ ಕೊಳೆಯುವ ಸಂಭವವಿರುತ್ತದೆ.",
+      "step_by_step": [
+        "ನೀರು ನಿಲ್ಲುವ ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆದರೆ ಕಾಯಿ ಕೊಳೆಯುವ ಸಂಭವವಿರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಲ್ಲ, ನೀರು ನಿಲ್ಲುವ ಚೌಗು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆದರೆ ಕಾಯಿ ಕೊಳೆಯುವ ಸಂಭವವಿರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವಾಗ ಎಷ್ಟು ಬಾರಿ ಉಳುಮೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವಾಗ ಎಷ್ಟು ಬಾರಿ ಉಳುಮೆ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವಾಗ ಎಷ್ಟು ಬಾರಿ ಉಳುಮೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವಾಗ ಎಷ್ಟು ಬಾರಿ ಉಳುಮೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭೂಮಿಯನ್ನು 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಹೆಂಟೆಗಳನ್ನು ಒಡೆದು ಹದಗೊಳಿಸಬೇಕು.",
+      "detailed_answer": "ಭೂಮಿಯನ್ನು 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಹೆಂಟೆಗಳನ್ನು ಒಡೆದು ಹದಗೊಳಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಭೂಮಿಯನ್ನು 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಹೆಂಟೆಗಳನ್ನು ಒಡೆದು ಹದಗೊಳಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವಾಗ ಎಷ್ಟು ಬಾರಿ ಉಳುಮೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಭೂಮಿಯನ್ನು 2-3 ಬಾರಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಹೆಂಟೆಗಳನ್ನು ಒಡೆದು ಹದಗೊಳಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಮಾಗಿ ಉಳುಮೆಯ ಮಹತ್ವವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಮಾಗಿ ಉಳುಮೆಯ ಮಹತ್ವವೇನು?",
+      "ರೈತರು ಮಾಗಿ ಉಳುಮೆಯ ಮಹತ್ವವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಾಗಿ ಉಳುಮೆಯ ಮಹತ್ವವೇನು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಮಾಗಿ ಉಳುಮೆಯಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಹಾನಿಕಾರಕ ಕೀಟಗಳ ಮೊಟ್ಟೆಗಳು ಮತ್ತು ರೋಗಾಣುಗಳು ನಾಶವಾಗುತ್ತವೆ.",
+      "detailed_answer": "ಮಾಗಿ ಉಳುಮೆಯಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಹಾನಿಕಾರಕ ಕೀಟಗಳ ಮೊಟ್ಟೆಗಳು ಮತ್ತು ರೋಗಾಣುಗಳು ನಾಶವಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಮಾಗಿ ಉಳುಮೆಯಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಹಾನಿಕಾರಕ ಕೀಟಗಳ ಮೊಟ್ಟೆಗಳು",
+        "ರೋಗಾಣುಗಳು ನಾಶವಾಗುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಮಾಗಿ ಉಳುಮೆಯಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಹಾನಿಕಾರಕ ಕೀಟಗಳ ಮೊಟ್ಟೆಗಳು ಮತ್ತು ರೋಗಾಣುಗಳು ನಾಶವಾಗುತ್ತವೆ"
+      ]
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಾಗಿ ಉಳುಮೆಯ ಮಹತ್ವವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಾಗಿ ಉಳುಮೆಯಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಹಾನಿಕಾರಕ ಕೀಟಗಳ ಮೊಟ್ಟೆಗಳು ಮತ್ತು ರೋಗಾಣುಗಳು ನಾಶವಾಗುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಎಷ್ಟು ಹಾಕಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಎಷ್ಟು ಹಾಕಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಶೇಂಗಾ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಎಷ್ಟು ಹಾಕಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಕೊನೆಯ ಉಳುಮೆಯ ಸಮಯದಲ್ಲಿ ಬೆರೆಸಬೇಕು.",
+      "detailed_answer": "ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಕೊನೆಯ ಉಳುಮೆಯ ಸಮಯದಲ್ಲಿ ಬೆರೆಸಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಕೊನೆಯ ಉಳುಮೆಯ ಸಮಯದಲ್ಲಿ ಬೆರೆಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಕೊನೆಯ ಉಳುಮೆಯ ಸಮಯದಲ್ಲಿ ಬೆರೆಸಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಎಷ್ಟು ಹಾಕಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಕೊನೆಯ ಉಳುಮೆಯ ಸಮಯದಲ್ಲಿ ಬೆರೆಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಭೂಮಿಯಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಭೂಮಿಯಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಭೂಮಿಯಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಭೂಮಿಯಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಭೂಮಿಯಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜಮೀನಿನಲ್ಲಿ ನೀರು ಬಸಿದು ಹೋಗಲು ಸೂಕ್ತ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಅಥವಾ ಏರುಮಡಿ ಪದ್ಧತಿ ಅನುಸರಿಸಬೇಕು.",
+      "detailed_answer": "ಜಮೀನಿನಲ್ಲಿ ನೀರು ಬಸಿದು ಹೋಗಲು ಸೂಕ್ತ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಅಥವಾ ಏರುಮಡಿ ಪದ್ಧತಿ ಅನುಸರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಜಮೀನಿನಲ್ಲಿ ನೀರು ಬಸಿದು ಹೋಗಲು ಸೂಕ್ತ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಅಥವಾ ಏರುಮಡಿ ಪದ್ಧತಿ ಅನುಸರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಜಮೀನಿನಲ್ಲಿ ನೀರು ಬಸಿದು ಹೋಗಲು ಸೂಕ್ತ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಅಥವಾ ಏರುಮಡಿ ಪದ್ಧತಿ ಅನುಸರಿಸಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಭೂಮಿಯಲ್ಲಿ ನೀರು ನಿಲ್ಲದಂತೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಜಮೀನಿನಲ್ಲಿ ನೀರು ಬಸಿದು ಹೋಗಲು ಸೂಕ್ತ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಅಥವಾ ಏರುಮಡಿ ಪದ್ಧತಿ ಅನುಸರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾವನ್ನು ಯಾವ ಹಂತದ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು?",
+    "question_variants": [
+      "ಶೇಂಗಾವನ್ನು ಏನು ಹಂತದ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು?",
+      "ರೈತರು ಶೇಂಗಾವನ್ನು ಯಾವ ಹಂತದ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾವನ್ನು ಯಾವ ಹಂತದ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅತಿಯಾದ ಜೇಡಿ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು, ಏಕೆಂದರೆ ಇದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಕ್ರಿಯೆಗೆ ಅಡ್ಡಿಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಅತಿಯಾದ ಜೇಡಿ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು, ಏಕೆಂದರೆ ಇದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಕ್ರಿಯೆಗೆ ಅಡ್ಡಿಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅತಿಯಾದ ಜೇಡಿ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು",
+        "ಏಕೆಂದರೆ ಇದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಕ್ರಿಯೆಗೆ ಅಡ್ಡಿಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಅತಿಯಾದ ಜೇಡಿ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು"
+      ]
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾವನ್ನು ಯಾವ ಹಂತದ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅತಿಯಾದ ಜೇಡಿ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು, ಏಕೆಂದರೆ ಇದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಕ್ರಿಯೆಗೆ ಅಡ್ಡಿಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಭೂಮಿಯನ್ನು ಹದಗೊಳಿಸುವಾಗ ಯಾವ ಅಂಶಕ್ಕೆ ಗಮನ ನೀಡಬೇಕು?",
+    "question_variants": [
+      "ಭೂಮಿಯನ್ನು ಹದಗೊಳಿಸುವಾಗ ಏನು ಅಂಶಕ್ಕೆ ಗಮನ ನೀಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಭೂಮಿಯನ್ನು ಹದಗೊಳಿಸುವಾಗ ಯಾವ ಅಂಶಕ್ಕೆ ಗಮನ ನೀಡಬೇಕು?",
+      "ರೈತರು ಭೂಮಿಯನ್ನು ಹದಗೊಳಿಸುವಾಗ ಯಾವ ಅಂಶಕ್ಕೆ ಗಮನ ನೀಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Fine",
+      "Fine Tilth",
+      "Karnataka",
+      "Tilth",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಭೂಮಿಯನ್ನು ಹದಗೊಳಿಸುವಾಗ ಯಾವ ಅಂಶಕ್ಕೆ ಗಮನ ನೀಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣು ನುಣ್ಣಗೆ ಪುಡಿಯಾಗುವಂತೆ (Fine Tilth) ನೋಡಿಕೊಳ್ಳುವುದು ಅತ್ಯಗತ್ಯ.",
+      "detailed_answer": "ಮಣ್ಣು ನುಣ್ಣಗೆ ಪುಡಿಯಾಗುವಂತೆ (Fine Tilth) ನೋಡಿಕೊಳ್ಳುವುದು ಅತ್ಯಗತ್ಯ.",
+      "step_by_step": [
+        "ಮಣ್ಣು ನುಣ್ಣಗೆ ಪುಡಿಯಾಗುವಂತೆ (Fine Tilth) ನೋಡಿಕೊಳ್ಳುವುದು ಅತ್ಯಗತ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Fine Tilth"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಭೂಮಿಯನ್ನು ಹದಗೊಳಿಸುವಾಗ ಯಾವ ಅಂಶಕ್ಕೆ ಗಮನ ನೀಡಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣು ನುಣ್ಣಗೆ ಪುಡಿಯಾಗುವಂತೆ (Fine Tilth) ನೋಡಿಕೊಳ್ಳುವುದು ಅತ್ಯಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಾಧ್ಯವೇ?",
+    "question_variants": [
+      "ರೈತರು ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಾಧ್ಯವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಾಧ್ಯವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ, ಆದ್ದರಿಂದ ಇದನ್ನು ತಪ್ಪಿಸುವುದು ಲೇಸು.",
+      "detailed_answer": "ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ, ಆದ್ದರಿಂದ ಇದನ್ನು ತಪ್ಪಿಸುವುದು ಲೇಸು.",
+      "step_by_step": [
+        "ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ",
+        "ಆದ್ದರಿಂದ ಇದನ್ನು ತಪ್ಪಿಸುವುದು ಲೇಸು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಆದ್ದರಿಂದ ಇದನ್ನು ತಪ್ಪಿಸುವುದು ಲೇಸು"
+      ]
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಾಧ್ಯವೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಲ್ಲು ಭೂಮಿಯಲ್ಲಿ ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ಬೆಳೆಯುವುದಿಲ್ಲ, ಆದ್ದರಿಂದ ಇದನ್ನು ತಪ್ಪಿಸುವುದು ಲೇಸು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ ಎಷ್ಟು ಎತ್ತರ ಸೂಕ್ತ?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ ಎಷ್ಟು ಎತ್ತರ ಸೂಕ್ತ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ ಎಷ್ಟು ಎತ್ತರ ಸೂಕ್ತ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000 ಮೀಟರ್ ಎತ್ತರದವರೆಗಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000 ಮೀಟರ್ ಎತ್ತರದವರೆಗಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000 ಮೀಟರ್ ಎತ್ತರದವರೆಗಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯಲು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ ಎಷ್ಟು ಎತ್ತರ ಸೂಕ್ತ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000 ಮೀಟರ್ ಎತ್ತರದವರೆಗಿನ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಉಳುಮೆಯ ನಂತರ ಹರಗುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಉಳುಮೆಯ ನಂತರ ಹರಗುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+      "ರೈತರು ಉಳುಮೆಯ ನಂತರ ಹರಗುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಉಳುಮೆಯ ನಂತರ ಹರಗುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹರಗುವುದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಕಳೆಗಳು ನಾಶವಾಗಿ ತೇವಾಂಶ ಸಂರಕ್ಷಣೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಹರಗುವುದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಕಳೆಗಳು ನಾಶವಾಗಿ ತೇವಾಂಶ ಸಂರಕ್ಷಣೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಹರಗುವುದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಕಳೆಗಳು ನಾಶವಾಗಿ ತೇವಾಂಶ ಸಂರಕ್ಷಣೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಹರಗುವುದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಕಳೆಗಳು ನಾಶವಾಗಿ ತೇವಾಂಶ ಸಂರಕ್ಷಣೆಯಾಗುತ್ತದೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಉಳುಮೆಯ ನಂತರ ಹರಗುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹರಗುವುದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿರುವ ಕಳೆಗಳು ನಾಶವಾಗಿ ತೇವಾಂಶ ಸಂರಕ್ಷಣೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮುಂಗಾರು ಹಂಗಾಮಿನ ಬಿತ್ತನೆ ಕಾಲ ಯಾವುದು?",
+    "question_variants": [
+      "ಮುಂಗಾರು ಹಂಗಾಮಿನ ಬಿತ್ತನೆ ಕಾಲ ಏನುುದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಮುಂಗಾರು ಹಂಗಾಮಿನ ಬಿತ್ತನೆ ಕಾಲ ಯಾವುದು?",
+      "ರೈತರು ಮುಂಗಾರು ಹಂಗಾಮಿನ ಬಿತ್ತನೆ ಕಾಲ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮುಂಗಾರು ಹಂಗಾಮಿನ ಬಿತ್ತನೆ ಕಾಲ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೂನ್ ಮೊದಲ ವಾರದಿಂದ ಜುಲೈ ಅಂತ್ಯದವರೆಗೆ ಬಿತ್ತನೆಕ್ಕೆ ಸೂಕ್ತ ಸಮಯ.",
+      "detailed_answer": "ಜೂನ್ ಮೊದಲ ವಾರದಿಂದ ಜುಲೈ ಅಂತ್ಯದವರೆಗೆ ಬಿತ್ತನೆಕ್ಕೆ ಸೂಕ್ತ ಸಮಯ.",
+      "step_by_step": [
+        "ಜೂನ್ ಮೊದಲ ವಾರದಿಂದ ಜುಲೈ ಅಂತ್ಯದವರೆಗೆ ಬಿತ್ತನೆಕ್ಕೆ ಸೂಕ್ತ ಸಮಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮುಂಗಾರು ಹಂಗಾಮಿನ ಬಿತ್ತನೆ ಕಾಲ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಜೂನ್ ಮೊದಲ ವಾರದಿಂದ ಜುಲೈ ಅಂತ್ಯದವರೆಗೆ ಬಿತ್ತನೆಕ್ಕೆ ಸೂಕ್ತ ಸಮಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೇಸಿಗೆ ಶೇಂಗಾವನ್ನು ಯಾವಾಗ ಬಿತ್ತಬೇಕು?",
+    "question_variants": [
+      "ಬೇಸಿಗೆ ಶೇಂಗಾವನ್ನು ಏನುಾಗ ಬಿತ್ತಬೇಕು?",
+      "ರೈತರು ಬೇಸಿಗೆ ಶೇಂಗಾವನ್ನು ಯಾವಾಗ ಬಿತ್ತಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೇಸಿಗೆ ಶೇಂಗಾವನ್ನು ಯಾವಾಗ ಬಿತ್ತಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜನವರಿ ಅಥವಾ ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಉತ್ತಮ.",
+      "detailed_answer": "ಜನವರಿ ಅಥವಾ ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಜನವರಿ ಅಥವಾ ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಉತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೇಸಿಗೆ ಶೇಂಗಾವನ್ನು ಯಾವಾಗ ಬಿತ್ತಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಜನವರಿ ಅಥವಾ ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಉತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಿಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ ಯಾವಾಗ ಬಿತ್ತನೆ ಮಾಡಬಹುದು?",
+    "question_variants": [
+      "ಹಿಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ ಏನುಾಗ ಬಿತ್ತನೆ ಮಾಡಬಹುದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಹಿಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ ಯಾವಾಗ ಬಿತ್ತನೆ ಮಾಡಬಹುದು?",
+      "ರೈತರು ಹಿಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ ಯಾವಾಗ ಬಿತ್ತನೆ ಮಾಡಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹಿಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ ಯಾವಾಗ ಬಿತ್ತನೆ ಮಾಡಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೆಪ್ಟೆಂಬರ್ ಮಧ್ಯಭಾಗದಿಂದ ಅಕ್ಟೋಬರ್ ಅಂತ್ಯದವರೆಗೆ ಸೂಕ್ತ.",
+      "detailed_answer": "ಸೆಪ್ಟೆಂಬರ್ ಮಧ್ಯಭಾಗದಿಂದ ಅಕ್ಟೋಬರ್ ಅಂತ್ಯದವರೆಗೆ ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ಸೆಪ್ಟೆಂಬರ್ ಮಧ್ಯಭಾಗದಿಂದ ಅಕ್ಟೋಬರ್ ಅಂತ್ಯದವರೆಗೆ ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಿಂಗಾರು ಹಂಗಾಮಿನಲ್ಲಿ ಯಾವಾಗ ಬಿತ್ತನೆ ಮಾಡಬಹುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸೆಪ್ಟೆಂಬರ್ ಮಧ್ಯಭಾಗದಿಂದ ಅಕ್ಟೋಬರ್ ಅಂತ್ಯದವರೆಗೆ ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಗೊಂಚಲು ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ಇರಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಗೊಂಚಲು ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ಇರಬೇಕು?",
+      "ರೈತರು ಗೊಂಚಲು ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ಇರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಗೊಂಚಲು ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ಇರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 30 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ.",
+      "detailed_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 30 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ.",
+      "step_by_step": [
+        "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 30 ಸೆಂ.ಮೀ",
+        "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗೊಂಚಲು ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ಇರಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 30 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 10 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹರಡುವ ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ನೀಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಹರಡುವ ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ನೀಡಬೇಕು?",
+      "ರೈತರು ಹರಡುವ ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ನೀಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹರಡುವ ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ನೀಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ.",
+      "detailed_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ.",
+      "step_by_step": [
+        "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ",
+        "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹರಡುವ ತಳಿಗಳಿಗೆ ಎಷ್ಟು ಅಂತರ ನೀಡಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಲಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜದ ಪ್ರಮಾಣ ಬೇಕಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜದ ಪ್ರಮಾಣ ಬೇಕಾಗುತ್ತದೆ?",
+      "ರೈತರು ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜದ ಪ್ರಮಾಣ ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜದ ಪ್ರಮಾಣ ಬೇಕಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಳಿಯ ಗಾತ್ರಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಎಕರೆಗೆ ಸುಮಾರು 40 ರಿಂದ 50 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+      "detailed_answer": "ತಳಿಯ ಗಾತ್ರಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಎಕರೆಗೆ ಸುಮಾರು 40 ರಿಂದ 50 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ತಳಿಯ ಗಾತ್ರಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಎಕರೆಗೆ ಸುಮಾರು 40 ರಿಂದ 50 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಎಕರೆಗೆ ಎಷ್ಟು ಬೀಜದ ಪ್ರಮಾಣ ಬೇಕಾಗುತ್ತದೆ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ತಳಿಯ ಗಾತ್ರಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಎಕರೆಗೆ ಸುಮಾರು 40 ರಿಂದ 50 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಆಳ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಆಳ ಎಷ್ಟಿರಬೇಕು?",
+      "ರೈತರು ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಆಳ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಆಳ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ 5 ಸೆಂ.ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು.",
+      "detailed_answer": "ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ 5 ಸೆಂ.ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು.",
+      "step_by_step": [
+        "ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ 5 ಸೆಂ.ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಆಳ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ 5 ಸೆಂ.ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬೀಜದ ಆಯ್ಕೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಬೀಜದ ಆಯ್ಕೆ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬೀಜದ ಆಯ್ಕೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಬೀಜದ ಆಯ್ಕೆ ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೀಜದ ಆಯ್ಕೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ದಷ್ಟಪುಷ್ಟವಾದ, ಕೀಟ ಮತ್ತು ರೋಗ ಬಾಧೆಯಿಲ್ಲದ ಪ್ರಮಾಣಿತ ಬೀಜಗಳನ್ನು ಆರಿಸಬೇಕು.",
+      "detailed_answer": "ದಷ್ಟಪುಷ್ಟವಾದ, ಕೀಟ ಮತ್ತು ರೋಗ ಬಾಧೆಯಿಲ್ಲದ ಪ್ರಮಾಣಿತ ಬೀಜಗಳನ್ನು ಆರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ದಷ್ಟಪುಷ್ಟವಾದ",
+        "ರೋಗ ಬಾಧೆಯಿಲ್ಲದ ಪ್ರಮಾಣಿತ ಬೀಜಗಳನ್ನು ಆರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೀಜದ ಆಯ್ಕೆ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ದಷ್ಟಪುಷ್ಟವಾದ, ಕೀಟ ಮತ್ತು ರೋಗ ಬಾಧೆಯಿಲ್ಲದ ಪ್ರಮಾಣಿತ ಬೀಜಗಳನ್ನು ಆರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬಿತ್ತನೆಗೆ ಮೊದಲು ಬೀಜೋಪಚಾರ ಅಗತ್ಯವೇ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿತ್ತನೆಗೆ ಮೊದಲು ಬೀಜೋಪಚಾರ ಅಗತ್ಯವೇ?",
+      "ರೈತರು ಬಿತ್ತನೆಗೆ ಮೊದಲು ಬೀಜೋಪಚಾರ ಅಗತ್ಯವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿತ್ತನೆಗೆ ಮೊದಲು ಬೀಜೋಪಚಾರ ಅಗತ್ಯವೇ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೌದು, ಶಿಲೀಂದ್ರ ಮತ್ತು ಕೀಟಗಳ ಬಾಧೆ ತಡೆಯಲು ಬೀಜೋಪಚಾರ ಅತ್ಯಗತ್ಯ.",
+      "detailed_answer": "ಹೌದು, ಶಿಲೀಂದ್ರ ಮತ್ತು ಕೀಟಗಳ ಬಾಧೆ ತಡೆಯಲು ಬೀಜೋಪಚಾರ ಅತ್ಯಗತ್ಯ.",
+      "step_by_step": [
+        "ಕೀಟಗಳ ಬಾಧೆ ತಡೆಯಲು ಬೀಜೋಪಚಾರ ಅತ್ಯಗತ್ಯ."
+      ],
+      "preventive_measures": [
+        "ಹೌದು, ಶಿಲೀಂದ್ರ ಮತ್ತು ಕೀಟಗಳ ಬಾಧೆ ತಡೆಯಲು ಬೀಜೋಪಚಾರ ಅತ್ಯಗತ್ಯ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿತ್ತನೆಗೆ ಮೊದಲು ಬೀಜೋಪಚಾರ ಅಗತ್ಯವೇ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಶಿಲೀಂದ್ರ ಮತ್ತು ಕೀಟಗಳ ಬಾಧೆ ತಡೆಯಲು ಬೀಜೋಪಚಾರ ಅತ್ಯಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "factual",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಯಾವ ಶಿಲೀಂದ್ರನಾಶಕದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಏನು ಶಿಲೀಂದ್ರನಾಶಕದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಯಾವ ಶಿಲೀಂದ್ರನಾಶಕದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಯಾವ ಶಿಲೀಂದ್ರನಾಶಕದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಯಾವ ಶಿಲೀಂದ್ರನಾಶಕದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಬಳಸಬೇಕು.",
+      "detailed_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಬಳಸಬೇಕು.",
+      "step_by_step": [
+        "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಬಳಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "3 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಯಾವ ಶಿಲೀಂದ್ರನಾಶಕದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಬಳಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಜೈವಿಕ ಬೀಜೋಪಚಾರಕ್ಕೆ ಏನು ಬಳಸಬಹುದು?",
+    "question_variants": [
+      "ಜೈವಿಕ ಬೀಜೋಪಚಾರಕ್ಕೆ ಯಾವುದು ಬಳಸಬಹುದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಜೈವಿಕ ಬೀಜೋಪಚಾರಕ್ಕೆ ಏನು ಬಳಸಬಹುದು?",
+      "ರೈತರು ಜೈವಿಕ ಬೀಜೋಪಚಾರಕ್ಕೆ ಏನು ಬಳಸಬಹುದು?"
+    ],
+    "keywords": [
+      "4 ಗ್ರಾಂ/ಕೆಜಿ",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಜೈವಿಕ ಬೀಜೋಪಚಾರಕ್ಕೆ ಏನು ಬಳಸಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ (4 ಗ್ರಾಂ/ಕೆಜಿ) ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ (4 ಗ್ರಾಂ/ಕೆಜಿ) ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ (4 ಗ್ರಾಂ/ಕೆಜಿ) ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "4 ಗ್ರಾಂ/ಕೆಜಿ",
+        "4 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [
+        "ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ (4 ಗ್ರಾಂ/ಕೆಜಿ) ಬಳಸಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೈವಿಕ ಬೀಜೋಪಚಾರಕ್ಕೆ ಏನು ಬಳಸಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ (4 ಗ್ರಾಂ/ಕೆಜಿ) ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೈಜೋಬಿಯಂ ಕಲ್ಚರ್ ಬಳಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ರೈಜೋಬಿಯಂ ಕಲ್ಚರ್ ಬಳಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+      "ರೈತರು ರೈಜೋಬಿಯಂ ಕಲ್ಚರ್ ಬಳಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರೈಜೋಬಿಯಂ ಕಲ್ಚರ್ ಬಳಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣಕ್ಕೆ ಮತ್ತು ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಹಕಾರಿ.",
+      "detailed_answer": "ಇದು ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣಕ್ಕೆ ಮತ್ತು ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಹಕಾರಿ.",
+      "step_by_step": [
+        "ಇದು ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣಕ್ಕೆ",
+        "ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಹಕಾರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೈಜೋಬಿಯಂ ಕಲ್ಚರ್ ಬಳಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಸ್ಥಿರೀಕರಣಕ್ಕೆ ಮತ್ತು ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಹಕಾರಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಸಾಲುಗಳು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿರಬೇಕು?",
+    "question_variants": [
+      "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಸಾಲುಗಳು ಏನು ದಿಕ್ಕಿನಲ್ಲಿರಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಸಾಲುಗಳು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿರಬೇಕು?",
+      "ರೈತರು ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಸಾಲುಗಳು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಸಾಲುಗಳು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಧ್ಯವಾದರೆ ಸಾಲುಗಳು ಉತ್ತರ-ದಕ್ಷಿಣ ದಿಕ್ಕಿನಲ್ಲಿದ್ದರೆ ಗಿಡಗಳಿಗೆ ಸಮರ್ಪಕ ಸೂರ್ಯಪ್ರಕಾಶ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "ಸಾಧ್ಯವಾದರೆ ಸಾಲುಗಳು ಉತ್ತರ-ದಕ್ಷಿಣ ದಿಕ್ಕಿನಲ್ಲಿದ್ದರೆ ಗಿಡಗಳಿಗೆ ಸಮರ್ಪಕ ಸೂರ್ಯಪ್ರಕಾಶ ಸಿಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಾಧ್ಯವಾದರೆ ಸಾಲುಗಳು ಉತ್ತರ-ದಕ್ಷಿಣ ದಿಕ್ಕಿನಲ್ಲಿದ್ದರೆ ಗಿಡಗಳಿಗೆ ಸಮರ್ಪಕ ಸೂರ್ಯಪ್ರಕಾಶ ಸಿಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಸಾಲುಗಳು ಯಾವ ದಿಕ್ಕಿನಲ್ಲಿರಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಧ್ಯವಾದರೆ ಸಾಲುಗಳು ಉತ್ತರ-ದಕ್ಷಿಣ ದಿಕ್ಕಿನಲ್ಲಿದ್ದರೆ ಗಿಡಗಳಿಗೆ ಸಮರ್ಪಕ ಸೂರ್ಯಪ್ರಕಾಶ ಸಿಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+      "ರೈತರು ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೊಗರಿ ಅಥವಾ ಸೂರ್ಯಕಾಂತಿಯನ್ನು ಅಂತರ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ತೊಗರಿ ಅಥವಾ ಸೂರ್ಯಕಾಂತಿಯನ್ನು ಅಂತರ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ತೊಗರಿ ಅಥವಾ ಸೂರ್ಯಕಾಂತಿಯನ್ನು ಅಂತರ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತೊಗರಿ ಅಥವಾ ಸೂರ್ಯಕಾಂತಿಯನ್ನು ಅಂತರ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಿತ್ತನೆ ಯಂತ್ರ ಬಳಸುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿತ್ತನೆ ಯಂತ್ರ ಬಳಸುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನವೇನು?",
+      "ರೈತರು ಬಿತ್ತನೆ ಯಂತ್ರ ಬಳಸುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿತ್ತನೆ ಯಂತ್ರ ಬಳಸುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಮರ್ಪಕ ಅಂತರ ಮತ್ತು ಒಂದೇ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಸಮರ್ಪಕ ಅಂತರ ಮತ್ತು ಒಂದೇ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಮರ್ಪಕ ಅಂತರ",
+        "ಒಂದೇ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿತ್ತನೆ ಯಂತ್ರ ಬಳಸುವುದರಿಂದ ಆಗುವ ಪ್ರಯೋಜನವೇನು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಮರ್ಪಕ ಅಂತರ ಮತ್ತು ಒಂದೇ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಶಿಫಾರಸು ಮಾಡಿದ NPK ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಗೆ ಶಿಫಾರಸು ಮಾಡಿದ NPK ಪ್ರಮಾಣ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "NPK",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಗೆ ಶಿಫಾರಸು ಮಾಡಿದ NPK ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ ಸರಾಸರಿ 10 ಕೆಜಿ ಸಾರಜನಕ, 20 ಕೆಜಿ ರಂಜಕ ಮತ್ತು 10 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯ.",
+      "detailed_answer": "ಎಕರೆಗೆ ಸರಾಸರಿ 10 ಕೆಜಿ ಸಾರಜನಕ, 20 ಕೆಜಿ ರಂಜಕ ಮತ್ತು 10 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯ.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ ಸರಾಸರಿ 10 ಕೆಜಿ ಸಾರಜನಕ",
+        "20 ಕೆಜಿ ರಂಜಕ",
+        "10 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಗೆ ಶಿಫಾರಸು ಮಾಡಿದ NPK ಪ್ರಮಾಣ ಎಷ್ಟು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಕರೆಗೆ ಸರಾಸರಿ 10 ಕೆಜಿ ಸಾರಜನಕ, 20 ಕೆಜಿ ರಂಜಕ ಮತ್ತು 10 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರಂಜಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ನೀಡಬೇಕು?",
+    "question_variants": [
+      "ರಂಜಕ ಗೊಬ್ಬರವನ್ನು ಏನುಾಗ ನೀಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ರಂಜಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ನೀಡಬೇಕು?",
+      "ರೈತರು ರಂಜಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ನೀಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರಂಜಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ನೀಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಂಜಕವನ್ನು ಬಿತ್ತನೆ ಮಾಡುವ ಸಮಯದಲ್ಲಿಯೇ ಅಡಿಗೊಬ್ಬರವಾಗಿ ನೀಡಬೇಕು.",
+      "detailed_answer": "ರಂಜಕವನ್ನು ಬಿತ್ತನೆ ಮಾಡುವ ಸಮಯದಲ್ಲಿಯೇ ಅಡಿಗೊಬ್ಬರವಾಗಿ ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ರಂಜಕವನ್ನು ಬಿತ್ತನೆ ಮಾಡುವ ಸಮಯದಲ್ಲಿಯೇ ಅಡಿಗೊಬ್ಬರವಾಗಿ ನೀಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಂಜಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ನೀಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಂಜಕವನ್ನು ಬಿತ್ತನೆ ಮಾಡುವ ಸಮಯದಲ್ಲಿಯೇ ಅಡಿಗೊಬ್ಬರವಾಗಿ ನೀಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಜಿಪ್ಸಂ (Gypsum) ಮಹತ್ವವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಜಿಪ್ಸಂ (Gypsum) ಮಹತ್ವವೇನು?"
+    ],
+    "keywords": [
+      "Gypsum",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಜಿಪ್ಸಂ (Gypsum) ಮಹತ್ವವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ತುಂಬಲು ಮತ್ತು ಎಣ್ಣೆ ಅಂಶ ಹೆಚ್ಚಿಸಲು ಜಿಪ್ಸಂ ಅತ್ಯಗತ್ಯ.",
+      "detailed_answer": "ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ತುಂಬಲು ಮತ್ತು ಎಣ್ಣೆ ಅಂಶ ಹೆಚ್ಚಿಸಲು ಜಿಪ್ಸಂ ಅತ್ಯಗತ್ಯ.",
+      "step_by_step": [
+        "ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ತುಂಬಲು",
+        "ಎಣ್ಣೆ ಅಂಶ ಹೆಚ್ಚಿಸಲು ಜಿಪ್ಸಂ ಅತ್ಯಗತ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಜಿಪ್ಸಂ (Gypsum) ಮಹತ್ವವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ತುಂಬಲು ಮತ್ತು ಎಣ್ಣೆ ಅಂಶ ಹೆಚ್ಚಿಸಲು ಜಿಪ್ಸಂ ಅತ್ಯಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಎಕರೆಗೆ ಎಷ್ಟು ಜಿಪ್ಸಂ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಎಕರೆಗೆ ಎಷ್ಟು ಜಿಪ್ಸಂ ಬಳಸಬೇಕು?",
+      "ರೈತರು ಎಕರೆಗೆ ಎಷ್ಟು ಜಿಪ್ಸಂ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಎಕರೆಗೆ ಎಷ್ಟು ಜಿಪ್ಸಂ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 40-45 ದಿನಗಳ ನಂತರ ಎಕರೆಗೆ 200 ಕೆಜಿ ಜಿಪ್ಸಂ ಗಿಡದ ಬುಡಕ್ಕೆ ಹಾಕಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆಯಾದ 40-45 ದಿನಗಳ ನಂತರ ಎಕರೆಗೆ 200 ಕೆಜಿ ಜಿಪ್ಸಂ ಗಿಡದ ಬುಡಕ್ಕೆ ಹಾಕಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಯಾದ 40-45 ದಿನಗಳ ನಂತರ ಎಕರೆಗೆ 200 ಕೆಜಿ ಜಿಪ್ಸಂ ಗಿಡದ ಬುಡಕ್ಕೆ ಹಾಕಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಎಕರೆಗೆ ಎಷ್ಟು ಜಿಪ್ಸಂ ಬಳಸಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಬಿತ್ತನೆಯಾದ 40-45 ದಿನಗಳ ನಂತರ ಎಕರೆಗೆ 200 ಕೆಜಿ ಜಿಪ್ಸಂ ಗಿಡದ ಬುಡಕ್ಕೆ ಹಾಕಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸತು ಅಥವಾ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಏಕೆ ನೀಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಸತು ಅಥವಾ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಏಕೆ ನೀಡಬೇಕು?",
+      "ರೈತರು ಸತು ಅಥವಾ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಏಕೆ ನೀಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಸತು ಅಥವಾ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಏಕೆ ನೀಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಸಣ್ಣದಾಗುವುದನ್ನು ತಡೆಯಲು ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ನೀಡಬೇಕು.",
+      "detailed_answer": "ಎಲೆಗಳು ಸಣ್ಣದಾಗುವುದನ್ನು ತಡೆಯಲು ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಸಣ್ಣದಾಗುವುದನ್ನು ತಡೆಯಲು",
+        "ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ನೀಡಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಎಲೆಗಳು ಸಣ್ಣದಾಗುವುದನ್ನು ತಡೆಯಲು ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ನೀಡಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸತು ಅಥವಾ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಏಕೆ ನೀಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳು ಸಣ್ಣದಾಗುವುದನ್ನು ತಡೆಯಲು ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ನೀಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೋರಾನ್ (Boron) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬೋರಾನ್ (Boron) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?",
+      "ರೈತರು ಬೋರಾನ್ (Boron) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Boron",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೋರಾನ್ (Boron) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳಲ್ಲಿ ಕಾಳುಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳದೆ \"ಬೊಳ್ಳು\" ಕಾಯಿಗಳಾಗುತ್ತವೆ.",
+      "detailed_answer": "ಕಾಯಿಗಳಲ್ಲಿ ಕಾಳುಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳದೆ \"ಬೊಳ್ಳು\" ಕಾಯಿಗಳಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಕಾಯಿಗಳಲ್ಲಿ ಕಾಳುಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳದೆ \"ಬೊಳ್ಳು\" ಕಾಯಿಗಳಾಗುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೋರಾನ್ (Boron) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಯಿಗಳಲ್ಲಿ ಕಾಳುಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳದೆ \"ಬೊಳ್ಳು\" ಕಾಯಿಗಳಾಗುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೋರಾನ್ ಎಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ನೀಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬೋರಾನ್ ಎಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ನೀಡಬೇಕು?",
+      "ರೈತರು ಬೋರಾನ್ ಎಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ನೀಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೋರಾನ್ ಎಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ನೀಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 4 ಕೆಜಿ ಬೋರಾಕ್ಸ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ಬೆರೆಸಬೇಕು.",
+      "detailed_answer": "ಎಕರೆಗೆ 4 ಕೆಜಿ ಬೋರಾಕ್ಸ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ಬೆರೆಸಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 4 ಕೆಜಿ ಬೋರಾಕ್ಸ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ಬೆರೆಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೋರಾನ್ ಎಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ನೀಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಕರೆಗೆ 4 ಕೆಜಿ ಬೋರಾಕ್ಸ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ಬೆರೆಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಗಿಡಗಳಿಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಗಿಡಗಳಿಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Sulphur",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಗಿಡಗಳಿಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಗಂಧಕವು ಎಣ್ಣೆಕಾಳು ಬೆಳೆಗಳಲ್ಲಿ ಎಣ್ಣೆಯ ಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಗಂಧಕವು ಎಣ್ಣೆಕಾಳು ಬೆಳೆಗಳಲ್ಲಿ ಎಣ್ಣೆಯ ಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಗಂಧಕವು ಎಣ್ಣೆಕಾಳು ಬೆಳೆಗಳಲ್ಲಿ ಎಣ್ಣೆಯ ಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಗಿಡಗಳಿಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಗಂಧಕವು ಎಣ್ಣೆಕಾಳು ಬೆಳೆಗಳಲ್ಲಿ ಎಣ್ಣೆಯ ಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಾರಜನಕ ಗೊಬ್ಬರ ಅತಿಯಾದರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಸಾರಜನಕ ಗೊಬ್ಬರ ಅತಿಯಾದರೆ ಏನಾಗುತ್ತದೆ?",
+      "ರೈತರು ಸಾರಜನಕ ಗೊಬ್ಬರ ಅತಿಯಾದರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಸಾರಜನಕ ಗೊಬ್ಬರ ಅತಿಯಾದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಿಡಗಳು ಅತಿಯಾಗಿ ಬೆಳೆದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಗಿಡಗಳು ಅತಿಯಾಗಿ ಬೆಳೆದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಗಿಡಗಳು ಅತಿಯಾಗಿ ಬೆಳೆದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಾರಜನಕ ಗೊಬ್ಬರ ಅತಿಯಾದರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಗಿಡಗಳು ಅತಿಯಾಗಿ ಬೆಳೆದು ಕಾಯಿ ಕಟ್ಟುವ ಪ್ರಮಾಣ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "factual",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಯಾವ ಸಮಯದಲ್ಲಿ ರಸಗೊಬ್ಬರ ಹಾಕಬಾರದು?",
+    "question_variants": [
+      "ಏನು ಸಮಯದಲ್ಲಿ ರಸಗೊಬ್ಬರ ಹಾಕಬಾರದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಯಾವ ಸಮಯದಲ್ಲಿ ರಸಗೊಬ್ಬರ ಹಾಕಬಾರದು?",
+      "ರೈತರು ಯಾವ ಸಮಯದಲ್ಲಿ ರಸಗೊಬ್ಬರ ಹಾಕಬಾರದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಶೇಂಗಾ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಯಾವ ಸಮಯದಲ್ಲಿ ರಸಗೊಬ್ಬರ ಹಾಕಬಾರದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ನಂತರ ಗಿಡಗಳು ಹೂವು ಬಿಡುವ ಸಮಯದಲ್ಲಿ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಸಿಂಪಡಿಸಬಾರದು.",
+      "detailed_answer": "ಬಿತ್ತನೆ ನಂತರ ಗಿಡಗಳು ಹೂವು ಬಿಡುವ ಸಮಯದಲ್ಲಿ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಸಿಂಪಡಿಸಬಾರದು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ನಂತರ ಗಿಡಗಳು ಹೂವು ಬಿಡುವ ಸಮಯದಲ್ಲಿ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಸಿಂಪಡಿಸಬಾರದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬಿತ್ತನೆ ನಂತರ ಗಿಡಗಳು ಹೂವು ಬಿಡುವ ಸಮಯದಲ್ಲಿ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಸಿಂಪಡಿಸಬಾರದು"
+      ]
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಯಾವ ಸಮಯದಲ್ಲಿ ರಸಗೊಬ್ಬರ ಹಾಕಬಾರದು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ನಂತರ ಗಿಡಗಳು ಹೂವು ಬಿಡುವ ಸಮಯದಲ್ಲಿ ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಸಿಂಪಡಿಸಬಾರದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯ ಯಾವ ಹಂತಗಳು ನೀರಿಗೆ ಅತಿ ಸಂವೇದನಾಶೀಲವಾಗಿವೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಯ ಏನು ಹಂತಗಳು ನೀರಿಗೆ ಅತಿ ಸಂವೇದನಾಶೀಲವಾಗಿವೆ?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯ ಯಾವ ಹಂತಗಳು ನೀರಿಗೆ ಅತಿ ಸಂವೇದನಾಶೀಲವಾಗಿವೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯ ಯಾವ ಹಂತಗಳು ನೀರಿಗೆ ಅತಿ ಸಂವೇದನಾಶೀಲವಾಗಿವೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂವು ಬಿಡುವ ಹಂತ, ಬಿಳಲು ಇಳಿಯುವ ಹಂತ ಮತ್ತು ಕಾಯಿ ತುಂಬುವ ಹಂತ.",
+      "detailed_answer": "ಹೂವು ಬಿಡುವ ಹಂತ, ಬಿಳಲು ಇಳಿಯುವ ಹಂತ ಮತ್ತು ಕಾಯಿ ತುಂಬುವ ಹಂತ.",
+      "step_by_step": [
+        "ಹೂವು ಬಿಡುವ ಹಂತ",
+        "ಬಿಳಲು ಇಳಿಯುವ ಹಂತ",
+        "ಕಾಯಿ ತುಂಬುವ ಹಂತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯ ಯಾವ ಹಂತಗಳು ನೀರಿಗೆ ಅತಿ ಸಂವೇದನಾಶೀಲವಾಗಿವೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಬಿಡುವ ಹಂತ, ಬಿಳಲು ಇಳಿಯುವ ಹಂತ ಮತ್ತು ಕಾಯಿ ತುಂಬುವ ಹಂತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೂವು ಬಿಡುವಾಗ ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಹೂವು ಬಿಡುವಾಗ ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ?",
+      "ರೈತರು ಹೂವು ಬಿಡುವಾಗ ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹೂವು ಬಿಡುವಾಗ ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಹೂವು ಬಿಡುವಾಗ ಮತ್ತು ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣಿನಲ್ಲಿ ಸಾಕಷ್ಟು ತೇವಾಂಶವಿರಬೇಕು.",
+      "detailed_answer": "ಇಲ್ಲ, ಹೂವು ಬಿಡುವಾಗ ಮತ್ತು ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣಿನಲ್ಲಿ ಸಾಕಷ್ಟು ತೇವಾಂಶವಿರಬೇಕು.",
+      "step_by_step": [
+        "ಹೂವು ಬಿಡುವಾಗ",
+        "ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣಿನಲ್ಲಿ ಸಾಕಷ್ಟು ತೇವಾಂಶವಿರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೂವು ಬಿಡುವಾಗ ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಲ್ಲ, ಹೂವು ಬಿಡುವಾಗ ಮತ್ತು ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣಿನಲ್ಲಿ ಸಾಕಷ್ಟು ತೇವಾಂಶವಿರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅತಿಯಾದ ನೀರಾವರಿ ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+    "question_variants": [
+      "ಅತಿಯಾದ ನೀರಾವರಿ ಗಿಡಕ್ಕೆ ಯಾವ ರೀತಿ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಅತಿಯಾದ ನೀರಾವರಿ ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+      "ರೈತರು ಅತಿಯಾದ ನೀರಾವರಿ ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಅತಿಯಾದ ನೀರಾವರಿ ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+    "symptoms": [
+      "ಅತಿಯಾದ ನೀರಿನಿಂದ ಬೇರು ಮತ್ತು ಬುಡ ಕೊಳೆ ರೋಗ ಬರಬಹುದು"
+    ],
+    "causes": [
+      "ಅತಿಯಾದ ನೀರು (Water logging)"
+    ],
+    "solution": {
+      "short_answer": "ಅತಿಯಾದ ನೀರಿನಿಂದ ಬೇರು ಮತ್ತು ಬುಡ ಕೊಳೆ ರೋಗ ಬರಬಹುದು.",
+      "detailed_answer": "ಅತಿಯಾದ ನೀರಿನಿಂದ ಬೇರು ಮತ್ತು ಬುಡ ಕೊಳೆ ರೋಗ ಬರಬಹುದು.",
+      "step_by_step": [
+        "ಅತಿಯಾದ ನೀರಿನಿಂದ ಬೇರು",
+        "ಬುಡ ಕೊಳೆ ರೋಗ ಬರಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅತಿಯಾದ ನೀರಾವರಿ ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅತಿಯಾದ ನೀರಿನಿಂದ ಬೇರು ಮತ್ತು ಬುಡ ಕೊಳೆ ರೋಗ ಬರಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಳೆಯಾಶ್ರಿತ ಶೇಂಗಾಕ್ಕೆ ನೀರು ಬೇಕೇ?",
+    "question_variants": [
+      "ರೈತರು ಮಳೆಯಾಶ್ರಿತ ಶೇಂಗಾಕ್ಕೆ ನೀರು ಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಳೆಯಾಶ್ರಿತ ಶೇಂಗಾಕ್ಕೆ ನೀರು ಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ದೀರ್ಘಕಾಲ ಮಳೆ ಬರದಿದ್ದರೆ ರಕ್ಷಣಾತ್ಮಕ ನೀರಾವರಿ ನೀಡುವುದು ಒಳಿತು.",
+      "detailed_answer": "ದೀರ್ಘಕಾಲ ಮಳೆ ಬರದಿದ್ದರೆ ರಕ್ಷಣಾತ್ಮಕ ನೀರಾವರಿ ನೀಡುವುದು ಒಳಿತು.",
+      "step_by_step": [
+        "ದೀರ್ಘಕಾಲ ಮಳೆ ಬರದಿದ್ದರೆ ರಕ್ಷಣಾತ್ಮಕ ನೀರಾವರಿ ನೀಡುವುದು ಒಳಿತು."
+      ],
+      "preventive_measures": [
+        "ದೀರ್ಘಕಾಲ ಮಳೆ ಬರದಿದ್ದರೆ ರಕ್ಷಣಾತ್ಮಕ ನೀರಾವರಿ ನೀಡುವುದು ಒಳಿತು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಳೆಯಾಶ್ರಿತ ಶೇಂಗಾಕ್ಕೆ ನೀರು ಬೇಕೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ದೀರ್ಘಕಾಲ ಮಳೆ ಬರದಿದ್ದರೆ ರಕ್ಷಣಾತ್ಮಕ ನೀರಾವರಿ ನೀಡುವುದು ಒಳಿತು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "factual",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಯಾವ ನೀರಾವರಿ ಪದ್ಧತಿ ಶೇಂಗಾಕ್ಕೆ ಉತ್ತಮ?",
+    "question_variants": [
+      "ಏನು ನೀರಾವರಿ ಪದ್ಧತಿ ಶೇಂಗಾಕ್ಕೆ ಉತ್ತಮ?",
+      "ರೈತರು ಯಾವ ನೀರಾವರಿ ಪದ್ಧತಿ ಶೇಂಗಾಕ್ಕೆ ಉತ್ತಮ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Sprinkler",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಯಾವ ನೀರಾವರಿ ಪದ್ಧತಿ ಶೇಂಗಾಕ್ಕೆ ಉತ್ತಮ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಪದ್ಧತಿಯು ಮಣ್ಣನ್ನು ಮೆದುವಾಗಿರಿಸಲು ಮತ್ತು ನೀರು ಉಳಿಸಲು ಉತ್ತಮ.",
+      "detailed_answer": "ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಪದ್ಧತಿಯು ಮಣ್ಣನ್ನು ಮೆದುವಾಗಿರಿಸಲು ಮತ್ತು ನೀರು ಉಳಿಸಲು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಪದ್ಧತಿಯು ಮಣ್ಣನ್ನು ಮೆದುವಾಗಿರಿಸಲು",
+        "ನೀರು ಉಳಿಸಲು ಉತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sprinkler"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಯಾವ ನೀರಾವರಿ ಪದ್ಧತಿ ಶೇಂಗಾಕ್ಕೆ ಉತ್ತಮ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಪದ್ಧತಿಯು ಮಣ್ಣನ್ನು ಮೆದುವಾಗಿರಿಸಲು ಮತ್ತು ನೀರು ಉಳಿಸಲು ಉತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಯಿ ಮಾಗುವ ಹಂತದಲ್ಲಿ ಎಷ್ಟು ನೀರು ನೀಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಕಾಯಿ ಮಾಗುವ ಹಂತದಲ್ಲಿ ಎಷ್ಟು ನೀರು ನೀಡಬೇಕು?",
+      "ರೈತರು ಕಾಯಿ ಮಾಗುವ ಹಂತದಲ್ಲಿ ಎಷ್ಟು ನೀರು ನೀಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕಾಯಿ ಮಾಗುವ ಹಂತದಲ್ಲಿ ಎಷ್ಟು ನೀರು ನೀಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿ ಮಾಗುವಾಗ ನೀರಾವರಿ ಪ್ರಮಾಣವನ್ನು ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಕಾಯಿ ಮಾಗುವಾಗ ನೀರಾವರಿ ಪ್ರಮಾಣವನ್ನು ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಕಾಯಿ ಮಾಗುವಾಗ ನೀರಾವರಿ ಪ್ರಮಾಣವನ್ನು ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಯಿ ಮಾಗುವ ಹಂತದಲ್ಲಿ ಎಷ್ಟು ನೀರು ನೀಡಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಯಿ ಮಾಗುವಾಗ ನೀರಾವರಿ ಪ್ರಮಾಣವನ್ನು ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣು ಹೇಗಿರಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣು ಹೇಗಿರಬೇಕು?",
+      "ರೈತರು ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣು ಹೇಗಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣು ಹೇಗಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣು ಸಡಿಲವಾಗಿದ್ದರೆ ಬಿಳಲುಗಳು ಸುಲಭವಾಗಿ ಮಣ್ಣಿನಲ್ಲಿ ಇಳಿಯುತ್ತವೆ.",
+      "detailed_answer": "ಮಣ್ಣು ಸಡಿಲವಾಗಿದ್ದರೆ ಬಿಳಲುಗಳು ಸುಲಭವಾಗಿ ಮಣ್ಣಿನಲ್ಲಿ ಇಳಿಯುತ್ತವೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣು ಸಡಿಲವಾಗಿದ್ದರೆ ಬಿಳಲುಗಳು ಸುಲಭವಾಗಿ ಮಣ್ಣಿನಲ್ಲಿ ಇಳಿಯುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿಳಲು ಇಳಿಯುವಾಗ ಮಣ್ಣು ಹೇಗಿರಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣು ಸಡಿಲವಾಗಿದ್ದರೆ ಬಿಳಲುಗಳು ಸುಲಭವಾಗಿ ಮಣ್ಣಿನಲ್ಲಿ ಇಳಿಯುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ನೀರಾವರಿ ಎಷ್ಟು ದಿನಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ನೀರಾವರಿ ಎಷ್ಟು ದಿನಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು?",
+      "ರೈತರು ನೀರಾವರಿ ಎಷ್ಟು ದಿನಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ನೀರಾವರಿ ಎಷ್ಟು ದಿನಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಗುಣಕ್ಕನುಗುಣವಾಗಿ 10 ರಿಂದ 15 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ನೀಡಬೇಕು.",
+      "detailed_answer": "ಮಣ್ಣಿನ ಗುಣಕ್ಕನುಗುಣವಾಗಿ 10 ರಿಂದ 15 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಗುಣಕ್ಕನುಗುಣವಾಗಿ 10 ರಿಂದ 15 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ನೀಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ನೀರಾವರಿ ಎಷ್ಟು ದಿನಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಗುಣಕ್ಕನುಗುಣವಾಗಿ 10 ರಿಂದ 15 ದಿನಗಳಿಗೊಮ್ಮೆ ನೀರು ನೀಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕಳೆಗಳ ನಿರ್ವಹಣೆ ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕಳೆಗಳ ನಿರ್ವಹಣೆ ಏನುಾಗ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕಳೆಗಳ ನಿರ್ವಹಣೆ ಯಾವಾಗ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕಳೆಗಳ ನಿರ್ವಹಣೆ ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯಾದ 20 ಮತ್ತು 40 ದಿನಗಳ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆದು ಕಳೆ ತೆಗೆಯಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆಯಾದ 20 ಮತ್ತು 40 ದಿನಗಳ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆದು ಕಳೆ ತೆಗೆಯಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಯಾದ 20",
+        "40 ದಿನಗಳ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆದು ಕಳೆ ತೆಗೆಯಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕಳೆಗಳ ನಿರ್ವಹಣೆ ಯಾವಾಗ ಮಾಡಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಬಿತ್ತನೆಯಾದ 20 ಮತ್ತು 40 ದಿನಗಳ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆದು ಕಳೆ ತೆಗೆಯಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಳಲು ಬಿಟ್ಟ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿಳಲು ಬಿಟ್ಟ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆಯಬಹುದೇ?",
+      "ರೈತರು ಬಿಳಲು ಬಿಟ್ಟ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿಳಲು ಬಿಟ್ಟ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಬಿಳಲು ಇಳಿಯುವಾಗ ಎಡೆಕುಂಟೆ ಹೊಡೆದರೆ ಬಿಳಲುಗಳು ತುಂಡಾಗಿ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಇಲ್ಲ, ಬಿಳಲು ಇಳಿಯುವಾಗ ಎಡೆಕುಂಟೆ ಹೊಡೆದರೆ ಬಿಳಲುಗಳು ತುಂಡಾಗಿ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬಿಳಲು ಇಳಿಯುವಾಗ ಎಡೆಕುಂಟೆ ಹೊಡೆದರೆ ಬಿಳಲುಗಳು ತುಂಡಾಗಿ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿಳಲು ಬಿಟ್ಟ ನಂತರ ಎಡೆಕುಂಟೆ ಹೊಡೆಯಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇಲ್ಲ, ಬಿಳಲು ಇಳಿಯುವಾಗ ಎಡೆಕುಂಟೆ ಹೊಡೆದರೆ ಬಿಳಲುಗಳು ತುಂಡಾಗಿ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಏನುುದು?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Leaf",
+      "Leaf Miner",
+      "Miner",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಎಲೆ ಸುರಳಿ ಪೂಚಿ (Leaf Miner) ಮತ್ತು ತಂಬಾಕು ಪತಂಗ ಪ್ರಮುಖವಾಗಿವೆ.",
+      "detailed_answer": "ಎಲೆ ಸುರಳಿ ಪೂಚಿ (Leaf Miner) ಮತ್ತು ತಂಬಾಕು ಪತಂಗ ಪ್ರಮುಖವಾಗಿವೆ.",
+      "step_by_step": [
+        "ಎಲೆ ಸುರಳಿ ಪೂಚಿ (Leaf Miner)",
+        "ತಂಬಾಕು ಪತಂಗ ಪ್ರಮುಖವಾಗಿವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Leaf Miner"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆ ಸುರಳಿ ಪೂಚಿ (Leaf Miner) ಮತ್ತು ತಂಬಾಕು ಪತಂಗ ಪ್ರಮುಖವಾಗಿವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಎಲೆ ಸುರಳಿ ಪೂಚಿಯ ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಎಲೆ ಸುರಳಿ ಪೂಚಿಯ ಲಕ್ಷಣವೇನು?",
+      "ರೈತರು ಎಲೆ ಸುರಳಿ ಪೂಚಿಯ ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಎಲೆ ಸುರಳಿ ಪೂಚಿಯ ಲಕ್ಷಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಬಿಳಿ ಬಣ್ಣದ ಗೆರೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಬಿಳಿ ಬಣ್ಣದ ಗೆರೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಬಿಳಿ ಬಣ್ಣದ ಗೆರೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಎಲೆ ಸುರಳಿ ಪೂಚಿಯ ಲಕ್ಷಣವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಬಿಳಿ ಬಣ್ಣದ ಗೆರೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಸುರಳಿ ಹುಳುವನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು?",
+    "question_variants": [
+      "ಸುರಳಿ ಹುಳುವನ್ನು ಯಾವ ರೀತಿ ನಿಯಂತ್ರಿಸಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಸುರಳಿ ಹುಳುವನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು?",
+      "ರೈತರು ಸುರಳಿ ಹುಳುವನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಸುರಳಿ ಹುಳುವನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮೋನೋಕ್ರೋಟೋಫಾಸ್ ಅಥವಾ ಕ್ವಿನಾಲ್ ಫಾಸ್ ಔಷಧಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಮೋನೋಕ್ರೋಟೋಫಾಸ್ ಅಥವಾ ಕ್ವಿನಾಲ್ ಫಾಸ್ ಔಷಧಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಮೋನೋಕ್ರೋಟೋಫಾಸ್ ಅಥವಾ ಕ್ವಿನಾಲ್ ಫಾಸ್ ಔಷಧಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸುರಳಿ ಹುಳುವನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮೋನೋಕ್ರೋಟೋಫಾಸ್ ಅಥವಾ ಕ್ವಿನಾಲ್ ಫಾಸ್ ಔಷಧಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತಂಬಾಕು ಸುರಳಿ ಹುಳು (Caterpillar) ಎಲೆಗಳನ್ನು ಹೇಗೆ ತಿನ್ನುತ್ತದೆ?",
+    "question_variants": [
+      "ತಂಬಾಕು ಸುರಳಿ ಹುಳು (Caterpillar) ಎಲೆಗಳನ್ನು ಯಾವ ರೀತಿ ತಿನ್ನುತ್ತದೆ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ತಂಬಾಕು ಸುರಳಿ ಹುಳು (Caterpillar) ಎಲೆಗಳನ್ನು ಹೇಗೆ ತಿನ್ನುತ್ತದೆ?",
+      "ರೈತರು ತಂಬಾಕು ಸುರಳಿ ಹುಳು (Caterpillar) ಎಲೆಗಳನ್ನು ಹೇಗೆ ತಿನ್ನುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Caterpillar",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ತಂಬಾಕು ಸುರಳಿ ಹುಳು (Caterpillar) ಎಲೆಗಳನ್ನು ಹೇಗೆ ತಿನ್ನುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಎಲೆಗಳ ಹಸಿರು ಭಾಗವನ್ನು ಪೂರ್ತಿ ತಿಂದು ಜರಡಿಯಂತೆ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಎಲೆಗಳ ಹಸಿರು ಭಾಗವನ್ನು ಪೂರ್ತಿ ತಿಂದು ಜರಡಿಯಂತೆ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ಎಲೆಗಳ ಹಸಿರು ಭಾಗವನ್ನು ಪೂರ್ತಿ ತಿಂದು ಜರಡಿಯಂತೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತಂಬಾಕು ಸುರಳಿ ಹುಳು (Caterpillar) ಎಲೆಗಳನ್ನು ಹೇಗೆ ತಿನ್ನುತ್ತದೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಎಲೆಗಳ ಹಸಿರು ಭಾಗವನ್ನು ಪೂರ್ತಿ ತಿಂದು ಜರಡಿಯಂತೆ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಳಿ ನೊಣ (Whiteflies) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+    "question_variants": [
+      "ಬಿಳಿ ನೊಣ (Whiteflies) ಗಿಡಕ್ಕೆ ಯಾವ ರೀತಿ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿಳಿ ನೊಣ (Whiteflies) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+      "ರೈತರು ಬಿಳಿ ನೊಣ (Whiteflies) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Whiteflies",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿಳಿ ನೊಣ (Whiteflies) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+    "symptoms": [
+      "ಇದು ರಸ ಹೀರುವುದರಿಂದ ಗಿಡಗಳು ಬಾಡಿ ಹಳದಿಯಾಗುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ರಸ ಹೀರುವುದರಿಂದ ಗಿಡಗಳು ಬಾಡಿ ಹಳದಿಯಾಗುತ್ತವೆ.",
+      "detailed_answer": "ಇದು ರಸ ಹೀರುವುದರಿಂದ ಗಿಡಗಳು ಬಾಡಿ ಹಳದಿಯಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಇದು ರಸ ಹೀರುವುದರಿಂದ ಗಿಡಗಳು ಬಾಡಿ ಹಳದಿಯಾಗುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿಳಿ ನೊಣ (Whiteflies) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತದೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ರಸ ಹೀರುವುದರಿಂದ ಗಿಡಗಳು ಬಾಡಿ ಹಳದಿಯಾಗುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅಫಿಡ್ಸ್ (Aphids) ಅಥವಾ ಸೇರು ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಅಫಿಡ್ಸ್ (Aphids) ಅಥವಾ ಸೇರು ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಅಫಿಡ್ಸ್ (Aphids) ಅಥವಾ ಸೇರು ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಅಫಿಡ್ಸ್ (Aphids) ಅಥವಾ ಸೇರು ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Aphids",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಅಫಿಡ್ಸ್ (Aphids) ಅಥವಾ ಸೇರು ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಣೆಯಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು.",
+      "detailed_answer": "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಣೆಯಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಣೆಯಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಣೆಯಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅಫಿಡ್ಸ್ (Aphids) ಅಥವಾ ಸೇರು ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಣೆಯಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಗೊಣ್ಣೆ ಹುಳು (Root Grub) ಎಲ್ಲಿ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಗೊಣ್ಣೆ ಹುಳು (Root Grub) ಎಲ್ಲಿ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+      "ರೈತರು ಗೊಣ್ಣೆ ಹುಳು (Root Grub) ಎಲ್ಲಿ ಹಾನಿ ಮಾಡುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Grub",
+      "Karnataka",
+      "Root",
+      "Root Grub",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಗೊಣ್ಣೆ ಹುಳು (Root Grub) ಎಲ್ಲಿ ಹಾನಿ ಮಾಡುತ್ತದೆ?",
+    "symptoms": [
+      "ಇದರಿಂದ ಗಿಡ ಒಣಗುತ್ತದೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಮಣ್ಣಿನೊಳಗಿದ್ದು ಗಿಡದ ಬೇರುಗಳನ್ನು ಕತ್ತರಿಸುತ್ತದೆ, ಇದರಿಂದ ಗಿಡ ಒಣಗುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಮಣ್ಣಿನೊಳಗಿದ್ದು ಗಿಡದ ಬೇರುಗಳನ್ನು ಕತ್ತರಿಸುತ್ತದೆ, ಇದರಿಂದ ಗಿಡ ಒಣಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ಮಣ್ಣಿನೊಳಗಿದ್ದು ಗಿಡದ ಬೇರುಗಳನ್ನು ಕತ್ತರಿಸುತ್ತದೆ",
+        "ಇದರಿಂದ ಗಿಡ ಒಣಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗೊಣ್ಣೆ ಹುಳು (Root Grub) ಎಲ್ಲಿ ಹಾನಿ ಮಾಡುತ್ತದೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಮಣ್ಣಿನೊಳಗಿದ್ದು ಗಿಡದ ಬೇರುಗಳನ್ನು ಕತ್ತರಿಸುತ್ತದೆ, ಇದರಿಂದ ಗಿಡ ಒಣಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕೆಂಪು ಕೂದಲು ಹುಳು ಕಂಡರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕೆಂಪು ಕೂದಲು ಹುಳು ಕಂಡರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕೆಂಪು ಕೂದಲು ಹುಳು ಕಂಡರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕೆಂಪು ಕೂದಲು ಹುಳು ಕಂಡರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆಳಕಿನ ಬಲೆಗಳನ್ನು ಬಳಸಿ ಅಥವಾ ಹುಳುಗಳನ್ನು ಆರಿಸಿ ನಾಶಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಬೆಳಕಿನ ಬಲೆಗಳನ್ನು ಬಳಸಿ ಅಥವಾ ಹುಳುಗಳನ್ನು ಆರಿಸಿ ನಾಶಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬೆಳಕಿನ ಬಲೆಗಳನ್ನು ಬಳಸಿ ಅಥವಾ ಹುಳುಗಳನ್ನು ಆರಿಸಿ ನಾಶಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಕೆಂಪು ಕೂದಲು ಹುಳು ಕಂಡರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೆಳಕಿನ ಬಲೆಗಳನ್ನು ಬಳಸಿ ಅಥವಾ ಹುಳುಗಳನ್ನು ಆರಿಸಿ ನಾಶಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕೀಟಗಳ ಹಾವಳಿ ತಡೆಯಲು ಯಾವ ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ಕೀಟಗಳ ಹಾವಳಿ ತಡೆಯಲು ಏನು ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಕೀಟಗಳ ಹಾವಳಿ ತಡೆಯಲು ಯಾವ ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+      "ರೈತರು ಕೀಟಗಳ ಹಾವಳಿ ತಡೆಯಲು ಯಾವ ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕೀಟಗಳ ಹಾವಳಿ ತಡೆಯಲು ಯಾವ ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಸಾಸಿವೆ ಅಥವಾ ಜೋಳವನ್ನು ಅಂಚು ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಸಾಸಿವೆ ಅಥವಾ ಜೋಳವನ್ನು ಅಂಚು ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಸಾಸಿವೆ ಅಥವಾ ಜೋಳವನ್ನು ಅಂಚು ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕೀಟಗಳ ಹಾವಳಿ ತಡೆಯಲು ಯಾವ ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾಸಿವೆ ಅಥವಾ ಜೋಳವನ್ನು ಅಂಚು ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಥ್ರಿಪ್ಸ್ (Thrips) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಥ್ರಿಪ್ಸ್ (Thrips) ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಥ್ರಿಪ್ಸ್ (Thrips) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಥ್ರಿಪ್ಸ್ (Thrips) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Thrips",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಥ್ರಿಪ್ಸ್ (Thrips) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀಲಿ ಬಣ್ಣದ ಅಂಟು ಬಲೆಗಳನ್ನು ಜಮೀನಿನಲ್ಲಿ ಅಳವಡಿಸಬೇಕು.",
+      "detailed_answer": "ನೀಲಿ ಬಣ್ಣದ ಅಂಟು ಬಲೆಗಳನ್ನು ಜಮೀನಿನಲ್ಲಿ ಅಳವಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ನೀಲಿ ಬಣ್ಣದ ಅಂಟು ಬಲೆಗಳನ್ನು ಜಮೀನಿನಲ್ಲಿ ಅಳವಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಥ್ರಿಪ್ಸ್ (Thrips) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ನೀಲಿ ಬಣ್ಣದ ಅಂಟು ಬಲೆಗಳನ್ನು ಜಮೀನಿನಲ್ಲಿ ಅಳವಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಟಿಕ್ಕಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಟಿಕ್ಕಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣವೇನು?",
+      "ರೈತರು ಟಿಕ್ಕಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಟಿಕ್ಕಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣವೇನು?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಮೇಲೆ ಗಾಢ ಕಂದು ಬಣ್ಣದ ವೃತ್ತಾಕಾರದ ಚುಕ್ಕೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಗಾಢ ಕಂದು ಬಣ್ಣದ ವೃತ್ತಾಕಾರದ ಚುಕ್ಕೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಗಾಢ ಕಂದು ಬಣ್ಣದ ವೃತ್ತಾಕಾರದ ಚುಕ್ಕೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಗಾಢ ಕಂದು ಬಣ್ಣದ ವೃತ್ತಾಕಾರದ ಚುಕ್ಕೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಟಿಕ್ಕಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಗಾಢ ಕಂದು ಬಣ್ಣದ ವೃತ್ತಾಕಾರದ ಚುಕ್ಕೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಟಿಕ್ಕಾ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವ ಔಷಧಿ ಯಾವುದು?",
+    "question_variants": [
+      "ಟಿಕ್ಕಾ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವ ಔಷಧಿ ಏನುುದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಟಿಕ್ಕಾ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವ ಔಷಧಿ ಯಾವುದು?",
+      "ರೈತರು ಟಿಕ್ಕಾ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವ ಔಷಧಿ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಟಿಕ್ಕಾ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವ ಔಷಧಿ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ 2 ಗ್ರಾಂ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ 2 ಗ್ರಾಂ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ 2 ಗ್ರಾಂ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "2 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಟಿಕ್ಕಾ ರೋಗವನ್ನು ನಿಯಂತ್ರಿಸುವ ಔಷಧಿ ಯಾವುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬನ್ ಡೈಜಿಮ್ ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ 2 ಗ್ರಾಂ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತುಕ್ಕು ರೋಗ (Rust) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಬಾಧಿಸುತ್ತದೆ?",
+    "question_variants": [
+      "ತುಕ್ಕು ರೋಗ (Rust) ಗಿಡಕ್ಕೆ ಯಾವ ರೀತಿ ಬಾಧಿಸುತ್ತದೆ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ತುಕ್ಕು ರೋಗ (Rust) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಬಾಧಿಸುತ್ತದೆ?",
+      "ರೈತರು ತುಕ್ಕು ರೋಗ (Rust) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಬಾಧಿಸುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Rust",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ತುಕ್ಕು ರೋಗ (Rust) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಬಾಧಿಸುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಗುಳ್ಳೆಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಗುಳ್ಳೆಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಗುಳ್ಳೆಗಳು ಕಂಡುಬರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತುಕ್ಕು ರೋಗ (Rust) ಗಿಡಕ್ಕೆ ಹೇಗೆ ಬಾಧಿಸುತ್ತದೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಗುಳ್ಳೆಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬುಡ ಕೊಳೆ ರೋಗ (Collar Rot) ಯಾವಾಗ ಬರುತ್ತದೆ?",
+    "question_variants": [
+      "ಬುಡ ಕೊಳೆ ರೋಗ (Collar Rot) ಏನುಾಗ ಬರುತ್ತದೆ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬುಡ ಕೊಳೆ ರೋಗ (Collar Rot) ಯಾವಾಗ ಬರುತ್ತದೆ?",
+      "ರೈತರು ಬುಡ ಕೊಳೆ ರೋಗ (Collar Rot) ಯಾವಾಗ ಬರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Collar",
+      "Collar Rot",
+      "Karnataka",
+      "Rot",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬುಡ ಕೊಳೆ ರೋಗ (Collar Rot) ಯಾವಾಗ ಬರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಿಡಗಳು ಸಣ್ಣವಿದ್ದಾಗ ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಈ ರೋಗ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಗಿಡಗಳು ಸಣ್ಣವಿದ್ದಾಗ ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಈ ರೋಗ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಗಿಡಗಳು ಸಣ್ಣವಿದ್ದಾಗ ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಈ ರೋಗ ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬುಡ ಕೊಳೆ ರೋಗ (Collar Rot) ಯಾವಾಗ ಬರುತ್ತದೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಗಿಡಗಳು ಸಣ್ಣವಿದ್ದಾಗ ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಈ ರೋಗ ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಬೇರು ಕೊಳೆ ರೋಗದ ತಡೆಕ್ಕೆ ಯಾವ ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು?",
+    "question_variants": [
+      "ಬೇರು ಕೊಳೆ ರೋಗದ ತಡೆಕ್ಕೆ ಏನು ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬೇರು ಕೊಳೆ ರೋಗದ ತಡೆಕ್ಕೆ ಯಾವ ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು?",
+      "ರೈತರು ಬೇರು ಕೊಳೆ ರೋಗದ ತಡೆಕ್ಕೆ ಯಾವ ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬೇರು ಕೊಳೆ ರೋಗದ ತಡೆಕ್ಕೆ ಯಾವ ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಗೆ ಮೊದಲು ಟ್ರೈಕೋಡರ್ಮಾದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಉತ್ತಮ.",
+      "detailed_answer": "ಬಿತ್ತನೆಗೆ ಮೊದಲು ಟ್ರೈಕೋಡರ್ಮಾದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ ಮೊದಲು ಟ್ರೈಕೋಡರ್ಮಾದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಉತ್ತಮ."
+      ],
+      "preventive_measures": [
+        "ಬಿತ್ತನೆಗೆ ಮೊದಲು ಟ್ರೈಕೋಡರ್ಮಾದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಉತ್ತಮ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬಿತ್ತನೆಗೆ ಮೊದಲು ಟ್ರೈಕೋಡರ್ಮಾದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಉತ್ತಮ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೇರು ಕೊಳೆ ರೋಗದ ತಡೆಕ್ಕೆ ಯಾವ ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆಗೆ ಮೊದಲು ಟ್ರೈಕೋಡರ್ಮಾದಿಂದ ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಉತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕುಡಿ ನಂಜು ರೋಗ (Bud Necrosis) ಹೇಗೆ ಹರಡುತ್ತದೆ?",
+    "question_variants": [
+      "ಕುಡಿ ನಂಜು ರೋಗ (Bud Necrosis) ಯಾವ ರೀತಿ ಹರಡುತ್ತದೆ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಕುಡಿ ನಂಜು ರೋಗ (Bud Necrosis) ಹೇಗೆ ಹರಡುತ್ತದೆ?",
+      "ರೈತರು ಕುಡಿ ನಂಜು ರೋಗ (Bud Necrosis) ಹೇಗೆ ಹರಡುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Bud",
+      "Bud Necrosis",
+      "Karnataka",
+      "Necrosis",
+      "pest control",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕುಡಿ ನಂಜು ರೋಗ (Bud Necrosis) ಹೇಗೆ ಹರಡುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಇದು ಥ್ರಿಪ್ಸ್ ಎಂಬ ಕೀಟದ ಮೂಲಕ ಹರಡುವ ವೈರಸ್ ರೋಗವಾಗಿದೆ.",
+      "detailed_answer": "ಇದು ಥ್ರಿಪ್ಸ್ ಎಂಬ ಕೀಟದ ಮೂಲಕ ಹರಡುವ ವೈರಸ್ ರೋಗವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಇದು ಥ್ರಿಪ್ಸ್ ಎಂಬ ಕೀಟದ ಮೂಲಕ ಹರಡುವ ವೈರಸ್ ರೋಗವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕುಡಿ ನಂಜು ರೋಗ (Bud Necrosis) ಹೇಗೆ ಹರಡುತ್ತದೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಥ್ರಿಪ್ಸ್ ಎಂಬ ಕೀಟದ ಮೂಲಕ ಹರಡುವ ವೈರಸ್ ರೋಗವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರೋಗ ನಿರೋಧಕ ತಳಿ ಯಾವುದು?",
+    "question_variants": [
+      "ರೋಗ ನಿರೋಧಕ ತಳಿ ಏನುುದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ರೋಗ ನಿರೋಧಕ ತಳಿ ಯಾವುದು?",
+      "ರೈತರು ರೋಗ ನಿರೋಧಕ ತಳಿ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರೋಗ ನಿರೋಧಕ ತಳಿ ಯಾವುದು?",
+    "symptoms": [
+      "ಡಿ-4 ತಳಿಯು ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ತುಕ್ಕು ರೋಗಕ್ಕೆ ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜಿ.ಪಿ.ಬಿ.ಡಿ-4 ತಳಿಯು ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ತುಕ್ಕು ರೋಗಕ್ಕೆ ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದೆ.",
+      "detailed_answer": "ಜಿ.ಪಿ.ಬಿ.ಡಿ-4 ತಳಿಯು ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ತುಕ್ಕು ರೋಗಕ್ಕೆ ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದೆ.",
+      "step_by_step": [
+        "ಜಿ.ಪಿ.ಬಿ.ಡಿ-4 ತಳಿಯು ಎಲೆ ಚುಕ್ಕೆ",
+        "ತುಕ್ಕು ರೋಗಕ್ಕೆ ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೋಗ ನಿರೋಧಕ ತಳಿ ಯಾವುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಜಿ.ಪಿ.ಬಿ.ಡಿ-4 ತಳಿಯು ಎಲೆ ಚುಕ್ಕೆ ಮತ್ತು ತುಕ್ಕು ರೋಗಕ್ಕೆ ನಿರೋಧಕ ಶಕ್ತಿ ಹೊಂದಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅಫಲಾಟಾಕ್ಸಿನ್ (Aflatoxin) ಸಮಸ್ಯೆ ಎಲ್ಲಿ ಉಂಟಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಅಫಲಾಟಾಕ್ಸಿನ್ (Aflatoxin) ಸಮಸ್ಯೆ ಎಲ್ಲಿ ಉಂಟಾಗುತ್ತದೆ?",
+      "ರೈತರು ಅಫಲಾಟಾಕ್ಸಿನ್ (Aflatoxin) ಸಮಸ್ಯೆ ಎಲ್ಲಿ ಉಂಟಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Aflatoxin",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಅಫಲಾಟಾಕ್ಸಿನ್ (Aflatoxin) ಸಮಸ್ಯೆ ಎಲ್ಲಿ ಉಂಟಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳ ಮೇಲೆ ಶಿಲೀಂದ್ರದ ಸೋಂಕು ತಗುಲಿದಾಗ ಈ ವಿಷಕಾರಿ ಅಂಶ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಾಯಿಗಳ ಮೇಲೆ ಶಿಲೀಂದ್ರದ ಸೋಂಕು ತಗುಲಿದಾಗ ಈ ವಿಷಕಾರಿ ಅಂಶ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಾಯಿಗಳ ಮೇಲೆ ಶಿಲೀಂದ್ರದ ಸೋಂಕು ತಗುಲಿದಾಗ ಈ ವಿಷಕಾರಿ ಅಂಶ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅಫಲಾಟಾಕ್ಸಿನ್ (Aflatoxin) ಸಮಸ್ಯೆ ಎಲ್ಲಿ ಉಂಟಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಯಿಗಳ ಮೇಲೆ ಶಿಲೀಂದ್ರದ ಸೋಂಕು ತಗುಲಿದಾಗ ಈ ವಿಷಕಾರಿ ಅಂಶ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುವ ರೋಗಗಳನ್ನು ಹೇಗೆ ತಡೆಯಬಹುದು?",
+    "question_variants": [
+      "ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುವ ರೋಗಗಳನ್ನು ಯಾವ ರೀತಿ ತಡೆಯಬಹುದು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುವ ರೋಗಗಳನ್ನು ಹೇಗೆ ತಡೆಯಬಹುದು?",
+      "ರೈತರು ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುವ ರೋಗಗಳನ್ನು ಹೇಗೆ ತಡೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Crop",
+      "Crop Rotation",
+      "Karnataka",
+      "Rotation",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುವ ರೋಗಗಳನ್ನು ಹೇಗೆ ತಡೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop Rotation) ಮಾಡುವುದರಿಂದ ಇದನ್ನು ತಡೆಯಬಹುದು.",
+      "detailed_answer": "ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop Rotation) ಮಾಡುವುದರಿಂದ ಇದನ್ನು ತಡೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop Rotation) ಮಾಡುವುದರಿಂದ ಇದನ್ನು ತಡೆಯಬಹುದು."
+      ],
+      "preventive_measures": [
+        "ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop Rotation) ಮಾಡುವುದರಿಂದ ಇದನ್ನು ತಡೆಯಬಹುದು"
+      ],
+      "recommended_products": [
+        "Crop Rotation"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಣ್ಣಿನ ಮೂಲಕ ಹರಡುವ ರೋಗಗಳನ್ನು ಹೇಗೆ ತಡೆಯಬಹುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೆಳೆ ಪರಿವರ್ತನೆ (Crop Rotation) ಮಾಡುವುದರಿಂದ ಇದನ್ನು ತಡೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರೋಗ ಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ರೋಗ ಬಾಧಿತ ಗಿಡಗಳನ್ನು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ರೋಗ ಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ರೋಗ ಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ರೋಗ ಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಕ್ಷಣ ಕಿತ್ತು ಜಮೀನಿನಿಂದ ಹೊರಗೆ ಹಾಕಿ ಸುಟ್ಟು ಹಾಕಬೇಕು.",
+      "detailed_answer": "ತಕ್ಷಣ ಕಿತ್ತು ಜಮೀನಿನಿಂದ ಹೊರಗೆ ಹಾಕಿ ಸುಟ್ಟು ಹಾಕಬೇಕು.",
+      "step_by_step": [
+        "ತಕ್ಷಣ ಕಿತ್ತು ಜಮೀನಿನಿಂದ ಹೊರಗೆ ಹಾಕಿ ಸುಟ್ಟು ಹಾಕಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೋಗ ಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತಕ್ಷಣ ಕಿತ್ತು ಜಮೀನಿನಿಂದ ಹೊರಗೆ ಹಾಕಿ ಸುಟ್ಟು ಹಾಕಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯು ಕೊಯ್ಲಿಗೆ ಬಂದಿದೆ ಎಂದು ತಿಳಿಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಯು ಕೊಯ್ಲಿಗೆ ಬಂದಿದೆ ಎಂದು ತಿಳಿಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯು ಕೊಯ್ಲಿಗೆ ಬಂದಿದೆ ಎಂದು ತಿಳಿಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯು ಕೊಯ್ಲಿಗೆ ಬಂದಿದೆ ಎಂದು ತಿಳಿಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಹಳದಿಯಾಗುತ್ತವೆ ಮತ್ತು ಕಾಯಿಗಳ ಒಳಗಿನ ಪದರ ಕಂದು ಅಥವಾ ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+      "detailed_answer": "ಎಲೆಗಳು ಹಳದಿಯಾಗುತ್ತವೆ ಮತ್ತು ಕಾಯಿಗಳ ಒಳಗಿನ ಪದರ ಕಂದು ಅಥವಾ ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಹಳದಿಯಾಗುತ್ತವೆ",
+        "ಕಾಯಿಗಳ ಒಳಗಿನ ಪದರ ಕಂದು ಅಥವಾ ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯು ಕೊಯ್ಲಿಗೆ ಬಂದಿದೆ ಎಂದು ತಿಳಿಯುವುದು ಹೇಗೆ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಎಲೆಗಳು ಹಳದಿಯಾಗುತ್ತವೆ ಮತ್ತು ಕಾಯಿಗಳ ಒಳಗಿನ ಪದರ ಕಂದು ಅಥವಾ ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯ ಅವಧಿ ಎಷ್ಟು ದಿನಗಳು?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯ ಅವಧಿ ಎಷ್ಟು ದಿನಗಳು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯ ಅವಧಿ ಎಷ್ಟು ದಿನಗಳು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಳಿಗನುಗುಣವಾಗಿ 100 ರಿಂದ 120 ದಿನಗಳ ಅವಧಿಯಾಗಿದೆ.",
+      "detailed_answer": "ತಳಿಗನುಗುಣವಾಗಿ 100 ರಿಂದ 120 ದಿನಗಳ ಅವಧಿಯಾಗಿದೆ.",
+      "step_by_step": [
+        "ತಳಿಗನುಗುಣವಾಗಿ 100 ರಿಂದ 120 ದಿನಗಳ ಅವಧಿಯಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯ ಅವಧಿ ಎಷ್ಟು ದಿನಗಳು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ತಳಿಗನುಗುಣವಾಗಿ 100 ರಿಂದ 120 ದಿನಗಳ ಅವಧಿಯಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕೊಯ್ಲು ಮಾಡುವ ಮುನ್ನ ನೀರು ಹಾಯಿಸಬೇಕೇ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಕೊಯ್ಲು ಮಾಡುವ ಮುನ್ನ ನೀರು ಹಾಯಿಸಬೇಕೇ?",
+      "ರೈತರು ಕೊಯ್ಲು ಮಾಡುವ ಮುನ್ನ ನೀರು ಹಾಯಿಸಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಮಣ್ಣು",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕೊಯ್ಲು ಮಾಡುವ ಮುನ್ನ ನೀರು ಹಾಯಿಸಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಣ್ಣು ಗಟ್ಟಿಯಾಗಿದ್ದರೆ ಲಘು ನೀರಾವರಿ ನೀಡಿ ಕಾಯಿಗಳನ್ನು ಕೀಳಬೇಕು.",
+      "detailed_answer": "ಹೌದು, ಮಣ್ಣು ಗಟ್ಟಿಯಾಗಿದ್ದರೆ ಲಘು ನೀರಾವರಿ ನೀಡಿ ಕಾಯಿಗಳನ್ನು ಕೀಳಬೇಕು.",
+      "step_by_step": [
+        "ಮಣ್ಣು ಗಟ್ಟಿಯಾಗಿದ್ದರೆ ಲಘು ನೀರಾವರಿ ನೀಡಿ ಕಾಯಿಗಳನ್ನು ಕೀಳಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕೊಯ್ಲು ಮಾಡುವ ಮುನ್ನ ನೀರು ಹಾಯಿಸಬೇಕೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಮಣ್ಣು ಗಟ್ಟಿಯಾಗಿದ್ದರೆ ಲಘು ನೀರಾವರಿ ನೀಡಿ ಕಾಯಿಗಳನ್ನು ಕೀಳಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಳೆಯಾಶ್ರಿತ ಎಕರೆ ಇಳುವರಿ ಎಷ್ಟು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಮಳೆಯಾಶ್ರಿತ ಎಕರೆ ಇಳುವರಿ ಎಷ್ಟು?",
+      "ರೈತರು ಮಳೆಯಾಶ್ರಿತ ಎಕರೆ ಇಳುವರಿ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಳೆಯಾಶ್ರಿತ ಎಕರೆ ಇಳುವರಿ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಕ್ಕೆ ಸುಮಾರು 6 ರಿಂದ 8 ಕ್ವಿಂಟಲ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "detailed_answer": "ಎಕರೆಕ್ಕೆ ಸುಮಾರು 6 ರಿಂದ 8 ಕ್ವಿಂಟಲ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಎಕರೆಕ್ಕೆ ಸುಮಾರು 6 ರಿಂದ 8 ಕ್ವಿಂಟಲ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಳೆಯಾಶ್ರಿತ ಎಕರೆ ಇಳುವರಿ ಎಷ್ಟು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಕರೆಕ್ಕೆ ಸುಮಾರು 6 ರಿಂದ 8 ಕ್ವಿಂಟಲ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ನೀರಾವರಿ ಶೇಂಗಾ ಇಳುವರಿ ಎಷ್ಟಿರಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ನೀರಾವರಿ ಶೇಂಗಾ ಇಳುವರಿ ಎಷ್ಟಿರಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "irrigation",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ನೀರಾವರಿ ಶೇಂಗಾ ಇಳುವರಿ ಎಷ್ಟಿರಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಕ್ಕೆ ಸುಮಾರು 10 ರಿಂದ 15 ಕ್ವಿಂಟಲ್ ವರೆಗೆ ಇಳುವರಿ ಪಡೆಯಬಹುದು.",
+      "detailed_answer": "ಎಕರೆಕ್ಕೆ ಸುಮಾರು 10 ರಿಂದ 15 ಕ್ವಿಂಟಲ್ ವರೆಗೆ ಇಳುವರಿ ಪಡೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಎಕರೆಕ್ಕೆ ಸುಮಾರು 10 ರಿಂದ 15 ಕ್ವಿಂಟಲ್ ವರೆಗೆ ಇಳುವರಿ ಪಡೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ನೀರಾವರಿ ಶೇಂಗಾ ಇಳುವರಿ ಎಷ್ಟಿರಬಹುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಕರೆಕ್ಕೆ ಸುಮಾರು 10 ರಿಂದ 15 ಕ್ವಿಂಟಲ್ ವರೆಗೆ ಇಳುವರಿ ಪಡೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಯಿಗಳನ್ನು ಕೀಳುವಾಗ ಯಾವುದು ಸುಲಭ ವಿಧಾನ?",
+    "question_variants": [
+      "ಕಾಯಿಗಳನ್ನು ಕೀಳುವಾಗ ಏನುುದು ಸುಲಭ ವಿಧಾನ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಕಾಯಿಗಳನ್ನು ಕೀಳುವಾಗ ಯಾವುದು ಸುಲಭ ವಿಧಾನ?",
+      "ರೈತರು ಕಾಯಿಗಳನ್ನು ಕೀಳುವಾಗ ಯಾವುದು ಸುಲಭ ವಿಧಾನ?"
+    ],
+    "keywords": [
+      "Groundnut",
+      "Groundnut digger",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕಾಯಿಗಳನ್ನು ಕೀಳುವಾಗ ಯಾವುದು ಸುಲಭ ವಿಧಾನ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇಂಗಾ ಕೀಳುವ ಯಂತ್ರ (Groundnut digger) ಬಳಸುವುದು ಶ್ರಮ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಶೇಂಗಾ ಕೀಳುವ ಯಂತ್ರ (Groundnut digger) ಬಳಸುವುದು ಶ್ರಮ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಶೇಂಗಾ ಕೀಳುವ ಯಂತ್ರ (Groundnut digger) ಬಳಸುವುದು ಶ್ರಮ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Groundnut digger"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಯಿಗಳನ್ನು ಕೀಳುವಾಗ ಯಾವುದು ಸುಲಭ ವಿಧಾನ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಶೇಂಗಾ ಕೀಳುವ ಯಂತ್ರ (Groundnut digger) ಬಳಸುವುದು ಶ್ರಮ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕೀಳುವಾಗ ಕಾಯಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಉಳಿಯದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕೀಳುವಾಗ ಕಾಯಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಉಳಿಯದಂತೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಕೀಳುವಾಗ ಕಾಯಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಉಳಿಯದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕೀಳುವಾಗ ಕಾಯಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಉಳಿಯದಂತೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕೀಳುವಾಗ ಕಾಯಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಉಳಿಯದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸರಿಯಾದ ತೇವಾಂಶದಲ್ಲಿ ಮತ್ತು ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಸರಿಯಾದ ತೇವಾಂಶದಲ್ಲಿ ಮತ್ತು ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಸರಿಯಾದ ತೇವಾಂಶದಲ್ಲಿ",
+        "ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಕೊಯ್ಲು ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕೀಳುವಾಗ ಕಾಯಿಗಳು ಮಣ್ಣಿನಲ್ಲಿ ಉಳಿಯದಂತೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸರಿಯಾದ ತೇವಾಂಶದಲ್ಲಿ ಮತ್ತು ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಬೇಕು.",
+      "detailed_answer": "ಕಾಯಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಕಾಯಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಕಾಯಿಗಳನ್ನು ಚೆನ್ನಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ 3-4 ದಿನ ಒಣಗಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಖರಣೆ ಮಾಡುವಾಗ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಶೇಖರಣೆ ಮಾಡುವಾಗ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+      "ರೈತರು ಶೇಖರಣೆ ಮಾಡುವಾಗ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಖರಣೆ ಮಾಡುವಾಗ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳಲ್ಲಿ ಶೇ. 8 ರಿಂದ 9 ಕ್ಕಿಂತ ಕಡಿಮೆ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "detailed_answer": "ಕಾಯಿಗಳಲ್ಲಿ ಶೇ. 8 ರಿಂದ 9 ಕ್ಕಿಂತ ಕಡಿಮೆ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "step_by_step": [
+        "ಕಾಯಿಗಳಲ್ಲಿ ಶೇ. 8 ರಿಂದ 9 ಕ್ಕಿಂತ ಕಡಿಮೆ ತೇವಾಂಶ ಇರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಖರಣೆ ಮಾಡುವಾಗ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಯಿಗಳಲ್ಲಿ ಶೇ. 8 ರಿಂದ 9 ಕ್ಕಿಂತ ಕಡಿಮೆ ತೇವಾಂಶ ಇರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಣಗಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಒಣಗಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+      "ರೈತರು ಒಣಗಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಒಣಗಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶಿಲೀಂದ್ರದ ಬಾಧೆ ತಪ್ಪಿಸಬಹುದು ಮತ್ತು ಶೇಖರಣಾ ಅವಧಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಶಿಲೀಂದ್ರದ ಬಾಧೆ ತಪ್ಪಿಸಬಹುದು ಮತ್ತು ಶೇಖರಣಾ ಅವಧಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಶಿಲೀಂದ್ರದ ಬಾಧೆ ತಪ್ಪಿಸಬಹುದು",
+        "ಶೇಖರಣಾ ಅವಧಿ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಶಿಲೀಂದ್ರದ ಬಾಧೆ ತಪ್ಪಿಸಬಹುದು ಮತ್ತು ಶೇಖರಣಾ ಅವಧಿ ಹೆಚ್ಚುತ್ತದೆ"
+      ]
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಣಗಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಶಿಲೀಂದ್ರದ ಬಾಧೆ ತಪ್ಪಿಸಬಹುದು ಮತ್ತು ಶೇಖರಣಾ ಅವಧಿ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾವನ್ನು 'ಬಡವರ ಬಾದಾಮಿ' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾವನ್ನು 'ಬಡವರ ಬಾದಾಮಿ' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾವನ್ನು 'ಬಡವರ ಬಾದಾಮಿ' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಬಾದಾಮಿಯಷ್ಟೇ ಪೌಷ್ಟಿಕಾಂಶ ಹೊಂದಿರುವುದರಿಂದ ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಬಾದಾಮಿಯಷ್ಟೇ ಪೌಷ್ಟಿಕಾಂಶ ಹೊಂದಿರುವುದರಿಂದ ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಬಾದಾಮಿಯಷ್ಟೇ ಪೌಷ್ಟಿಕಾಂಶ ಹೊಂದಿರುವುದರಿಂದ ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾವನ್ನು 'ಬಡವರ ಬಾದಾಮಿ' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಡಿಮೆ ಬೆಲೆಯಲ್ಲಿ ಬಾದಾಮಿಯಷ್ಟೇ ಪೌಷ್ಟಿಕಾಂಶ ಹೊಂದಿರುವುದರಿಂದ ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಎಣ್ಣೆಯಲ್ಲಿ ಎಷ್ಟು ಕೊಲೆಸ್ಟ್ರಾಲ್ ಇರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಎಣ್ಣೆಯಲ್ಲಿ ಎಷ್ಟು ಕೊಲೆಸ್ಟ್ರಾಲ್ ಇರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಎಣ್ಣೆಯಲ್ಲಿ ಎಷ್ಟು ಕೊಲೆಸ್ಟ್ರಾಲ್ ಇರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೈಸರ್ಗಿಕವಾಗಿ ಶೇಂಗಾ ಎಣ್ಣೆಯು ಕೊಲೆಸ್ಟ್ರಾಲ್ ರಹಿತವಾಗಿರುತ್ತದೆ.",
+      "detailed_answer": "ನೈಸರ್ಗಿಕವಾಗಿ ಶೇಂಗಾ ಎಣ್ಣೆಯು ಕೊಲೆಸ್ಟ್ರಾಲ್ ರಹಿತವಾಗಿರುತ್ತದೆ.",
+      "step_by_step": [
+        "ನೈಸರ್ಗಿಕವಾಗಿ ಶೇಂಗಾ ಎಣ್ಣೆಯು ಕೊಲೆಸ್ಟ್ರಾಲ್ ರಹಿತವಾಗಿರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಎಣ್ಣೆಯಲ್ಲಿ ಎಷ್ಟು ಕೊಲೆಸ್ಟ್ರಾಲ್ ಇರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ನೈಸರ್ಗಿಕವಾಗಿ ಶೇಂಗಾ ಎಣ್ಣೆಯು ಕೊಲೆಸ್ಟ್ರಾಲ್ ರಹಿತವಾಗಿರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಹಿಂಡಿಯನ್ನು ಏನಕ್ಕೆ ಬಳಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಹಿಂಡಿಯನ್ನು ಏನಕ್ಕೆ ಬಳಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಶೇಂಗಾ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಹಿಂಡಿಯನ್ನು ಏನಕ್ಕೆ ಬಳಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪಶು ಆಹಾರವಾಗಿ ಮತ್ತು ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಪಶು ಆಹಾರವಾಗಿ ಮತ್ತು ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಪಶು ಆಹಾರವಾಗಿ",
+        "ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಪಶು ಆಹಾರವಾಗಿ ಮತ್ತು ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸುತ್ತಾರೆ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಹಿಂಡಿಯನ್ನು ಏನಕ್ಕೆ ಬಳಸುತ್ತಾರೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪಶು ಆಹಾರವಾಗಿ ಮತ್ತು ಸಾವಯವ ಗೊಬ್ಬರವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟ ಲಾಭದಾಯಕವೇ?",
+    "question_variants": [
+      "ರೈತರು ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟ ಲಾಭದಾಯಕವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟ ಲಾಭದಾಯಕವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಾರುಕಟ್ಟೆ ದರ ಚೆನ್ನಾಗಿದ್ದಾಗ ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟದಿಂದ ಶ್ರಮ ಉಳಿಯುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಮಾರುಕಟ್ಟೆ ದರ ಚೆನ್ನಾಗಿದ್ದಾಗ ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟದಿಂದ ಶ್ರಮ ಉಳಿಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಾರುಕಟ್ಟೆ ದರ ಚೆನ್ನಾಗಿದ್ದಾಗ ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟದಿಂದ ಶ್ರಮ ಉಳಿಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟ ಲಾಭದಾಯಕವೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಮಾರುಕಟ್ಟೆ ದರ ಚೆನ್ನಾಗಿದ್ದಾಗ ಹಸಿ ಶೇಂಗಾ ಮಾರಾಟದಿಂದ ಶ್ರಮ ಉಳಿಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ತಳಿಗಳು ಸೂಕ್ತ?",
+    "question_variants": [
+      "ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಗೆ ಏನು ತಳಿಗಳು ಸೂಕ್ತ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ತಳಿಗಳು ಸೂಕ್ತ?",
+      "ರೈತರು ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ತಳಿಗಳು ಸೂಕ್ತ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ತಳಿಗಳು ಸೂಕ್ತ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ದೊಡ್ಡ ಗಾತ್ರದ ಕಾಳುಳ್ಳ ಕೆ.ಸಿ.ಜಿ-6 ರಂತಹ ತಳಿಗಳು ರಫ್ತು ಮಾಡಲು ಸೂಕ್ತ.",
+      "detailed_answer": "ದೊಡ್ಡ ಗಾತ್ರದ ಕಾಳುಳ್ಳ ಕೆ.ಸಿ.ಜಿ-6 ರಂತಹ ತಳಿಗಳು ರಫ್ತು ಮಾಡಲು ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ದೊಡ್ಡ ಗಾತ್ರದ ಕಾಳುಳ್ಳ ಕೆ.ಸಿ.ಜಿ-6 ರಂತಹ ತಳಿಗಳು ರಫ್ತು ಮಾಡಲು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆಗೆ ಯಾವ ತಳಿಗಳು ಸೂಕ್ತ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ದೊಡ್ಡ ಗಾತ್ರದ ಕಾಳುಳ್ಳ ಕೆ.ಸಿ.ಜಿ-6 ರಂತಹ ತಳಿಗಳು ರಫ್ತು ಮಾಡಲು ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಇದು ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯಾದ್ದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಇದು ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯಾದ್ದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯಾದ್ದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಹೆಚ್ಚಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆಯೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಇದು ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯಾದ್ದರಿಂದ ಮಣ್ಣಿನಲ್ಲಿ ಸಾರಜನಕ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಿತ್ತನೆ ಬೀಜಕ್ಕಾಗಿ ಕಾಯಿಗಳನ್ನು ಹೇಗೆ ಇಡಬೇಕು?",
+    "question_variants": [
+      "ಬಿತ್ತನೆ ಬೀಜಕ್ಕಾಗಿ ಕಾಯಿಗಳನ್ನು ಯಾವ ರೀತಿ ಇಡಬೇಕು?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಬಿತ್ತನೆ ಬೀಜಕ್ಕಾಗಿ ಕಾಯಿಗಳನ್ನು ಹೇಗೆ ಇಡಬೇಕು?",
+      "ರೈತರು ಬಿತ್ತನೆ ಬೀಜಕ್ಕಾಗಿ ಕಾಯಿಗಳನ್ನು ಹೇಗೆ ಇಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಬಿತ್ತನೆ ಬೀಜಕ್ಕಾಗಿ ಕಾಯಿಗಳನ್ನು ಹೇಗೆ ಇಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮವಾದ ಕಾಯಿಗಳನ್ನು ಆರಿಸಿ, ಒಣಗಿಸಿ, ಗಾಳಿಯಾಡುವ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು.",
+      "detailed_answer": "ಉತ್ತಮವಾದ ಕಾಯಿಗಳನ್ನು ಆರಿಸಿ, ಒಣಗಿಸಿ, ಗಾಳಿಯಾಡುವ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಉತ್ತಮವಾದ ಕಾಯಿಗಳನ್ನು ಆರಿಸಿ",
+        "ಗಾಳಿಯಾಡುವ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿತ್ತನೆ ಬೀಜಕ್ಕಾಗಿ ಕಾಯಿಗಳನ್ನು ಹೇಗೆ ಇಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಉತ್ತಮವಾದ ಕಾಯಿಗಳನ್ನು ಆರಿಸಿ, ಒಣಗಿಸಿ, ಗಾಳಿಯಾಡುವ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಹೊಟ್ಟನ್ನು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಹೊಟ್ಟನ್ನು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಶೇಂಗಾ ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಹೊಟ್ಟನ್ನು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಹೊಟ್ಟನ್ನು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಟ್ಟನ್ನು ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ತಯಾರಿಸಲು ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಹೊಟ್ಟನ್ನು ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ತಯಾರಿಸಲು ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಹೊಟ್ಟನ್ನು ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ತಯಾರಿಸಲು ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಹೊಟ್ಟನ್ನು ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ತಯಾರಿಸಲು ಬಳಸಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಕಾಯಿಗಳನ್ನು ಬಿಡಿಸಿದ ನಂತರ ಹೊಟ್ಟನ್ನು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೊಟ್ಟನ್ನು ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ತಯಾರಿಸಲು ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಗಿಡದ ಮೇವಿನ (Haulms) ಉಪಯೋಗವೇನು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಗಿಡದ ಮೇವಿನ (Haulms) ಉಪಯೋಗವೇನು?",
+      "ರೈತರು ಗಿಡದ ಮೇವಿನ (Haulms) ಉಪಯೋಗವೇನು?"
+    ],
+    "keywords": [
+      "Haulms",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಗಿಡದ ಮೇವಿನ (Haulms) ಉಪಯೋಗವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯಂತ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿದೆ.",
+      "detailed_answer": "ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯಂತ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯಂತ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗಿಡದ ಮೇವಿನ (Haulms) ಉಪಯೋಗವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇದು ದನಕರುಗಳಿಗೆ ಅತ್ಯಂತ ಪೌಷ್ಟಿಕ ಆಹಾರವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಶೇಂಗಾ ಹೆಚ್ಚಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಕರ್ನಾಟಕದ ಏನು ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಶೇಂಗಾ ಹೆಚ್ಚಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ?",
+      "ರೈತರು ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಶೇಂಗಾ ಹೆಚ್ಚಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಶೇಂಗಾ ಹೆಚ್ಚಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತುಮಕೂರು, ಚಿತ್ರದುರ್ಗ, ರಾಯಚೂರು ಮತ್ತು ಬಳ್ಳಾರಿ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ತುಮಕೂರು, ಚಿತ್ರದುರ್ಗ, ರಾಯಚೂರು ಮತ್ತು ಬಳ್ಳಾರಿ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಬಳ್ಳಾರಿ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಶೇಂಗಾ ಹೆಚ್ಚಾಗಿ ಬೆಳೆಯುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತುಮಕೂರು, ಚಿತ್ರದುರ್ಗ, ರಾಯಚೂರು ಮತ್ತು ಬಳ್ಳಾರಿ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಏನು ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+      "ರೈತರು ಶೇಂಗಾ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?"
+    ],
+    "keywords": [
+      "Fabaceae",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಲೆಗ್ಯುಮಿನೇಸಿ (Fabaceae) ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+      "detailed_answer": "ಇದು ಲೆಗ್ಯುಮಿನೇಸಿ (Fabaceae) ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+      "step_by_step": [
+        "ಇದು ಲೆಗ್ಯುಮಿನೇಸಿ (Fabaceae) ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Fabaceae"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇದು ಲೆಗ್ಯುಮಿನೇಸಿ (Fabaceae) ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾದ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾದ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?"
+    ],
+    "keywords": [
+      "Arachis",
+      "Arachis hypogaea",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾದ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರಾಚಿಸ್ ಹೈಪೋಜಿಯಾ (Arachis hypogaea).",
+      "detailed_answer": "ಅರಾಚಿಸ್ ಹೈಪೋಜಿಯಾ (Arachis hypogaea).",
+      "step_by_step": [
+        "ಅರಾಚಿಸ್ ಹೈಪೋಜಿಯಾ (Arachis hypogaea)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Arachis hypogaea"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾದ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರಾಚಿಸ್ ಹೈಪೋಜಿಯಾ (Arachis hypogaea).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾದಲ್ಲಿರುವ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "question_variants": [
+      "ರೈತರು ಶೇಂಗಾದಲ್ಲಿರುವ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾದಲ್ಲಿರುವ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸುಮಾರು ಶೇ. 25 ರಿಂದ 30 ರಷ್ಟು ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "detailed_answer": "ಸುಮಾರು ಶೇ. 25 ರಿಂದ 30 ರಷ್ಟು ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸುಮಾರು ಶೇ. 25 ರಿಂದ 30 ರಷ್ಟು ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾದಲ್ಲಿರುವ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸುಮಾರು ಶೇ. 25 ರಿಂದ 30 ರಷ್ಟು ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹನಿ ನೀರಾವರಿ ಪದ್ಧತಿಯನ್ನು ಶೇಂಗಾಕ್ಕೆ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಹನಿ ನೀರಾವರಿ ಪದ್ಧತಿಯನ್ನು ಶೇಂಗಾಕ್ಕೆ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ನೀರಾವರಿ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಹನಿ ನೀರಾವರಿ ಪದ್ಧತಿಯನ್ನು ಶೇಂಗಾಕ್ಕೆ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಇದು ನೀರು ಮತ್ತು ಗೊಬ್ಬರವನ್ನು ನೇರವಾಗಿ ಬೇರಿಗೆ ತಲುಪಿಸಲು ಸಹಕಾರಿ.",
+      "detailed_answer": "ಹೌದು, ಇದು ನೀರು ಮತ್ತು ಗೊಬ್ಬರವನ್ನು ನೇರವಾಗಿ ಬೇರಿಗೆ ತಲುಪಿಸಲು ಸಹಕಾರಿ.",
+      "step_by_step": [
+        "ಗೊಬ್ಬರವನ್ನು ನೇರವಾಗಿ ಬೇರಿಗೆ ತಲುಪಿಸಲು ಸಹಕಾರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹನಿ ನೀರಾವರಿ ಪದ್ಧತಿಯನ್ನು ಶೇಂಗಾಕ್ಕೆ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಇದು ನೀರು ಮತ್ತು ಗೊಬ್ಬರವನ್ನು ನೇರವಾಗಿ ಬೇರಿಗೆ ತಲುಪಿಸಲು ಸಹಕಾರಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಗಿಡಗಳ ಸಾಂದ್ರತೆ ಇಳುವರಿಯ ಮೇಲೆ ಹೇಗೆ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ?",
+    "question_variants": [
+      "ಗಿಡಗಳ ಸಾಂದ್ರತೆ ಇಳುವರಿಯ ಮೇಲೆ ಯಾವ ರೀತಿ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ?",
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಗಿಡಗಳ ಸಾಂದ್ರತೆ ಇಳುವರಿಯ ಮೇಲೆ ಹೇಗೆ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ?",
+      "ರೈತರು ಗಿಡಗಳ ಸಾಂದ್ರತೆ ಇಳುವರಿಯ ಮೇಲೆ ಹೇಗೆ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಗಿಡಗಳ ಸಾಂದ್ರತೆ ಇಳುವರಿಯ ಮೇಲೆ ಹೇಗೆ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅತಿಯಾದ ಸಾಂದ್ರತೆಯಿಂದ ಗಿಡಗಳು ತೆಳ್ಳಗಾಗಿ ಕಾಯಿ ಕಟ್ಟುವಿಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಅತಿಯಾದ ಸಾಂದ್ರತೆಯಿಂದ ಗಿಡಗಳು ತೆಳ್ಳಗಾಗಿ ಕಾಯಿ ಕಟ್ಟುವಿಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅತಿಯಾದ ಸಾಂದ್ರತೆಯಿಂದ ಗಿಡಗಳು ತೆಳ್ಳಗಾಗಿ ಕಾಯಿ ಕಟ್ಟುವಿಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗಿಡಗಳ ಸಾಂದ್ರತೆ ಇಳುವರಿಯ ಮೇಲೆ ಹೇಗೆ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅತಿಯಾದ ಸಾಂದ್ರತೆಯಿಂದ ಗಿಡಗಳು ತೆಳ್ಳಗಾಗಿ ಕಾಯಿ ಕಟ್ಟುವಿಕೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮುಂಗಾರಿನಲ್ಲಿ ಶೇಂಗಾವನ್ನು ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಮುಂಗಾರಿನಲ್ಲಿ ಶೇಂಗಾವನ್ನು ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮುಂಗಾರಿನಲ್ಲಿ ಶೇಂಗಾವನ್ನು ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಕರ್ನಾಟಕದ ಹೆಚ್ಚಿನ ಭಾಗಗಳಲ್ಲಿ ಮುಂಗಾರಿನಲ್ಲಿ ಮಳೆಯಾಶ್ರಿತವಾಗಿಯೇ ಬೆಳೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ಹೌದು, ಕರ್ನಾಟಕದ ಹೆಚ್ಚಿನ ಭಾಗಗಳಲ್ಲಿ ಮುಂಗಾರಿನಲ್ಲಿ ಮಳೆಯಾಶ್ರಿತವಾಗಿಯೇ ಬೆಳೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕರ್ನಾಟಕದ ಹೆಚ್ಚಿನ ಭಾಗಗಳಲ್ಲಿ ಮುಂಗಾರಿನಲ್ಲಿ ಮಳೆಯಾಶ್ರಿತವಾಗಿಯೇ ಬೆಳೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮುಂಗಾರಿನಲ್ಲಿ ಶೇಂಗಾವನ್ನು ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಕರ್ನಾಟಕದ ಹೆಚ್ಚಿನ ಭಾಗಗಳಲ್ಲಿ ಮುಂಗಾರಿನಲ್ಲಿ ಮಳೆಯಾಶ್ರಿತವಾಗಿಯೇ ಬೆಳೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಉತ್ತಮ ಮೊಳಕೆ ಬರಲು ಬೀಜದ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಉತ್ತಮ ಮೊಳಕೆ ಬರಲು ಬೀಜದ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+      "ರೈತರು ಉತ್ತಮ ಮೊಳಕೆ ಬರಲು ಬೀಜದ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಉತ್ತಮ ಮೊಳಕೆ ಬರಲು ಬೀಜದ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಬೀಜವು ಸಂಪೂರ್ಣವಾಗಿ ಒಣಗಿರಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಬೀಜವು ಸಂಪೂರ್ಣವಾಗಿ ಒಣಗಿರಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಬೀಜವು ಸಂಪೂರ್ಣವಾಗಿ ಒಣಗಿರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಉತ್ತಮ ಮೊಳಕೆ ಬರಲು ಬೀಜದ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಬೀಜವು ಸಂಪೂರ್ಣವಾಗಿ ಒಣಗಿರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸುವುದು ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸುವುದು ಏಕೆ ಮುಖ್ಯ?",
+      "ರೈತರು ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸುವುದು ಏಕೆ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಮಣ್ಣು",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸುವುದು ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನಲ್ಲಿರುವ ಪೋಷಕಾಂಶಗಳ ಲಭ್ಯತೆ ತಿಳಿದು ಅದಕ್ಕನುಗುಣವಾಗಿ ಗೊಬ್ಬರ ನೀಡಲು ಸಹಕಾರಿ.",
+      "detailed_answer": "ಮಣ್ಣಿನಲ್ಲಿರುವ ಪೋಷಕಾಂಶಗಳ ಲಭ್ಯತೆ ತಿಳಿದು ಅದಕ್ಕನುಗುಣವಾಗಿ ಗೊಬ್ಬರ ನೀಡಲು ಸಹಕಾರಿ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನಲ್ಲಿರುವ ಪೋಷಕಾಂಶಗಳ ಲಭ್ಯತೆ ತಿಳಿದು ಅದಕ್ಕನುಗುಣವಾಗಿ ಗೊಬ್ಬರ ನೀಡಲು ಸಹಕಾರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿಸುವುದು ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನಲ್ಲಿರುವ ಪೋಷಕಾಂಶಗಳ ಲಭ್ಯತೆ ತಿಳಿದು ಅದಕ್ಕನುಗುಣವಾಗಿ ಗೊಬ್ಬರ ನೀಡಲು ಸಹಕಾರಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಲಾಭ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಲಾಭ ಹೆಚ್ಚಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಲಾಭ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರೋಗ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಲಾಭ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಸುಧಾರಿತ ತಳಿಗಳ ಬಳಕೆ, ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ ಮತ್ತು ರೋಗ ನಿಯಂತ್ರಣ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಸುಧಾರಿತ ತಳಿಗಳ ಬಳಕೆ, ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ ಮತ್ತು ರೋಗ ನಿಯಂತ್ರಣ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಸುಧಾರಿತ ತಳಿಗಳ ಬಳಕೆ",
+        "ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+        "ರೋಗ ನಿಯಂತ್ರಣ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಶೇಂಗಾ ಬೆಳೆಯಲ್ಲಿ ಲಾಭ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸುಧಾರಿತ ತಳಿಗಳ ಬಳಕೆ, ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ ಮತ್ತು ರೋಗ ನಿಯಂತ್ರಣ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ಶೇಂಗಾ (Groundnut)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಸರಾಸರಿ ಎಷ್ಟು ಮರಿ ಬಿತ್ತನೆ ಯಂತ್ರ ಸಾಲುಗಳಿರಬೇಕು?",
+    "question_variants": [
+      "ಶೇಂಗಾ ಬೆಳೆಗೆ: ಒಂದು ಎಕರೆಗೆ ಸರಾಸರಿ ಎಷ್ಟು ಮರಿ ಬಿತ್ತನೆ ಯಂತ್ರ ಸಾಲುಗಳಿರಬೇಕು?",
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಸರಾಸರಿ ಎಷ್ಟು ಮರಿ ಬಿತ್ತನೆ ಯಂತ್ರ ಸಾಲುಗಳಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಶೇಂಗಾ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam / Light Red Soil",
+      "climate": "Warm Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "500-1200 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಸರಾಸರಿ ಎಷ್ಟು ಮರಿ ಬಿತ್ತನೆ ಯಂತ್ರ ಸಾಲುಗಳಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಮಾನ್ಯವಾಗಿ ಎಕರೆಕ್ಕೆ 13 ರಿಂದ 14 ಸಾಲುಗಳು ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು.",
+      "detailed_answer": "ಸಾಮಾನ್ಯವಾಗಿ ಎಕರೆಕ್ಕೆ 13 ರಿಂದ 14 ಸಾಲುಗಳು ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು.",
+      "step_by_step": [
+        "ಸಾಮಾನ್ಯವಾಗಿ ಎಕರೆಕ್ಕೆ 13 ರಿಂದ 14 ಸಾಲುಗಳು ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಶೇಂಗಾ (Groundnut) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಸರಾಸರಿ ಎಷ್ಟು ಮರಿ ಬಿತ್ತನೆ ಯಂತ್ರ ಸಾಲುಗಳಿರಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಮಾನ್ಯವಾಗಿ ಎಕರೆಕ್ಕೆ 13 ರಿಂದ 14 ಸಾಲುಗಳು ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  }
+]

@@ -1,0 +1,322 @@
+/*
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ *  RAITHA SATHI — SAVED ADVICE PAGE STYLES
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ */
+
+.saved-advice-page {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 48px;
+  animation: fadeIn 0.25s ease-out forwards;
+}
+
+/* Header badge count */
+.saved-header-badge {
+  display: flex;
+  align-items: center;
+}
+
+.saved-count-pill {
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 0.35rem 0.8rem;
+  border-radius: var(--radius-full);
+  background: var(--primary-light);
+  color: var(--primary);
+  border: 1px solid rgba(46, 125, 50, 0.2);
+}
+
+.saved-advice-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Loading State */
+.saved-loading-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 64px 24px;
+}
+
+/* Saved Advice Cards Grid */
+.saved-advice-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 20px;
+}
+
+.saved-advice-card {
+  padding: 20px;
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  position: relative;
+}
+
+.saved-advice-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--border-main);
+}
+
+/* Card Header */
+.saved-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.saved-tags-cluster {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.saved-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.55rem;
+  border-radius: var(--radius-full);
+}
+
+.crop-tag {
+  background: var(--primary-light);
+  color: var(--primary);
+  border: 1px solid rgba(46, 125, 50, 0.2);
+}
+
+.topic-tag {
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+  text-transform: capitalize;
+}
+
+.db-tag {
+  background: var(--success-bg, rgba(46, 125, 50, 0.1));
+  color: var(--success, #2e7d32);
+  border: 1px solid rgba(46, 125, 50, 0.25);
+}
+
+.rag-tag {
+  background: var(--info-bg, rgba(25, 118, 210, 0.1));
+  color: var(--info, #1976d2);
+  border: 1px solid rgba(25, 118, 210, 0.25);
+}
+
+.saved-date-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  color: var(--text-subtle);
+  font-weight: 500;
+}
+
+/* Question Box */
+.saved-question-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 14px;
+  background: var(--bg-subtle);
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--primary);
+}
+
+.question-icon {
+  color: var(--primary);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.question-text {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-main);
+  line-height: 1.45;
+}
+
+/* Answer Box */
+.saved-answer-box {
+  flex: 1;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: var(--text-main);
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.saved-answer-box::-webkit-scrollbar {
+  width: 4px;
+}
+
+.saved-answer-box::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 2px;
+}
+
+/* Markdown styling inside saved card */
+.saved-answer-box .markdown-body p {
+  margin: 0 0 0.6rem 0;
+}
+
+.saved-answer-box .markdown-body p:last-child {
+  margin-bottom: 0;
+}
+
+.saved-answer-box .markdown-body ul,
+.saved-answer-box .markdown-body ol {
+  padding-left: 1.25rem;
+  margin: 0.4rem 0;
+}
+
+.saved-answer-box .markdown-body li {
+  margin-bottom: 0.25rem;
+}
+
+.saved-answer-box .markdown-body strong {
+  color: var(--text-main);
+  font-weight: 600;
+}
+
+/* Footer & Actions */
+.saved-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 14px;
+  border-top: 1px solid var(--border-subtle);
+  margin-top: auto;
+}
+
+.footer-left-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-full);
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border-subtle);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.card-action-btn:hover {
+  background: var(--border-subtle);
+  color: var(--text-main);
+  border-color: var(--primary);
+}
+
+.copy-action-btn .copied-icon {
+  color: var(--success);
+}
+
+.ask-followup-btn {
+  color: var(--primary);
+}
+
+.ask-followup-btn:hover {
+  background: var(--primary-light);
+  border-color: var(--primary);
+}
+
+.delete-action-btn {
+  color: var(--danger, #d32f2f);
+}
+
+.delete-action-btn:hover {
+  background: rgba(211, 47, 47, 0.1);
+  border-color: var(--danger, #d32f2f);
+  color: var(--danger, #d32f2f);
+}
+
+/* Delete Modal Content */
+.delete-modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.delete-modal-warning {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  color: var(--text-main);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.delete-modal-warning .warning-icon {
+  color: var(--warning, #f57c00);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.delete-item-preview {
+  padding: 10px 14px;
+  background: var(--bg-subtle);
+  border-radius: var(--radius-md);
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  border-left: 3px solid var(--danger, #d32f2f);
+}
+
+.modal-actions-row {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .saved-advice-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .saved-advice-card {
+    padding: 16px;
+  }
+
+  .saved-card-footer {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+
+  .footer-left-actions {
+    justify-content: space-between;
+  }
+
+  .delete-action-btn {
+    justify-content: center;
+  }
+}

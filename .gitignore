@@ -1,0 +1,66 @@
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+ENV/
+pip-log.txt
+
+# ── Environment ───────────────────────────────────────────────
+.env
+*.env.local
+
+# ── Logs ─────────────────────────────────────────────────────
+logs/
+*.log
+
+# ── Models & Index (large binary files) ──────────────────────
+models/faiss_index/agricultural.index
+models/faiss_index/metadata.json
+models/fine_tuned/agri_embedder/
+models/piper/
+
+# ── HuggingFace cache (downloaded models) ────────────────────
+.cache/
+
+# ── Data (processed intermediate files) ──────────────────────
+data/processed/
+
+# ── Audio temp files ──────────────────────────────────────────
+*.wav
+*.mp3
+*.webm
+*.ogg
+temp_audio/
+
+# ── IDE / OS ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Testing ──────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ── Node / Frontend ──────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+frontend-new/node_modules/
+frontend/dist/
+frontend-new/dist/
+
+# ── Scratch / temp ───────────────────────────────────────────
+scratch/
+*.mp3
+*.wav

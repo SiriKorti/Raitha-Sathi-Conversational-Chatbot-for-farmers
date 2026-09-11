@@ -1,0 +1,5153 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಯಾವುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು?"
+    ],
+    "keywords": [
+      "Curcuma",
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು Curcuma longa.",
+      "detailed_answer": "ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು Curcuma longa.",
+      "step_by_step": [
+        "ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು Curcuma longa."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರಿಶಿನದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು Curcuma longa.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಯಾವ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಏನು ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "ರೈತರು ಅರಿಶಿನ ಯಾವ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಯಾವ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರಿಶಿನವು ಮಸಾಲೆ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ.",
+      "detailed_answer": "ಅರಿಶಿನವು ಮಸಾಲೆ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ.",
+      "step_by_step": [
+        "ಅರಿಶಿನವು ಮಸಾಲೆ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಯಾವ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರಿಶಿನವು ಮಸಾಲೆ ಬೆಳೆ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಭಾಗಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆ ಏನು ಭಾಗಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಭಾಗಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಭಾಗಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರಿಶಿನದ ಭೂಗತ ಕಾಂಡಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಅರಿಶಿನದ ಭೂಗತ ಕಾಂಡಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅರಿಶಿನದ ಭೂಗತ ಕಾಂಡಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಭಾಗಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರಿಶಿನದ ಭೂಗತ ಕಾಂಡಕ್ಕಾಗಿ ಬೆಳೆಸಲಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ.",
+      "detailed_answer": "ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "5.5 ರಿಂದ 7.0 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ.",
+      "detailed_answer": "5.5 ರಿಂದ 7.0 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ.",
+      "step_by_step": [
+        "5.5 ರಿಂದ 7.0 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: 5.5 ರಿಂದ 7.0 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಹವಾಮಾನ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಹವಾಮಾನ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಹವಾಮಾನ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಹವಾಮಾನ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ಬೆಚ್ಚಗಿನ ಮತ್ತು ತೇವಾಂಶಯುಕ್ತ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದೆ.",
+      "detailed_answer": "ಬೆಚ್ಚಗಿನ ಮತ್ತು ತೇವಾಂಶಯುಕ್ತ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದೆ.",
+      "step_by_step": [
+        "ತೇವಾಂಶಯುಕ್ತ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಸೂಕ್ತ ಹವಾಮಾನ ಯಾವುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೆಚ್ಚಗಿನ ಮತ್ತು ತೇವಾಂಶಯುಕ್ತ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೀಜವಾಗಿ ಏನು ಬಳಸಲಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೀಜವಾಗಿ ಯಾವುದು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "ರೈತರು ಅರಿಶಿನ ಬೀಜವಾಗಿ ಏನು ಬಳಸಲಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೀಜವಾಗಿ ಏನು ಬಳಸಲಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಂಡದ ತುಂಡುಗಳನ್ನು ಬೀಜವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಾಂಡದ ತುಂಡುಗಳನ್ನು ಬೀಜವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಾಂಡದ ತುಂಡುಗಳನ್ನು ಬೀಜವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೀಜವಾಗಿ ಏನು ಬಳಸಲಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಂಡದ ತುಂಡುಗಳನ್ನು ಬೀಜವಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮೇ ರಿಂದ ಜೂನ್ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ.",
+      "detailed_answer": "ಮೇ ರಿಂದ ಜೂನ್ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ.",
+      "step_by_step": [
+        "ಮೇ ರಿಂದ ಜೂನ್ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಮೇ ರಿಂದ ಜೂನ್ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯವಿದೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯವಿದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯವಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "1000 ರಿಂದ 2000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯವಿದೆ.",
+      "detailed_answer": "1000 ರಿಂದ 2000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯವಿದೆ.",
+      "step_by_step": [
+        "1000 ರಿಂದ 2000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯವಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯವಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 1000 ರಿಂದ 2000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯವಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ದಿನಗಳು ಬೇಕಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ದಿನಗಳು ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ದಿನಗಳು ಬೇಕಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "7 ರಿಂದ 9 ತಿಂಗಳು ಬೇಕಾಗುತ್ತದೆ.",
+      "detailed_answer": "7 ರಿಂದ 9 ತಿಂಗಳು ಬೇಕಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "7 ರಿಂದ 9 ತಿಂಗಳು ಬೇಕಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ದಿನಗಳು ಬೇಕಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 7 ರಿಂದ 9 ತಿಂಗಳು ಬೇಕಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದಲ್ಲಿ ಇರುವ ಪ್ರಮುಖ ರಂಜಕ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದಲ್ಲಿ ಇರುವ ಪ್ರಮುಖ ರಂಜಕ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದಲ್ಲಿ ಇರುವ ಪ್ರಮುಖ ರಂಜಕ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದಲ್ಲಿ ಇರುವ ಪ್ರಮುಖ ರಂಜಕ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮುಖ ರಂಜಕವಾಗಿದೆ.",
+      "detailed_answer": "ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮುಖ ರಂಜಕವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮುಖ ರಂಜಕವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದಲ್ಲಿ ಇರುವ ಪ್ರಮುಖ ರಂಜಕ ಯಾವುದು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮುಖ ರಂಜಕವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬಣ್ಣ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಬಣ್ಣ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಬಣ್ಣ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬಣ್ಣ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಳದಿ ಬಣ್ಣ.",
+      "detailed_answer": "ಹಳದಿ ಬಣ್ಣ.",
+      "step_by_step": [
+        "ಹಳದಿ ಬಣ್ಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬಣ್ಣ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹಳದಿ ಬಣ್ಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಏನು ರೀತಿಯಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಸಾಲೆ, ಔಷಧಿ ಮತ್ತು ಸೌಂದರ್ಯ ವಸ್ತುಗಳಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಮಸಾಲೆ, ಔಷಧಿ ಮತ್ತು ಸೌಂದರ್ಯ ವಸ್ತುಗಳಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಸೌಂದರ್ಯ ವಸ್ತುಗಳಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಸಾಲೆ, ಔಷಧಿ ಮತ್ತು ಸೌಂದರ್ಯ ವಸ್ತುಗಳಲ್ಲಿ ಉಪಯೋಗಿಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ಪೋಷಕಾಂಶ ಹೆಚ್ಚು ಇದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದಲ್ಲಿ ಏನು ಪೋಷಕಾಂಶ ಹೆಚ್ಚು ಇದೆ?",
+      "ರೈತರು ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ಪೋಷಕಾಂಶ ಹೆಚ್ಚು ಇದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ಪೋಷಕಾಂಶ ಹೆಚ್ಚು ಇದೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಆಂಟಿಆಕ್ಸಿಡೆಂಟ್ ಅಂಶ ಹೆಚ್ಚು ಇದೆ.",
+      "detailed_answer": "ಆಂಟಿಆಕ್ಸಿಡೆಂಟ್ ಅಂಶ ಹೆಚ್ಚು ಇದೆ.",
+      "step_by_step": [
+        "ಆಂಟಿಆಕ್ಸಿಡೆಂಟ್ ಅಂಶ ಹೆಚ್ಚು ಇದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ಪೋಷಕಾಂಶ ಹೆಚ್ಚು ಇದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಆಂಟಿಆಕ್ಸಿಡೆಂಟ್ ಅಂಶ ಹೆಚ್ಚು ಇದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಔಷಧೀಯ ಗುಣ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಪ್ರಮುಖ ಔಷಧೀಯ ಗುಣ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಪ್ರಮುಖ ಔಷಧೀಯ ಗುಣ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಔಷಧೀಯ ಗುಣ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುವುದು.",
+      "detailed_answer": "ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುವುದು.",
+      "step_by_step": [
+        "ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಪ್ರಮುಖ ಔಷಧೀಯ ಗುಣ ಯಾವುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಗೊಬ್ಬರ ಹೇಗೆ ಹಾಕಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಗೆ ಗೊಬ್ಬರ ಯಾವ ರೀತಿ ಹಾಕಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಗೊಬ್ಬರ ಹೇಗೆ ಹಾಕಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "NPK",
+      "fertilizer",
+      "organic farming",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಗೊಬ್ಬರ ಹೇಗೆ ಹಾಕಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾವಯವ ಗೊಬ್ಬರ ಮತ್ತು NPK ಗೊಬ್ಬರ ಹಾಕಬೇಕು.",
+      "detailed_answer": "ಸಾವಯವ ಗೊಬ್ಬರ ಮತ್ತು NPK ಗೊಬ್ಬರ ಹಾಕಬೇಕು.",
+      "step_by_step": [
+        "ಸಾವಯವ ಗೊಬ್ಬರ",
+        "NPK ಗೊಬ್ಬರ ಹಾಕಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಸಾವಯವ ಗೊಬ್ಬರ ಮತ್ತು NPK ಗೊಬ್ಬರ ಹಾಕಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಗೊಬ್ಬರ ಹೇಗೆ ಹಾಕಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾವಯವ ಗೊಬ್ಬರ ಮತ್ತು NPK ಗೊಬ್ಬರ ಹಾಕಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ನೀರಾವರಿ ಅಗತ್ಯ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ನೀರಾವರಿ ಅಗತ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ನೀರಾವರಿ ಅಗತ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ತೇವಾಂಶಕ್ಕೆ ಅನುಗುಣವಾಗಿ ನೀರಾವರಿ ನೀಡಬೇಕು.",
+      "detailed_answer": "ಮಣ್ಣಿನ ತೇವಾಂಶಕ್ಕೆ ಅನುಗುಣವಾಗಿ ನೀರಾವರಿ ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ತೇವಾಂಶಕ್ಕೆ ಅನುಗುಣವಾಗಿ ನೀರಾವರಿ ನೀಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ನೀರಾವರಿ ಅಗತ್ಯ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ತೇವಾಂಶಕ್ಕೆ ಅನುಗುಣವಾಗಿ ನೀರಾವರಿ ನೀಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೈಯಿಂದ ಕಳೆ ತೆಗೆದು ನಿಯಂತ್ರಿಸಬೇಕು.",
+      "detailed_answer": "ಕೈಯಿಂದ ಕಳೆ ತೆಗೆದು ನಿಯಂತ್ರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಕೈಯಿಂದ ಕಳೆ ತೆಗೆದು ನಿಯಂತ್ರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೈಯಿಂದ ಕಳೆ ತೆಗೆದು ನಿಯಂತ್ರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಕೊಯ್ಲು ಏನುಾಗ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಒಣಗಿದ ನಂತರ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಎಲೆಗಳು ಒಣಗಿದ ನಂತರ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಒಣಗಿದ ನಂತರ ಕೊಯ್ಲು ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಎಲೆಗಳು ಒಣಗಿದ ನಂತರ ಕೊಯ್ಲು ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಕೊಯ್ಲಿನ ನಂತರ ಯಾವುದು ಮಾಡುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕುದಿಸಿ ಒಣಗಿಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಕುದಿಸಿ ಒಣಗಿಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕುದಿಸಿ ಒಣಗಿಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡುತ್ತಾರೆ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಕುದಿಸಿ ಒಣಗಿಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಪುಡಿ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಪುಡಿ ಮಾಡಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಪುಡಿ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಪುಡಿ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಣಗಿಸಿದ ನಂತರ ರುಬ್ಬಬೇಕು.",
+      "detailed_answer": "ಒಣಗಿಸಿದ ನಂತರ ರುಬ್ಬಬೇಕು.",
+      "step_by_step": [
+        "ಒಣಗಿಸಿದ ನಂತರ ರುಬ್ಬಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಪುಡಿ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಒಣಗಿಸಿದ ನಂತರ ರುಬ್ಬಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ತೇವಾಂಶ ಉಳಿಸಲು ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ತೇವಾಂಶ ಉಳಿಸಲು ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ತೇವಾಂಶ ಉಳಿಸಲು ಉಪಯೋಗವಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ತೇವಾಂಶ ಉಳಿಸಲು ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ರೋಗ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ರೋಗ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ರೋಗ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ರೋಗ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಂಡ ಕುಲುಮೆ ರೋಗ.",
+      "detailed_answer": "ಕಾಂಡ ಕುಲುಮೆ ರೋಗ.",
+      "step_by_step": [
+        "ಕಾಂಡ ಕುಲುಮೆ ರೋಗ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ರೋಗ ಯಾವುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಂಡ ಕುಲುಮೆ ರೋಗ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ಕೀಟ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ಕೀಟ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ಕೀಟ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ಕೀಟ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಶೂಟ್ ಬೋರರ್ ಕೀಟ.",
+      "detailed_answer": "ಶೂಟ್ ಬೋರರ್ ಕೀಟ.",
+      "step_by_step": [
+        "ಶೂಟ್ ಬೋರರ್ ಕೀಟ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಸಾಮಾನ್ಯ ಕೀಟ ಯಾವುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶೂಟ್ ಬೋರರ್ ಕೀಟ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಯಾವುದು ಮುಖ್ಯ?",
+      "ರೈತರು ಅರಿಶಿನದ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ಬೀಜ ಮತ್ತು ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಮುಖ್ಯ.",
+      "detailed_answer": "ಉತ್ತಮ ಬೀಜ ಮತ್ತು ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಮುಖ್ಯ.",
+      "step_by_step": [
+        "ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಮುಖ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತಮ ಬೀಜ ಮತ್ತು ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಮುಖ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೇರು ಭಾಗವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಬೇರು ಭಾಗವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೇರು ಭಾಗವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೈಜೋಮ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ರೈಜೋಮ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ರೈಜೋಮ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೇರು ಭಾಗವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರೈಜೋಮ್ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ನೆರಳು ಅಗತ್ಯವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ನೆರಳು ಅಗತ್ಯವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ನೆರಳು ಅಗತ್ಯವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸ್ವಲ್ಪ ನೆರಳು ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯಕ.",
+      "detailed_answer": "ಸ್ವಲ್ಪ ನೆರಳು ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯಕ.",
+      "step_by_step": [
+        "ಸ್ವಲ್ಪ ನೆರಳು ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯಕ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ನೆರಳು ಅಗತ್ಯವಿದೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸ್ವಲ್ಪ ನೆರಳು ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯಕ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಯಾವ ರಾಜ್ಯಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಏನು ರಾಜ್ಯಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಯಾವ ರಾಜ್ಯಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಯಾವ ರಾಜ್ಯಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕರ್ನಾಟಕ, ತೆಲಂಗಾಣ ಮತ್ತು ತಮಿಳುನಾಡಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಕರ್ನಾಟಕ, ತೆಲಂಗಾಣ ಮತ್ತು ತಮಿಳುನಾಡಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ತಮಿಳುನಾಡಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಯಾವ ರಾಜ್ಯಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕರ್ನಾಟಕ, ತೆಲಂಗಾಣ ಮತ್ತು ತಮಿಳುನಾಡಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ತಳಿ ಆಯ್ಕೆ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ತಳಿ ಆಯ್ಕೆ ಏಕೆ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ತಳಿ ಆಯ್ಕೆ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ಉತ್ಪಾದನೆಗಾಗಿ ಮುಖ್ಯ.",
+      "detailed_answer": "ಉತ್ತಮ ಉತ್ಪಾದನೆಗಾಗಿ ಮುಖ್ಯ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ಉತ್ಪಾದನೆಗಾಗಿ ಮುಖ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ತಳಿ ಆಯ್ಕೆ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಉತ್ತಮ ಉತ್ಪಾದನೆಗಾಗಿ ಮುಖ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಪ್ರಮುಖ ರಫ್ತು ದೇಶ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಪ್ರಮುಖ ರಫ್ತು ದೇಶ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಪ್ರಮುಖ ರಫ್ತು ದೇಶ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಪ್ರಮುಖ ರಫ್ತು ದೇಶ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭಾರತ ಪ್ರಮುಖ ರಫ್ತು ದೇಶವಾಗಿದೆ.",
+      "detailed_answer": "ಭಾರತ ಪ್ರಮುಖ ರಫ್ತು ದೇಶವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಭಾರತ ಪ್ರಮುಖ ರಫ್ತು ದೇಶವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಪ್ರಮುಖ ರಫ್ತು ದೇಶ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಭಾರತ ಪ್ರಮುಖ ರಫ್ತು ದೇಶವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಸಿರು ಬಣ್ಣ.",
+      "detailed_answer": "ಹಸಿರು ಬಣ್ಣ.",
+      "step_by_step": [
+        "ಹಸಿರು ಬಣ್ಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹಸಿರು ಬಣ್ಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆ ಏನು ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Zingiberaceae",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Zingiberaceae ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+      "detailed_answer": "Zingiberaceae ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+      "step_by_step": [
+        "Zingiberaceae ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆ ಯಾವ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: Zingiberaceae ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಸುವಾಸನೆಗೆ ಕಾರಣ ಏನು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಸುವಾಸನೆಗೆ ಕಾರಣ ಯಾವುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಸುವಾಸನೆಗೆ ಕಾರಣ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಸುವಾಸನೆಗೆ ಕಾರಣ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅದರಲ್ಲಿರುವ ತೈಲ ಅಂಶ.",
+      "detailed_answer": "ಅದರಲ್ಲಿರುವ ತೈಲ ಅಂಶ.",
+      "step_by_step": [
+        "ಅದರಲ್ಲಿರುವ ತೈಲ ಅಂಶ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಸುವಾಸನೆಗೆ ಕಾರಣ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅದರಲ್ಲಿರುವ ತೈಲ ಅಂಶ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಹೂವಿನ ಬಣ್ಣ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಹೂವಿನ ಬಣ್ಣ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಹೂವಿನ ಬಣ್ಣ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಹೂವಿನ ಬಣ್ಣ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿಳಿ ಅಥವಾ ಹಳದಿ ಬಣ್ಣ.",
+      "detailed_answer": "ಬಿಳಿ ಅಥವಾ ಹಳದಿ ಬಣ್ಣ.",
+      "step_by_step": [
+        "ಬಿಳಿ ಅಥವಾ ಹಳದಿ ಬಣ್ಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಹೂವಿನ ಬಣ್ಣ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬಿಳಿ ಅಥವಾ ಹಳದಿ ಬಣ್ಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಒಣಗಿಸುವ ವಿಧಾನ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಒಣಗಿಸುವ ವಿಧಾನ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಒಣಗಿಸುವ ವಿಧಾನ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಒಣಗಿಸುವ ವಿಧಾನ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯನಲ್ಲಿ ಒಣಗಿಸಲಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಸೂರ್ಯನಲ್ಲಿ ಒಣಗಿಸಲಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸೂರ್ಯನಲ್ಲಿ ಒಣಗಿಸಲಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಒಣಗಿಸುವ ವಿಧಾನ ಯಾವುದು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಸೂರ್ಯನಲ್ಲಿ ಒಣಗಿಸಲಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಯಾವ ಆಹಾರಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಏನು ಆಹಾರಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಯಾವ ಆಹಾರಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಯಾವ ಆಹಾರಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕರಿ, ಪಲ್ಯ ಮತ್ತು ಮಸಾಲೆ ಪದಾರ್ಥಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಕರಿ, ಪಲ್ಯ ಮತ್ತು ಮಸಾಲೆ ಪದಾರ್ಥಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಮಸಾಲೆ ಪದಾರ್ಥಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಯಾವ ಆಹಾರಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕರಿ, ಪಲ್ಯ ಮತ್ತು ಮಸಾಲೆ ಪದಾರ್ಥಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಔಷಧೀಯ ಬಳಕೆ ಏನು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಔಷಧೀಯ ಬಳಕೆ ಯಾವುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಔಷಧೀಯ ಬಳಕೆ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಔಷಧೀಯ ಬಳಕೆ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಾಯ ಗುಣಪಡಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಗಾಯ ಗುಣಪಡಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಗಾಯ ಗುಣಪಡಿಸಲು ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಔಷಧೀಯ ಬಳಕೆ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಾಯ ಗುಣಪಡಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಎಲೆಗಳನ್ನು ಉಪಯೋಗಿಸುತ್ತಾರೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಎಲೆಗಳನ್ನು ಉಪಯೋಗಿಸುತ್ತಾರೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಎಲೆಗಳನ್ನು ಉಪಯೋಗಿಸುತ್ತಾರೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಕೆಲವು ಅಡುಗೆಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಹೌದು, ಕೆಲವು ಅಡುಗೆಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕೆಲವು ಅಡುಗೆಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಎಲೆಗಳನ್ನು ಉಪಯೋಗಿಸುತ್ತಾರೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಕೆಲವು ಅಡುಗೆಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯನ್ನು ಹೇಗೆ ಸಿದ್ಧಪಡಿಸಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯನ್ನು ಯಾವ ರೀತಿ ಸಿದ್ಧಪಡಿಸಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯನ್ನು ಹೇಗೆ ಸಿದ್ಧಪಡಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯನ್ನು ಹೇಗೆ ಸಿದ್ಧಪಡಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭೂಮಿಯನ್ನು ಚೆನ್ನಾಗಿ ಉಳುಮೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಭೂಮಿಯನ್ನು ಚೆನ್ನಾಗಿ ಉಳುಮೆ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಭೂಮಿಯನ್ನು ಚೆನ್ನಾಗಿ ಉಳುಮೆ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯನ್ನು ಹೇಗೆ ಸಿದ್ಧಪಡಿಸಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಭೂಮಿಯನ್ನು ಚೆನ್ನಾಗಿ ಉಳುಮೆ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಂಡ ಕುಲುಮೆ ಉಂಟಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಕಾಂಡ ಕುಲುಮೆ ಉಂಟಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಾಂಡ ಕುಲುಮೆ ಉಂಟಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಂಡ ಕುಲುಮೆ ಉಂಟಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನಕ್ಕೆ ಸಾವಯವ ಗೊಬ್ಬರ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನಕ್ಕೆ ಸಾವಯವ ಗೊಬ್ಬರ ಏಕೆ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನಕ್ಕೆ ಸಾವಯವ ಗೊಬ್ಬರ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು ಮುಖ್ಯ.",
+      "detailed_answer": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು ಮುಖ್ಯ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು ಮುಖ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನಕ್ಕೆ ಸಾವಯವ ಗೊಬ್ಬರ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು ಮುಖ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಣ ಮತ್ತು ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "detailed_answer": "ಒಣ ಮತ್ತು ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಒಣ ಮತ್ತು ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಪುಡಿಯನ್ನು ಯಾವ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಪುಡಿಯನ್ನು ಏನು ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದ ಪುಡಿಯನ್ನು ಯಾವ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಪುಡಿಯನ್ನು ಯಾವ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಾಳಿ ನುಗ್ಗದ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು.",
+      "detailed_answer": "ಗಾಳಿ ನುಗ್ಗದ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು.",
+      "step_by_step": [
+        "ಗಾಳಿ ನುಗ್ಗದ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಪುಡಿಯನ್ನು ಯಾವ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಾಳಿ ನುಗ್ಗದ ಪಾತ್ರೆಯಲ್ಲಿ ಇಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ರುಚಿ ಹೇಗಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ರುಚಿ ಹೇಗಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ರುಚಿ ಹೇಗಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸ್ವಲ್ಪ ಕಹಿ ಮತ್ತು ಮಸಾಲೆಯ ರುಚಿ.",
+      "detailed_answer": "ಸ್ವಲ್ಪ ಕಹಿ ಮತ್ತು ಮಸಾಲೆಯ ರುಚಿ.",
+      "step_by_step": [
+        "ಮಸಾಲೆಯ ರುಚಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ರುಚಿ ಹೇಗಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸ್ವಲ್ಪ ಕಹಿ ಮತ್ತು ಮಸಾಲೆಯ ರುಚಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳವಣಿಗೆಗೆ ತಾಪಮಾನ ಎಷ್ಟು ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳವಣಿಗೆಗೆ ತಾಪಮಾನ ಎಷ್ಟು ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳವಣಿಗೆಗೆ ತಾಪಮಾನ ಎಷ್ಟು ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "20°C ರಿಂದ 35°C ಸೂಕ್ತವಾಗಿದೆ.",
+      "detailed_answer": "20°C ರಿಂದ 35°C ಸೂಕ್ತವಾಗಿದೆ.",
+      "step_by_step": [
+        "20°C ರಿಂದ 35°C ಸೂಕ್ತವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳವಣಿಗೆಗೆ ತಾಪಮಾನ ಎಷ್ಟು ಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 20°C ರಿಂದ 35°C ಸೂಕ್ತವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಕಾಂಡದ ಬಣ್ಣ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಳದಿ-ಕಿತ್ತಳೆ ಬಣ್ಣ.",
+      "detailed_answer": "ಹಳದಿ-ಕಿತ್ತಳೆ ಬಣ್ಣ.",
+      "step_by_step": [
+        "ಹಳದಿ-ಕಿತ್ತಳೆ ಬಣ್ಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹಳದಿ-ಕಿತ್ತಳೆ ಬಣ್ಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "30 ರಿಂದ 45 ಸೆಂ.ಮೀ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು.",
+      "detailed_answer": "30 ರಿಂದ 45 ಸೆಂ.ಮೀ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು.",
+      "step_by_step": [
+        "30 ರಿಂದ 45 ಸೆಂ.ಮೀ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಎಷ್ಟು ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 30 ರಿಂದ 45 ಸೆಂ.ಮೀ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ವಿಟಮಿನ್ ಇದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದಲ್ಲಿ ಏನು ವಿಟಮಿನ್ ಇದೆ?",
+      "ರೈತರು ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ವಿಟಮಿನ್ ಇದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ವಿಟಮಿನ್ ಇದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ವಿಟಮಿನ್ C ಇದೆ.",
+      "detailed_answer": "ವಿಟಮಿನ್ C ಇದೆ.",
+      "step_by_step": [
+        "ವಿಟಮಿನ್ C ಇದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದಲ್ಲಿ ಯಾವ ವಿಟಮಿನ್ ಇದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ವಿಟಮಿನ್ C ಇದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೇಡಿಕೆ ಹೇಗಿದೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೇಡಿಕೆ ಹೇಗಿದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೇಡಿಕೆ ಹೇಗಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ವರ್ಷಪೂರ್ತಿ ಉತ್ತಮ ಬೇಡಿಕೆ ಇದೆ.",
+      "detailed_answer": "ವರ್ಷಪೂರ್ತಿ ಉತ್ತಮ ಬೇಡಿಕೆ ಇದೆ.",
+      "step_by_step": [
+        "ವರ್ಷಪೂರ್ತಿ ಉತ್ತಮ ಬೇಡಿಕೆ ಇದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ವರ್ಷಪೂರ್ತಿ ಉತ್ತಮ ಬೇಡಿಕೆ ಇದೆ"
+      ]
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೇಡಿಕೆ ಹೇಗಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ವರ್ಷಪೂರ್ತಿ ಉತ್ತಮ ಬೇಡಿಕೆ ಇದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯ.",
+      "detailed_answer": "ಹೌದು, ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯ.",
+      "step_by_step": [
+        "ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೀಜ ಕಾಂಡವನ್ನು ಹೇಗೆ ಆಯ್ಕೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಬೀಜ ಕಾಂಡವನ್ನು ಯಾವ ರೀತಿ ಆಯ್ಕೆ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದ ಬೀಜ ಕಾಂಡವನ್ನು ಹೇಗೆ ಆಯ್ಕೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೀಜ ಕಾಂಡವನ್ನು ಹೇಗೆ ಆಯ್ಕೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಆರೋಗ್ಯಕರ ಮತ್ತು ರೋಗರಹಿತ ಕಾಂಡವನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಆರೋಗ್ಯಕರ ಮತ್ತು ರೋಗರಹಿತ ಕಾಂಡವನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ರೋಗರಹಿತ ಕಾಂಡವನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೀಜ ಕಾಂಡವನ್ನು ಹೇಗೆ ಆಯ್ಕೆ ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಆರೋಗ್ಯಕರ ಮತ್ತು ರೋಗರಹಿತ ಕಾಂಡವನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳೆ ಚಕ್ರ ಎಷ್ಟು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳೆ ಚಕ್ರ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳೆ ಚಕ್ರ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸುಮಾರು 8 ತಿಂಗಳು.",
+      "detailed_answer": "ಸುಮಾರು 8 ತಿಂಗಳು.",
+      "step_by_step": [
+        "ಸುಮಾರು 8 ತಿಂಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳೆ ಚಕ್ರ ಎಷ್ಟು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸುಮಾರು 8 ತಿಂಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಯಾವ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಏನು ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಯಾವ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಯಾವ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಣ ಅರಿಶಿನ ಮತ್ತು ಪುಡಿ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ.",
+      "detailed_answer": "ಒಣ ಅರಿಶಿನ ಮತ್ತು ಪುಡಿ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಪುಡಿ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಯಾವ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಒಣ ಅರಿಶಿನ ಮತ್ತು ಪುಡಿ ರೂಪದಲ್ಲಿ ಮಾರುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೆಲಂಗಾಣ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ.",
+      "detailed_answer": "ತೆಲಂಗಾಣ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ.",
+      "step_by_step": [
+        "ತೆಲಂಗಾಣ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತೆಲಂಗಾಣ ಪ್ರಮುಖ ಉತ್ಪಾದಕ ರಾಜ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "fertilizer",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ತಳಿ ಮತ್ತು ಸರಿಯಾದ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಉತ್ತಮ ತಳಿ ಮತ್ತು ಸರಿಯಾದ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಸರಿಯಾದ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಉತ್ತಮ ತಳಿ ಮತ್ತು ಸರಿಯಾದ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಯಾವ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಏನು ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಯಾವ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಯಾವ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಆಯುರ್ವೇದ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಆಯುರ್ವೇದ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಆಯುರ್ವೇದ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಯಾವ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಆಯುರ್ವೇದ ಔಷಧಿಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳೆ ಯಾವಾಗ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಬೆಳೆ ಏನುಾಗ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ?",
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳೆ ಯಾವಾಗ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳೆ ಯಾವಾಗ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "15 ರಿಂದ 20 ದಿನಗಳಲ್ಲಿ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ.",
+      "detailed_answer": "15 ರಿಂದ 20 ದಿನಗಳಲ್ಲಿ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "15 ರಿಂದ 20 ದಿನಗಳಲ್ಲಿ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳೆ ಯಾವಾಗ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 15 ರಿಂದ 20 ದಿನಗಳಲ್ಲಿ ಮೊಳಕೆಯೊಡೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ತೇವಾಂಶ ಬೇಕೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ತೇವಾಂಶ ಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ತೇವಾಂಶ ಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ತೇವಾಂಶ ಅಗತ್ಯ.",
+      "detailed_answer": "ಹೌದು, ತೇವಾಂಶ ಅಗತ್ಯ.",
+      "step_by_step": [
+        "ತೇವಾಂಶ ಅಗತ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ತೇವಾಂಶ ಬೇಕೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ತೇವಾಂಶ ಅಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣೇರಿಸುವಿಕೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣೇರಿಸುವಿಕೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣೇರಿಸುವಿಕೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಂಡ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡಲು.",
+      "detailed_answer": "ಕಾಂಡ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡಲು.",
+      "step_by_step": [
+        "ಕಾಂಡ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡಲು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣೇರಿಸುವಿಕೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಂಡ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡಲು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಕಾರಣ ಯಾವುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ.",
+      "detailed_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ.",
+      "step_by_step": [
+        "ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಯಾವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಗೆ ಏನು ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಯಾವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಯಾವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾವಯವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ.",
+      "detailed_answer": "ಸಾವಯವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ.",
+      "step_by_step": [
+        "ಸಾವಯವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಸಾವಯವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಯಾವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾವಯವ ಗೊಬ್ಬರ ಹೆಚ್ಚು ಉಪಯುಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದಲ್ಲಿ ಕರ್ಕ್ಯೂಮಿನ್ ಉಪಯೋಗ ಏನು?",
+    "question_variants": [
+      "ಅರಿಶಿನದಲ್ಲಿ ಕರ್ಕ್ಯೂಮಿನ್ ಉಪಯೋಗ ಯಾವುದು?",
+      "ರೈತರು ಅರಿಶಿನದಲ್ಲಿ ಕರ್ಕ್ಯೂಮಿನ್ ಉಪಯೋಗ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದಲ್ಲಿ ಕರ್ಕ್ಯೂಮಿನ್ ಉಪಯೋಗ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಔಷಧೀಯ ಗುಣಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಔಷಧೀಯ ಗುಣಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಔಷಧೀಯ ಗುಣಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದಲ್ಲಿ ಕರ್ಕ್ಯೂಮಿನ್ ಉಪಯೋಗ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಔಷಧೀಯ ಗುಣಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ರಫ್ತು ಮೌಲ್ಯ ಏಕೆ ಹೆಚ್ಚು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ರಫ್ತು ಮೌಲ್ಯ ಏಕೆ ಹೆಚ್ಚು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ರಫ್ತು ಮೌಲ್ಯ ಏಕೆ ಹೆಚ್ಚು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಔಷಧೀಯ ಮತ್ತು ಆಹಾರ ಬಳಕೆ ಹೆಚ್ಚಿರುವುದರಿಂದ.",
+      "detailed_answer": "ಔಷಧೀಯ ಮತ್ತು ಆಹಾರ ಬಳಕೆ ಹೆಚ್ಚಿರುವುದರಿಂದ.",
+      "step_by_step": [
+        "ಆಹಾರ ಬಳಕೆ ಹೆಚ್ಚಿರುವುದರಿಂದ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ರಫ್ತು ಮೌಲ್ಯ ಏಕೆ ಹೆಚ್ಚು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಔಷಧೀಯ ಮತ್ತು ಆಹಾರ ಬಳಕೆ ಹೆಚ್ಚಿರುವುದರಿಂದ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೇರುಗಳನ್ನು ಹೇಗೆ ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಬೇರುಗಳನ್ನು ಯಾವ ರೀತಿ ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನದ ಬೇರುಗಳನ್ನು ಹೇಗೆ ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೇರುಗಳನ್ನು ಹೇಗೆ ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರಿನಲ್ಲಿ ತೊಳೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ನೀರಿನಲ್ಲಿ ತೊಳೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ನೀರಿನಲ್ಲಿ ತೊಳೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೇರುಗಳನ್ನು ಹೇಗೆ ಸ್ವಚ್ಛಗೊಳಿಸುತ್ತಾರೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರಿನಲ್ಲಿ ತೊಳೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಒಣಗುವ ಅವಧಿ ಎಷ್ಟು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಒಣಗುವ ಅವಧಿ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಒಣಗುವ ಅವಧಿ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "10 ರಿಂದ 15 ದಿನಗಳು.",
+      "detailed_answer": "10 ರಿಂದ 15 ದಿನಗಳು.",
+      "step_by_step": [
+        "10 ರಿಂದ 15 ದಿನಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಒಣಗುವ ಅವಧಿ ಎಷ್ಟು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 10 ರಿಂದ 15 ದಿನಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೌದು, ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಹೌದು, ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಕಾಂಡಗಳನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಕಾಂಡಗಳನ್ನು ಯಾವ ರೀತಿ ಸಂಗ್ರಹಿಸಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದ ಕಾಂಡಗಳನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಕಾಂಡಗಳನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಂಪಾದ ಮತ್ತು ಒಣ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "detailed_answer": "ತಂಪಾದ ಮತ್ತು ಒಣ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಒಣ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಕಾಂಡಗಳನ್ನು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ತಂಪಾದ ಮತ್ತು ಒಣ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಯಾವಾಗ ಹೆಚ್ಚಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಏನುಾಗ ಹೆಚ್ಚಾಗುತ್ತದೆ?",
+      "ರೈತರು ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಯಾವಾಗ ಹೆಚ್ಚಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಯಾವಾಗ ಹೆಚ್ಚಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಡಿಕೆ ಹೆಚ್ಚಾದ ಸಮಯದಲ್ಲಿ ಬೆಲೆ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಬೇಡಿಕೆ ಹೆಚ್ಚಾದ ಸಮಯದಲ್ಲಿ ಬೆಲೆ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬೇಡಿಕೆ ಹೆಚ್ಚಾದ ಸಮಯದಲ್ಲಿ ಬೆಲೆ ಹೆಚ್ಚಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬೇಡಿಕೆ ಹೆಚ್ಚಾದ ಸಮಯದಲ್ಲಿ ಬೆಲೆ ಹೆಚ್ಚಾಗುತ್ತದೆ"
+      ]
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಮಾರುಕಟ್ಟೆ ಬೆಲೆ ಯಾವಾಗ ಹೆಚ್ಚಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೇಡಿಕೆ ಹೆಚ್ಚಾದ ಸಮಯದಲ್ಲಿ ಬೆಲೆ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಯಾವ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನವನ್ನು ಏನು ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಯಾವ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಯಾವ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಾಲು ಮತ್ತು ಆರೋಗ್ಯ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಹಾಲು ಮತ್ತು ಆರೋಗ್ಯ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಆರೋಗ್ಯ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಯಾವ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹಾಲು ಮತ್ತು ಆರೋಗ್ಯ ಪಾನೀಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಮುಖ್ಯ ರಫ್ತು ರೂಪ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಮುಖ್ಯ ರಫ್ತು ರೂಪ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಮುಖ್ಯ ರಫ್ತು ರೂಪ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಮುಖ್ಯ ರಫ್ತು ರೂಪ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರಿಶಿನ ಪುಡಿ.",
+      "detailed_answer": "ಅರಿಶಿನ ಪುಡಿ.",
+      "step_by_step": [
+        "ಅರಿಶಿನ ಪುಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಮುಖ್ಯ ರಫ್ತು ರೂಪ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರಿಶಿನ ಪುಡಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯ ತೇವಾಂಶ ಹೇಗಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯ ತೇವಾಂಶ ಹೇಗಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯ ತೇವಾಂಶ ಹೇಗಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಧ್ಯಮ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "detailed_answer": "ಮಧ್ಯಮ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "step_by_step": [
+        "ಮಧ್ಯಮ ತೇವಾಂಶ ಇರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಭೂಮಿಯ ತೇವಾಂಶ ಹೇಗಿರಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಧ್ಯಮ ತೇವಾಂಶ ಇರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಸೌಂದರ್ಯ ಉತ್ಪನ್ನಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಸೌಂದರ್ಯ ಉತ್ಪನ್ನಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಸೌಂದರ್ಯ ಉತ್ಪನ್ನಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಹೌದು, ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಸೌಂದರ್ಯ ಉತ್ಪನ್ನಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಕಾಯಿ ಯಾವ ಭಾಗದಲ್ಲಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಕಾಯಿ ಏನು ಭಾಗದಲ್ಲಿರುತ್ತದೆ?",
+      "ರೈತರು ಅರಿಶಿನದ ಕಾಯಿ ಯಾವ ಭಾಗದಲ್ಲಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಕಾಯಿ ಯಾವ ಭಾಗದಲ್ಲಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭೂಮಿಯ ಒಳಭಾಗದಲ್ಲಿ.",
+      "detailed_answer": "ಭೂಮಿಯ ಒಳಭಾಗದಲ್ಲಿ.",
+      "step_by_step": [
+        "ಭೂಮಿಯ ಒಳಭಾಗದಲ್ಲಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಕಾಯಿ ಯಾವ ಭಾಗದಲ್ಲಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಭೂಮಿಯ ಒಳಭಾಗದಲ್ಲಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನೀಡಲು ಮುಖ್ಯ.",
+      "detailed_answer": "ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನೀಡಲು ಮುಖ್ಯ.",
+      "step_by_step": [
+        "ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನೀಡಲು ಮುಖ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸರಿಯಾದ ಪೋಷಕಾಂಶ ನೀಡಲು ಮುಖ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಉಪ ಉತ್ಪನ್ನ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಪ್ರಮುಖ ಉಪ ಉತ್ಪನ್ನ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಪ್ರಮುಖ ಉಪ ಉತ್ಪನ್ನ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಉಪ ಉತ್ಪನ್ನ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರಿಶಿನ ಎಣ್ಣೆ.",
+      "detailed_answer": "ಅರಿಶಿನ ಎಣ್ಣೆ.",
+      "step_by_step": [
+        "ಅರಿಶಿನ ಎಣ್ಣೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಪ್ರಮುಖ ಉಪ ಉತ್ಪನ್ನ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರಿಶಿನ ಎಣ್ಣೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಎಣ್ಣೆ ಯಾವ কাজে ಉಪಯೋಗವಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಎಣ್ಣೆ ಏನು কাজে ಉಪಯೋಗವಾಗುತ್ತದೆ?",
+      "ರೈತರು ಅರಿಶಿನದ ಎಣ್ಣೆ ಯಾವ কাজে ಉಪಯೋಗವಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಎಣ್ಣೆ ಯಾವ কাজে ಉಪಯೋಗವಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಔಷಧಿ ಮತ್ತು ಸುಗಂಧ ದ್ರವ್ಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಔಷಧಿ ಮತ್ತು ಸುಗಂಧ ದ್ರವ್ಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಸುಗಂಧ ದ್ರವ್ಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಎಣ್ಣೆ ಯಾವ কাজে ಉಪಯೋಗವಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಔಷಧಿ ಮತ್ತು ಸುಗಂಧ ದ್ರವ್ಯಗಳಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ನೀರಾವರಿ ವಿಧಾನ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ನೀರಾವರಿ ವಿಧಾನ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ನೀರಾವರಿ ವಿಧಾನ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ನೀರಾವರಿ ವಿಧಾನ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಡ್ರಿಪ್ ನೀರಾವರಿ.",
+      "detailed_answer": "ಡ್ರಿಪ್ ನೀರಾವರಿ.",
+      "step_by_step": [
+        "ಡ್ರಿಪ್ ನೀರಾವರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ನೀರಾವರಿ ವಿಧಾನ ಯಾವುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಡ್ರಿಪ್ ನೀರಾವರಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರದ ಲಾಭ ಏನು?",
+    "question_variants": [
+      "ಅರಿಶಿನದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರದ ಲಾಭ ಯಾವುದು?",
+      "ರೈತರು ಅರಿಶಿನದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರದ ಲಾಭ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರದ ಲಾಭ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರದ ಲಾಭ ಏನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಕಾಂಡಕ್ಕೆ ಮೊಳಕೆ ಬರಲು ಎಷ್ಟು ಸಮಯ ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಕಾಂಡಕ್ಕೆ ಮೊಳಕೆ ಬರಲು ಎಷ್ಟು ಸಮಯ ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಕಾಂಡಕ್ಕೆ ಮೊಳಕೆ ಬರಲು ಎಷ್ಟು ಸಮಯ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸುಮಾರು 2 ವಾರಗಳು.",
+      "detailed_answer": "ಸುಮಾರು 2 ವಾರಗಳು.",
+      "step_by_step": [
+        "ಸುಮಾರು 2 ವಾರಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಕಾಂಡಕ್ಕೆ ಮೊಳಕೆ ಬರಲು ಎಷ್ಟು ಸಮಯ ಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸುಮಾರು 2 ವಾರಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಪುಡಿ ಯಾವ ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಪುಡಿ ಏನು ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ?",
+      "ರೈತರು ಅರಿಶಿನದ ಪುಡಿ ಯಾವ ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಪುಡಿ ಯಾವ ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಾಢ ಹಳದಿ ಬಣ್ಣ.",
+      "detailed_answer": "ಗಾಢ ಹಳದಿ ಬಣ್ಣ.",
+      "step_by_step": [
+        "ಗಾಢ ಹಳದಿ ಬಣ್ಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಪುಡಿ ಯಾವ ಬಣ್ಣದಲ್ಲಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಾಢ ಹಳದಿ ಬಣ್ಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಡ್ ಪದ್ಧತಿ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಡ್ ಪದ್ಧತಿ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಡ್ ಪದ್ಧತಿ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಉತ್ತಮ ನೀರು ಹರಿವುಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಉತ್ತಮ ನೀರು ಹರಿವುಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ನೀರು ಹರಿವುಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಡ್ ಪದ್ಧತಿ ಉಪಯೋಗವಾಗುತ್ತದೆಯೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಉತ್ತಮ ನೀರು ಹರಿವುಕ್ಕಾಗಿ ಉಪಯೋಗವಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ರೋಗ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ರೋಗ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಅರಿಶಿನದ ರೋಗ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ರೋಗ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗರಹಿತ ಬೀಜ ಬಳಸಬೇಕು.",
+      "detailed_answer": "ರೋಗರಹಿತ ಬೀಜ ಬಳಸಬೇಕು.",
+      "step_by_step": [
+        "ರೋಗರಹಿತ ಬೀಜ ಬಳಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ರೋಗ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗರಹಿತ ಬೀಜ ಬಳಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯುಕ್ತವೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯುಕ್ತವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯುಕ್ತವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯುಕ್ತವೇ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಕೊಯ್ಲಿನ ನಂತರದ ಪ್ರಕ್ರಿಯೆ ಏನು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಕೊಯ್ಲಿನ ನಂತರದ ಪ್ರಕ್ರಿಯೆ ಯಾವುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಕೊಯ್ಲಿನ ನಂತರದ ಪ್ರಕ್ರಿಯೆ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಕೊಯ್ಲಿನ ನಂತರದ ಪ್ರಕ್ರಿಯೆ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೊಳೆಯುವುದು, ಕುದಿಸುವುದು ಮತ್ತು ಒಣಗಿಸುವುದು.",
+      "detailed_answer": "ತೊಳೆಯುವುದು, ಕುದಿಸುವುದು ಮತ್ತು ಒಣಗಿಸುವುದು.",
+      "step_by_step": [
+        "ಒಣಗಿಸುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಕೊಯ್ಲಿನ ನಂತರದ ಪ್ರಕ್ರಿಯೆ ಏನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ತೊಳೆಯುವುದು, ಕುದಿಸುವುದು ಮತ್ತು ಒಣಗಿಸುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ರುಬ್ಬುವ ಯಂತ್ರವನ್ನು ಏಕೆ ಬಳಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ರುಬ್ಬುವ ಯಂತ್ರವನ್ನು ಏಕೆ ಬಳಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ರುಬ್ಬುವ ಯಂತ್ರವನ್ನು ಏಕೆ ಬಳಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪುಡಿ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಪುಡಿ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಪುಡಿ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ರುಬ್ಬುವ ಯಂತ್ರವನ್ನು ಏಕೆ ಬಳಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪುಡಿ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಧ್ಯಮ ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕು.",
+      "detailed_answer": "ಮಧ್ಯಮ ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕು.",
+      "step_by_step": [
+        "ಮಧ್ಯಮ ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಗೆ ಹೆಚ್ಚು ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಧ್ಯಮ ಸೂರ್ಯಪ್ರಕಾಶ ಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಗಿಡ ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಗಿಡ ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಗಿಡ ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸುಮಾರು 1 ಮೀಟರ್ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಸುಮಾರು 1 ಮೀಟರ್ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸುಮಾರು 1 ಮೀಟರ್ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಗಿಡ ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸುಮಾರು 1 ಮೀಟರ್ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [
+      "ನೀರಿನ ಕೊರತೆ (Water stress)"
+    ],
+    "solution": {
+      "short_answer": "ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ರೋಗ ನಿರೋಧಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ರೋಗ ನಿರೋಧಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ರೋಗ ನಿರೋಧಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ರೋಗ ನಿರೋಧಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ಸಾವಯವ ಪದಾರ್ಥ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ಸಾವಯವ ಪದಾರ್ಥ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ಸಾವಯವ ಪದಾರ್ಥ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ಸಾವಯವ ಪದಾರ್ಥ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗೊಬ್ಬರ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್.",
+      "detailed_answer": "ಗೊಬ್ಬರ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್.",
+      "step_by_step": [
+        "ಗೊಬ್ಬರ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಗೊಬ್ಬರ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚು ಬಳಸುವ ಸಾವಯವ ಪದಾರ್ಥ ಯಾವುದು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಗೊಬ್ಬರ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಸಂಸ್ಕರಣೆಯಿಂದ ಏನು ಲಾಭ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಸಂಸ್ಕರಣೆಯಿಂದ ಯಾವುದು ಲಾಭ?",
+      "ರೈತರು ಅರಿಶಿನದ ಸಂಸ್ಕರಣೆಯಿಂದ ಏನು ಲಾಭ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಸಂಸ್ಕರಣೆಯಿಂದ ಏನು ಲಾಭ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮೌಲ್ಯ ಹೆಚ್ಚಳವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಮೌಲ್ಯ ಹೆಚ್ಚಳವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮೌಲ್ಯ ಹೆಚ್ಚಳವಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಸಂಸ್ಕರಣೆಯಿಂದ ಏನು ಲಾಭ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮೌಲ್ಯ ಹೆಚ್ಚಳವಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ತಾಜಾ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ತಾಜಾ ಕಾಂಡದ ಬಣ್ಣ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ತಾಜಾ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ತಾಜಾ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಿತ್ತಳೆ-ಹಳದಿ ಬಣ್ಣ.",
+      "detailed_answer": "ಕಿತ್ತಳೆ-ಹಳದಿ ಬಣ್ಣ.",
+      "step_by_step": [
+        "ಕಿತ್ತಳೆ-ಹಳದಿ ಬಣ್ಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ತಾಜಾ ಕಾಂಡದ ಬಣ್ಣ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಿತ್ತಳೆ-ಹಳದಿ ಬಣ್ಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳೆ ಯಾವ ಕೃಷಿ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಬೆಳೆ ಏನು ಕೃಷಿ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳೆ ಯಾವ ಕೃಷಿ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "organic farming",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳೆ ಯಾವ ಕೃಷಿ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾವಯವ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಸಾವಯವ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಸಾವಯವ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳೆ ಯಾವ ಕೃಷಿ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಾವಯವ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಪದ್ಧತಿಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಮಾರುಕಟ್ಟೆ ಉತ್ಪನ್ನ ಯಾವುದು?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಪ್ರಮುಖ ಮಾರುಕಟ್ಟೆ ಉತ್ಪನ್ನ ಏನುುದು?",
+      "ರೈತರು ಅರಿಶಿನದ ಪ್ರಮುಖ ಮಾರುಕಟ್ಟೆ ಉತ್ಪನ್ನ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಪ್ರಮುಖ ಮಾರುಕಟ್ಟೆ ಉತ್ಪನ್ನ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರಿಶಿನ ಪುಡಿ.",
+      "detailed_answer": "ಅರಿಶಿನ ಪುಡಿ.",
+      "step_by_step": [
+        "ಅರಿಶಿನ ಪುಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಪ್ರಮುಖ ಮಾರುಕಟ್ಟೆ ಉತ್ಪನ್ನ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರಿಶಿನ ಪುಡಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳೆಗೆ ಜಿಂಕ್ ಅಗತ್ಯವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳೆಗೆ ಜಿಂಕ್ ಅಗತ್ಯವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳೆಗೆ ಜಿಂಕ್ ಅಗತ್ಯವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯ.",
+      "detailed_answer": "ಹೌದು, ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳೆಗೆ ಜಿಂಕ್ ಅಗತ್ಯವಿದೆಯೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ತೇವಾಂಶ ಏಕೆ ತಪ್ಪಿಸಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ತೇವಾಂಶ ಏಕೆ ತಪ್ಪಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ತೇವಾಂಶ ಏಕೆ ತಪ್ಪಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹುಳು ಮತ್ತು ಫಂಗಸ್ ತಡೆಯಲು.",
+      "detailed_answer": "ಹುಳು ಮತ್ತು ಫಂಗಸ್ ತಡೆಯಲು.",
+      "step_by_step": [
+        "ಫಂಗಸ್ ತಡೆಯಲು."
+      ],
+      "preventive_measures": [
+        "ಹುಳು ಮತ್ತು ಫಂಗಸ್ ತಡೆಯಲು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ತೇವಾಂಶ ಏಕೆ ತಪ್ಪಿಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹುಳು ಮತ್ತು ಫಂಗಸ್ ತಡೆಯಲು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳೆ ರೈತರಿಗೆ ಲಾಭದಾಯಕವೇ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳೆ ರೈತರಿಗೆ ಲಾಭದಾಯಕವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳೆ ರೈತರಿಗೆ ಲಾಭದಾಯಕವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಉತ್ತಮ ಆದಾಯ ನೀಡುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಉತ್ತಮ ಆದಾಯ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ಆದಾಯ ನೀಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳೆ ರೈತರಿಗೆ ಲಾಭದಾಯಕವೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಉತ್ತಮ ಆದಾಯ ನೀಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನವನ್ನು ಆರೋಗ್ಯಪೂರಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನವನ್ನು ಆರೋಗ್ಯಪೂರಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನವನ್ನು ಆರೋಗ್ಯಪೂರಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದರಲ್ಲಿ ಔಷಧೀಯ ಗುಣಗಳಿವೆ.",
+      "detailed_answer": "ಇದರಲ್ಲಿ ಔಷಧೀಯ ಗುಣಗಳಿವೆ.",
+      "step_by_step": [
+        "ಇದರಲ್ಲಿ ಔಷಧೀಯ ಗುಣಗಳಿವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನವನ್ನು ಆರೋಗ್ಯಪೂರಕ ಆಹಾರವೆಂದು ಕರೆಯುವುದೇಕೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದರಲ್ಲಿ ಔಷಧೀಯ ಗುಣಗಳಿವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಉತ್ತಮ ಗುಣಮಟ್ಟವನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಅರಿಶಿನದ ಉತ್ತಮ ಗುಣಮಟ್ಟವನ್ನು ಯಾವ ರೀತಿ ಗುರುತಿಸುತ್ತಾರೆ?",
+      "ರೈತರು ಅರಿಶಿನದ ಉತ್ತಮ ಗುಣಮಟ್ಟವನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಉತ್ತಮ ಗುಣಮಟ್ಟವನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಣ್ಣ ಮತ್ತು ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮಾಣದಿಂದ ಗುರುತಿಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಬಣ್ಣ ಮತ್ತು ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮಾಣದಿಂದ ಗುರುತಿಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮಾಣದಿಂದ ಗುರುತಿಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಉತ್ತಮ ಗುಣಮಟ್ಟವನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬಣ್ಣ ಮತ್ತು ಕರ್ಕ್ಯೂಮಿನ್ ಪ್ರಮಾಣದಿಂದ ಗುರುತಿಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ಅರಿಶಿನ (Turmeric)",
+    "crop_type": "Spice Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ರೈತರು ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಏಕೆ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಅರಿಶಿನ",
+      "ಕರ್ನಾಟಕ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Well-drained Loamy / Sandy Loam",
+      "climate": "Warm Humid",
+      "temperature": "20-35°C",
+      "rainfall": "1000-2000 mm"
+    },
+    "problem_description": "ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ಉತ್ಪಾದನೆ ಮತ್ತು ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಮುಖ್ಯ.",
+      "detailed_answer": "ಉತ್ತಮ ಉತ್ಪಾದನೆ ಮತ್ತು ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಮುಖ್ಯ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ಉತ್ಪಾದನೆ",
+        "ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಮುಖ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಅರಿಶಿನ (Turmeric) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರಿಶಿನದ ಬೆಳೆಗಾಗಿ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತಮ ಉತ್ಪಾದನೆ ಮತ್ತು ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಮುಖ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  }
+]

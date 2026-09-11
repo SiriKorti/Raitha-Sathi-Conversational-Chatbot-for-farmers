@@ -1,0 +1,122 @@
+.foundation-placeholder-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.placeholder-hero-card {
+  padding: 2.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.placeholder-header-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+}
+
+.placeholder-icon-box {
+  width: 60px;
+  height: 60px;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-glow) 100%);
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(30, 111, 74, 0.3);
+  flex-shrink: 0;
+}
+
+.placeholder-header-text {
+  flex: 1;
+}
+
+.placeholder-title-line {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.phase-pill {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-full);
+  background: var(--primary-light);
+  color: var(--primary);
+  border: 1px solid rgba(30, 111, 74, 0.2);
+}
+
+[data-theme="dark"] .phase-pill, .dark .phase-pill {
+  background: rgba(52, 211, 153, 0.15);
+  color: var(--primary-glow);
+  border-color: rgba(52, 211, 153, 0.3);
+}
+
+.placeholder-subtitle {
+  font-size: 0.92rem;
+  color: var(--text-muted);
+  margin-top: 0.35rem;
+}
+
+.backend-dependent-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius-md);
+  background: var(--warning-bg);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  color: var(--text-main);
+  font-size: 0.88rem;
+}
+
+.backend-dependent-banner p {
+  color: var(--text-muted);
+  font-size: 0.84rem;
+  margin-top: 0.15rem;
+}
+
+.telemetry-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.telemetry-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1rem;
+}
+
+.telemetry-title {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-subtle);
+}
+
+.telemetry-val {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.font-mono {
+  font-family: monospace;
+}
+
+.placeholder-actions {
+  display: flex;
+  gap: 1rem;
+}

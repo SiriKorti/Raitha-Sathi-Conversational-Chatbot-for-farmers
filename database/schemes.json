@@ -1,0 +1,30 @@
+[
+  {
+    "scheme_name": "Krishi Bhagya Scheme",
+    "description": "Provides financial assistance for constructing Krishi Hondas (farm ponds) to harvest rainwater. Promotes dryland agriculture.",
+    "eligibility": "Farmers with dryland agriculture in Karnataka. Must have an Aadhaar card and RTC (Pani).",
+    "benefits": "Subsidy up to 80% for farm ponds, diesel pumps, and micro-irrigation systems.",
+    "application_process": "Apply at the nearest Raitha Samparka Kendra (RSK) or through the Farmer Registration and Unified Beneficiary Information System (FRUITS) portal."
+  },
+  {
+    "scheme_name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "description": "A central government scheme offering minimum income support to all landholding farmer families.",
+    "eligibility": "All landholding farmers with cultivable land holding in their names.",
+    "benefits": "₹6,000 per year paid in three equal installments of ₹2,000 directly to the bank account.",
+    "application_process": "Register via the PM-KISAN portal online or visit the local Revenue Officer / Common Service Center (CSC)."
+  },
+  {
+    "scheme_name": "Bhoomi (Land Records Portal)",
+    "description": "Not a subsidy, but a crucial digital service allowing farmers to access their land records (RTC, Mutation) online.",
+    "eligibility": "Any landowner in Karnataka.",
+    "benefits": "Easy access to land documents required for bank loans and crop insurance.",
+    "application_process": "Visit the Karnataka Bhoomi portal or Nada Kacheri."
+  },
+  {
+    "scheme_name": "Karnataka Raitha Suraksha Pradhana Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance scheme providing financial support in case of crop failure due to natural calamities, pests, or diseases.",
+    "eligibility": "All farmers growing notified crops in notified areas. Mandatory for loanee farmers.",
+    "benefits": "Coverage for yield losses due to non-preventable risks. Premium is very low (e.g., 2% for Kharif crops).",
+    "application_process": "Apply through banks, CSCs, or the PMFBY portal before the seasonal deadline."
+  }
+]
