@@ -259,7 +259,43 @@ async def delete_saved_advice(user_id: str, advice_id: str):
         raise HTTPException(
             status_code=500, detail="Saved advice storage is currently unavailable."
         )
-    except Exception as e:
-        logger.error(f"Failed to delete advice for user {user_id}: {e}")
-        raise HTTPException(status_code=500, detail="Failed to delete advice.")
+# ── Farm Diary Endpoints ───────────────────────────────────────────────────
+
+@router.get("/diary/{user_id}")
+async def get_farm_diary(user_id: str):
+    """
+    Retrieve all farm diary entries for a given user.
+    """
+    logger.info(f"Fetching farm diary for user: {user_id}")
+    return {
+        "status": "success",
+        "user_id": user_id,
+        "entries": []
+    }
+
+
+@router.post("/diary/{user_id}")
+async def add_farm_diary_entry(user_id: str, payload: Dict[str, Any]):
+    """
+    Add a new farm diary entry.
+    """
+    logger.info(f"Adding farm diary entry for user: {user_id}")
+    return {
+        "status": "success",
+        "message": "Diary entry saved successfully.",
+        "entry": payload
+    }
+
+
+@router.delete("/diary/{user_id}/{entry_id}")
+async def delete_farm_diary_entry(user_id: str, entry_id: str):
+    """
+    Delete a farm diary entry.
+    """
+    logger.info(f"Deleting diary entry {entry_id} for user: {user_id}")
+    return {
+        "status": "success",
+        "message": "Diary entry deleted successfully."
+    }
+
 

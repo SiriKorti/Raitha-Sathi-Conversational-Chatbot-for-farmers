@@ -100,10 +100,10 @@ export const apiClient = {
   delete: (endpoint, headers = {}) => request(endpoint, { method: 'DELETE', headers }),
   postFormData: (endpoint, formData, headers = {}) => request(endpoint, { method: 'POST', body: formData, isFormData: true, headers }),
   
-  // Health check for system telemetry (30s timeout allows Render free instance wake-up)
+  // System status check (uses /api/ping to avoid false blocks by ad-blockers)
   checkHealth: async () => {
     try {
-      return await request('/health', { timeoutMs: 30000 });
+      return await request('/api/ping', { timeoutMs: 30000 });
     } catch (err) {
       return { status: 'offline', error: err.message };
     }
