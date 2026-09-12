@@ -1,0 +1,5497 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ (Bajra / Pearl Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ (Bajra / Pearl Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?"
+    ],
+    "keywords": [
+      "300-500 ಮಿ.ಮೀ",
+      "Bajra",
+      "Bajra / Pearl Millet",
+      "Karnataka",
+      "Millet",
+      "Pearl",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ (Bajra / Pearl Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ಸಜ್ಜೆಯು ಶುಷ್ಕ ಮತ್ತು ಅತಿ ಕಡಿಮೆ ಮಳೆ (300-500 ಮಿ.ಮೀ) ಬೀಳುವ, 25°C ರಿಂದ 35°C ಉಷ್ಣಾಂಶವಿರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಸಜ್ಜೆಯು ಶುಷ್ಕ ಮತ್ತು ಅತಿ ಕಡಿಮೆ ಮಳೆ (300-500 ಮಿ.ಮೀ) ಬೀಳುವ, 25°C ರಿಂದ 35°C ಉಷ್ಣಾಂಶವಿರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯು ಶುಷ್ಕ",
+        "ಅತಿ ಕಡಿಮೆ ಮಳೆ (300-500 ಮಿ.ಮೀ) ಬೀಳುವ",
+        "25°C ರಿಂದ 35°C ಉಷ್ಣಾಂಶವಿರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "300-500 ಮಿ.ಮೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ (Bajra / Pearl Millet) ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಜ್ಜೆಯು ಶುಷ್ಕ ಮತ್ತು ಅತಿ ಕಡಿಮೆ ಮಳೆ (300-500 ಮಿ.ಮೀ) ಬೀಳುವ, 25°C ರಿಂದ 35°C ಉಷ್ಣಾಂಶವಿರುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಏನುುವು?",
+      "ರೈತರು ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತರ ಕರ್ನಾಟಕದ ವಿಜಯಪುರ, ಬಾಗಲಕೋಟೆ, ರಾಯಚೂರು, ಕೊಪ್ಪಳ ಮತ್ತು ಗದಗ ಜಿಲ್ಲೆಗಳು.",
+      "detailed_answer": "ಉತ್ತರ ಕರ್ನಾಟಕದ ವಿಜಯಪುರ, ಬಾಗಲಕೋಟೆ, ರಾಯಚೂರು, ಕೊಪ್ಪಳ ಮತ್ತು ಗದಗ ಜಿಲ್ಲೆಗಳು.",
+      "step_by_step": [
+        "ಉತ್ತರ ಕರ್ನಾಟಕದ ವಿಜಯಪುರ",
+        "ಗದಗ ಜಿಲ್ಲೆಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಜಿಲ್ಲೆಗಳು ಯಾವುವು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತರ ಕರ್ನಾಟಕದ ವಿಜಯಪುರ, ಬಾಗಲಕೋಟೆ, ರಾಯಚೂರು, ಕೊಪ್ಪಳ ಮತ್ತು ಗದಗ ಜಿಲ್ಲೆಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮರಳು ಮಿಶ್ರಿತ ಕಪ್ಪು ಮಣ್ಣು, ಹಗುರವಾದ ಮರಳು ಮಣ್ಣು ಮತ್ತು ಕಡಿಮೆ ಫಲವತ್ತತೆ ಇರುವ ಮಣ್ಣಿನಲ್ಲೂ ಇದು ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಮರಳು ಮಿಶ್ರಿತ ಕಪ್ಪು ಮಣ್ಣು, ಹಗುರವಾದ ಮರಳು ಮಣ್ಣು ಮತ್ತು ಕಡಿಮೆ ಫಲವತ್ತತೆ ಇರುವ ಮಣ್ಣಿನಲ್ಲೂ ಇದು ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮರಳು ಮಿಶ್ರಿತ ಕಪ್ಪು ಮಣ್ಣು",
+        "ಹಗುರವಾದ ಮರಳು ಮಣ್ಣು",
+        "ಕಡಿಮೆ ಫಲವತ್ತತೆ ಇರುವ ಮಣ್ಣಿನಲ್ಲೂ ಇದು ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಂತಹ ಮಣ್ಣು ಅತ್ಯುತ್ತಮ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮರಳು ಮಿಶ್ರಿತ ಕಪ್ಪು ಮಣ್ಣು, ಹಗುರವಾದ ಮರಳು ಮಣ್ಣು ಮತ್ತು ಕಡಿಮೆ ಫಲವತ್ತತೆ ಇರುವ ಮಣ್ಣಿನಲ್ಲೂ ಇದು ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಸಜ್ಜೆಯ ಪ್ರಮುಖ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ಸಜ್ಜೆಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "ICMV-",
+      "ICTP-",
+      "Karnataka",
+      "Nandi",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ICTP-8203, ICMV-221, ಮತ್ತು ನಂದಿ (Nandi) ಹೈಬ್ರಿಡ್ ತಳಿಗಳು.",
+      "detailed_answer": "ICTP-8203, ICMV-221, ಮತ್ತು ನಂದಿ (Nandi) ಹೈಬ್ರಿಡ್ ತಳಿಗಳು.",
+      "step_by_step": [
+        "ನಂದಿ (Nandi) ಹೈಬ್ರಿಡ್ ತಳಿಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Nandi"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ICTP-8203, ICMV-221, ಮತ್ತು ನಂದಿ (Nandi) ಹೈಬ್ರಿಡ್ ತಳಿಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬರಗಾಲಕ್ಕೆ ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು?",
+    "question_variants": [
+      "ಬರಗಾಲಕ್ಕೆ ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ಸಜ್ಜೆ ತಳಿ ಏನುುದು?",
+      "ರೈತರು ಬರಗಾಲಕ್ಕೆ ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "ICTP-",
+      "Karnataka",
+      "crop variety",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಬರಗಾಲಕ್ಕೆ ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ICTP-8203 ತಳಿಯು ಅತಿ ಕಡಿಮೆ ಮಳೆಯಲ್ಲಿಯೂ ಬೆಳೆದು ಉತ್ತಮ ಇಳುವರಿ ನೀಡುವ ಬರ ನಿರೋಧಕ ತಳಿಯಾಗಿದೆ.",
+      "detailed_answer": "ICTP-8203 ತಳಿಯು ಅತಿ ಕಡಿಮೆ ಮಳೆಯಲ್ಲಿಯೂ ಬೆಳೆದು ಉತ್ತಮ ಇಳುವರಿ ನೀಡುವ ಬರ ನಿರೋಧಕ ತಳಿಯಾಗಿದೆ.",
+      "step_by_step": [
+        "ICTP-8203 ತಳಿಯು ಅತಿ ಕಡಿಮೆ ಮಳೆಯಲ್ಲಿಯೂ ಬೆಳೆದು ಉತ್ತಮ ಇಳುವರಿ ನೀಡುವ ಬರ ನಿರೋಧಕ ತಳಿಯಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬರಗಾಲಕ್ಕೆ ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ICTP-8203 ತಳಿಯು ಅತಿ ಕಡಿಮೆ ಮಳೆಯಲ್ಲಿಯೂ ಬೆಳೆದು ಉತ್ತಮ ಇಳುವರಿ ನೀಡುವ ಬರ ನಿರೋಧಕ ತಳಿಯಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಏನುುದು?",
+      "ರೈತರು ಸಜ್ಜೆ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜೂನ್ ಎರಡನೇ ವಾರದಿಂದ ಜುಲೈ ಮೊದಲ ವಾರದವರೆಗೆ ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜೂನ್ ಎರಡನೇ ವಾರದಿಂದ ಜುಲೈ ಮೊದಲ ವಾರದವರೆಗೆ ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜೂನ್ ಎರಡನೇ ವಾರದಿಂದ ಜುಲೈ ಮೊದಲ ವಾರದವರೆಗೆ ಬಿತ್ತನೆ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಮುಂಗಾರು ಹಂಗಾಮಿಗೆ ಜೂನ್ ಎರಡನೇ ವಾರದಿಂದ ಜುಲೈ ಮೊದಲ ವಾರದವರೆಗೆ ಬಿತ್ತನೆ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಸಜ್ಜೆ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಸಜ್ಜೆ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಸಜ್ಜೆ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 1.5 ರಿಂದ 2 ಕೆ.ಜಿ. ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 1.5 ರಿಂದ 2 ಕೆ.ಜಿ. ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 1.5 ರಿಂದ 2 ಕೆ.ಜಿ. ಬೀಜ ಬೇಕಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಸಜ್ಜೆ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 1.5 ರಿಂದ 2 ಕೆ.ಜಿ. ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ. ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು.",
+      "detailed_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ. ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು.",
+      "step_by_step": [
+        "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ.",
+        "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬಿತ್ತನೆಯ ಸಾಲಿನ ಅಂತರ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ. ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ. ಅಂತರವಿರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜಗಳು ಬಹಳ ಚಿಕ್ಕದಾಗಿರುವುದರಿಂದ 2-3 ಸೆಂ.ಮೀ. ಗಿಂತ ಹೆಚ್ಚು ಆಳದಲ್ಲಿ ಬಿತ್ತಬಾರದು.",
+      "detailed_answer": "ಬೀಜಗಳು ಬಹಳ ಚಿಕ್ಕದಾಗಿರುವುದರಿಂದ 2-3 ಸೆಂ.ಮೀ. ಗಿಂತ ಹೆಚ್ಚು ಆಳದಲ್ಲಿ ಬಿತ್ತಬಾರದು.",
+      "step_by_step": [
+        "ಬೀಜಗಳು ಬಹಳ ಚಿಕ್ಕದಾಗಿರುವುದರಿಂದ 2-3 ಸೆಂ.ಮೀ. ಗಿಂತ ಹೆಚ್ಚು ಆಳದಲ್ಲಿ ಬಿತ್ತಬಾರದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಗಿಂತ ಹೆಚ್ಚು ಆಳದಲ್ಲಿ ಬಿತ್ತಬಾರದು"
+      ]
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಮಣ್ಣಿನಲ್ಲಿ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೀಜಗಳು ಬಹಳ ಚಿಕ್ಕದಾಗಿರುವುದರಿಂದ 2-3 ಸೆಂ.ಮೀ. ಗಿಂತ ಹೆಚ್ಚು ಆಳದಲ್ಲಿ ಬಿತ್ತಬಾರದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಏನು ಔಷಧ ಬಳಸಬೇಕು?",
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+      "ರೈತರು ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Apron",
+      "Apron / Metalaxyl",
+      "Karnataka",
+      "Metalaxyl",
+      "Seed",
+      "Seed treatment",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆಳೆರೋಗ ತಡೆಯಲು ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಆಪ್ರೋನ್ (Apron / Metalaxyl) ಬೆರೆಸಿ ಬಿತ್ತಬೇಕು.",
+      "detailed_answer": "ಬೆಳೆರೋಗ ತಡೆಯಲು ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಆಪ್ರೋನ್ (Apron / Metalaxyl) ಬೆರೆಸಿ ಬಿತ್ತಬೇಕು.",
+      "step_by_step": [
+        "ಬೆಳೆರೋಗ ತಡೆಯಲು ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಆಪ್ರೋನ್ (Apron / Metalaxyl) ಬೆರೆಸಿ ಬಿತ್ತಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಬೆಳೆರೋಗ ತಡೆಯಲು ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಆಪ್ರೋನ್ (Apron / Metalaxyl) ಬೆರೆಸಿ ಬಿತ್ತಬೇಕು"
+      ],
+      "recommended_products": [
+        "Apron / Metalaxyl",
+        "2 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೀಜೋಪಚಾರಕ್ಕೆ (Seed treatment) ಯಾವ ಔಷಧ ಬಳಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೆಳೆರೋಗ ತಡೆಯಲು ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 2 ಗ್ರಾಂ ಆಪ್ರೋನ್ (Apron / Metalaxyl) ಬೆರೆಸಿ ಬಿತ್ತಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "NPK",
+      "fertilizer",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ನೀರಾವರಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:10:0 ಕೆಜಿ ಮತ್ತು ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:0 ಕೆಜಿ NPK ಒದಗಿಸಬೇಕು.",
+      "detailed_answer": "ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:10:0 ಕೆಜಿ ಮತ್ತು ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:0 ಕೆಜಿ NPK ಒದಗಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:10:0 ಕೆಜಿ",
+        "ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:0 ಕೆಜಿ NPK ಒದಗಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಗೆ ಎಷ್ಟು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ (NPK) ಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಳೆಯಾಶ್ರಿತ ಬೆಳೆಗೆ ಎಕರೆಗೆ 20:10:0 ಕೆಜಿ ಮತ್ತು ನೀರಾವರಿ ಬೆಳೆಗೆ 40:20:0 ಕೆಜಿ NPK ಒದಗಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರ ಅಗತ್ಯವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರ ಅಗತ್ಯವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Potash",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರ ಅಗತ್ಯವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಮಾನ್ಯವಾಗಿ ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ ನ ಅವಶ್ಯಕತೆ ಕಡಿಮೆ, ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಮಾಡಿ ಕೊರತೆಯಿದ್ದರೆ ಮಾತ್ರ ನೀಡಬೇಕು.",
+      "detailed_answer": "ಸಾಮಾನ್ಯವಾಗಿ ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ ನ ಅವಶ್ಯಕತೆ ಕಡಿಮೆ, ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಮಾಡಿ ಕೊರತೆಯಿದ್ದರೆ ಮಾತ್ರ ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ಸಾಮಾನ್ಯವಾಗಿ ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ ನ ಅವಶ್ಯಕತೆ ಕಡಿಮೆ",
+        "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಮಾಡಿ ಕೊರತೆಯಿದ್ದರೆ ಮಾತ್ರ ನೀಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ (Potash) ಗೊಬ್ಬರ ಅಗತ್ಯವಿದೆಯೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾಮಾನ್ಯವಾಗಿ ಸಜ್ಜೆಗೆ ಪೊಟ್ಯಾಷ್ ನ ಅವಶ್ಯಕತೆ ಕಡಿಮೆ, ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಮಾಡಿ ಕೊರತೆಯಿದ್ದರೆ ಮಾತ್ರ ನೀಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಾರಜನಕವನ್ನು (Urea) ಸಜ್ಜೆಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು?",
+    "question_variants": [
+      "ಸಾರಜನಕವನ್ನು (Urea) ಸಜ್ಜೆಗೆ ಏನುಾಗ ಕೊಡಬೇಕು?",
+      "ರೈತರು ಸಾರಜನಕವನ್ನು (Urea) ಸಜ್ಜೆಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Urea",
+      "ಕರ್ನಾಟಕ",
+      "ಕುಂಟೆ ಹೊಡೆಯುವಾಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಾರಜನಕವನ್ನು (Urea) ಸಜ್ಜೆಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ, ಮತ್ತು 30-35 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ ಕೊಡಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ, ಮತ್ತು 30-35 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ ಕೊಡಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ",
+        "30-35 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ ಕೊಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಕುಂಟೆ ಹೊಡೆಯುವಾಗ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಾರಜನಕವನ್ನು (Urea) ಸಜ್ಜೆಗೆ ಯಾವಾಗ ಕೊಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ, ಮತ್ತು 30-35 ದಿನಗಳ ನಂತರ (ಕುಂಟೆ ಹೊಡೆಯುವಾಗ) ಉಳಿದ ಅರ್ಧ ಭಾಗ ಕೊಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Atrazine",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 500 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆಗೆ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 500 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆಗೆ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 500 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆಗೆ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Atrazine",
+        "500 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 500 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆಗೆ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯುವುದರ (Inter-cultivation) ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯುವುದರ (Inter-cultivation) ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Inter-cultivation",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯುವುದರ (Inter-cultivation) ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯುತ್ತದೆ, ಕಳೆ ನಾಶವಾಗುತ್ತದೆ ಮತ್ತು ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "ಮಣ್ಣಿನ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯುತ್ತದೆ, ಕಳೆ ನಾಶವಾಗುತ್ತದೆ ಮತ್ತು ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯುತ್ತದೆ",
+        "ಕಳೆ ನಾಶವಾಗುತ್ತದೆ",
+        "ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಮಣ್ಣಿನ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯುತ್ತದೆ, ಕಳೆ ನಾಶವಾಗುತ್ತದೆ ಮತ್ತು ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗುತ್ತದೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯುವುದರ (Inter-cultivation) ಲಾಭವೇನು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯುತ್ತದೆ, ಕಳೆ ನಾಶವಾಗುತ್ತದೆ ಮತ್ತು ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ನೀರು ಯಾವಾಗ ಹಾಯಿಸಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ ನೀರು ಏನುಾಗ ಹಾಯಿಸಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಗೆ ನೀರು ಯಾವಾಗ ಹಾಯಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Booting",
+      "Flowering",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ನೀರು ಯಾವಾಗ ಹಾಯಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮುಖ್ಯವಾಗಿ ಗರ್ಭ ಕಟ್ಟುವ (Booting) ಮತ್ತು ಹೂ ಬಿಡುವ (Flowering) ಹಂತದಲ್ಲಿ ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ನೀರು ಹಾಯಿಸುವುದು ಕಡ್ಡಾಯ.",
+      "detailed_answer": "ಮುಖ್ಯವಾಗಿ ಗರ್ಭ ಕಟ್ಟುವ (Booting) ಮತ್ತು ಹೂ ಬಿಡುವ (Flowering) ಹಂತದಲ್ಲಿ ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ನೀರು ಹಾಯಿಸುವುದು ಕಡ್ಡಾಯ.",
+      "step_by_step": [
+        "ಮುಖ್ಯವಾಗಿ ಗರ್ಭ ಕಟ್ಟುವ (Booting)",
+        "ಹೂ ಬಿಡುವ (Flowering) ಹಂತದಲ್ಲಿ ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ನೀರು ಹಾಯಿಸುವುದು ಕಡ್ಡಾಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Booting",
+        "Flowering"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಗೆ ನೀರು ಯಾವಾಗ ಹಾಯಿಸಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮುಖ್ಯವಾಗಿ ಗರ್ಭ ಕಟ್ಟುವ (Booting) ಮತ್ತು ಹೂ ಬಿಡುವ (Flowering) ಹಂತದಲ್ಲಿ ಮಳೆಯಿಲ್ಲದಿದ್ದರೆ ನೀರು ಹಾಯಿಸುವುದು ಕಡ್ಡಾಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಏನುುದು?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Downy",
+      "Downy Mildew / ತುಕ್ಕು ರೋಗ",
+      "Ergot",
+      "Ergot / ಅಂಟು ರೋಗ",
+      "Karnataka",
+      "Mildew",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew / ತುಕ್ಕು ರೋಗ) ಮತ್ತು ಎರ್ಗೋಟ್ (Ergot / ಅಂಟು ರೋಗ).",
+      "detailed_answer": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew / ತುಕ್ಕು ರೋಗ) ಮತ್ತು ಎರ್ಗೋಟ್ (Ergot / ಅಂಟು ರೋಗ).",
+      "step_by_step": [
+        "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew / ತುಕ್ಕು ರೋಗ)",
+        "ಎರ್ಗೋಟ್ (Ergot / ಅಂಟು ರೋಗ)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Downy Mildew / ತುಕ್ಕು ರೋಗ",
+        "Ergot / ಅಂಟು ರೋಗ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಗೆ ಬರುವ ಪ್ರಮುಖ ರೋಗ ಯಾವುದು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew / ತುಕ್ಕು ರೋಗ) ಮತ್ತು ಎರ್ಗೋಟ್ (Ergot / ಅಂಟು ರೋಗ).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣಗಳೇನು?",
+      "ರೈತರು ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Downy",
+      "Downy Mildew",
+      "Ear",
+      "Green",
+      "Green Ear",
+      "Karnataka",
+      "Mildew",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ-ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬರುತ್ತವೆ ಮತ್ತು ತೆನೆಯ ಬದಲು ಹುಲ್ಲಿನಂತಹ ಎಲೆಗಳು (Green Ear) ಬೆಳೆಯುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ-ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬರುತ್ತವೆ ಮತ್ತು ತೆನೆಯ ಬದಲು ಹುಲ್ಲಿನಂತಹ ಎಲೆಗಳು (Green Ear) ಬೆಳೆಯುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ-ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬರುತ್ತವೆ ಮತ್ತು ತೆನೆಯ ಬದಲು ಹುಲ್ಲಿನಂತಹ ಎಲೆಗಳು (Green Ear) ಬೆಳೆಯುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ-ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬರುತ್ತವೆ",
+        "ತೆನೆಯ ಬದಲು ಹುಲ್ಲಿನಂತಹ ಎಲೆಗಳು (Green Ear) ಬೆಳೆಯುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Green Ear"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ-ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬರುತ್ತವೆ ಮತ್ತು ತೆನೆಯ ಬದಲು ಹುಲ್ಲಿನಂತಹ ಎಲೆಗಳು (Green Ear) ಬೆಳೆಯುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ರೋಗ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "ICTP-",
+      "ICTP-8203",
+      "Karnataka",
+      "Metalaxyl",
+      "crop variety",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮೆಟಲಾಕ್ಸಿಲ್ (Metalaxyl) 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ರೋಗನಿರೋಧಕ ತಳಿಗಳನ್ನು (ICTP-8203) ಬೆಳೆಯಬೇಕು.",
+      "detailed_answer": "ಮೆಟಲಾಕ್ಸಿಲ್ (Metalaxyl) 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ರೋಗನಿರೋಧಕ ತಳಿಗಳನ್ನು (ICTP-8203) ಬೆಳೆಯಬೇಕು.",
+      "step_by_step": [
+        "ಮೆಟಲಾಕ್ಸಿಲ್ (Metalaxyl) 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು",
+        "ರೋಗನಿರೋಧಕ ತಳಿಗಳನ್ನು (ICTP-8203) ಬೆಳೆಯಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Metalaxyl",
+        "ICTP-8203",
+        "2 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮೆಟಲಾಕ್ಸಿಲ್ (Metalaxyl) 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ರೋಗನಿರೋಧಕ ತಳಿಗಳನ್ನು (ICTP-8203) ಬೆಳೆಯಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಎರ್ಗೋಟ್ ಅಥವಾ ಅಂಟು ರೋಗ (Ergot) ಎಂದರೇನು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಎರ್ಗೋಟ್ ಅಥವಾ ಅಂಟು ರೋಗ (Ergot) ಎಂದರೇನು?",
+      "ರೈತರು ಎರ್ಗೋಟ್ ಅಥವಾ ಅಂಟು ರೋಗ (Ergot) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Ergot",
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಎರ್ಗೋಟ್ ಅಥವಾ ಅಂಟು ರೋಗ (Ergot) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಹೂ ಬಿಡುವಾಗ ಶಿಲೀಂಧ್ರ ತಗುಲಿ ತೆನೆಯಿಂದ ಜೇನುತುಪ್ಪದಂತಹ ಅಂಟು ದ್ರವ ಸುರಿಯುತ್ತದೆ. ಇದು ಮನುಷ್ಯರಿಗೆ ವಿಷಕಾರಿ.",
+      "detailed_answer": "ಹೂ ಬಿಡುವಾಗ ಶಿಲೀಂಧ್ರ ತಗುಲಿ ತೆನೆಯಿಂದ ಜೇನುತುಪ್ಪದಂತಹ ಅಂಟು ದ್ರವ ಸುರಿಯುತ್ತದೆ. ಇದು ಮನುಷ್ಯರಿಗೆ ವಿಷಕಾರಿ.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವಾಗ ಶಿಲೀಂಧ್ರ ತಗುಲಿ ತೆನೆಯಿಂದ ಜೇನುತುಪ್ಪದಂತಹ ಅಂಟು ದ್ರವ ಸುರಿಯುತ್ತದೆ. ಇದು ಮನುಷ್ಯರಿಗೆ ವಿಷಕಾರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಎರ್ಗೋಟ್ ಅಥವಾ ಅಂಟು ರೋಗ (Ergot) ಎಂದರೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂ ಬಿಡುವಾಗ ಶಿಲೀಂಧ್ರ ತಗುಲಿ ತೆನೆಯಿಂದ ಜೇನುತುಪ್ಪದಂತಹ ಅಂಟು ದ್ರವ ಸುರಿಯುತ್ತದೆ. ಇದು ಮನುಷ್ಯರಿಗೆ ವಿಷಕಾರಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಎರ್ಗೋಟ್ ರೋಗ ಬಾರದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಎರ್ಗೋಟ್ ರೋಗ ಬಾರದಂತೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಎರ್ಗೋಟ್ ರೋಗ ಬಾರದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಎರ್ಗೋಟ್ ರೋಗ ಬಾರದಂತೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ತೇಲುವ ಬೀಜಗಳನ್ನು ತೆಗೆದು",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಎರ್ಗೋಟ್ ರೋಗ ಬಾರದಂತೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ. 20 ರ ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಬೀಜಗಳನ್ನು ನೆನೆಸಿ (ತೇಲುವ ಬೀಜಗಳನ್ನು ತೆಗೆದು) ಬಿತ್ತನೆ ಮಾಡಬೇಕು, ಮತ್ತು ಹೂ ಬಿಡುವಾಗ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಶೇ. 20 ರ ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಬೀಜಗಳನ್ನು ನೆನೆಸಿ (ತೇಲುವ ಬೀಜಗಳನ್ನು ತೆಗೆದು) ಬಿತ್ತನೆ ಮಾಡಬೇಕು, ಮತ್ತು ಹೂ ಬಿಡುವಾಗ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಶೇ. 20 ರ ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಬೀಜಗಳನ್ನು ನೆನೆಸಿ (ತೇಲುವ ಬೀಜಗಳನ್ನು ತೆಗೆದು) ಬಿತ್ತನೆ ಮಾಡಬೇಕು",
+        "ಹೂ ಬಿಡುವಾಗ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ತೇಲುವ ಬೀಜಗಳನ್ನು ತೆಗೆದು"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಎರ್ಗೋಟ್ ರೋಗ ಬಾರದಂತೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶೇ. 20 ರ ಉಪ್ಪುನೀರಿನಲ್ಲಿ ಬೀಜಗಳನ್ನು ನೆನೆಸಿ (ತೇಲುವ ಬೀಜಗಳನ್ನು ತೆಗೆದು) ಬಿತ್ತನೆ ಮಾಡಬೇಕು, ಮತ್ತು ಹೂ ಬಿಡುವಾಗ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಏನುುದು?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Borer",
+      "Karnataka",
+      "Shoot",
+      "Shoot fly",
+      "Stem",
+      "Stem Borer",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಕಾಂಡ ಕೊರಕ (Stem Borer) ಮತ್ತು ಸುಳಿ ನೊಣ (Shoot fly).",
+      "detailed_answer": "ಕಾಂಡ ಕೊರಕ (Stem Borer) ಮತ್ತು ಸುಳಿ ನೊಣ (Shoot fly).",
+      "step_by_step": [
+        "ಕಾಂಡ ಕೊರಕ (Stem Borer)",
+        "ಸುಳಿ ನೊಣ (Shoot fly)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Stem Borer",
+        "Shoot fly"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಡುವ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಂಡ ಕೊರಕ (Stem Borer) ಮತ್ತು ಸುಳಿ ನೊಣ (Shoot fly).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸುಳಿ ನೊಣದ (Shoot fly) ಹಾವಳಿಯನ್ನು ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಸುಳಿ ನೊಣದ (Shoot fly) ಹಾವಳಿಯನ್ನು ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಸುಳಿ ನೊಣದ (Shoot fly) ಹಾವಳಿಯನ್ನು ತಡೆಯುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಸುಳಿ ನೊಣದ (Shoot fly) ಹಾವಳಿಯನ್ನು ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Shoot",
+      "Shoot fly",
+      "ಕರ್ನಾಟಕ",
+      "ಜೂನ್",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸುಳಿ ನೊಣದ (Shoot fly) ಹಾವಳಿಯನ್ನು ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮುಂಗಾರಿನ ಆರಂಭದಲ್ಲೇ (ಜೂನ್) ಬೇಗ ಬಿತ್ತನೆ ಮಾಡುವುದರಿಂದ ಸುಳಿ ನೊಣದ ಹಾವಳಿ ತಪ್ಪಿಸಬಹುದು.",
+      "detailed_answer": "ಮುಂಗಾರಿನ ಆರಂಭದಲ್ಲೇ (ಜೂನ್) ಬೇಗ ಬಿತ್ತನೆ ಮಾಡುವುದರಿಂದ ಸುಳಿ ನೊಣದ ಹಾವಳಿ ತಪ್ಪಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಮುಂಗಾರಿನ ಆರಂಭದಲ್ಲೇ (ಜೂನ್) ಬೇಗ ಬಿತ್ತನೆ ಮಾಡುವುದರಿಂದ ಸುಳಿ ನೊಣದ ಹಾವಳಿ ತಪ್ಪಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಜೂನ್"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಮುಂಗಾರಿನ ಆರಂಭದಲ್ಲೇ (ಜೂನ್) ಬೇಗ ಬಿತ್ತನೆ ಮಾಡುವುದರಿಂದ ಸುಳಿ ನೊಣದ ಹಾವಳಿ ತಪ್ಪಿಸಬಹುದು"
+      ]
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸುಳಿ ನೊಣದ (Shoot fly) ಹಾವಳಿಯನ್ನು ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮುಂಗಾರಿನ ಆರಂಭದಲ್ಲೇ (ಜೂನ್) ಬೇಗ ಬಿತ್ತನೆ ಮಾಡುವುದರಿಂದ ಸುಳಿ ನೊಣದ ಹಾವಳಿ ತಪ್ಪಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಂಡ ಕೊರಕ (Stem Borer) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಾಂಡ ಕೊರಕ (Stem Borer) ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಕಾಂಡ ಕೊರಕ (Stem Borer) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕಾಂಡ ಕೊರಕ (Stem Borer) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Borer",
+      "Karnataka",
+      "Stem",
+      "Stem Borer",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಕಾಂಡ ಕೊರಕ (Stem Borer) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಂಡ ಕೊರಕ (Stem Borer) ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯಲ್ಲಿ ಕಂಬಳಿ ಹುಳು (Hairy Caterpillar) ಬಂದರೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಸಜ್ಜೆಯಲ್ಲಿ ಕಂಬಳಿ ಹುಳು (Hairy Caterpillar) ಬಂದರೆ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಸಜ್ಜೆಯಲ್ಲಿ ಕಂಬಳಿ ಹುಳು (Hairy Caterpillar) ಬಂದರೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Caterpillar",
+      "Hairy",
+      "Hairy Caterpillar",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯಲ್ಲಿ ಕಂಬಳಿ ಹುಳು (Hairy Caterpillar) ಬಂದರೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹುಳುಗಳು ಚಿಕ್ಕದಾಗಿದ್ದಾಗಲೇ ಡೈಕ್ಲೋರೋವಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬೇಕು.",
+      "detailed_answer": "ಹುಳುಗಳು ಚಿಕ್ಕದಾಗಿದ್ದಾಗಲೇ ಡೈಕ್ಲೋರೋವಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಹುಳುಗಳು ಚಿಕ್ಕದಾಗಿದ್ದಾಗಲೇ ಡೈಕ್ಲೋರೋವಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯಲ್ಲಿ ಕಂಬಳಿ ಹುಳು (Hairy Caterpillar) ಬಂದರೆ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹುಳುಗಳು ಚಿಕ್ಕದಾಗಿದ್ದಾಗಲೇ ಡೈಕ್ಲೋರೋವಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Cowpea",
+      "Intercrop",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೊಗರಿ ಅಥವಾ ಅಲಸಂದೆ (Cowpea) ಯನ್ನು 2:1 ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯುವುದು ಅತ್ಯಂತ ಲಾಭದಾಯಕ.",
+      "detailed_answer": "ತೊಗರಿ ಅಥವಾ ಅಲಸಂದೆ (Cowpea) ಯನ್ನು 2:1 ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯುವುದು ಅತ್ಯಂತ ಲಾಭದಾಯಕ.",
+      "step_by_step": [
+        "ತೊಗರಿ ಅಥವಾ ಅಲಸಂದೆ (Cowpea) ಯನ್ನು 2:1 ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯುವುದು ಅತ್ಯಂತ ಲಾಭದಾಯಕ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Cowpea"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯಲ್ಲಿ ಅಕ್ಕಡಿ (Intercrop) ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತೊಗರಿ ಅಥವಾ ಅಲಸಂದೆ (Cowpea) ಯನ್ನು 2:1 ಅನುಪಾತದಲ್ಲಿ ಬೆಳೆಯುವುದು ಅತ್ಯಂತ ಲಾಭದಾಯಕ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಕಟಾವು ಏನುಾಗ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಬಿತ್ತಿದ 85-95 ದಿನಗಳ ನಂತರ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೆನೆಗಳು ಒಣಗಿ ಕಾಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 85-95 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ತೆನೆಗಳು ಒಣಗಿ ಕಾಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 85-95 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ತೆನೆಗಳು ಒಣಗಿ ಕಾಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 85-95 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಬಿತ್ತಿದ 85-95 ದಿನಗಳ ನಂತರ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಕಟಾವು ಯಾವಾಗ ಮಾಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ತೆನೆಗಳು ಒಣಗಿ ಕಾಳು ಗಟ್ಟಿಯಾದಾಗ (ಬಿತ್ತಿದ 85-95 ದಿನಗಳ ನಂತರ) ಕಟಾವು ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಸಜ್ಜೆಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಸಜ್ಜೆಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಸಜ್ಜೆಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ ಎಕರೆಗೆ 6-8 ಕ್ವಿಂಟಾಲ್ ಮತ್ತು ಉತ್ತಮ ನಿರ್ವಹಣೆಯಲ್ಲಿ 10-12 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ ಎಕರೆಗೆ 6-8 ಕ್ವಿಂಟಾಲ್ ಮತ್ತು ಉತ್ತಮ ನಿರ್ವಹಣೆಯಲ್ಲಿ 10-12 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ ಎಕರೆಗೆ 6-8 ಕ್ವಿಂಟಾಲ್",
+        "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಲ್ಲಿ 10-12 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಸಜ್ಜೆಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ ಎಕರೆಗೆ 6-8 ಕ್ವಿಂಟಾಲ್ ಮತ್ತು ಉತ್ತಮ ನಿರ್ವಹಣೆಯಲ್ಲಿ 10-12 ಕ್ವಿಂಟಾಲ್ ಕಾಳು ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯನ್ನು ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯನ್ನು ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯನ್ನು ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ನೀರಾವರಿ ಸೌಲಭ್ಯವಿದ್ದರೆ ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬೇಸಿಗೆ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ನೀರಾವರಿ ಸೌಲಭ್ಯವಿದ್ದರೆ ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬೇಸಿಗೆ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ನೀರಾವರಿ ಸೌಲಭ್ಯವಿದ್ದರೆ ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬೇಸಿಗೆ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯನ್ನು ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ನೀರಾವರಿ ಸೌಲಭ್ಯವಿದ್ದರೆ ಜನವರಿ-ಫೆಬ್ರವರಿ ತಿಂಗಳಲ್ಲಿ ಬೇಸಿಗೆ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "8 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ",
+      "Iron",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಜ್ಜೆಯಲ್ಲಿ ರಾಗಿ ಮತ್ತು ಗೋಧಿಗಿಂತ ಅತಿ ಹೆಚ್ಚು ಕಬ್ಬಿಣಾಂಶ (8 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ. ರಕ್ತಹೀನತೆಗೆ ಇದು ರಾಮಬಾಣ.",
+      "detailed_answer": "ಸಜ್ಜೆಯಲ್ಲಿ ರಾಗಿ ಮತ್ತು ಗೋಧಿಗಿಂತ ಅತಿ ಹೆಚ್ಚು ಕಬ್ಬಿಣಾಂಶ (8 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ. ರಕ್ತಹೀನತೆಗೆ ಇದು ರಾಮಬಾಣ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯಲ್ಲಿ ರಾಗಿ",
+        "ಗೋಧಿಗಿಂತ ಅತಿ ಹೆಚ್ಚು ಕಬ್ಬಿಣಾಂಶ (8 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ. ರಕ್ತಹೀನತೆಗೆ ಇದು ರಾಮಬಾಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "8 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ",
+        "100 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ (Iron) ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಜ್ಜೆಯಲ್ಲಿ ರಾಗಿ ಮತ್ತು ಗೋಧಿಗಿಂತ ಅತಿ ಹೆಚ್ಚು ಕಬ್ಬಿಣಾಂಶ (8 ಮಿ.ಗ್ರಾಂ/100 ಗ್ರಾಂ) ಇರುತ್ತದೆ. ರಕ್ತಹೀನತೆಗೆ ಇದು ರಾಮಬಾಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯಲ್ಲಿ ಸತು (Zinc) ಪ್ರಮಾಣ ಎಷ್ಟಿದೆ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯಲ್ಲಿ ಸತು (Zinc) ಪ್ರಮಾಣ ಎಷ್ಟಿದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Zinc",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯಲ್ಲಿ ಸತು (Zinc) ಪ್ರಮಾಣ ಎಷ್ಟಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಸತುವಿನ (Zinc) ಉತ್ತಮ ಮೂಲವಾಗಿದ್ದು, ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಸತುವಿನ (Zinc) ಉತ್ತಮ ಮೂಲವಾಗಿದ್ದು, ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ಸತುವಿನ (Zinc) ಉತ್ತಮ ಮೂಲವಾಗಿದ್ದು",
+        "ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Zinc"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯಲ್ಲಿ ಸತು (Zinc) ಪ್ರಮಾಣ ಎಷ್ಟಿದೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಸತುವಿನ (Zinc) ಉತ್ತಮ ಮೂಲವಾಗಿದ್ದು, ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯ ಪ್ರಮುಖ ಆಹಾರ ಯಾವುದು?",
+    "question_variants": [
+      "ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯ ಪ್ರಮುಖ ಆಹಾರ ಏನುುದು?",
+      "ರೈತರು ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯ ಪ್ರಮುಖ ಆಹಾರ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Rotti",
+      "Sajje",
+      "Sajje Rotti",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯ ಪ್ರಮುಖ ಆಹಾರ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಜ್ಜೆ ರೊಟ್ಟಿ (Sajje Rotti). ಇದನ್ನು ಚಳಿಗಾಲದಲ್ಲಿ ದೇಹವನ್ನು ಬೆಚ್ಚಗಿಡಲು ಅತಿ ಹೆಚ್ಚು ತಿನ್ನುತ್ತಾರೆ.",
+      "detailed_answer": "ಸಜ್ಜೆ ರೊಟ್ಟಿ (Sajje Rotti). ಇದನ್ನು ಚಳಿಗಾಲದಲ್ಲಿ ದೇಹವನ್ನು ಬೆಚ್ಚಗಿಡಲು ಅತಿ ಹೆಚ್ಚು ತಿನ್ನುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆ ರೊಟ್ಟಿ (Sajje Rotti). ಇದನ್ನು ಚಳಿಗಾಲದಲ್ಲಿ ದೇಹವನ್ನು ಬೆಚ್ಚಗಿಡಲು ಅತಿ ಹೆಚ್ಚು ತಿನ್ನುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sajje Rotti"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯ ಪ್ರಮುಖ ಆಹಾರ ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಜ್ಜೆ ರೊಟ್ಟಿ (Sajje Rotti). ಇದನ್ನು ಚಳಿಗಾಲದಲ್ಲಿ ದೇಹವನ್ನು ಬೆಚ್ಚಗಿಡಲು ಅತಿ ಹೆಚ್ಚು ತಿನ್ನುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ದಂಟನ್ನು (Fodder) ಏನು ಮಾಡುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಸಜ್ಜೆಯ ದಂಟನ್ನು (Fodder) ಯಾವುದು ಮಾಡುತ್ತಾರೆ?",
+      "ರೈತರು ಸಜ್ಜೆಯ ದಂಟನ್ನು (Fodder) ಏನು ಮಾಡುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Fodder",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ದಂಟನ್ನು (Fodder) ಏನು ಮಾಡುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದನ್ನು ದನಗಳಿಗೆ ಒಣ ಮೇವಾಗಿ ನೀಡುತ್ತಾರೆ, ಆದರೆ ರಾಗಿ ಅಥವಾ ಜೋಳದ ಮೇವಿನಷ್ಟು ಪೌಷ್ಟಿಕವಲ್ಲ.",
+      "detailed_answer": "ಇದನ್ನು ದನಗಳಿಗೆ ಒಣ ಮೇವಾಗಿ ನೀಡುತ್ತಾರೆ, ಆದರೆ ರಾಗಿ ಅಥವಾ ಜೋಳದ ಮೇವಿನಷ್ಟು ಪೌಷ್ಟಿಕವಲ್ಲ.",
+      "step_by_step": [
+        "ಇದನ್ನು ದನಗಳಿಗೆ ಒಣ ಮೇವಾಗಿ ನೀಡುತ್ತಾರೆ",
+        "ಆದರೆ ರಾಗಿ ಅಥವಾ ಜೋಳದ ಮೇವಿನಷ್ಟು ಪೌಷ್ಟಿಕವಲ್ಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ದಂಟನ್ನು (Fodder) ಏನು ಮಾಡುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇದನ್ನು ದನಗಳಿಗೆ ಒಣ ಮೇವಾಗಿ ನೀಡುತ್ತಾರೆ, ಆದರೆ ರಾಗಿ ಅಥವಾ ಜೋಳದ ಮೇವಿನಷ್ಟು ಪೌಷ್ಟಿಕವಲ್ಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಮಾನ್ಯವಾಗಿ 5 ದಿಂದ 8 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಸಾಮಾನ್ಯವಾಗಿ 5 ದಿಂದ 8 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಾಮಾನ್ಯವಾಗಿ 5 ದಿಂದ 8 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಗಿಡವು ಎಷ್ಟು ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಾಮಾನ್ಯವಾಗಿ 5 ದಿಂದ 8 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಪರಾಗಸ್ಪರ್ಶ (Pollination) ಸಜ್ಜೆಯಲ್ಲಿ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+    "question_variants": [
+      "ಪರಾಗಸ್ಪರ್ಶ (Pollination) ಸಜ್ಜೆಯಲ್ಲಿ ಯಾವ ರೀತಿ ನಡೆಯುತ್ತದೆ?",
+      "ರೈತರು ಪರಾಗಸ್ಪರ್ಶ (Pollination) ಸಜ್ಜೆಯಲ್ಲಿ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Cross-pollination",
+      "Karnataka",
+      "Pollination",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಪರಾಗಸ್ಪರ್ಶ (Pollination) ಸಜ್ಜೆಯಲ್ಲಿ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಜ್ಜೆಯು ಮುಖ್ಯವಾಗಿ ಗಾಳಿಯ ಮೂಲಕ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ (Cross-pollination) ಆಗುವ ಬೆಳೆ.",
+      "detailed_answer": "ಸಜ್ಜೆಯು ಮುಖ್ಯವಾಗಿ ಗಾಳಿಯ ಮೂಲಕ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ (Cross-pollination) ಆಗುವ ಬೆಳೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯು ಮುಖ್ಯವಾಗಿ ಗಾಳಿಯ ಮೂಲಕ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ (Cross-pollination) ಆಗುವ ಬೆಳೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Cross-pollination"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಪರಾಗಸ್ಪರ್ಶ (Pollination) ಸಜ್ಜೆಯಲ್ಲಿ ಹೇಗೆ ನಡೆಯುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಜ್ಜೆಯು ಮುಖ್ಯವಾಗಿ ಗಾಳಿಯ ಮೂಲಕ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ (Cross-pollination) ಆಗುವ ಬೆಳೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಕೊಳ್ಳಬೇಕೇ?",
+    "question_variants": [
+      "ರೈತರು ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಕೊಳ್ಳಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಕೊಳ್ಳಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುವುದರಿಂದ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಕೊಳ್ಳುವುದು ಕಡ್ಡಾಯ.",
+      "detailed_answer": "ಹೌದು, ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುವುದರಿಂದ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಕೊಳ್ಳುವುದು ಕಡ್ಡಾಯ.",
+      "step_by_step": [
+        "ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುವುದರಿಂದ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಕೊಳ್ಳುವುದು ಕಡ್ಡಾಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಕೊಳ್ಳಬೇಕೇ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಹೌದು, ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುವುದರಿಂದ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಕೊಳ್ಳುವುದು ಕಡ್ಡಾಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಹಸಿರಾಗಿರಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಹಸಿರಾಗಿರಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಹಸಿರಾಗಿರಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅದು ತಳಿಯ ಗುಣಲಕ್ಷಣ. ಕೆಲವು ತಳಿಗಳು ಬೂದು, ಮತ್ತೆ ಕೆಲವು ತಿಳಿ ಹಸಿರು ಬಣ್ಣದ ಕಾಳುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+      "detailed_answer": "ಅದು ತಳಿಯ ಗುಣಲಕ್ಷಣ. ಕೆಲವು ತಳಿಗಳು ಬೂದು, ಮತ್ತೆ ಕೆಲವು ತಿಳಿ ಹಸಿರು ಬಣ್ಣದ ಕಾಳುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಅದು ತಳಿಯ ಗುಣಲಕ್ಷಣ. ಕೆಲವು ತಳಿಗಳು ಬೂದು",
+        "ಮತ್ತೆ ಕೆಲವು ತಿಳಿ ಹಸಿರು ಬಣ್ಣದ ಕಾಳುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಹಸಿರಾಗಿರಲು ಕಾರಣವೇನು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಅದು ತಳಿಯ ಗುಣಲಕ್ಷಣ. ಕೆಲವು ತಳಿಗಳು ಬೂದು, ಮತ್ತೆ ಕೆಲವು ತಿಳಿ ಹಸಿರು ಬಣ್ಣದ ಕಾಳುಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪಕ್ಷಿಗಳ ಕಾಟ (Bird damage) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪಕ್ಷಿಗಳ ಕಾಟ (Bird damage) ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪಕ್ಷಿಗಳ ಕಾಟ (Bird damage) ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Bird",
+      "Bird damage",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪಕ್ಷಿಗಳ ಕಾಟ (Bird damage) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೆನೆ ಬಲಿಯುವಾಗ ಪಕ್ಷಿಗಳು ಹೆಚ್ಚು ದಾಳಿ ಮಾಡುತ್ತವೆ, ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ಅಥವಾ ಶಬ್ದ ಮಾಡುವ ಡಬ್ಬಿಗಳನ್ನು ಕಟ್ಟಬೇಕು.",
+      "detailed_answer": "ತೆನೆ ಬಲಿಯುವಾಗ ಪಕ್ಷಿಗಳು ಹೆಚ್ಚು ದಾಳಿ ಮಾಡುತ್ತವೆ, ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ಅಥವಾ ಶಬ್ದ ಮಾಡುವ ಡಬ್ಬಿಗಳನ್ನು ಕಟ್ಟಬೇಕು.",
+      "step_by_step": [
+        "ತೆನೆ ಬಲಿಯುವಾಗ ಪಕ್ಷಿಗಳು ಹೆಚ್ಚು ದಾಳಿ ಮಾಡುತ್ತವೆ",
+        "ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ಅಥವಾ ಶಬ್ದ ಮಾಡುವ ಡಬ್ಬಿಗಳನ್ನು ಕಟ್ಟಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪಕ್ಷಿಗಳ ಕಾಟ (Bird damage) ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತೆನೆ ಬಲಿಯುವಾಗ ಪಕ್ಷಿಗಳು ಹೆಚ್ಚು ದಾಳಿ ಮಾಡುತ್ತವೆ, ಹೊಲದಲ್ಲಿ ಬೆದರುಬೊಂಬೆ ಅಥವಾ ಶಬ್ದ ಮಾಡುವ ಡಬ್ಬಿಗಳನ್ನು ಕಟ್ಟಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಎಷ್ಟು ದಿನ ಶೇಖರಿಸಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಎಷ್ಟು ದಿನ ಶೇಖರಿಸಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಎಷ್ಟು ದಿನ ಶೇಖರಿಸಬಹುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ತೇವಾಂಶ 10% ಕ್ಕಿಂತ ಕಡಿಮೆ ಮಾಡಿ, ಕೀಟಬಾಧೆ ಇಲ್ಲದಂತೆ ನೋಡಿಕೊಂಡರೆ 6-8 ತಿಂಗಳು ಶೇಖರಿಸಬಹುದು.",
+      "detailed_answer": "ತೇವಾಂಶ 10% ಕ್ಕಿಂತ ಕಡಿಮೆ ಮಾಡಿ, ಕೀಟಬಾಧೆ ಇಲ್ಲದಂತೆ ನೋಡಿಕೊಂಡರೆ 6-8 ತಿಂಗಳು ಶೇಖರಿಸಬಹುದು.",
+      "step_by_step": [
+        "ತೇವಾಂಶ 10% ಕ್ಕಿಂತ ಕಡಿಮೆ ಮಾಡಿ",
+        "ಕೀಟಬಾಧೆ ಇಲ್ಲದಂತೆ ನೋಡಿಕೊಂಡರೆ 6-8 ತಿಂಗಳು ಶೇಖರಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "10%"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಎಷ್ಟು ದಿನ ಶೇಖರಿಸಬಹುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತೇವಾಂಶ 10% ಕ್ಕಿಂತ ಕಡಿಮೆ ಮಾಡಿ, ಕೀಟಬಾಧೆ ಇಲ್ಲದಂತೆ ನೋಡಿಕೊಂಡರೆ 6-8 ತಿಂಗಳು ಶೇಖರಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹಿಟ್ಟು ಬೇಗ ಕೆಡಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಹಿಟ್ಟು ಬೇಗ ಕೆಡಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Fat",
+      "Fat content",
+      "Karnataka",
+      "Rancidity",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹಿಟ್ಟು ಬೇಗ ಕೆಡಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಜ್ಜೆಯಲ್ಲಿ ಕೊಬ್ಬಿನಾಂಶ (Fat content) ಹೆಚ್ಚಿರುವುದರಿಂದ, ಹಿಟ್ಟು ಮಾಡಿದ 15-20 ದಿನಗಳ ನಂತರ ಕಹಿಯಾಗುತ್ತದೆ (Rancidity).",
+      "detailed_answer": "ಸಜ್ಜೆಯಲ್ಲಿ ಕೊಬ್ಬಿನಾಂಶ (Fat content) ಹೆಚ್ಚಿರುವುದರಿಂದ, ಹಿಟ್ಟು ಮಾಡಿದ 15-20 ದಿನಗಳ ನಂತರ ಕಹಿಯಾಗುತ್ತದೆ (Rancidity).",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯಲ್ಲಿ ಕೊಬ್ಬಿನಾಂಶ (Fat content) ಹೆಚ್ಚಿರುವುದರಿಂದ",
+        "ಹಿಟ್ಟು ಮಾಡಿದ 15-20 ದಿನಗಳ ನಂತರ ಕಹಿಯಾಗುತ್ತದೆ (Rancidity)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Fat content",
+        "Rancidity"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹಿಟ್ಟು ಬೇಗ ಕೆಡಲು ಕಾರಣವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಜ್ಜೆಯಲ್ಲಿ ಕೊಬ್ಬಿನಾಂಶ (Fat content) ಹೆಚ್ಚಿರುವುದರಿಂದ, ಹಿಟ್ಟು ಮಾಡಿದ 15-20 ದಿನಗಳ ನಂತರ ಕಹಿಯಾಗುತ್ತದೆ (Rancidity).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "detailed_answer": "ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಕಾಳುಗಳಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಗ್ಲುಟೆನ್ (Gluten) ಸಜ್ಜೆಯಲ್ಲಿ ಇದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಗ್ಲುಟೆನ್ (Gluten) ಸಜ್ಜೆಯಲ್ಲಿ ಇದೆಯೇ?"
+    ],
+    "keywords": [
+      "Gluten",
+      "Gluten-free",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಗ್ಲುಟೆನ್ (Gluten) ಸಜ್ಜೆಯಲ್ಲಿ ಇದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಸಜ್ಜೆಯು ಸಂಪೂರ್ಣವಾಗಿ ಗ್ಲುಟೆನ್-ಮುಕ್ತ (Gluten-free) ಧಾನ್ಯವಾಗಿದೆ.",
+      "detailed_answer": "ಇಲ್ಲ, ಸಜ್ಜೆಯು ಸಂಪೂರ್ಣವಾಗಿ ಗ್ಲುಟೆನ್-ಮುಕ್ತ (Gluten-free) ಧಾನ್ಯವಾಗಿದೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯು ಸಂಪೂರ್ಣವಾಗಿ ಗ್ಲುಟೆನ್-ಮುಕ್ತ (Gluten-free) ಧಾನ್ಯವಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Gluten-free"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗ್ಲುಟೆನ್ (Gluten) ಸಜ್ಜೆಯಲ್ಲಿ ಇದೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇಲ್ಲ, ಸಜ್ಜೆಯು ಸಂಪೂರ್ಣವಾಗಿ ಗ್ಲುಟೆನ್-ಮುಕ್ತ (Gluten-free) ಧಾನ್ಯವಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಬಸಿಗಾಲುವೆ (Drainage) ಅಗತ್ಯವೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಬಸಿಗಾಲುವೆ (Drainage) ಅಗತ್ಯವೇ?"
+    ],
+    "keywords": [
+      "Drainage",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಬಸಿಗಾಲುವೆ (Drainage) ಅಗತ್ಯವೇ?",
+    "symptoms": [
+      "ಬೇರುಗಳು ಕೊಳೆತು ಸಾಯುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಸಜ್ಜೆಗೆ ನೀರು ನಿಲ್ಲುವುದು ಸ್ವಲ್ಪವೂ ಆಗಿಬರುವುದಿಲ್ಲ. ಬೇರುಗಳು ಕೊಳೆತು ಸಾಯುತ್ತವೆ.",
+      "detailed_answer": "ಹೌದು, ಸಜ್ಜೆಗೆ ನೀರು ನಿಲ್ಲುವುದು ಸ್ವಲ್ಪವೂ ಆಗಿಬರುವುದಿಲ್ಲ. ಬೇರುಗಳು ಕೊಳೆತು ಸಾಯುತ್ತವೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆಗೆ ನೀರು ನಿಲ್ಲುವುದು ಸ್ವಲ್ಪವೂ ಆಗಿಬರುವುದಿಲ್ಲ. ಬೇರುಗಳು ಕೊಳೆತು ಸಾಯುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬೇರುಗಳು ಕೊಳೆತು ಸಾಯುತ್ತವೆ"
+      ]
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಬಸಿಗಾಲುವೆ (Drainage) ಅಗತ್ಯವೇ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಸಜ್ಜೆಗೆ ನೀರು ನಿಲ್ಲುವುದು ಸ್ವಲ್ಪವೂ ಆಗಿಬರುವುದಿಲ್ಲ. ಬೇರುಗಳು ಕೊಳೆತು ಸಾಯುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಬಹಳ ಆಳಕ್ಕೆ ಹೋಗುವ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು, ಮಣ್ಣಿನ ಆಳದಲ್ಲಿರುವ ತೇವಾಂಶವನ್ನು ಹೀರಿ ಬರಗಾಲ ತಡೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಬಹಳ ಆಳಕ್ಕೆ ಹೋಗುವ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು, ಮಣ್ಣಿನ ಆಳದಲ್ಲಿರುವ ತೇವಾಂಶವನ್ನು ಹೀರಿ ಬರಗಾಲ ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ಬಹಳ ಆಳಕ್ಕೆ ಹೋಗುವ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು",
+        "ಮಣ್ಣಿನ ಆಳದಲ್ಲಿರುವ ತೇವಾಂಶವನ್ನು ಹೀರಿ ಬರಗಾಲ ತಡೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಇದು ಬಹಳ ಆಳಕ್ಕೆ ಹೋಗುವ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು, ಮಣ್ಣಿನ ಆಳದಲ್ಲಿರುವ ತೇವಾಂಶವನ್ನು ಹೀರಿ ಬರಗಾಲ ತಡೆಯುತ್ತದೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಬಹಳ ಆಳಕ್ಕೆ ಹೋಗುವ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು, ಮಣ್ಣಿನ ಆಳದಲ್ಲಿರುವ ತೇವಾಂಶವನ್ನು ಹೀರಿ ಬರಗಾಲ ತಡೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಸಜ್ಜೆ ತೆನೆಗೆ ಹಾನಿಯಾಗುತ್ತದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಸಜ್ಜೆ ತೆನೆಗೆ ಹಾನಿಯಾಗುತ್ತದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಸಜ್ಜೆ ತೆನೆಗೆ ಹಾನಿಯಾಗುತ್ತದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಹೂ ಬಿಡುವ ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಆಲಿಕಲ್ಲು ಬಿದ್ದರೆ ಕಾಳುಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಉದುರಿ ಹೋಗುತ್ತವೆ.",
+      "detailed_answer": "ಹೌದು, ಹೂ ಬಿಡುವ ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಆಲಿಕಲ್ಲು ಬಿದ್ದರೆ ಕಾಳುಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಉದುರಿ ಹೋಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಆಲಿಕಲ್ಲು ಬಿದ್ದರೆ ಕಾಳುಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಉದುರಿ ಹೋಗುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಸಜ್ಜೆ ತೆನೆಗೆ ಹಾನಿಯಾಗುತ್ತದೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಹೂ ಬಿಡುವ ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಆಲಿಕಲ್ಲು ಬಿದ್ದರೆ ಕಾಳುಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಉದುರಿ ಹೋಗುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Sulphur",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು, ಯೂರಿಯಾ ಜೊತೆ ಸ್ವಲ್ಪ ಜಿಪ್ಸಮ್ ಸೇರಿಸಿದರೆ ಗಂಧಕದ ಕೊರತೆ ನೀಗುತ್ತದೆ.",
+      "detailed_answer": "ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು, ಯೂರಿಯಾ ಜೊತೆ ಸ್ವಲ್ಪ ಜಿಪ್ಸಮ್ ಸೇರಿಸಿದರೆ ಗಂಧಕದ ಕೊರತೆ ನೀಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು",
+        "ಯೂರಿಯಾ ಜೊತೆ ಸ್ವಲ್ಪ ಜಿಪ್ಸಮ್ ಸೇರಿಸಿದರೆ ಗಂಧಕದ ಕೊರತೆ ನೀಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು, ಯೂರಿಯಾ ಜೊತೆ ಸ್ವಲ್ಪ ಜಿಪ್ಸಮ್ ಸೇರಿಸಿದರೆ ಗಂಧಕದ ಕೊರತೆ ನೀಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ?",
+    "question_variants": [
+      "ರೈತರು ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ, ವಿಜಯಪುರ ಮತ್ತು ರಾಯಚೂರು ಕೃಷಿ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನೆ ನಡೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ, ವಿಜಯಪುರ ಮತ್ತು ರಾಯಚೂರು ಕೃಷಿ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನೆ ನಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ",
+        "ರಾಯಚೂರು ಕೃಷಿ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನೆ ನಡೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನಾ ಕೇಂದ್ರ ಎಲ್ಲಿದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ, ವಿಜಯಪುರ ಮತ್ತು ರಾಯಚೂರು ಕೃಷಿ ವಿಶ್ವವಿದ್ಯಾಲಯದಲ್ಲಿ ಸಜ್ಜೆ ಸಂಶೋಧನೆ ನಡೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವುದು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವುದು ಏನುಾಗ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವುದು ಯಾವಾಗ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವುದು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತಿದ 20 ಮತ್ತು 40 ದಿನಗಳ ಅಂತರದಲ್ಲಿ ಎರಡು ಬಾರಿ ಕೈಯಿಂದ ಕಳೆ ಕೀಳಬೇಕು ಅಥವಾ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತಿದ 20 ಮತ್ತು 40 ದಿನಗಳ ಅಂತರದಲ್ಲಿ ಎರಡು ಬಾರಿ ಕೈಯಿಂದ ಕಳೆ ಕೀಳಬೇಕು ಅಥವಾ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು.",
+      "step_by_step": [
+        "40 ದಿನಗಳ ಅಂತರದಲ್ಲಿ ಎರಡು ಬಾರಿ ಕೈಯಿಂದ ಕಳೆ ಕೀಳಬೇಕು ಅಥವಾ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವುದು ಯಾವಾಗ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬಿತ್ತಿದ 20 ಮತ್ತು 40 ದಿನಗಳ ಅಂತರದಲ್ಲಿ ಎರಡು ಬಾರಿ ಕೈಯಿಂದ ಕಳೆ ಕೀಳಬೇಕು ಅಥವಾ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಕಾಂಡವು ಬಲವಾಗಿರಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಕಾಂಡವು ಬಲವಾಗಿರಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಕಾಂಡವು ಬಲವಾಗಿರಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Phosphorus",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಕಾಂಡವು ಬಲವಾಗಿರಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಂಜಕ (Phosphorus) ಮತ್ತು ಪೊಟ್ಯಾಷ್ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಗನುಗುಣವಾಗಿ ಕೊಡಬೇಕು.",
+      "detailed_answer": "ರಂಜಕ (Phosphorus) ಮತ್ತು ಪೊಟ್ಯಾಷ್ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಗನುಗುಣವಾಗಿ ಕೊಡಬೇಕು.",
+      "step_by_step": [
+        "ರಂಜಕ (Phosphorus)",
+        "ಪೊಟ್ಯಾಷ್ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಗನುಗುಣವಾಗಿ ಕೊಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Phosphorus"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಕಾಂಡವು ಬಲವಾಗಿರಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಂಜಕ (Phosphorus) ಮತ್ತು ಪೊಟ್ಯಾಷ್ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಗನುಗುಣವಾಗಿ ಕೊಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "comparative",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಮತ್ತು ನಾಟಿ ಸಜ್ಜೆಯ ವ್ಯತ್ಯಾಸವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಮತ್ತು ನಾಟಿ ಸಜ್ಜೆಯ ವ್ಯತ್ಯಾಸವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "harvesting",
+      "ಇಳುವರಿ",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಮತ್ತು ನಾಟಿ ಸಜ್ಜೆಯ ವ್ಯತ್ಯಾಸವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆಯ ತೆನೆಗಳು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ, ಒಂದೇ ಸಮನಾಗಿ ಕಟಾವಿಗೆ ಬರುತ್ತವೆ ಮತ್ತು ಇಳುವರಿ ದುಪ್ಪಟ್ಟು ಇರುತ್ತದೆ.",
+      "detailed_answer": "ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆಯ ತೆನೆಗಳು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ, ಒಂದೇ ಸಮನಾಗಿ ಕಟಾವಿಗೆ ಬರುತ್ತವೆ ಮತ್ತು ಇಳುವರಿ ದುಪ್ಪಟ್ಟು ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆಯ ತೆನೆಗಳು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ",
+        "ಒಂದೇ ಸಮನಾಗಿ ಕಟಾವಿಗೆ ಬರುತ್ತವೆ",
+        "ಇಳುವರಿ ದುಪ್ಪಟ್ಟು ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆ ಮತ್ತು ನಾಟಿ ಸಜ್ಜೆಯ ವ್ಯತ್ಯಾಸವೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಹೈಬ್ರಿಡ್ ಸಜ್ಜೆಯ ತೆನೆಗಳು ದೊಡ್ಡದಾಗಿರುತ್ತವೆ, ಒಂದೇ ಸಮನಾಗಿ ಕಟಾವಿಗೆ ಬರುತ್ತವೆ ಮತ್ತು ಇಳುವರಿ ದುಪ್ಪಟ್ಟು ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಗೆ ಯಾವ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆಗೆ ಏನು ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆಗೆ ಯಾವ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "PSB",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಗೆ ಯಾವ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅಜೋಸ್ಪೈರಿಲಂ ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ (PSB) ಜೈವಿಕ ಗೊಬ್ಬರಗಳನ್ನು ಬೀಜೋಪಚಾರದ ಮೂಲಕ ನೀಡಬಹುದು.",
+      "detailed_answer": "ಅಜೋಸ್ಪೈರಿಲಂ ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ (PSB) ಜೈವಿಕ ಗೊಬ್ಬರಗಳನ್ನು ಬೀಜೋಪಚಾರದ ಮೂಲಕ ನೀಡಬಹುದು.",
+      "step_by_step": [
+        "ಅಜೋಸ್ಪೈರಿಲಂ",
+        "ಪಿ.ಎಸ್.ಬಿ (PSB) ಜೈವಿಕ ಗೊಬ್ಬರಗಳನ್ನು ಬೀಜೋಪಚಾರದ ಮೂಲಕ ನೀಡಬಹುದು."
+      ],
+      "preventive_measures": [
+        "ಬಿ (PSB) ಜೈವಿಕ ಗೊಬ್ಬರಗಳನ್ನು ಬೀಜೋಪಚಾರದ ಮೂಲಕ ನೀಡಬಹುದು"
+      ],
+      "recommended_products": [
+        "PSB"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಗೆ ಯಾವ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅಜೋಸ್ಪೈರಿಲಂ ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ (PSB) ಜೈವಿಕ ಗೊಬ್ಬರಗಳನ್ನು ಬೀಜೋಪಚಾರದ ಮೂಲಕ ನೀಡಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಭೂಮಿ ಸಿದ್ಧತೆ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ, ಮಳೆಗಾಲದ ಮುನ್ನ ಕುಂಟೆ ಹೊಡೆದು ಹೆಂಟೆ ಒಡೆದು ಹದ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ, ಮಳೆಗಾಲದ ಮುನ್ನ ಕುಂಟೆ ಹೊಡೆದು ಹೆಂಟೆ ಒಡೆದು ಹದ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ",
+        "ಮಳೆಗಾಲದ ಮುನ್ನ ಕುಂಟೆ ಹೊಡೆದು ಹೆಂಟೆ ಒಡೆದು ಹದ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ, ಮಳೆಗಾಲದ ಮುನ್ನ ಕುಂಟೆ ಹೊಡೆದು ಹೆಂಟೆ ಒಡೆದು ಹದ ಮಾಡಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೇಸಿಗೆಯಲ್ಲಿ ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ, ಮಳೆಗಾಲದ ಮುನ್ನ ಕುಂಟೆ ಹೊಡೆದು ಹೆಂಟೆ ಒಡೆದು ಹದ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಟ್ರ್ಯಾಕ್ಟರ್ ನಿಂದ ಬಿತ್ತಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಟ್ರ್ಯಾಕ್ಟರ್ ನಿಂದ ಬಿತ್ತಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಟ್ರ್ಯಾಕ್ಟರ್ ನಿಂದ ಬಿತ್ತಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಸೀಡ್ ಡ್ರಿಲ್ ಮೂಲಕ ಸಾಲಿನಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಂತ ಸುಲಭ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ.",
+      "detailed_answer": "ಹೌದು, ಸೀಡ್ ಡ್ರಿಲ್ ಮೂಲಕ ಸಾಲಿನಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಂತ ಸುಲಭ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ.",
+      "step_by_step": [
+        "ಸೀಡ್ ಡ್ರಿಲ್ ಮೂಲಕ ಸಾಲಿನಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಂತ ಸುಲಭ",
+        "ಪರಿಣಾಮಕಾರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೀಜಗಳನ್ನು ಟ್ರ್ಯಾಕ್ಟರ್ ನಿಂದ ಬಿತ್ತಬಹುದೇ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಹೌದು, ಸೀಡ್ ಡ್ರಿಲ್ ಮೂಲಕ ಸಾಲಿನಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಂತ ಸುಲಭ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಗಾಳಿಗೆ ಸಜ್ಜೆ ಗಿಡಗಳು ಬೀಳದಂತೆ (Lodging) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಗಾಳಿಗೆ ಸಜ್ಜೆ ಗಿಡಗಳು ಬೀಳದಂತೆ (Lodging) ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಗಾಳಿಗೆ ಸಜ್ಜೆ ಗಿಡಗಳು ಬೀಳದಂತೆ (Lodging) ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Earthing",
+      "Earthing up",
+      "Karnataka",
+      "Lodging",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಗಾಳಿಗೆ ಸಜ್ಜೆ ಗಿಡಗಳು ಬೀಳದಂತೆ (Lodging) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಸಿಗಳ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರಿಸುವುದು (Earthing up) ಮತ್ತು ಯೂರಿಯಾವನ್ನು ಅತಿಯಾಗಿ ಹಾಕದಿರುವುದು.",
+      "detailed_answer": "ಸಸಿಗಳ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರಿಸುವುದು (Earthing up) ಮತ್ತು ಯೂರಿಯಾವನ್ನು ಅತಿಯಾಗಿ ಹಾಕದಿರುವುದು.",
+      "step_by_step": [
+        "ಸಸಿಗಳ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರಿಸುವುದು (Earthing up)",
+        "ಯೂರಿಯಾವನ್ನು ಅತಿಯಾಗಿ ಹಾಕದಿರುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Earthing up"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಗಾಳಿಗೆ ಸಜ್ಜೆ ಗಿಡಗಳು ಬೀಳದಂತೆ (Lodging) ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಸಿಗಳ ಬುಡಕ್ಕೆ ಮಣ್ಣು ಏರಿಸುವುದು (Earthing up) ಮತ್ತು ಯೂರಿಯಾವನ್ನು ಅತಿಯಾಗಿ ಹಾಕದಿರುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ಬಂದರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Aphids",
+      "Dimethoate",
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Dimethoate",
+        "1.5 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮೆಕ್ಕೆಜೋಳದ ಬದಲಾಗಿ ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿ ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಮೆಕ್ಕೆಜೋಳದ ಬದಲಾಗಿ ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿ ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಮೆಕ್ಕೆಜೋಳದ ಬದಲಾಗಿ ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿ ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರವಾಗಿ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಮೆಕ್ಕೆಜೋಳದ ಬದಲಾಗಿ ಸಜ್ಜೆಯನ್ನು ಕೋಳಿ ಆಹಾರದಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿ ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬರಗಾಲದಲ್ಲಿ ಸಜ್ಜೆ ಎಲೆಗಳು ಒಣಗಲು ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಬರಗಾಲದಲ್ಲಿ ಸಜ್ಜೆ ಎಲೆಗಳು ಒಣಗಲು ಆರಂಭಿಸಿದರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಬರಗಾಲದಲ್ಲಿ ಸಜ್ಜೆ ಎಲೆಗಳು ಒಣಗಲು ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಬರಗಾಲದಲ್ಲಿ ಸಜ್ಜೆ ಎಲೆಗಳು ಒಣಗಲು ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಧ್ಯವಾದರೆ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಎಲೆಗಳು ಮುದುರಿ ತಮ್ಮ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "detailed_answer": "ಸಾಧ್ಯವಾದರೆ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಎಲೆಗಳು ಮುದುರಿ ತಮ್ಮ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ಸಾಧ್ಯವಾದರೆ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಎಲೆಗಳು ಮುದುರಿ ತಮ್ಮ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬರಗಾಲದಲ್ಲಿ ಸಜ್ಜೆ ಎಲೆಗಳು ಒಣಗಲು ಆರಂಭಿಸಿದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾಧ್ಯವಾದರೆ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಎಲೆಗಳು ಮುದುರಿ ತಮ್ಮ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ತೆನೆಯ ಮೇಲೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ತೆನೆಯ ಮೇಲೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Smut",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ತೆನೆಯ ಮೇಲೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು?",
+    "symptoms": [
+      "ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಳುಗಳು ಕಪ್ಪಾಗಿ ಒಡೆಯುತ್ತವೆ"
+    ],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಇದು ಕಾಡಿಗೆ ರೋಗ (Smut). ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಳುಗಳು ಕಪ್ಪಾಗಿ ಒಡೆಯುತ್ತವೆ.",
+      "detailed_answer": "ಇದು ಕಾಡಿಗೆ ರೋಗ (Smut). ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಳುಗಳು ಕಪ್ಪಾಗಿ ಒಡೆಯುತ್ತವೆ.",
+      "step_by_step": [
+        "ಇದು ಕಾಡಿಗೆ ರೋಗ (Smut). ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಳುಗಳು ಕಪ್ಪಾಗಿ ಒಡೆಯುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Smut"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ತೆನೆಯ ಮೇಲೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಕಾಡಿಗೆ ರೋಗ (Smut). ಶಿಲೀಂಧ್ರದಿಂದ ಕಾಳುಗಳು ಕಪ್ಪಾಗಿ ಒಡೆಯುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ: ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Smut",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು ಕಡ್ಡಾಯ.",
+      "detailed_answer": "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು ಕಡ್ಡಾಯ.",
+      "step_by_step": [
+        "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು",
+        "ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು ಕಡ್ಡಾಯ."
+      ],
+      "preventive_measures": [
+        "ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು ಕಡ್ಡಾಯ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೀಜೋಪಚಾರ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು ಕಡ್ಡಾಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯಿಂದ ಯಾವೆಲ್ಲಾ ಮೌಲ್ಯವರ್ಧಿತ ಉತ್ಪನ್ನ (Value addition) ಮಾಡಬಹುದು?",
+    "question_variants": [
+      "ಸಜ್ಜೆಯಿಂದ ಏನುೆಲ್ಲಾ ಮೌಲ್ಯವರ್ಧಿತ ಉತ್ಪನ್ನ (Value addition) ಮಾಡಬಹುದು?",
+      "ರೈತರು ಸಜ್ಜೆಯಿಂದ ಯಾವೆಲ್ಲಾ ಮೌಲ್ಯವರ್ಧಿತ ಉತ್ಪನ್ನ (Value addition) ಮಾಡಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Puffed",
+      "Puffed bajra",
+      "Value",
+      "Value addition",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯಿಂದ ಯಾವೆಲ್ಲಾ ಮೌಲ್ಯವರ್ಧಿತ ಉತ್ಪನ್ನ (Value addition) ಮಾಡಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಜ್ಜೆ ರೊಟ್ಟಿ, ಬಿಸ್ಕತ್ತು, ನಿಪ್ಪಟ್ಟು, ಮಾಲ್ಟ್ ಮತ್ತು ಪಾಪ್-ಸಜ್ಜೆ (Puffed bajra) ಮಾಡಬಹುದು.",
+      "detailed_answer": "ಸಜ್ಜೆ ರೊಟ್ಟಿ, ಬಿಸ್ಕತ್ತು, ನಿಪ್ಪಟ್ಟು, ಮಾಲ್ಟ್ ಮತ್ತು ಪಾಪ್-ಸಜ್ಜೆ (Puffed bajra) ಮಾಡಬಹುದು.",
+      "step_by_step": [
+        "ಸಜ್ಜೆ ರೊಟ್ಟಿ",
+        "ಪಾಪ್-ಸಜ್ಜೆ (Puffed bajra) ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Puffed bajra"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯಿಂದ ಯಾವೆಲ್ಲಾ ಮೌಲ್ಯವರ್ಧಿತ ಉತ್ಪನ್ನ (Value addition) ಮಾಡಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಜ್ಜೆ ರೊಟ್ಟಿ, ಬಿಸ್ಕತ್ತು, ನಿಪ್ಪಟ್ಟು, ಮಾಲ್ಟ್ ಮತ್ತು ಪಾಪ್-ಸಜ್ಜೆ (Puffed bajra) ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಏನುಾಗ ಹಾಕಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಗೆ ಕಾಂಪೋಸ್ಟ್ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಎಕರೆಗೆ 2-3 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರವನ್ನು ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ತೆನೆಗಳು ಸರಿಯಾಗಿ ಕಾಳು ಕಟ್ಟದಿರಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ತೆನೆಗಳು ಸರಿಯಾಗಿ ಕಾಳು ಕಟ್ಟದಿರಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ತೆನೆಗಳು ಸರಿಯಾಗಿ ಕಾಳು ಕಟ್ಟದಿರಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ವಿಪರೀತ ಬಿಸಿಲು ಅಥವಾ ಭಾರಿ ಮಳೆಯಿಂದ ಪರಾಗಸ್ಪರ್ಶ ವಿಫಲವಾಗುವುದು.",
+      "detailed_answer": "ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ವಿಪರೀತ ಬಿಸಿಲು ಅಥವಾ ಭಾರಿ ಮಳೆಯಿಂದ ಪರಾಗಸ್ಪರ್ಶ ವಿಫಲವಾಗುವುದು.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ವಿಪರೀತ ಬಿಸಿಲು ಅಥವಾ ಭಾರಿ ಮಳೆಯಿಂದ ಪರಾಗಸ್ಪರ್ಶ ವಿಫಲವಾಗುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ತೆನೆಗಳು ಸರಿಯಾಗಿ ಕಾಳು ಕಟ್ಟದಿರಲು ಕಾರಣವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ವಿಪರೀತ ಬಿಸಿಲು ಅಥವಾ ಭಾರಿ ಮಳೆಯಿಂದ ಪರಾಗಸ್ಪರ್ಶ ವಿಫಲವಾಗುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಏನು ಮಣ್ಣಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ?",
+      "ರೈತರು ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಆಳವಿಲ್ಲದ ಕಪ್ಪು ಮಣ್ಣು ಮತ್ತು ಸುಣ್ಣದಂಶವಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಆಳವಿಲ್ಲದ ಕಪ್ಪು ಮಣ್ಣು ಮತ್ತು ಸುಣ್ಣದಂಶವಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಉತ್ತರ ಕರ್ನಾಟಕದ ಆಳವಿಲ್ಲದ ಕಪ್ಪು ಮಣ್ಣು",
+        "ಸುಣ್ಣದಂಶವಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಉತ್ತರ ಕರ್ನಾಟಕದ ಆಳವಿಲ್ಲದ ಕಪ್ಪು ಮಣ್ಣು ಮತ್ತು ಸುಣ್ಣದಂಶವಿರುವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರುಗಳಲ್ಲಿ ಯಾವ ಆಮ್ಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರುಗಳಲ್ಲಿ ಏನು ಆಮ್ಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರುಗಳಲ್ಲಿ ಯಾವ ಆಮ್ಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "organic farming",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರುಗಳಲ್ಲಿ ಯಾವ ಆಮ್ಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಮಣ್ಣಿನಲ್ಲಿರುವ ಕರಗದ ರಂಜಕವನ್ನು ಕರಗಿಸಲು ವಿಶೇಷ ಸಾವಯವ ಆಮ್ಲಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಮಣ್ಣಿನಲ್ಲಿರುವ ಕರಗದ ರಂಜಕವನ್ನು ಕರಗಿಸಲು ವಿಶೇಷ ಸಾವಯವ ಆಮ್ಲಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ಮಣ್ಣಿನಲ್ಲಿರುವ ಕರಗದ ರಂಜಕವನ್ನು ಕರಗಿಸಲು ವಿಶೇಷ ಸಾವಯವ ಆಮ್ಲಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಇದು ಮಣ್ಣಿನಲ್ಲಿರುವ ಕರಗದ ರಂಜಕವನ್ನು ಕರಗಿಸಲು ವಿಶೇಷ ಸಾವಯವ ಆಮ್ಲಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯ ಬೇರುಗಳಲ್ಲಿ ಯಾವ ಆಮ್ಲ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಮಣ್ಣಿನಲ್ಲಿರುವ ಕರಗದ ರಂಜಕವನ್ನು ಕರಗಿಸಲು ವಿಶೇಷ ಸಾವಯವ ಆಮ್ಲಗಳನ್ನು ಬಿಡುಗಡೆ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯನ್ನು ಹಸಿರು ಮೇವಿಗಾಗಿ (Green fodder) ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯನ್ನು ಹಸಿರು ಮೇವಿಗಾಗಿ (Green fodder) ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Green",
+      "Green fodder",
+      "Karnataka",
+      "Multi-cut",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯನ್ನು ಹಸಿರು ಮೇವಿಗಾಗಿ (Green fodder) ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಲ್ಟಿ-ಕಟ್ (Multi-cut) ಸಜ್ಜೆ ತಳಿಗಳನ್ನು ಬೆಳೆದು ಹೂ ಬಿಡುವ ಮುನ್ನ ಕತ್ತರಿಸಿ ದನಗಳಿಗೆ ಮೇವಾಗಿ ನೀಡಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಮಲ್ಟಿ-ಕಟ್ (Multi-cut) ಸಜ್ಜೆ ತಳಿಗಳನ್ನು ಬೆಳೆದು ಹೂ ಬಿಡುವ ಮುನ್ನ ಕತ್ತರಿಸಿ ದನಗಳಿಗೆ ಮೇವಾಗಿ ನೀಡಬಹುದು.",
+      "step_by_step": [
+        "ಮಲ್ಟಿ-ಕಟ್ (Multi-cut) ಸಜ್ಜೆ ತಳಿಗಳನ್ನು ಬೆಳೆದು ಹೂ ಬಿಡುವ ಮುನ್ನ ಕತ್ತರಿಸಿ ದನಗಳಿಗೆ ಮೇವಾಗಿ ನೀಡಬಹುದು."
+      ],
+      "preventive_measures": [
+        "ಹೌದು, ಮಲ್ಟಿ-ಕಟ್ (Multi-cut) ಸಜ್ಜೆ ತಳಿಗಳನ್ನು ಬೆಳೆದು ಹೂ ಬಿಡುವ ಮುನ್ನ ಕತ್ತರಿಸಿ ದನಗಳಿಗೆ ಮೇವಾಗಿ ನೀಡಬಹುದು"
+      ],
+      "recommended_products": [
+        "Multi-cut"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯನ್ನು ಹಸಿರು ಮೇವಿಗಾಗಿ (Green fodder) ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಹೌದು, ಮಲ್ಟಿ-ಕಟ್ (Multi-cut) ಸಜ್ಜೆ ತಳಿಗಳನ್ನು ಬೆಳೆದು ಹೂ ಬಿಡುವ ಮುನ್ನ ಕತ್ತರಿಸಿ ದನಗಳಿಗೆ ಮೇವಾಗಿ ನೀಡಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಸಿರು ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು?",
+    "question_variants": [
+      "ಹಸಿರು ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಸಜ್ಜೆ ತಳಿ ಏನುುದು?",
+      "ರೈತರು ಹಸಿರು ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "BAIF-Bajra-",
+      "Karnataka",
+      "Nutrifeed",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಹಸಿರು ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "BAIF-Bajra-1 ಮತ್ತು ನ್ಯೂಟ್ರಿಫೀಡ್ (Nutrifeed) ಮೇವಿನ ತಳಿಗಳು.",
+      "detailed_answer": "BAIF-Bajra-1 ಮತ್ತು ನ್ಯೂಟ್ರಿಫೀಡ್ (Nutrifeed) ಮೇವಿನ ತಳಿಗಳು.",
+      "step_by_step": [
+        "BAIF-Bajra-1",
+        "ನ್ಯೂಟ್ರಿಫೀಡ್ (Nutrifeed) ಮೇವಿನ ತಳಿಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Nutrifeed"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಸಿರು ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವ ಪ್ರಮುಖ ಸಜ್ಜೆ ತಳಿ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: BAIF-Bajra-1 ಮತ್ತು ನ್ಯೂಟ್ರಿಫೀಡ್ (Nutrifeed) ಮೇವಿನ ತಳಿಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಿಮೆ ನೀರು ಬೇಡುವುದರಿಂದ ಅಂತರ್ಜಲ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಬರಗಾಲದಲ್ಲಿಯೂ ಬೆಳೆದು ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಕಡಿಮೆ ನೀರು ಬೇಡುವುದರಿಂದ ಅಂತರ್ಜಲ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಬರಗಾಲದಲ್ಲಿಯೂ ಬೆಳೆದು ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಡಿಮೆ ನೀರು ಬೇಡುವುದರಿಂದ ಅಂತರ್ಜಲ ಉಳಿಯುತ್ತದೆ",
+        "ಬರಗಾಲದಲ್ಲಿಯೂ ಬೆಳೆದು ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಕಡಿಮೆ ನೀರು ಬೇಡುವುದರಿಂದ ಅಂತರ್ಜಲ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಬರಗಾಲದಲ್ಲಿಯೂ ಬೆಳೆದು ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುತ್ತದೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಕಡಿಮೆ ನೀರು ಬೇಡುವುದರಿಂದ ಅಂತರ್ಜಲ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಬರಗಾಲದಲ್ಲಿಯೂ ಬೆಳೆದು ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುತ್ತದೆ"
+      ]
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಡಿಮೆ ನೀರು ಬೇಡುವುದರಿಂದ ಅಂತರ್ಜಲ ಉಳಿಯುತ್ತದೆ ಮತ್ತು ಬರಗಾಲದಲ್ಲಿಯೂ ಬೆಳೆದು ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಣ್ಣಿನ ಲವಣಾಂಶವನ್ನು (Salinity) ಸಜ್ಜೆ ತಡೆಯಬಲ್ಲದೇ?",
+    "question_variants": [
+      "ರೈತರು ಮಣ್ಣಿನ ಲವಣಾಂಶವನ್ನು (Salinity) ಸಜ್ಜೆ ತಡೆಯಬಲ್ಲದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Salinity",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನ ಲವಣಾಂಶವನ್ನು (Salinity) ಸಜ್ಜೆ ತಡೆಯಬಲ್ಲದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಸಜ್ಜೆಯು ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶ ಮತ್ತು ಕ್ಷಾರೀಯತೆಯನ್ನು ತಡೆದುಕೊಂಡು ಬೆಳೆಯುವ ಶಕ್ತಿ ಹೊಂದಿದೆ.",
+      "detailed_answer": "ಹೌದು, ಸಜ್ಜೆಯು ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶ ಮತ್ತು ಕ್ಷಾರೀಯತೆಯನ್ನು ತಡೆದುಕೊಂಡು ಬೆಳೆಯುವ ಶಕ್ತಿ ಹೊಂದಿದೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯು ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶ",
+        "ಕ್ಷಾರೀಯತೆಯನ್ನು ತಡೆದುಕೊಂಡು ಬೆಳೆಯುವ ಶಕ್ತಿ ಹೊಂದಿದೆ."
+      ],
+      "preventive_measures": [
+        "ಹೌದು, ಸಜ್ಜೆಯು ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶ ಮತ್ತು ಕ್ಷಾರೀಯತೆಯನ್ನು ತಡೆದುಕೊಂಡು ಬೆಳೆಯುವ ಶಕ್ತಿ ಹೊಂದಿದೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಣ್ಣಿನ ಲವಣಾಂಶವನ್ನು (Salinity) ಸಜ್ಜೆ ತಡೆಯಬಲ್ಲದೇ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಸಜ್ಜೆಯು ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶ ಮತ್ತು ಕ್ಷಾರೀಯತೆಯನ್ನು ತಡೆದುಕೊಂಡು ಬೆಳೆಯುವ ಶಕ್ತಿ ಹೊಂದಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Pennisetum",
+      "Pennisetum glaucum",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪೆನಿಸೆಟಮ್ ಗ್ಲಾಕಮ್ (Pennisetum glaucum).",
+      "detailed_answer": "ಪೆನಿಸೆಟಮ್ ಗ್ಲಾಕಮ್ (Pennisetum glaucum).",
+      "step_by_step": [
+        "ಪೆನಿಸೆಟಮ್ ಗ್ಲಾಕಮ್ (Pennisetum glaucum)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pennisetum glaucum"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ವೈಜ್ಞಾನಿಕ ಹೆಸರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪೆನಿಸೆಟಮ್ ಗ್ಲಾಕಮ್ (Pennisetum glaucum).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ಹುಟ್ಟೂರು ಯಾವುದು?",
+    "question_variants": [
+      "ಸಜ್ಜೆಯ ಹುಟ್ಟೂರು ಏನುುದು?",
+      "ರೈತರು ಸಜ್ಜೆಯ ಹುಟ್ಟೂರು ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ಹುಟ್ಟೂರು ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಕೂಡ ಆಫ್ರಿಕಾ ಖಂಡದ ಸಹೇಲ್ ಪ್ರದೇಶದಿಂದ ಹುಟ್ಟಿ ಭಾರತಕ್ಕೆ ಬಂದ ಬೆಳೆ.",
+      "detailed_answer": "ಇದು ಕೂಡ ಆಫ್ರಿಕಾ ಖಂಡದ ಸಹೇಲ್ ಪ್ರದೇಶದಿಂದ ಹುಟ್ಟಿ ಭಾರತಕ್ಕೆ ಬಂದ ಬೆಳೆ.",
+      "step_by_step": [
+        "ಇದು ಕೂಡ ಆಫ್ರಿಕಾ ಖಂಡದ ಸಹೇಲ್ ಪ್ರದೇಶದಿಂದ ಹುಟ್ಟಿ ಭಾರತಕ್ಕೆ ಬಂದ ಬೆಳೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ಹುಟ್ಟೂರು ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇದು ಕೂಡ ಆಫ್ರಿಕಾ ಖಂಡದ ಸಹೇಲ್ ಪ್ರದೇಶದಿಂದ ಹುಟ್ಟಿ ಭಾರತಕ್ಕೆ ಬಂದ ಬೆಳೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Bromadiolone",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬ್ರೋಮಾಡಿಯೋಲೋನ್ (Bromadiolone) ವಿಷದ ಬಿಲ್ಲೆಗಳನ್ನು ಇಲಿಯ ಬಿಲದ ಬಳಿ ಇಡಬೇಕು.",
+      "detailed_answer": "ಬ್ರೋಮಾಡಿಯೋಲೋನ್ (Bromadiolone) ವಿಷದ ಬಿಲ್ಲೆಗಳನ್ನು ಇಲಿಯ ಬಿಲದ ಬಳಿ ಇಡಬೇಕು.",
+      "step_by_step": [
+        "ಬ್ರೋಮಾಡಿಯೋಲೋನ್ (Bromadiolone) ವಿಷದ ಬಿಲ್ಲೆಗಳನ್ನು ಇಲಿಯ ಬಿಲದ ಬಳಿ ಇಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Bromadiolone"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಇಲಿಗಳ ಕಾಟ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬ್ರೋಮಾಡಿಯೋಲೋನ್ (Bromadiolone) ವಿಷದ ಬಿಲ್ಲೆಗಳನ್ನು ಇಲಿಯ ಬಿಲದ ಬಳಿ ಇಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಕನಿಷ್ಠ ಶೇ. 75-80 ಇರಬೇಕು.",
+      "detailed_answer": "ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಕನಿಷ್ಠ ಶೇ. 75-80 ಇರಬೇಕು.",
+      "step_by_step": [
+        "ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಕನಿಷ್ಠ ಶೇ. 75-80 ಇರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಬೀಜಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಪ್ರಮಾಣ ಕನಿಷ್ಠ ಶೇ. 75-80 ಇರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪರ್ಯಾಯ ಬೆಳೆಯಾಗಿ (Crop rotation) ಏನು ಬೆಳೆಯಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪರ್ಯಾಯ ಬೆಳೆಯಾಗಿ (Crop rotation) ಯಾವುದು ಬೆಳೆಯಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪರ್ಯಾಯ ಬೆಳೆಯಾಗಿ (Crop rotation) ಏನು ಬೆಳೆಯಬೇಕು?"
+    ],
+    "keywords": [
+      "Bengal",
+      "Bengal gram",
+      "Crop",
+      "Crop rotation",
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪರ್ಯಾಯ ಬೆಳೆಯಾಗಿ (Crop rotation) ಏನು ಬೆಳೆಯಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಜ್ಜೆ ಬೆಳೆದ ನಂತರ ಕಡಲೆ (Bengal gram) ಅಥವಾ ಕುಸುಬೆ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಸಜ್ಜೆ ಬೆಳೆದ ನಂತರ ಕಡಲೆ (Bengal gram) ಅಥವಾ ಕುಸುಬೆ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆ ಬೆಳೆದ ನಂತರ ಕಡಲೆ (Bengal gram) ಅಥವಾ ಕುಸುಬೆ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Bengal gram"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಪರ್ಯಾಯ ಬೆಳೆಯಾಗಿ (Crop rotation) ಏನು ಬೆಳೆಯಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಜ್ಜೆ ಬೆಳೆದ ನಂತರ ಕಡಲೆ (Bengal gram) ಅಥವಾ ಕುಸುಬೆ ಬೆಳೆದರೆ ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಸುಧಾರಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೈತರು ಸಜ್ಜೆಯನ್ನು 'ಬಡವರ ಆಹಾರ' (Poor man's food) ಎನ್ನುವುದೇಕೆ?",
+    "question_variants": [
+      "ರೈತರು ರೈತರು ಸಜ್ಜೆಯನ್ನು 'ಬಡವರ ಆಹಾರ' (Poor man's food) ಎನ್ನುವುದೇಕೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Poor",
+      "Poor man's food",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ರೈತರು ಸಜ್ಜೆಯನ್ನು 'ಬಡವರ ಆಹಾರ' (Poor man's food) ಎನ್ನುವುದೇಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆಳೆಯಲು ಕಡಿಮೆ ಖರ್ಚು ಮತ್ತು ಕೊಂಡುಕೊಳ್ಳಲು ಅಗ್ಗವಾಗಿದ್ದರೂ, ಪೌಷ್ಟಿಕಾಂಶದಲ್ಲಿ ಶ್ರೀಮಂತವಾಗಿರುವುದರಿಂದ.",
+      "detailed_answer": "ಬೆಳೆಯಲು ಕಡಿಮೆ ಖರ್ಚು ಮತ್ತು ಕೊಂಡುಕೊಳ್ಳಲು ಅಗ್ಗವಾಗಿದ್ದರೂ, ಪೌಷ್ಟಿಕಾಂಶದಲ್ಲಿ ಶ್ರೀಮಂತವಾಗಿರುವುದರಿಂದ.",
+      "step_by_step": [
+        "ಬೆಳೆಯಲು ಕಡಿಮೆ ಖರ್ಚು",
+        "ಕೊಂಡುಕೊಳ್ಳಲು ಅಗ್ಗವಾಗಿದ್ದರೂ",
+        "ಪೌಷ್ಟಿಕಾಂಶದಲ್ಲಿ ಶ್ರೀಮಂತವಾಗಿರುವುದರಿಂದ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೈತರು ಸಜ್ಜೆಯನ್ನು 'ಬಡವರ ಆಹಾರ' (Poor man's food) ಎನ್ನುವುದೇಕೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೆಳೆಯಲು ಕಡಿಮೆ ಖರ್ಚು ಮತ್ತು ಕೊಂಡುಕೊಳ್ಳಲು ಅಗ್ಗವಾಗಿದ್ದರೂ, ಪೌಷ್ಟಿಕಾಂಶದಲ್ಲಿ ಶ್ರೀಮಂತವಾಗಿರುವುದರಿಂದ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬಾಣಂತಿಯರಿಗೆ (Nursing mothers) ಸಜ್ಜೆ ಒಳ್ಳೆಯದೇ?",
+    "question_variants": [
+      "ರೈತರು ಬಾಣಂತಿಯರಿಗೆ (Nursing mothers) ಸಜ್ಜೆ ಒಳ್ಳೆಯದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Nursing",
+      "Nursing mothers",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಬಾಣಂತಿಯರಿಗೆ (Nursing mothers) ಸಜ್ಜೆ ಒಳ್ಳೆಯದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಇದರಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ, ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ನಾರಿನಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ ಎದೆಹಾಲು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಶಕ್ತಿ ನೀಡಲು ಅತ್ಯುತ್ತಮ.",
+      "detailed_answer": "ಹೌದು, ಇದರಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ, ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ನಾರಿನಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ ಎದೆಹಾಲು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಶಕ್ತಿ ನೀಡಲು ಅತ್ಯುತ್ತಮ.",
+      "step_by_step": [
+        "ಇದರಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ",
+        "ನಾರಿನಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ ಎದೆಹಾಲು ಹೆಚ್ಚಿಸಲು",
+        "ಶಕ್ತಿ ನೀಡಲು ಅತ್ಯುತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಾಣಂತಿಯರಿಗೆ (Nursing mothers) ಸಜ್ಜೆ ಒಳ್ಳೆಯದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಇದರಲ್ಲಿ ಕಬ್ಬಿಣಾಂಶ, ಕ್ಯಾಲ್ಸಿಯಂ ಮತ್ತು ನಾರಿನಂಶ ಹೆಚ್ಚಿರುವುದರಿಂದ ಎದೆಹಾಲು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಶಕ್ತಿ ನೀಡಲು ಅತ್ಯುತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಮಾಡಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಮಾಡಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Tillage",
+      "Zero",
+      "Zero Tillage",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ಬಿತ್ತನೆ ಮಾಡಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ಬಿತ್ತನೆ ಮಾಡಬಹುದು.",
+      "step_by_step": [
+        "ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ಬಿತ್ತನೆ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಶೂನ್ಯ ಉಳುಮೆ (Zero Tillage) ಮಾಡಬಹುದೇ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಹೌದು, ಕಳೆನಾಶಕ ಬಳಸಿ ಹಿಂದಿನ ಬೆಳೆಯ ಕೂಳೆಯಲ್ಲೇ ನೇರವಾಗಿ ಬಿತ್ತನೆ ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ತೆನೆಗಳು ಯಾವ ಆಕಾರದಲ್ಲಿರುತ್ತವೆ?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ತೆನೆಗಳು ಏನು ಆಕಾರದಲ್ಲಿರುತ್ತವೆ?",
+      "ರೈತರು ಸಜ್ಜೆ ತೆನೆಗಳು ಯಾವ ಆಕಾರದಲ್ಲಿರುತ್ತವೆ?"
+    ],
+    "keywords": [
+      "Cylindrical",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ತೆನೆಗಳು ಯಾವ ಆಕಾರದಲ್ಲಿರುತ್ತವೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉದ್ದವಾದ ಸಿಲಿಂಡರಾಕಾರದ (Cylindrical) ಸ್ಪೈಕ್ ಗಳಂತೆ ಇರುತ್ತವೆ.",
+      "detailed_answer": "ಉದ್ದವಾದ ಸಿಲಿಂಡರಾಕಾರದ (Cylindrical) ಸ್ಪೈಕ್ ಗಳಂತೆ ಇರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಉದ್ದವಾದ ಸಿಲಿಂಡರಾಕಾರದ (Cylindrical) ಸ್ಪೈಕ್ ಗಳಂತೆ ಇರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Cylindrical"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ತೆನೆಗಳು ಯಾವ ಆಕಾರದಲ್ಲಿರುತ್ತವೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉದ್ದವಾದ ಸಿಲಿಂಡರಾಕಾರದ (Cylindrical) ಸ್ಪೈಕ್ ಗಳಂತೆ ಇರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯು ಜಾನುವಾರುಗಳಿಗೆ ವಿಷವಾಗುವ ಸಾಧ್ಯತೆ ಇದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯು ಜಾನುವಾರುಗಳಿಗೆ ವಿಷವಾಗುವ ಸಾಧ್ಯತೆ ಇದೆಯೇ?"
+    ],
+    "keywords": [
+      "HCN",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ",
+      "ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯು ಜಾನುವಾರುಗಳಿಗೆ ವಿಷವಾಗುವ ಸಾಧ್ಯತೆ ಇದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಜೋಳದಂತೆ ಸಜ್ಜೆಯಲ್ಲಿ HCN ವಿಷ (ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್) ಇರುವುದಿಲ್ಲ. ನಿರ್ಭಯವಾಗಿ ಮೇಯಿಸಬಹುದು.",
+      "detailed_answer": "ಇಲ್ಲ, ಜೋಳದಂತೆ ಸಜ್ಜೆಯಲ್ಲಿ HCN ವಿಷ (ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್) ಇರುವುದಿಲ್ಲ. ನಿರ್ಭಯವಾಗಿ ಮೇಯಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಜೋಳದಂತೆ ಸಜ್ಜೆಯಲ್ಲಿ HCN ವಿಷ (ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್) ಇರುವುದಿಲ್ಲ. ನಿರ್ಭಯವಾಗಿ ಮೇಯಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯು ಜಾನುವಾರುಗಳಿಗೆ ವಿಷವಾಗುವ ಸಾಧ್ಯತೆ ಇದೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇಲ್ಲ, ಜೋಳದಂತೆ ಸಜ್ಜೆಯಲ್ಲಿ HCN ವಿಷ (ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್) ಇರುವುದಿಲ್ಲ. ನಿರ್ಭಯವಾಗಿ ಮೇಯಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವಾಗ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವಾಗ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Shallow",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವಾಗ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮೇಲ್ಮೈ ಬೇರುಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ 1-2 ಇಂಚು ಆಳದಲ್ಲಿ ಮಾತ್ರ ಶಾಲೋ (Shallow) ಕುಂಟೆ ಹೊಡೆಯಬೇಕು.",
+      "detailed_answer": "ಮೇಲ್ಮೈ ಬೇರುಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ 1-2 ಇಂಚು ಆಳದಲ್ಲಿ ಮಾತ್ರ ಶಾಲೋ (Shallow) ಕುಂಟೆ ಹೊಡೆಯಬೇಕು.",
+      "step_by_step": [
+        "ಮೇಲ್ಮೈ ಬೇರುಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ 1-2 ಇಂಚು ಆಳದಲ್ಲಿ ಮಾತ್ರ ಶಾಲೋ (Shallow) ಕುಂಟೆ ಹೊಡೆಯಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Shallow"
+      ],
+      "organic_solutions": [],
+      "warnings": [
+        "ಮೇಲ್ಮೈ ಬೇರುಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ 1-2 ಇಂಚು ಆಳದಲ್ಲಿ ಮಾತ್ರ ಶಾಲೋ (Shallow) ಕುಂಟೆ ಹೊಡೆಯಬೇಕು"
+      ]
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವಾಗ ಎಷ್ಟು ಆಳದಲ್ಲಿ ಕುಂಟೆ ಹೊಡೆಯಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮೇಲ್ಮೈ ಬೇರುಗಳಿಗೆ ಹಾನಿಯಾಗದಂತೆ 1-2 ಇಂಚು ಆಳದಲ್ಲಿ ಮಾತ್ರ ಶಾಲೋ (Shallow) ಕುಂಟೆ ಹೊಡೆಯಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಅಜೋಲ್ಲಾ ನೀರು ನಿಲ್ಲುವ ಗದ್ದೆಯಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಇಲ್ಲ, ಅಜೋಲ್ಲಾ ನೀರು ನಿಲ್ಲುವ ಗದ್ದೆಯಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅಜೋಲ್ಲಾ ನೀರು ನಿಲ್ಲುವ ಗದ್ದೆಯಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಅಜೋಲ್ಲಾ ನೀರು ನಿಲ್ಲುವ ಗದ್ದೆಯಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಅಜೋಲ್ಲಾ ಬಳಸಬಹುದೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಲ್ಲ, ಅಜೋಲ್ಲಾ ನೀರು ನಿಲ್ಲುವ ಗದ್ದೆಯಲ್ಲಿ ಮಾತ್ರ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ಕಾಳುಗಳಿಗೆ ಪಾಲಿಶ್ ಮಾಡಬೇಕೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯ ಕಾಳುಗಳಿಗೆ ಪಾಲಿಶ್ ಮಾಡಬೇಕೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ಕಾಳುಗಳಿಗೆ ಪಾಲಿಶ್ ಮಾಡಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಲ್ಲ, ಸಜ್ಜೆಯನ್ನು ಪಾಲಿಶ್ ಮಾಡದೆ ನೇರವಾಗಿ ಪುಡಿ ಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಇಲ್ಲ, ಸಜ್ಜೆಯನ್ನು ಪಾಲಿಶ್ ಮಾಡದೆ ನೇರವಾಗಿ ಪುಡಿ ಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯನ್ನು ಪಾಲಿಶ್ ಮಾಡದೆ ನೇರವಾಗಿ ಪುಡಿ ಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ಕಾಳುಗಳಿಗೆ ಪಾಲಿಶ್ ಮಾಡಬೇಕೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇಲ್ಲ, ಸಜ್ಜೆಯನ್ನು ಪಾಲಿಶ್ ಮಾಡದೆ ನೇರವಾಗಿ ಪುಡಿ ಮಾಡಿ ಬಳಸಲಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಬೇರುಗಳಿಗೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಬೇರುಗಳಿಗೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಬೇರುಗಳಿಗೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇರುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಸಿಗದೆ ಉಸಿರುಗಟ್ಟಿ ಗಿಡಗಳು ಹಳದಿಯಾಗಿ 2-3 ದಿನಗಳಲ್ಲಿ ಸಾಯುತ್ತವೆ.",
+      "detailed_answer": "ಬೇರುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಸಿಗದೆ ಉಸಿರುಗಟ್ಟಿ ಗಿಡಗಳು ಹಳದಿಯಾಗಿ 2-3 ದಿನಗಳಲ್ಲಿ ಸಾಯುತ್ತವೆ.",
+      "step_by_step": [
+        "ಬೇರುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಸಿಗದೆ ಉಸಿರುಗಟ್ಟಿ ಗಿಡಗಳು ಹಳದಿಯಾಗಿ 2-3 ದಿನಗಳಲ್ಲಿ ಸಾಯುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬೇರುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಸಿಗದೆ ಉಸಿರುಗಟ್ಟಿ ಗಿಡಗಳು ಹಳದಿಯಾಗಿ 2-3 ದಿನಗಳಲ್ಲಿ ಸಾಯುತ್ತವೆ"
+      ]
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಬೇರುಗಳಿಗೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇರುಗಳಿಗೆ ಆಮ್ಲಜನಕ ಸಿಗದೆ ಉಸಿರುಗಟ್ಟಿ ಗಿಡಗಳು ಹಳದಿಯಾಗಿ 2-3 ದಿನಗಳಲ್ಲಿ ಸಾಯುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ (Foliar spray) ಮಾಡಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ (Foliar spray) ಮಾಡಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Foliar",
+      "Foliar spray",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ (Foliar spray) ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಗಿಡಕ್ಕೆ ತ್ವರಿತ ಚೈತನ್ಯ ನೀಡುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಗಿಡಕ್ಕೆ ತ್ವರಿತ ಚೈತನ್ಯ ನೀಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಗಿಡಕ್ಕೆ ತ್ವರಿತ ಚೈತನ್ಯ ನೀಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ (Foliar spray) ಮಾಡಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಗಿಡಕ್ಕೆ ತ್ವರಿತ ಚೈತನ್ಯ ನೀಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಯಾವ ತಾಪಮಾನದಲ್ಲಿ ಒಣಗಿಸಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಏನು ತಾಪಮಾನದಲ್ಲಿ ಒಣಗಿಸಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಯಾವ ತಾಪಮಾನದಲ್ಲಿ ಒಣಗಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಯಾವ ತಾಪಮಾನದಲ್ಲಿ ಒಣಗಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "40°C ಗಿಂತ ಹೆಚ್ಚಿನ ಕಡು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿದರೆ ಕಾಳುಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಶಕ್ತಿ ಕಳೆದುಹೋಗಬಹುದು.",
+      "detailed_answer": "40°C ಗಿಂತ ಹೆಚ್ಚಿನ ಕಡು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿದರೆ ಕಾಳುಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಶಕ್ತಿ ಕಳೆದುಹೋಗಬಹುದು.",
+      "step_by_step": [
+        "40°C ಗಿಂತ ಹೆಚ್ಚಿನ ಕಡು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿದರೆ ಕಾಳುಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಶಕ್ತಿ ಕಳೆದುಹೋಗಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ಕಾಳುಗಳು ಯಾವ ತಾಪಮಾನದಲ್ಲಿ ಒಣಗಿಸಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: 40°C ಗಿಂತ ಹೆಚ್ಚಿನ ಕಡು ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸಿದರೆ ಕಾಳುಗಳ ಮೊಳಕೆ ಒಡೆಯುವ ಶಕ್ತಿ ಕಳೆದುಹೋಗಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬರಗಾಲದಲ್ಲೂ ಕೈಕೊಡದೆ ಕನಿಷ್ಠ ಬೆಳೆಯನ್ನಾದರೂ ನೀಡಿ ರೈತನಿಗೆ ನಷ್ಟವಾಗದಂತೆ ಕಾಪಾಡುವ ಬೆಳೆ ಇದು.",
+      "detailed_answer": "ಬರಗಾಲದಲ್ಲೂ ಕೈಕೊಡದೆ ಕನಿಷ್ಠ ಬೆಳೆಯನ್ನಾದರೂ ನೀಡಿ ರೈತನಿಗೆ ನಷ್ಟವಾಗದಂತೆ ಕಾಪಾಡುವ ಬೆಳೆ ಇದು.",
+      "step_by_step": [
+        "ಬರಗಾಲದಲ್ಲೂ ಕೈಕೊಡದೆ ಕನಿಷ್ಠ ಬೆಳೆಯನ್ನಾದರೂ ನೀಡಿ ರೈತನಿಗೆ ನಷ್ಟವಾಗದಂತೆ ಕಾಪಾಡುವ ಬೆಳೆ ಇದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ಆಗುವ ಮುಖ್ಯ ಆರ್ಥಿಕ ಲಾಭವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬರಗಾಲದಲ್ಲೂ ಕೈಕೊಡದೆ ಕನಿಷ್ಠ ಬೆಳೆಯನ್ನಾದರೂ ನೀಡಿ ರೈತನಿಗೆ ನಷ್ಟವಾಗದಂತೆ ಕಾಪಾಡುವ ಬೆಳೆ ಇದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಗಿಡದ ಎಲೆಗಳು ಕೆಂಪಾಗಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಗಿಡದ ಎಲೆಗಳು ಕೆಂಪಾಗಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Phosphorus",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಗಿಡದ ಎಲೆಗಳು ಕೆಂಪಾಗಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಂಜಕದ (Phosphorus) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ಅಂಚು ಕೆಂಪಾಗಬಹುದು.",
+      "detailed_answer": "ರಂಜಕದ (Phosphorus) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ಅಂಚು ಕೆಂಪಾಗಬಹುದು.",
+      "step_by_step": [
+        "ರಂಜಕದ (Phosphorus) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ಅಂಚು ಕೆಂಪಾಗಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Phosphorus"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಗಿಡದ ಎಲೆಗಳು ಕೆಂಪಾಗಲು ಕಾರಣವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಂಜಕದ (Phosphorus) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ಅಂಚು ಕೆಂಪಾಗಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಲು ಏನು ಪೋಷಕಾಂಶ ಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೊಟ್ಯಾಷ್ ಮತ್ತು ಬೋರಾನ್ ಪೋಷಕಾಂಶಗಳು ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಿ ತೂಕ ಬರಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+      "detailed_answer": "ಪೊಟ್ಯಾಷ್ ಮತ್ತು ಬೋರಾನ್ ಪೋಷಕಾಂಶಗಳು ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಿ ತೂಕ ಬರಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+      "step_by_step": [
+        "ಬೋರಾನ್ ಪೋಷಕಾಂಶಗಳು ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಿ ತೂಕ ಬರಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ತೆನೆಯಲ್ಲಿ ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪೊಟ್ಯಾಷ್ ಮತ್ತು ಬೋರಾನ್ ಪೋಷಕಾಂಶಗಳು ಕಾಳುಗಳು ಗಟ್ಟಿಯಾಗಿ ತೂಕ ಬರಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಒಣಗಿಸಲು ಟಾರ್ಪಾಲಿನ್ (Tarpaulin) ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಒಣಗಿಸಲು ಟಾರ್ಪಾಲಿನ್ (Tarpaulin) ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Tarpaulin",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಮಣ್ಣು",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಒಣಗಿಸಲು ಟಾರ್ಪಾಲಿನ್ (Tarpaulin) ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಣ್ಣು ಮತ್ತು ಕಲ್ಲು ಸೇರದಂತೆ ತಡೆಯಲು ಟಾರ್ಪಾಲಿನ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸುವುದು ಉತ್ತಮ.",
+      "detailed_answer": "ಹೌದು, ಮಣ್ಣು ಮತ್ತು ಕಲ್ಲು ಸೇರದಂತೆ ತಡೆಯಲು ಟಾರ್ಪಾಲಿನ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸುವುದು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಕಲ್ಲು ಸೇರದಂತೆ ತಡೆಯಲು ಟಾರ್ಪಾಲಿನ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸುವುದು ಉತ್ತಮ."
+      ],
+      "preventive_measures": [
+        "ಹೌದು, ಮಣ್ಣು ಮತ್ತು ಕಲ್ಲು ಸೇರದಂತೆ ತಡೆಯಲು ಟಾರ್ಪಾಲಿನ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸುವುದು ಉತ್ತಮ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಕಾಳುಗಳನ್ನು ಒಣಗಿಸಲು ಟಾರ್ಪಾಲಿನ್ (Tarpaulin) ಬಳಸಬಹುದೇ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಹೌದು, ಮಣ್ಣು ಮತ್ತು ಕಲ್ಲು ಸೇರದಂತೆ ತಡೆಯಲು ಟಾರ್ಪಾಲಿನ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸುವುದು ಉತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ಕಟಾವಿಗೆ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ (Combine Harvester) ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯ ಕಟಾವಿಗೆ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ (Combine Harvester) ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Combine",
+      "Combine Harvester",
+      "Harvester",
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ಕಟಾವಿಗೆ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ (Combine Harvester) ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ದೊಡ್ಡ ಹೊಲಗಳಲ್ಲಿ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಬಳಸಿ ಒಂದೇ ಬಾರಿಗೆ ಕಟಾವು ಮತ್ತು ಕಾಳು ಬೇರ್ಪಡಿಸಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ದೊಡ್ಡ ಹೊಲಗಳಲ್ಲಿ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಬಳಸಿ ಒಂದೇ ಬಾರಿಗೆ ಕಟಾವು ಮತ್ತು ಕಾಳು ಬೇರ್ಪಡಿಸಬಹುದು.",
+      "step_by_step": [
+        "ದೊಡ್ಡ ಹೊಲಗಳಲ್ಲಿ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಬಳಸಿ ಒಂದೇ ಬಾರಿಗೆ ಕಟಾವು",
+        "ಕಾಳು ಬೇರ್ಪಡಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ಕಟಾವಿಗೆ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ (Combine Harvester) ಬಳಸಬಹುದೇ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಹೌದು, ದೊಡ್ಡ ಹೊಲಗಳಲ್ಲಿ ಕಂಬೈನ್ ಹಾರ್ವೆಸ್ಟರ್ ಬಳಸಿ ಒಂದೇ ಬಾರಿಗೆ ಕಟಾವು ಮತ್ತು ಕಾಳು ಬೇರ್ಪಡಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹಿಟ್ಟಿನಿಂದ ಮಧುಮೇಹಿಗಳಿಗೆ ಲಾಭವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಹಿಟ್ಟಿನಿಂದ ಮಧುಮೇಹಿಗಳಿಗೆ ಲಾಭವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹಿಟ್ಟಿನಿಂದ ಮಧುಮೇಹಿಗಳಿಗೆ ಲಾಭವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಇದರಲ್ಲಿ ನಾರಿನಂಶ ಹೆಚ್ಚಿದ್ದು ನಿಧಾನವಾಗಿ ಜೀರ್ಣವಾಗುವುದರಿಂದ ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶ ದಿಢೀರನೆ ಏರುವುದಿಲ್ಲ.",
+      "detailed_answer": "ಹೌದು, ಇದರಲ್ಲಿ ನಾರಿನಂಶ ಹೆಚ್ಚಿದ್ದು ನಿಧಾನವಾಗಿ ಜೀರ್ಣವಾಗುವುದರಿಂದ ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶ ದಿಢೀರನೆ ಏರುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "ಇದರಲ್ಲಿ ನಾರಿನಂಶ ಹೆಚ್ಚಿದ್ದು ನಿಧಾನವಾಗಿ ಜೀರ್ಣವಾಗುವುದರಿಂದ ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶ ದಿಢೀರನೆ ಏರುವುದಿಲ್ಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹಿಟ್ಟಿನಿಂದ ಮಧುಮೇಹಿಗಳಿಗೆ ಲಾಭವಿದೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಇದರಲ್ಲಿ ನಾರಿನಂಶ ಹೆಚ್ಚಿದ್ದು ನಿಧಾನವಾಗಿ ಜೀರ್ಣವಾಗುವುದರಿಂದ ರಕ್ತದಲ್ಲಿ ಸಕ್ಕರೆ ಅಂಶ ದಿಢೀರನೆ ಏರುವುದಿಲ್ಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಜೀವಾಮೃತವನ್ನು ಹೇಗೆ ಕೊಡಬೇಕು?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಜೀವಾಮೃತವನ್ನು ಯಾವ ರೀತಿ ಕೊಡಬೇಕು?",
+      "ರೈತರು ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಜೀವಾಮೃತವನ್ನು ಹೇಗೆ ಕೊಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಸಜ್ಜೆ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಜೀವಾಮೃತವನ್ನು ಹೇಗೆ ಕೊಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರಾವರಿ ಇದ್ದರೆ ನೀರಿನ ಜೊತೆ ಬಿಡಬಹುದು, ಮಳೆಯಾಶ್ರಿತವಾಗಿದ್ದರೆ ಮಳೆಯಾದಾಗ ಮಣ್ಣಿಗೆ ಸಿಂಪಡಿಸಬಹುದು.",
+      "detailed_answer": "ನೀರಾವರಿ ಇದ್ದರೆ ನೀರಿನ ಜೊತೆ ಬಿಡಬಹುದು, ಮಳೆಯಾಶ್ರಿತವಾಗಿದ್ದರೆ ಮಳೆಯಾದಾಗ ಮಣ್ಣಿಗೆ ಸಿಂಪಡಿಸಬಹುದು.",
+      "step_by_step": [
+        "ನೀರಾವರಿ ಇದ್ದರೆ ನೀರಿನ ಜೊತೆ ಬಿಡಬಹುದು",
+        "ಮಳೆಯಾಶ್ರಿತವಾಗಿದ್ದರೆ ಮಳೆಯಾದಾಗ ಮಣ್ಣಿಗೆ ಸಿಂಪಡಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಹೊಲದಲ್ಲಿ ಜೀವಾಮೃತವನ್ನು ಹೇಗೆ ಕೊಡಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರಾವರಿ ಇದ್ದರೆ ನೀರಿನ ಜೊತೆ ಬಿಡಬಹುದು, ಮಳೆಯಾಶ್ರಿತವಾಗಿದ್ದರೆ ಮಳೆಯಾದಾಗ ಮಣ್ಣಿಗೆ ಸಿಂಪಡಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯ ತೆನೆಯಲ್ಲಿ ಬೂದಿ ಬಣ್ಣದ ಹುಡಿಯಂತಿದ್ದರೆ ಏನು ರೋಗ?",
+    "question_variants": [
+      "ಸಜ್ಜೆಯ ತೆನೆಯಲ್ಲಿ ಬೂದಿ ಬಣ್ಣದ ಹುಡಿಯಂತಿದ್ದರೆ ಯಾವುದು ರೋಗ?",
+      "ರೈತರು ಸಜ್ಜೆಯ ತೆನೆಯಲ್ಲಿ ಬೂದಿ ಬಣ್ಣದ ಹುಡಿಯಂತಿದ್ದರೆ ಏನು ರೋಗ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Smut",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯ ತೆನೆಯಲ್ಲಿ ಬೂದಿ ಬಣ್ಣದ ಹುಡಿಯಂತಿದ್ದರೆ ಏನು ರೋಗ?",
+    "symptoms": [
+      "ಅದು ಕಾಡಿಗೆ ರೋಗದ (Smut) ಲಕ್ಷಣ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅದು ಕಾಡಿಗೆ ರೋಗದ (Smut) ಲಕ್ಷಣ.",
+      "detailed_answer": "ಅದು ಕಾಡಿಗೆ ರೋಗದ (Smut) ಲಕ್ಷಣ.",
+      "step_by_step": [
+        "ಅದು ಕಾಡಿಗೆ ರೋಗದ (Smut) ಲಕ್ಷಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Smut"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯ ತೆನೆಯಲ್ಲಿ ಬೂದಿ ಬಣ್ಣದ ಹುಡಿಯಂತಿದ್ದರೆ ಏನು ರೋಗ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅದು ಕಾಡಿಗೆ ರೋಗದ (Smut) ಲಕ್ಷಣ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಲು ಕನಿಷ್ಠ ಮಳೆ ಎಷ್ಟು ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಲು ಕನಿಷ್ಠ ಮಳೆ ಎಷ್ಟು ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಲು ಕನಿಷ್ಠ ಮಳೆ ಎಷ್ಟು ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೇವಲ 250 ರಿಂದ 300 ಮಿ.ಮೀ. ಮಳೆಯಾದರೂ ಬೆಳೆದು ಇಳುವರಿ ನೀಡುವ ಏಕೈಕ ಧಾನ್ಯ ಇದು.",
+      "detailed_answer": "ಕೇವಲ 250 ರಿಂದ 300 ಮಿ.ಮೀ. ಮಳೆಯಾದರೂ ಬೆಳೆದು ಇಳುವರಿ ನೀಡುವ ಏಕೈಕ ಧಾನ್ಯ ಇದು.",
+      "step_by_step": [
+        "ಕೇವಲ 250 ರಿಂದ 300 ಮಿ.ಮೀ. ಮಳೆಯಾದರೂ ಬೆಳೆದು ಇಳುವರಿ ನೀಡುವ ಏಕೈಕ ಧಾನ್ಯ ಇದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಲು ಕನಿಷ್ಠ ಮಳೆ ಎಷ್ಟು ಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೇವಲ 250 ರಿಂದ 300 ಮಿ.ಮೀ. ಮಳೆಯಾದರೂ ಬೆಳೆದು ಇಳುವರಿ ನೀಡುವ ಏಕೈಕ ಧಾನ್ಯ ಇದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ ಸೂಕ್ತವೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ ಸೂಕ್ತವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ನೀರಾವರಿ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ ಸೂಕ್ತವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯುವುದಾದರೆ ಡ್ರಿಪ್ ಮಾಡಬಹುದು, ಆದರೆ ಇದು ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಸ್ಪ್ರಿಂಕ್ಲರ್ ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯುವುದಾದರೆ ಡ್ರಿಪ್ ಮಾಡಬಹುದು, ಆದರೆ ಇದು ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಸ್ಪ್ರಿಂಕ್ಲರ್ ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯುವುದಾದರೆ ಡ್ರಿಪ್ ಮಾಡಬಹುದು",
+        "ಆದರೆ ಇದು ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಸ್ಪ್ರಿಂಕ್ಲರ್ ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ನೀರಾವರಿ ಸೂಕ್ತವೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇಸಿಗೆಯಲ್ಲಿ ಬೆಳೆಯುವುದಾದರೆ ಡ್ರಿಪ್ ಮಾಡಬಹುದು, ಆದರೆ ಇದು ಸಾಲು ಬೆಳೆಯಾಗಿರುವುದರಿಂದ ಸಾಮಾನ್ಯವಾಗಿ ಸ್ಪ್ರಿಂಕ್ಲರ್ ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಕಾಳುಗಳ ತೂಕವನ್ನು ಹೇಗೆ ಅಳೆಯುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಸಜ್ಜೆ ಕಾಳುಗಳ ತೂಕವನ್ನು ಯಾವ ರೀತಿ ಅಳೆಯುತ್ತಾರೆ?",
+      "ರೈತರು ಸಜ್ಜೆ ಕಾಳುಗಳ ತೂಕವನ್ನು ಹೇಗೆ ಅಳೆಯುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Test",
+      "Test weight",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಕಾಳುಗಳ ತೂಕವನ್ನು ಹೇಗೆ ಅಳೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "1000 ಕಾಳುಗಳ ತೂಕವನ್ನು ಅಳೆಯುತ್ತಾರೆ (Test weight), ಇದು ಸಾಮಾನ್ಯವಾಗಿ 8 ರಿಂದ 12 ಗ್ರಾಂ ಇರುತ್ತದೆ.",
+      "detailed_answer": "1000 ಕಾಳುಗಳ ತೂಕವನ್ನು ಅಳೆಯುತ್ತಾರೆ (Test weight), ಇದು ಸಾಮಾನ್ಯವಾಗಿ 8 ರಿಂದ 12 ಗ್ರಾಂ ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "1000 ಕಾಳುಗಳ ತೂಕವನ್ನು ಅಳೆಯುತ್ತಾರೆ (Test weight)",
+        "ಇದು ಸಾಮಾನ್ಯವಾಗಿ 8 ರಿಂದ 12 ಗ್ರಾಂ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Test weight",
+        "12 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಕಾಳುಗಳ ತೂಕವನ್ನು ಹೇಗೆ ಅಳೆಯುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 1000 ಕಾಳುಗಳ ತೂಕವನ್ನು ಅಳೆಯುತ್ತಾರೆ (Test weight), ಇದು ಸಾಮಾನ್ಯವಾಗಿ 8 ರಿಂದ 12 ಗ್ರಾಂ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯುವಾಗ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಏಕೆ ಕಡ್ಡಾಯ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯುವಾಗ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಏಕೆ ಕಡ್ಡಾಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "fertilizer",
+      "plant disease",
+      "soil management",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಮಣ್ಣು",
+      "ರೋಗ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯುವಾಗ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಏಕೆ ಕಡ್ಡಾಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೆಚ್ಚು ರಸಗೊಬ್ಬರ ಹಾಕಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುವುದಿಲ್ಲ, ಬದಲಿಗೆ ರೋಗಗಳು ಬರುತ್ತವೆ. ಆದ್ದರಿಂದ ಮಣ್ಣಿಗೆ ಬೇಕಾದಷ್ಟೇ ಗೊಬ್ಬರ ಕೊಡಲು.",
+      "detailed_answer": "ಹೆಚ್ಚು ರಸಗೊಬ್ಬರ ಹಾಕಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುವುದಿಲ್ಲ, ಬದಲಿಗೆ ರೋಗಗಳು ಬರುತ್ತವೆ. ಆದ್ದರಿಂದ ಮಣ್ಣಿಗೆ ಬೇಕಾದಷ್ಟೇ ಗೊಬ್ಬರ ಕೊಡಲು.",
+      "step_by_step": [
+        "ಹೆಚ್ಚು ರಸಗೊಬ್ಬರ ಹಾಕಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುವುದಿಲ್ಲ",
+        "ಬದಲಿಗೆ ರೋಗಗಳು ಬರುತ್ತವೆ. ಆದ್ದರಿಂದ ಮಣ್ಣಿಗೆ ಬೇಕಾದಷ್ಟೇ ಗೊಬ್ಬರ ಕೊಡಲು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯುವಾಗ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಏಕೆ ಕಡ್ಡಾಯ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೆಚ್ಚು ರಸಗೊಬ್ಬರ ಹಾಕಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುವುದಿಲ್ಲ, ಬದಲಿಗೆ ರೋಗಗಳು ಬರುತ್ತವೆ. ಆದ್ದರಿಂದ ಮಣ್ಣಿಗೆ ಬೇಕಾದಷ್ಟೇ ಗೊಬ್ಬರ ಕೊಡಲು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆಯನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಶೇಖರಿಸುವಾಗ ಬೇವಿನ ಸೊಪ್ಪು ಏಕೆ ಹಾಕುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆಯನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಶೇಖರಿಸುವಾಗ ಬೇವಿನ ಸೊಪ್ಪು ಏಕೆ ಹಾಕುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆಯನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಶೇಖರಿಸುವಾಗ ಬೇವಿನ ಸೊಪ್ಪು ಏಕೆ ಹಾಕುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಬೇವಿನ ಸೊಪ್ಪಿನ ಕಹಿ ವಾಸನೆಗೆ ಕೀಟಗಳು ಬರುವುದಿಲ್ಲ, ಇದು ನೈಸರ್ಗಿಕ ಕೀಟನಾಶಕ.",
+      "detailed_answer": "ಬೇವಿನ ಸೊಪ್ಪಿನ ಕಹಿ ವಾಸನೆಗೆ ಕೀಟಗಳು ಬರುವುದಿಲ್ಲ, ಇದು ನೈಸರ್ಗಿಕ ಕೀಟನಾಶಕ.",
+      "step_by_step": [
+        "ಬೇವಿನ ಸೊಪ್ಪಿನ ಕಹಿ ವಾಸನೆಗೆ ಕೀಟಗಳು ಬರುವುದಿಲ್ಲ",
+        "ಇದು ನೈಸರ್ಗಿಕ ಕೀಟನಾಶಕ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬೇವಿನ ಸೊಪ್ಪಿನ ಕಹಿ ವಾಸನೆಗೆ ಕೀಟಗಳು ಬರುವುದಿಲ್ಲ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆಯನ್ನು ಗೋದಾಮಿನಲ್ಲಿ ಶೇಖರಿಸುವಾಗ ಬೇವಿನ ಸೊಪ್ಪು ಏಕೆ ಹಾಕುತ್ತಾರೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇವಿನ ಸೊಪ್ಪಿನ ಕಹಿ ವಾಸನೆಗೆ ಕೀಟಗಳು ಬರುವುದಿಲ್ಲ, ಇದು ನೈಸರ್ಗಿಕ ಕೀಟನಾಶಕ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಹೂಗಳು ಒಂದೇ ತೆನೆಯಲ್ಲಿ ಇರುತ್ತವೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಹೂಗಳು ಒಂದೇ ತೆನೆಯಲ್ಲಿ ಇರುತ್ತವೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Protogyny",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಹೂಗಳು ಒಂದೇ ತೆನೆಯಲ್ಲಿ ಇರುತ್ತವೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಆದರೆ ಹೆಣ್ಣು ಹೂವು ಮೊದಲು ಅರಳಿ ನಂತರ ಗಂಡು ಹೂವು ಅರಳುತ್ತದೆ (Protogyny), ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಆದರೆ ಹೆಣ್ಣು ಹೂವು ಮೊದಲು ಅರಳಿ ನಂತರ ಗಂಡು ಹೂವು ಅರಳುತ್ತದೆ (Protogyny), ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಆದರೆ ಹೆಣ್ಣು ಹೂವು ಮೊದಲು ಅರಳಿ ನಂತರ ಗಂಡು ಹೂವು ಅರಳುತ್ತದೆ (Protogyny)",
+        "ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Protogyny"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಲ್ಲಿ ಗಂಡು ಮತ್ತು ಹೆಣ್ಣು ಹೂಗಳು ಒಂದೇ ತೆನೆಯಲ್ಲಿ ಇರುತ್ತವೆಯೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಆದರೆ ಹೆಣ್ಣು ಹೂವು ಮೊದಲು ಅರಳಿ ನಂತರ ಗಂಡು ಹೂವು ಅರಳುತ್ತದೆ (Protogyny), ಇದೇ ಕಾರಣಕ್ಕೆ ಅಡ್ಡ ಪರಾಗಸ್ಪರ್ಶ ಆಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಬೆಂಬಲ ಬೆಲೆಯಲ್ಲಿ (MSP) ಯಾರು ಖರೀದಿಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಬೆಂಬಲ ಬೆಲೆಯಲ್ಲಿ (MSP) ಯಾರು ಖರೀದಿಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "APMC",
+      "Karnataka",
+      "MSP",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಬೆಂಬಲ ಬೆಲೆಯಲ್ಲಿ (MSP) ಯಾರು ಖರೀದಿಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೃಷಿ ಉತ್ಪನ್ನ ಮಾರುಕಟ್ಟೆ ಸಮಿತಿ (APMC) ಯಲ್ಲಿ ಸರ್ಕಾರಿ ಖರೀದಿ ಕೇಂದ್ರಗಳ ಮೂಲಕ ಖರೀದಿಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಕೃಷಿ ಉತ್ಪನ್ನ ಮಾರುಕಟ್ಟೆ ಸಮಿತಿ (APMC) ಯಲ್ಲಿ ಸರ್ಕಾರಿ ಖರೀದಿ ಕೇಂದ್ರಗಳ ಮೂಲಕ ಖರೀದಿಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕೃಷಿ ಉತ್ಪನ್ನ ಮಾರುಕಟ್ಟೆ ಸಮಿತಿ (APMC) ಯಲ್ಲಿ ಸರ್ಕಾರಿ ಖರೀದಿ ಕೇಂದ್ರಗಳ ಮೂಲಕ ಖರೀದಿಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "APMC"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದಲ್ಲಿ ಸಜ್ಜೆಯನ್ನು ಬೆಂಬಲ ಬೆಲೆಯಲ್ಲಿ (MSP) ಯಾರು ಖರೀದಿಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೃಷಿ ಉತ್ಪನ್ನ ಮಾರುಕಟ್ಟೆ ಸಮಿತಿ (APMC) ಯಲ್ಲಿ ಸರ್ಕಾರಿ ಖರೀದಿ ಕೇಂದ್ರಗಳ ಮೂಲಕ ಖರೀದಿಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ಸಜ್ಜೆ (Pearl Millet)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ದೀರ್ಘಕಾಲಿಕ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ದೀರ್ಘಕಾಲಿಕ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Climate",
+      "Climate change",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಸಜ್ಜೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Sandy Loam",
+      "climate": "Semi-arid",
+      "temperature": "25-35°C",
+      "rainfall": "200-600 mm"
+    },
+    "problem_description": "ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ದೀರ್ಘಕಾಲಿಕ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ಹವಾಮಾನ ಬದಲಾವಣೆಯ (Climate change) ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ತಾಪಮಾನ ಹೆಚ್ಚಾದರೂ ಸಜ್ಜೆ ಬೆಳೆದು ಆಹಾರ ಭದ್ರತೆ ಕಾಪಾಡಿಕೊಳ್ಳಬಹುದು.",
+      "detailed_answer": "ಹವಾಮಾನ ಬದಲಾವಣೆಯ (Climate change) ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ತಾಪಮಾನ ಹೆಚ್ಚಾದರೂ ಸಜ್ಜೆ ಬೆಳೆದು ಆಹಾರ ಭದ್ರತೆ ಕಾಪಾಡಿಕೊಳ್ಳಬಹುದು.",
+      "step_by_step": [
+        "ಹವಾಮಾನ ಬದಲಾವಣೆಯ (Climate change) ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ತಾಪಮಾನ ಹೆಚ್ಚಾದರೂ ಸಜ್ಜೆ ಬೆಳೆದು ಆಹಾರ ಭದ್ರತೆ ಕಾಪಾಡಿಕೊಳ್ಳಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Climate change"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸಜ್ಜೆ (Pearl Millet) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಜ್ಜೆ ಬೆಳೆಯಿಂದ ರೈತರಿಗೆ ದೀರ್ಘಕಾಲಿಕ ಲಾಭವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹವಾಮಾನ ಬದಲಾವಣೆಯ (Climate change) ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ತಾಪಮಾನ ಹೆಚ್ಚಾದರೂ ಸಜ್ಜೆ ಬೆಳೆದು ಆಹಾರ ಭದ್ರತೆ ಕಾಪಾಡಿಕೊಳ್ಳಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  }
+]

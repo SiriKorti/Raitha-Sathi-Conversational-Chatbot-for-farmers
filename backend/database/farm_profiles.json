@@ -1,0 +1,73 @@
+{
+  "user_api_test": {
+    "farmerName": "Channappa",
+    "location": "Dharwad",
+    "crops": [
+      "Groundnut"
+    ]
+  },
+  "user_progress_test": {
+    "crop_progress": [
+      {
+        "crop_name": "Ragi",
+        "sowing_date": "2026-06-01",
+        "variety": "GPU-28"
+      }
+    ]
+  },
+  "farmer_60487c74": {
+    "crop_progress": [
+      {
+        "crop_name": "ragi",
+        "sowing_date": "2026-09-09",
+        "variety": null
+      }
+    ]
+  },
+  "farmer_001": {
+    "crop_progress": [
+      {
+        "crop_name": "ragi",
+        "sowing_date": "2026-09-10",
+        "variety": null
+      },
+      {
+        "crop_name": "ಹತ್ತಿ",
+        "sowing_date": "2026-09-11",
+        "variety": null
+      }
+    ]
+  },
+  "farmer_9fa5d18c": {
+    "crop_progress": [
+      {
+        "crop_name": "Arecanut",
+        "sowing_date": "2026-09-22",
+        "variety": null
+      },
+      {
+        "crop_name": "Paddy",
+        "sowing_date": "2026-09-11",
+        "variety": null
+      },
+      {
+        "crop_name": "Groundnut",
+        "sowing_date": "2026-09-11",
+        "variety": null
+      },
+      {
+        "crop_name": "Tomato",
+        "sowing_date": "2026-09-11",
+        "variety": null
+      },
+      {
+        "crop_name": "kiwi",
+        "sowing_date": "2026-09-11",
+        "variety": null
+      }
+    ]
+  },
+  "test_user": {
+    "crop_progress": []
+  }
+}

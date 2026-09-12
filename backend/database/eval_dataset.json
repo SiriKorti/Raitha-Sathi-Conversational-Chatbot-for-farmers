@@ -1,0 +1,51 @@
+[
+  {
+    "id": "Q1",
+    "query": "ರಾಗಿಯಲ್ಲಿ ಕಾಂಡ ಕೊರಕ ರೋಗಕ್ಕೆ ಏನು ಮಾಡಬೇಕು?",
+    "expected_crop": "ರಾಗಿ",
+    "expected_intent": "disease_management",
+    "description": "Standard disease query in Kannada"
+  },
+  {
+    "id": "Q2",
+    "query": "what is the fertilizer for ragi crop?",
+    "expected_crop": "ragi",
+    "expected_intent": "fertilizer",
+    "description": "Standard fertilizer query in English"
+  },
+  {
+    "id": "Q3",
+    "query": "ragi yalli ele chukke roga ide",
+    "expected_crop": "ragi",
+    "expected_intent": "disease_management",
+    "description": "Kanglish disease query"
+  },
+  {
+    "id": "Q4",
+    "query": "ಇದಕ್ಕೆ ಎಷ್ಟು ಯೂರಿಯಾ ಹಾಕಬೇಕು?",
+    "expected_crop": null,
+    "expected_intent": "fertilizer",
+    "description": "Pronoun resolution test (requires state injection)"
+  },
+  {
+    "id": "Q5",
+    "query": "how do I grow apples in Karnataka?",
+    "expected_crop": "apple",
+    "expected_intent": "general",
+    "description": "Out of database crop, should fallback to general/low confidence"
+  },
+  {
+    "id": "Q6",
+    "query": "Who is the PM of India?",
+    "expected_crop": null,
+    "expected_intent": "non_agricultural",
+    "description": "Non-agricultural query, should be rejected"
+  },
+  {
+    "id": "Q7",
+    "query": "ಕಳೆದ 15 ದಿನಗಳಿಂದ ಮಳೆ ಸರಿಯಾಗಿ ಆಗಿಲ್ಲ. ಭತ್ತದ ಎಲೆಗಳ ತುದಿ ಒಣಗುತ್ತಿದೆ ಮತ್ತು ಕೆಳಗಿನ ಎಲೆಗಳು ಹಳದಿಯಾಗುತ್ತಿವೆ. ಇದು ನೀರಿನ ಕೊರತೆಯೇ ಅಥವಾ ಪೋಷಕಾಂಶದ ಕೊರತೆಯೇ ಎಂದು ಹೇಗೆ ಗುರುತಿಸುವುದು?",
+    "expected_crop": "ಭತ್ತ",
+    "expected_intent": "identification",
+    "description": "Complex diagnostic query with multiple symptoms and missing database info originally"
+  }
+]

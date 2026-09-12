@@ -42,3 +42,7 @@ indic-transliteration>=2.3.0
 
 # ---- Logging ----
 loguru>=0.7.0
+
+# ---- Image Processing (Visual Crop Diagnosis) ----
+Pillow>=10.0.0
+

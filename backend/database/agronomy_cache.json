@@ -1,0 +1,264 @@
+{
+  "kiwi": {
+    "crop_name": "kiwi",
+    "duration_days_min": 1095,
+    "duration_days_max": 1460,
+    "growth_stages": [
+      {
+        "name": "Establishment Phase",
+        "start_day": 0,
+        "end_day": 365,
+        "description": "Planting of grafted vines, root system development, and initial training of the main trunk on trellis."
+      },
+      {
+        "name": "Juvenile / Training Phase",
+        "start_day": 366,
+        "end_day": 1095,
+        "description": "Growth of permanent cordon branches, canopy development, and light scaffolding setup."
+      },
+      {
+        "name": "First Commercial Bearing",
+        "start_day": 1096,
+        "end_day": 1460,
+        "description": "Initial light crop load produced on 3-to-4-year-old vines."
+      },
+      {
+        "name": "Full Economic Production",
+        "start_day": 1461,
+        "end_day": 9125,
+        "description": "Vines reach maturity (around year 5+) yielding full commercial tonnage annually."
+      }
+    ],
+    "source": "Standard Viticulture and Pomology Guidelines for Actinidia deliciosa",
+    "notes": "Duration represents the time from planting nursery stock to the first commercial harvest. Vines can remain economically productive for 30 to 40 years.",
+    "confidence": "high",
+    "crop_type": "perennial",
+    "is_perennial": true,
+    "bearing_age_years_min": 3.0,
+    "bearing_age_years_max": 4.0,
+    "harvest_season_description": "October to November (Northern Hemisphere) or April to May (Southern Hemisphere)"
+  },
+  "exotic crop": {
+    "crop_name": "Exotic Crop",
+    "duration_days_min": null,
+    "duration_days_max": null,
+    "growth_stages": [],
+    "source": "Raitha Sathi Agronomic System",
+    "notes": "Insufficient regional data",
+    "confidence": "low",
+    "crop_type": "annual",
+    "is_perennial": false,
+    "bearing_age_years_min": null,
+    "bearing_age_years_max": null,
+    "harvest_season_description": null
+  },
+  "wheat": {
+    "crop_name": "Wheat",
+    "duration_days_min": 90,
+    "duration_days_max": 120,
+    "growth_stages": [
+      {
+        "name": "Early Establishment",
+        "start_day": 0,
+        "end_day": 20,
+        "description": "Seed emergence and vegetative establishment."
+      },
+      {
+        "name": "Vegetative Growth",
+        "start_day": 21,
+        "end_day": 55,
+        "description": "Foliage expansion and active canopy growth."
+      },
+      {
+        "name": "Flowering & Reproductive",
+        "start_day": 56,
+        "end_day": 90,
+        "description": "Flowering and fruit/seed formation."
+      },
+      {
+        "name": "Maturity & Harvest",
+        "start_day": 91,
+        "end_day": 120,
+        "description": "Ripening and harvest window."
+      }
+    ],
+    "source": "General Agronomic Lifecycle Model",
+    "notes": "Estimated timeline based on typical agricultural crop lifecycles. May vary by variety and season.",
+    "confidence": "estimated",
+    "crop_type": "annual",
+    "is_perennial": false,
+    "bearing_age_years_min": null,
+    "bearing_age_years_max": null,
+    "harvest_season_description": null
+  },
+  "unknownwildgrass": {
+    "crop_name": "UnknownWildGrass",
+    "duration_days_min": null,
+    "duration_days_max": null,
+    "growth_stages": [],
+    "source": "Raitha Sathi Agronomic System",
+    "notes": "No agronomic data available for wild species",
+    "confidence": "unknown",
+    "crop_type": "annual",
+    "is_perennial": false,
+    "bearing_age_years_min": null,
+    "bearing_age_years_max": null,
+    "harvest_season_description": null
+  },
+  "novelragi": {
+    "crop_name": "NovelRagi",
+    "duration_days_min": 105,
+    "duration_days_max": 120,
+    "growth_stages": [
+      {
+        "name": "Germination & Seedling",
+        "start_day": 0,
+        "end_day": 15,
+        "description": null
+      },
+      {
+        "name": "Vegetative & Tillering",
+        "start_day": 16,
+        "end_day": 45,
+        "description": null
+      },
+      {
+        "name": "Flowering & Grain Formation",
+        "start_day": 46,
+        "end_day": 85,
+        "description": null
+      },
+      {
+        "name": "Maturity & Harvest",
+        "start_day": 86,
+        "end_day": 120,
+        "description": null
+      }
+    ],
+    "source": "UAS Bangalore Package of Practices",
+    "notes": "Varies by Kharif vs Rabi season",
+    "confidence": "high",
+    "crop_type": "annual",
+    "is_perennial": false,
+    "bearing_age_years_min": null,
+    "bearing_age_years_max": null,
+    "harvest_season_description": null
+  },
+  "novelpaddy": {
+    "crop_name": "NovelPaddy",
+    "duration_days_min": 90,
+    "duration_days_max": 150,
+    "growth_stages": [
+      {
+        "name": "Nursery",
+        "start_day": 0,
+        "end_day": 25,
+        "description": null
+      },
+      {
+        "name": "Tillering",
+        "start_day": 26,
+        "end_day": 60,
+        "description": null
+      },
+      {
+        "name": "Heading",
+        "start_day": 61,
+        "end_day": 100,
+        "description": null
+      },
+      {
+        "name": "Ripening",
+        "start_day": 101,
+        "end_day": 150,
+        "description": null
+      }
+    ],
+    "source": "Raitha Sathi Agronomic System",
+    "notes": "Short-duration vs long-duration varieties",
+    "confidence": "medium",
+    "crop_type": "annual",
+    "is_perennial": false,
+    "bearing_age_years_min": null,
+    "bearing_age_years_max": null,
+    "harvest_season_description": null
+  },
+  "novelmaize": {
+    "crop_name": "NovelMaize",
+    "duration_days_min": -10,
+    "duration_days_max": 100,
+    "growth_stages": [
+      {
+        "name": "Germination & Seedling",
+        "start_day": 0,
+        "end_day": 15,
+        "description": "Seed emergence and initial vegetative establishment."
+      },
+      {
+        "name": "Vegetative Growth",
+        "start_day": 16,
+        "end_day": 45,
+        "description": "Active foliage development and tillering/branching."
+      },
+      {
+        "name": "Flowering & Development",
+        "start_day": 46,
+        "end_day": 75,
+        "description": "Inflorescence, blooming, and initial fruit/grain formation."
+      },
+      {
+        "name": "Maturity & Harvest",
+        "start_day": 76,
+        "end_day": 100,
+        "description": "Crop reaches harvest maturity."
+      }
+    ],
+    "source": "Raitha Sathi Agronomic System",
+    "notes": null,
+    "confidence": "high",
+    "crop_type": "annual",
+    "is_perennial": false,
+    "bearing_age_years_min": null,
+    "bearing_age_years_max": null,
+    "harvest_season_description": null
+  },
+  "novelwheat": {
+    "crop_name": "NovelWheat",
+    "duration_days_min": 90,
+    "duration_days_max": 120,
+    "growth_stages": [
+      {
+        "name": "Early Establishment",
+        "start_day": 0,
+        "end_day": 20,
+        "description": "Seed emergence and vegetative establishment."
+      },
+      {
+        "name": "Vegetative Growth",
+        "start_day": 21,
+        "end_day": 55,
+        "description": "Foliage expansion and active canopy growth."
+      },
+      {
+        "name": "Flowering & Reproductive",
+        "start_day": 56,
+        "end_day": 90,
+        "description": "Flowering and fruit/seed formation."
+      },
+      {
+        "name": "Maturity & Harvest",
+        "start_day": 91,
+        "end_day": 120,
+        "description": "Ripening and harvest window."
+      }
+    ],
+    "source": "General Agronomic Lifecycle Model",
+    "notes": "Estimated timeline based on typical agricultural crop lifecycles. May vary by variety and season.",
+    "confidence": "estimated",
+    "crop_type": "annual",
+    "is_perennial": false,
+    "bearing_age_years_min": null,
+    "bearing_age_years_max": null,
+    "harvest_season_description": null
+  }
+}

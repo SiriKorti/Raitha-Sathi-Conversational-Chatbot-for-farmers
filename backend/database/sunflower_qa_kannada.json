@@ -1,0 +1,4828 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "question_variants": [
+      "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಯಾವ ಹವಾಮಾನ ಒಳ್ಳೆಯದು?",
+      "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಯಾವ ತಾಪಮಾನ ಬೇಕು?"
+    ],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "ಹವಾಮಾನ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ 20-30 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ತಾಪಮಾನ, ಸಾಕಷ್ಟು ಬಿಸಿಲು ಮತ್ತು ವಾರ್ಷಿಕ 500-750 ಮಿ.ಮೀ ಮಳೆ ಸೂಕ್ತ.",
+      "detailed_answer": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ 20-30 ಡಿಗ್ರಿ ತಾಪಮಾನ ಹಾಗೂ ಪ್ರತಿದಿನ ಕನಿಷ್ಠ 6-8 ಗಂಟೆ ನೇರ ಸೂರ್ಯಬೆಳಕು ಅವಶ್ಯ. ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಮೋಡ ಇದ್ದರೆ ಪರಾಗಸ್ಪರ್ಶಕ್ಕೆ ತೊಂದರೆಯಾಗಿ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಕರ್ನಾಟಕದಲ್ಲಿ ಖಾರಿಫ್ (ಜೂನ್-ಸೆಪ್ಟೆಂಬರ್) ಮತ್ತು ರಬಿ (ಅಕ್ಟೋಬರ್-ಜನವರಿ) ಎರಡೂ ಋತುಗಳಲ್ಲಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "20-30 ಡಿಗ್ರಿ ತಾಪಮಾನ ಸೂಕ್ತ",
+        "6-8 ಗಂಟೆ ನೇರ ಸೂರ್ಯಬೆಳಕು ಅವಶ್ಯ",
+        "500-750 ಮಿ.ಮೀ ವಾರ್ಷಿಕ ಮಳೆ ಸಾಕು"
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ನೀರು ನಿಲ್ಲಬಾರದು"
+      ]
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 20-30 ಡಿಗ್ರಿ ತಾಪಮಾನ, 6-8 ಗಂಟೆ ಬಿಸಿಲು ಮತ್ತು 500-750 ಮಿ.ಮೀ ಮಳೆ ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Karnataka Agricultural University / ICAR",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು?",
+    "question_variants": [
+      "ಸೂರ್ಯಕಾಂತಿಗೆ ಯಾವ ಮಣ್ಣು ಒಳ್ಳೆಯದು?"
+    ],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "ಮಣ್ಣು",
+      "soil",
+      "Karnataka"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಆಳವಾದ, ನೀರು ಬಸಿಯುವ ಕಪ್ಪು ಅಥವಾ ದೋಮಟ್ಟು ಮಣ್ಣು ಸೂರ್ಯಕಾಂತಿಗೆ ಉತ್ತಮ. pH 6.5-7.5 ಇರಬೇಕು.",
+      "detailed_answer": "ಸೂರ್ಯಕಾಂತಿಗೆ ಆಳವಾದ, ನೀರು ಚೆನ್ನಾಗಿ ಬಸಿಯುವ ಕಪ್ಪು ಮಣ್ಣು ಅಥವಾ ದೋಮಟ್ಟು ಮಣ್ಣು ಸೂಕ್ತ. pH 6.5-7.5 ಇರಬೇಕು. ನೀರು ನಿಲ್ಲುವ ಮಣ್ಣು ಮೂಲ ಕೊಳೆತಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಕರ್ನಾಟಕದ ಧಾರವಾಡ, ಬೆಳಗಾವಿ ಜಿಲ್ಲೆಗಳ ಕಪ್ಪು ಮಣ್ಣು ಸೂರ್ಯಕಾಂತಿಗೆ ಅತ್ಯಂತ ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ಆಳ 60-90 ಸೆ.ಮೀ ಮಣ್ಣು ಇರಬೇಕು",
+        "pH 6.5-7.5 ಇರಬೇಕು",
+        "ನೀರು ಬಸಿಯುವ ಸಾಮರ್ಥ್ಯ ಅವಶ್ಯ"
+      ],
+      "preventive_measures": [
+        "ನೀರು ನಿಲ್ಲದ ಜಮೀನು ಆಯ್ಕೆ ಮಾಡಿ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಮಣ್ಣಿಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಸೇರಿಸಿ"
+      ],
+      "warnings": [
+        "ಜವುಳಿ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಾರದು"
+      ]
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಆಳವಾದ ಕಪ್ಪು ಅಥವಾ ದೋಮಟ್ಟು ಮಣ್ಣು, pH 6.5-7.5.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಬಿತ್ತನೆ",
+    "subtopic": "Sowing",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಯಾವ ಸಮಯದಲ್ಲಿ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಸೂರ್ಯಕಾಂತಿ ಯಾವ ತಿಂಗಳಲ್ಲಿ ಬಿತ್ತಬೇಕು?"
+    ],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "ಬಿತ್ತನೆ",
+      "sowing time",
+      "Karnataka"
+    ],
+    "context": {
+      "crop_stage": "sowing",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಯಾವ ಸಮಯದಲ್ಲಿ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಖಾರಿಫ್‌ಗೆ ಜೂನ್-ಜುಲೈ ಮತ್ತು ರಬಿಗೆ ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್ ಸೂಕ್ತ ಬಿತ್ತನೆ ಸಮಯ.",
+      "detailed_answer": "ಕರ್ನಾಟಕದಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ವರ್ಷಕ್ಕೆ ಎರಡು ಬಾರಿ ಬಿತ್ತಬಹುದು. ಖಾರಿಫ್ ಋತುವಿನಲ್ಲಿ ಜೂನ್ 15 ರಿಂದ ಜುಲೈ 15 ರವರೆಗೆ ಮತ್ತು ರಬಿ ಋತುವಿನಲ್ಲಿ ಅಕ್ಟೋಬರ್ 15 ರಿಂದ ನವೆಂಬರ್ 15 ರವರೆಗೆ ಬಿತ್ತಬೇಕು.",
+      "step_by_step": [
+        "ಖಾರಿಫ್: ಜೂನ್ 15 - ಜುಲೈ 15",
+        "ರಬಿ: ಅಕ್ಟೋಬರ್ 15 - ನವೆಂಬರ್ 15",
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಶುಷ್ಕ ವಾತಾವರಣ ಖಚಿತಪಡಿಸಿ"
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಮಳೆ ಹೆಚ್ಚಿದ ಸಮಯದಲ್ಲಿ ಬಿತ್ತಬೇಡಿ"
+      ]
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಯಾವ ಸಮಯದಲ್ಲಿ ಮಾಡಬೇಕು? ವಿಷಯ: ಬಿತ್ತನೆ. ಉತ್ತರ: ಖಾರಿಫ್‌ಗೆ ಜೂನ್-ಜುಲೈ, ರಬಿಗೆ ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್.",
+    "metadata": {
+      "source": "UAS Dharwad",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಬೀಜ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಬೀಜ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿಗೆ ಎಷ್ಟು ಬೀಜ ಬೇಕು ಒಂದು ಹೆಕ್ಟೇರ್‌ಗೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿಗೆ ಎಷ್ಟು ಬೀಜ ಬೇಕು ಒಂದು ಹೆಕ್ಟೇರ್‌ಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೆಕ್ಟೇರ್‌ಗೆ 4-5 ಕಿ.ಗ್ರಾ ಬೀಜ ಬೇಕು (ಸಂಕರ ತಳಿ 2.5-3 ಕಿ.ಗ್ರಾ).",
+      "detailed_answer": "ಸ್ಥಳೀಯ ತಳಿಗಳಿಗೆ ಹೆಕ್ಟೇರ್‌ಗೆ 4-5 ಕಿ.ಗ್ರಾ ಮತ್ತು ಹೈಬ್ರಿಡ್ ತಳಿಗಳಿಗೆ 2.5-3 ಕಿ.ಗ್ರಾ ಬೀಜ ಅಗತ್ಯ.",
+      "step_by_step": [
+        "ಹೆಕ್ಟೇರ್‌ಗೆ 4-5 ಕಿ.ಗ್ರಾ ಬೀಜ ಬೇಕು (ಸಂಕರ ತಳಿ 2.5-3 ಕಿ.ಗ್ರಾ)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿಗೆ ಎಷ್ಟು ಬೀಜ ಬೇಕು ಒಂದು ಹೆಕ್ಟೇರ್‌ಗೆ? ವಿಷಯ: ಬೀಜ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೆಕ್ಟೇರ್‌ಗೆ 4-5 ಕಿ.ಗ್ರಾ ಬೀಜ ಬೇಕು (ಸಂಕರ ತಳಿ 2.5-3 ಕಿ.ಗ್ರಾ).",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "ತಳಿ ಆಯ್ಕೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ ಸೂರ್ಯಕಾಂತಿ ತಳಿಗಳು ಯಾವವು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ ಸೂರ್ಯಕಾಂತಿ ತಳಿಗಳು ಯಾವವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "KBSH-44, KBSH-53, MSFH-17, Sunbred-46 ತಳಿಗಳು ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ.",
+      "detailed_answer": "KBSH-44 (ಉತ್ತರ ಕರ್ನಾಟಕ, 90 ದಿನ), KBSH-53 (ಸ್ಕ್ಲೆರೋಟಿನಿಯ ನಿರೋಧಕ), MSFH-17 (42-45% ಎಣ್ಣೆ). ಇವು ಹೆಕ್ಟೇರ್‌ಗೆ 1.8-2.5 ಟನ್ ಇಳುವರಿ ಕೊಡುತ್ತವೆ.",
+      "step_by_step": [
+        "KBSH-44, KBSH-53, MSFH-17, Sunbred-46 ತಳಿಗಳು ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ ಸೂರ್ಯಕಾಂತಿ ತಳಿಗಳು ಯಾವವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: KBSH-44, KBSH-53, MSFH-17, Sunbred-46 ತಳಿಗಳು ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಅಂತರ ಮತ್ತು ಸಾಲು",
+    "subtopic": "ಅಂತರ ಮತ್ತು ಸಾಲು",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ನಾಟಿಗೆ ಎಷ್ಟು ಅಂತರ ಇಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ನಾಟಿಗೆ ಎಷ್ಟು ಅಂತರ ಇಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲಿನ ಅಂತರ 60 ಸೆ.ಮೀ ಮತ್ತು ಸಸಿ-ಸಸಿ ಅಂತರ 30 ಸೆ.ಮೀ ಇಡಬೇಕು.",
+      "detailed_answer": "60x30 ಸೆ.ಮೀ ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಿ. ಹೀಗೆ ಹೆಕ್ಟೇರ್‌ಗೆ ಸರಿಸುಮಾರು 55,000 ಗಿಡಗಳಿರುತ್ತವೆ. ಅಂತರ ಕಡಿಮೆಯಾದರೆ ರೋಗ ಹರಡುವ ಅಪಾಯ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಾಲಿನ ಅಂತರ 60 ಸೆ.ಮೀ ಮತ್ತು ಸಸಿ-ಸಸಿ ಅಂತರ 30 ಸೆ.ಮೀ ಇಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ನಾಟಿಗೆ ಎಷ್ಟು ಅಂತರ ಇಡಬೇಕು? ವಿಷಯ: ಅಂತರ ಮತ್ತು ಸಾಲು. ಉತ್ತರ: ಸಾಲಿನ ಅಂತರ 60 ಸೆ.ಮೀ ಮತ್ತು ಸಸಿ-ಸಸಿ ಅಂತರ 30 ಸೆ.ಮೀ ಇಡಬೇಕು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿಗೆ ಎಷ್ಟು ಗೊಬ್ಬರ ಹಾಕಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿಗೆ ಎಷ್ಟು ಗೊಬ್ಬರ ಹಾಕಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೆಕ್ಟೇರ್‌ಗೆ 90:60:60 ಕಿ.ಗ್ರಾ NPK ಅಂದರೆ ಸಾರಜನಕ:ರಂಜಕ:ಪೊಟ್ಯಾಷ್ ಕೊಡಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆ ಸಮಯ N (45 ಕಿ.ಗ್ರಾ) + P (60 ಕಿ.ಗ್ರಾ) + K (60 ಕಿ.ಗ್ರಾ) ಕೊಡಿ. 30-35 ನೇ ದಿನ ಉಳಿದ N (45 ಕಿ.ಗ್ರಾ) ಕೊಡಿ.",
+      "step_by_step": [
+        "ಹೆಕ್ಟೇರ್‌ಗೆ 90:60:60 ಕಿ.ಗ್ರಾ NPK ಅಂದರೆ ಸಾರಜನಕ:ರಂಜಕ:ಪೊಟ್ಯಾಷ್ ಕೊಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿಗೆ ಎಷ್ಟು ಗೊಬ್ಬರ ಹಾಕಬೇಕು? ವಿಷಯ: ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೆಕ್ಟೇರ್‌ಗೆ 90:60:60 ಕಿ.ಗ್ರಾ NPK ಅಂದರೆ ಸಾರಜನಕ:ರಂಜಕ:ಪೊಟ್ಯಾಷ್ ಕೊಡಬೇಕು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ",
+    "subtopic": "ನೀರಾವರಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಎಷ್ಟು ನೀರಾವರಿ ಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಎಷ್ಟು ನೀರಾವರಿ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಮಾನ್ಯವಾಗಿ 4-6 ನೀರಾವರಿ ಬೇಕು. ಹೂಬಿಡುವ ಹಂತ ನಿರ್ಣಾಯಕ.",
+      "detailed_answer": "ಮೊಳಕೆ (7-10 ದಿನ), ತಿನ್ನುವ ಹಂತ (25-30 ದಿನ), ಹೂಬಿಡುವ ಹಂತ (60-65 ದಿನ) ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತ (75-80 ದಿನ) ಮುಖ್ಯ.",
+      "step_by_step": [
+        "ಸಾಮಾನ್ಯವಾಗಿ 4-6 ನೀರಾವರಿ ಬೇಕು. ಹೂಬಿಡುವ ಹಂತ ನಿರ್ಣಾಯಕ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಎಷ್ಟು ನೀರಾವರಿ ಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ. ಉತ್ತರ: ಸಾಮಾನ್ಯವಾಗಿ 4-6 ನೀರಾವರಿ ಬೇಕು. ಹೂಬಿಡುವ ಹಂತ ನಿರ್ಣಾಯಕ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿಯಲ್ಲಿ ಸ್ಕ್ಲೆರೋಟಿನಿಯ ರೋಗ (Sclerotinia Rot) ಏನು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿಯಲ್ಲಿ ಸ್ಕ್ಲೆರೋಟಿನಿಯ ರೋಗ (Sclerotinia Rot) ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸ್ಕ್ಲೆರೋಟಿನಿಯ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ. Carbendazim 0.1% ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಬುಡ ಕೊಳೆ, ಬಿಳಿ ಶಿಲೀಂಧ್ರ ಮತ್ತು ಕಪ್ಪು ಉಂಡೆ (Sclerotia) ಲಕ್ಷಣ. KBSH-53 ತಳಿ ಬಳಸಿ. Carbendazim 1 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಸ್ಕ್ಲೆರೋಟಿನಿಯ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ. Carbendazim 0.1% ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿಯಲ್ಲಿ ಸ್ಕ್ಲೆರೋಟಿನಿಯ ರೋಗ (Sclerotinia Rot) ಏನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸ್ಕ್ಲೆರೋಟಿನಿಯ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ. Carbendazim 0.1% ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ಕೊಳೆ (Head Rot) ರೋಗ ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ಕೊಳೆ (Head Rot) ರೋಗ ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Mancozeb 2.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Iprodione ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "Botrytis cinerea ಶಿಲೀಂಧ್ರದಿಂದ ಆಗುತ್ತದೆ. ಹೂಬಿಡುವ ಮೊದಲು ಮತ್ತು ನಂತರ ತಲಾ ಒಂದು ಸಿಂಪರಣೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "Mancozeb 2.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Iprodione ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ಕೊಳೆ (Head Rot) ರೋಗ ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Mancozeb 2.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Iprodione ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತುಕ್ಕು ರೋಗ (Rust) ಹೇಗೆ ಗುರುತಿಸಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತುಕ್ಕು ರೋಗ (Rust) ಹೇಗೆ ಗುರುತಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Triadimefon 0.1% ಸಿಂಪಡಿಸಿ ತುಕ್ಕು ನಿಯಂತ್ರಿಸಿ.",
+      "detailed_answer": "ಎಲೆ ಕೆಳಭಾಗ ಕಿತ್ತಳೆ ಉಬ್ಬುಗಳು ಮತ್ತು ಮೇಲ್ಭಾಗ ಹಳದಿ ಕಲೆ Puccinia helianthi ಲಕ್ಷಣ.",
+      "step_by_step": [
+        "Triadimefon 0.1% ಸಿಂಪಡಿಸಿ ತುಕ್ಕು ನಿಯಂತ್ರಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತುಕ್ಕು ರೋಗ (Rust) ಹೇಗೆ ಗುರುತಿಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Triadimefon 0.1% ಸಿಂಪಡಿಸಿ ತುಕ್ಕು ನಿಯಂತ್ರಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ತಿನ್ನುವ ಹಕ್ಕಿ ಸಮಸ್ಯೆ ಹೇಗೆ ತಡೆಯಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ತಿನ್ನುವ ಹಕ್ಕಿ ಸಮಸ್ಯೆ ಹೇಗೆ ತಡೆಯಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಟ್ಟೆ ಮೇಲೆ ಬಟ್ಟೆ ಕಟ್ಟಿ ಮತ್ತು ಜಮೀನಿನಲ್ಲಿ ಬೆದರುಗೊಂಬೆ ಇಟ್ಟು ಓಡಿಸಿ.",
+      "detailed_answer": "ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ತಟ್ಟೆ ಮೇಲೆ ಜಾಲರಿ ಹೊದಿಸಿ ಅಥವಾ ಹೊಲದಲ್ಲಿ ಬೆದರುಗೊಂಬೆ, ಹೊಳೆಯುವ ತಗಡು ನೇತಾಡಿಸಿ.",
+      "step_by_step": [
+        "ತಟ್ಟೆ ಮೇಲೆ ಬಟ್ಟೆ ಕಟ್ಟಿ ಮತ್ತು ಜಮೀನಿನಲ್ಲಿ ಬೆದರುಗೊಂಬೆ ಇಟ್ಟು ಓಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ತಿನ್ನುವ ಹಕ್ಕಿ ಸಮಸ್ಯೆ ಹೇಗೆ ತಡೆಯಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತಟ್ಟೆ ಮೇಲೆ ಬಟ್ಟೆ ಕಟ್ಟಿ ಮತ್ತು ಜಮೀನಿನಲ್ಲಿ ಬೆದರುಗೊಂಬೆ ಇಟ್ಟು ಓಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಕಾಂಡ ಕೊರೆಯುವ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಕಾಂಡ ಕೊರೆಯುವ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Chlorpyrifos 2.5 ಮಿ.ಲೀ/ಲೀ ನೀರಿನಲ್ಲಿ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಕಾಂಡದಲ್ಲಿ ರಂಧ್ರ ಮತ್ತು ತಿಂದ ಗುರುತು ಕೀಟ ಹಾನಿ ಲಕ್ಷಣ. Chlorpyrifos 20% EC ಬಳಸಿ.",
+      "step_by_step": [
+        "Chlorpyrifos 2.5 ಮಿ.ಲೀ/ಲೀ ನೀರಿನಲ್ಲಿ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಕಾಂಡ ಕೊರೆಯುವ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Chlorpyrifos 2.5 ಮಿ.ಲೀ/ಲೀ ನೀರಿನಲ್ಲಿ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಎಲೆ ತಿನ್ನುವ ಹುಳ (Spodoptera) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಎಲೆ ತಿನ್ನುವ ಹುಳ (Spodoptera) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Emamectin benzoate 0.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Chlorpyrifos ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "Spodoptera ಹುಳ ರಾತ್ರಿ ಎಲೆ ತಿನ್ನುತ್ತದೆ. ಮೊದಲ ಹಂತ ಕಂಡ ತಕ್ಷಣ ಸಿಂಪರಣೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "Emamectin benzoate 0.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Chlorpyrifos ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಎಲೆ ತಿನ್ನುವ ಹುಳ (Spodoptera) ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Emamectin benzoate 0.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Chlorpyrifos ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹಸಿರು ನೊಣ (Aphids) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹಸಿರು ನೊಣ (Aphids) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Imidacloprid 0.5 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Dimethoate ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಎಲೆ ಕೆಳಭಾಗ ಗುಂಪಾಗಿ ನೊಣ, ಎಲೆ ಮಡಚಿಕೊಳ್ಳುವಿಕೆ Aphids ಲಕ್ಷಣ. Imidacloprid ಬಳಸಿ.",
+      "step_by_step": [
+        "Imidacloprid 0.5 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Dimethoate ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹಸಿರು ನೊಣ (Aphids) ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Imidacloprid 0.5 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Dimethoate ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೂದಿ ರೋಗ (Powdery Mildew) ಲಕ್ಷಣ ಮತ್ತು ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೂದಿ ರೋಗ (Powdery Mildew) ಲಕ್ಷಣ ಮತ್ತು ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Wettable Sulfur 3 ಗ್ರಾ/ಲೀ ಅಥವಾ Tridemorph 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಎಲೆ ಮೇಲೆ ಬಿಳಿ ಬೂದಿ ಲೇಪ Leveillula taurica ಶಿಲೀಂಧ್ರ ಲಕ್ಷಣ. Wettable Sulfur ಬಳಸಿ.",
+      "step_by_step": [
+        "Wettable Sulfur 3 ಗ್ರಾ/ಲೀ ಅಥವಾ Tridemorph 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೂದಿ ರೋಗ (Powdery Mildew) ಲಕ್ಷಣ ಮತ್ತು ನಿಯಂತ್ರಣ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Wettable Sulfur 3 ಗ್ರಾ/ಲೀ ಅಥವಾ Tridemorph 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗ ಲಕ್ಷಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗ ಲಕ್ಷಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜ ಸಂಸ್ಕರಣ: Metalaxyl 6 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ. Metalaxyl 2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಎಲೆ ಮೇಲ್ಭಾಗ ಹಳದಿ, ಕೆಳಭಾಗ ಬಿಳಿ ಶಿಲೀಂಧ್ರ Plasmopara halstedii ಲಕ್ಷಣ.",
+      "step_by_step": [
+        "ಬೀಜ ಸಂಸ್ಕರಣ: Metalaxyl 6 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ. Metalaxyl 2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಡೌನಿ ಮಿಲ್ಡ್ಯೂ (Downy Mildew) ರೋಗ ಲಕ್ಷಣ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೀಜ ಸಂಸ್ಕರಣ: Metalaxyl 6 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ. Metalaxyl 2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೊಯ್ಲು ನಂತರ",
+    "subtopic": "ಕೊಯ್ಲು ನಂತರ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯ 85-100 ದಿನಗಳಿಗೆ ತಟ್ಟೆ ಹಿಂಭಾಗ ಹಳದಿ ಆದಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+      "detailed_answer": "ತಟ್ಟೆ ಹಿಂಭಾಗ ತಿಳಿ ಹಳದಿ ಬಣ್ಣ ಬಂದಾಗ, ತೇವಾಂಶ 10-15% ಇರುವಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಯ 85-100 ದಿನಗಳಿಗೆ ತಟ್ಟೆ ಹಿಂಭಾಗ ಹಳದಿ ಆದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು? ವಿಷಯ: ಕೊಯ್ಲು ನಂತರ. ಉತ್ತರ: ಬಿತ್ತನೆಯ 85-100 ದಿನಗಳಿಗೆ ತಟ್ಟೆ ಹಿಂಭಾಗ ಹಳದಿ ಆದಾಗ ಕೊಯ್ಲು ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೊಯ್ಲು ನಂತರ",
+    "subtopic": "ಕೊಯ್ಲು ನಂತರ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಸಂಗ್ರಹ ಮತ್ತು ಒಣಗಿಸುವ ವಿಧಾನ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಸಂಗ್ರಹ ಮತ್ತು ಒಣಗಿಸುವ ವಿಧಾನ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೊಯ್ದ ತಕ್ಷಣ ಒಣ ಜಾಗದಲ್ಲಿ 3-5 ದಿನ ಒಣಗಿಸಿ, ತೇವಾಂಶ 10% ಕ್ಕೆ ಇಳಿಸಿ ಸಂಗ್ರಹಿಸಿ.",
+      "detailed_answer": "ತೇವ ಸಂಗ್ರಹ ಮಾಡಿದರೆ ಶಿಲೀಂಧ್ರ ಬೆಳೆಯುತ್ತದೆ. ತೇವಾಂಶ ಅಳೆಯಲು Moisture meter ಬಳಸಿ.",
+      "step_by_step": [
+        "ಕೊಯ್ದ ತಕ್ಷಣ ಒಣ ಜಾಗದಲ್ಲಿ 3-5 ದಿನ ಒಣಗಿಸಿ, ತೇವಾಂಶ 10% ಕ್ಕೆ ಇಳಿಸಿ ಸಂಗ್ರಹಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಸಂಗ್ರಹ ಮತ್ತು ಒಣಗಿಸುವ ವಿಧಾನ? ವಿಷಯ: ಕೊಯ್ಲು ನಂತರ. ಉತ್ತರ: ಕೊಯ್ದ ತಕ್ಷಣ ಒಣ ಜಾಗದಲ್ಲಿ 3-5 ದಿನ ಒಣಗಿಸಿ, ತೇವಾಂಶ 10% ಕ್ಕೆ ಇಳಿಸಿ ಸಂಗ್ರಹಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಇಳುವರಿ",
+    "subtopic": "ಇಳುವರಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಒಂದು ಹೆಕ್ಟೇರ್‌ಗೆ ಎಷ್ಟು ಇಳುವರಿ ಸಿಗಬಹುದು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಒಂದು ಹೆಕ್ಟೇರ್‌ಗೆ ಎಷ್ಟು ಇಳುವರಿ ಸಿಗಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೈಬ್ರಿಡ್ ತಳಿಗಳಿಂದ ಹೆಕ್ಟೇರ್‌ಗೆ 1.8-2.5 ಟನ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "detailed_answer": "ಉತ್ತಮ ನೀರಾವರಿ ಮತ್ತು ಗೊಬ್ಬರ ನೀಡಿದರೆ 2.5-3 ಟನ್ ಸಾಧ್ಯ.",
+      "step_by_step": [
+        "ಹೈಬ್ರಿಡ್ ತಳಿಗಳಿಂದ ಹೆಕ್ಟೇರ್‌ಗೆ 1.8-2.5 ಟನ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಒಂದು ಹೆಕ್ಟೇರ್‌ಗೆ ಎಷ್ಟು ಇಳುವರಿ ಸಿಗಬಹುದು? ವಿಷಯ: ಇಳುವರಿ. ಉತ್ತರ: ಹೈಬ್ರಿಡ್ ತಳಿಗಳಿಂದ ಹೆಕ್ಟೇರ್‌ಗೆ 1.8-2.5 ಟನ್ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪರಾಗಸ್ಪರ್ಶ",
+    "subtopic": "ಪರಾಗಸ್ಪರ್ಶ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೂಬಿಡುವ ಹಂತದಲ್ಲಿ ಜೇನ್ನೊಣ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೂಬಿಡುವ ಹಂತದಲ್ಲಿ ಜೇನ್ನೊಣ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೇನ್ನೊಣ ಇಲ್ಲದಿದ್ದರೆ ಇಳುವರಿ 40-60% ಕಡಿಮೆಯಾಗಬಹುದು.",
+      "detailed_answer": "ಜೇನ್ನೊಣ ಕಾಲೊನಿ ಹೊಲದ ಪಕ್ಕ ಇಡಿ. ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಬೇಡಿ.",
+      "step_by_step": [
+        "ಜೇನ್ನೊಣ ಇಲ್ಲದಿದ್ದರೆ ಇಳುವರಿ 40-60% ಕಡಿಮೆಯಾಗಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೂಬಿಡುವ ಹಂತದಲ್ಲಿ ಜೇನ್ನೊಣ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ಪರಾಗಸ್ಪರ್ಶ. ಉತ್ತರ: ಜೇನ್ನೊಣ ಇಲ್ಲದಿದ್ದರೆ ಇಳುವರಿ 40-60% ಕಡಿಮೆಯಾಗಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪರಾಗಸ್ಪರ್ಶ",
+    "subtopic": "ಪರಾಗಸ್ಪರ್ಶ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೂ ತಟ್ಟೆ ಕಡಿಮೆ ಬೀಜ ಕಟ್ಟಿದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೂ ತಟ್ಟೆ ಕಡಿಮೆ ಬೀಜ ಕಟ್ಟಿದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕೈ-ಪರಾಗಸ್ಪರ್ಶ ಮಾಡಿ ಮತ್ತು ಜೇನ್ನೊಣ ಕಾಲೊನಿ ಇಡಿ.",
+      "detailed_answer": "ಮುಂಜಾನೆ ತಟ್ಟೆ ತಟ್ಟೆ ಉಜ್ಜಿ cross pollination ಮಾಡಿ. ಬೋರಾನ್ 0.2% ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕೈ-ಪರಾಗಸ್ಪರ್ಶ ಮಾಡಿ ಮತ್ತು ಜೇನ್ನೊಣ ಕಾಲೊನಿ ಇಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೂ ತಟ್ಟೆ ಕಡಿಮೆ ಬೀಜ ಕಟ್ಟಿದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪರಾಗಸ್ಪರ್ಶ. ಉತ್ತರ: ಹೂಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕೈ-ಪರಾಗಸ್ಪರ್ಶ ಮಾಡಿ ಮತ್ತು ಜೇನ್ನೊಣ ಕಾಲೊನಿ ಇಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಮೊದಲು ಮಣ್ಣು ಸಿದ್ಧಗೊಳಿಸುವ ವಿಧಾನ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಮೊದಲು ಮಣ್ಣು ಸಿದ್ಧಗೊಳಿಸುವ ವಿಧಾನ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣನ್ನು 2-3 ಬಾರಿ ಉಳುಮೆ ಮಾಡಿ, FYM 10 ಟನ್/ಹೆಕ್ಟೇರ್ ಬೆರೆಸಿ ಸಮತಟ್ಟು ಮಾಡಿ.",
+      "detailed_answer": "1 ಆಳ ಉಳುಮೆ (30 ಸೆ.ಮೀ) ಮಾಡಿ, 2-3 ಹದ ಉಳುಮೆ ಮಾಡಿ, 10 ಟನ್ FYM/ಹೆಕ್ಟೇರ್ ಬೆರೆಸಿ.",
+      "step_by_step": [
+        "ಮಣ್ಣನ್ನು 2-3 ಬಾರಿ ಉಳುಮೆ ಮಾಡಿ, FYM 10 ಟನ್/ಹೆಕ್ಟೇರ್ ಬೆರೆಸಿ ಸಮತಟ್ಟು ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಮೊದಲು ಮಣ್ಣು ಸಿದ್ಧಗೊಳಿಸುವ ವಿಧಾನ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣನ್ನು 2-3 ಬಾರಿ ಉಳುಮೆ ಮಾಡಿ, FYM 10 ಟನ್/ಹೆಕ್ಟೇರ್ ಬೆರೆಸಿ ಸಮತಟ್ಟು ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಧಾರವಾಡ, ಬೆಳಗಾವಿ, ಗದಗ, ಹಾವೇರಿ, ಬಿಜಾಪುರ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಅತ್ಯಧಿಕ.",
+      "detailed_answer": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಒಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಮುಖ್ಯ ಎಣ್ಣೆ ಬೆಳೆ.",
+      "step_by_step": [
+        "ಧಾರವಾಡ, ಬೆಳಗಾವಿ, ಗದಗ, ಹಾವೇರಿ, ಬಿಜಾಪುರ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಅತ್ಯಧಿಕ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಹೆಚ್ಚು ಬೆಳೆಯುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಧಾರವಾಡ, ಬೆಳಗಾವಿ, ಗದಗ, ಹಾವೇರಿ, ಬಿಜಾಪುರ ಜಿಲ್ಲೆಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಅತ್ಯಧಿಕ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆಯ ಶೇಕಡಾ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆಯ ಶೇಕಡಾ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜದಲ್ಲಿ 38-48% ಎಣ್ಣೆ ಇರುತ್ತದೆ.",
+      "detailed_answer": "MSFH-17 ತಳಿ 45% ವರೆಗೆ ಎಣ್ಣೆ ಕೊಡುತ್ತದೆ. ಲಿನೋಲಿಕ್ ಆಮ್ಲ 65-70% ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಬೀಜದಲ್ಲಿ 38-48% ಎಣ್ಣೆ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆಯ ಶೇಕಡಾ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಬೀಜದಲ್ಲಿ 38-48% ಎಣ್ಣೆ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಬೀಜ ಸಂಸ್ಕರಣ",
+    "subtopic": "ಬೀಜ ಸಂಸ್ಕರಣ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಬಿತ್ತನೆ ಮೊದಲು ಯಾವ ಸಂಸ್ಕರಣ ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಬಿತ್ತನೆ ಮೊದಲು ಯಾವ ಸಂಸ್ಕರಣ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Thiram 3 ಗ್ರಾ/ಕಿ.ಗ್ರಾ + Metalaxyl 6 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+      "detailed_answer": "Trichoderma 4 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಜೈವಿಕ ಸಂಸ್ಕರಣ ಮಾಡಬಹುದು. ಸಂಸ್ಕರಣ ನಂತರ ನೆರಳಿನಲ್ಲಿ ಒಣಗಿಸಿ.",
+      "step_by_step": [
+        "Thiram 3 ಗ್ರಾ/ಕಿ.ಗ್ರಾ + Metalaxyl 6 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಬಿತ್ತನೆ ಮೊದಲು ಯಾವ ಸಂಸ್ಕರಣ ಮಾಡಬೇಕು? ವಿಷಯ: ಬೀಜ ಸಂಸ್ಕರಣ. ಉತ್ತರ: Thiram 3 ಗ್ರಾ/ಕಿ.ಗ್ರಾ + Metalaxyl 6 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಳೆ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕಳೆ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯ 15-20 ದಿನಗಳಲ್ಲಿ ಮೊದಲ ಕಳೆ ತೆಗೆದು, 35-40 ದಿನಗಳಲ್ಲಿ ಎರಡನೇ ಬಾರಿ ತೆಗೆಯಿರಿ.",
+      "detailed_answer": "Pendimethalin 1 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ Pre-emergence ಸಿಂಪಡಿಸಿ. 2 ಕೈ ಕಳೆ ತೆಗೆತ ಮಾಡಿ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಯ 15-20 ದಿನಗಳಲ್ಲಿ ಮೊದಲ ಕಳೆ ತೆಗೆದು, 35-40 ದಿನಗಳಲ್ಲಿ ಎರಡನೇ ಬಾರಿ ತೆಗೆಯಿರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಕಳೆ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆಯ 15-20 ದಿನಗಳಲ್ಲಿ ಮೊದಲ ಕಳೆ ತೆಗೆದು, 35-40 ದಿನಗಳಲ್ಲಿ ಎರಡನೇ ಬಾರಿ ತೆಗೆಯಿರಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಬೋರಾನ್ ಏಕೆ ಅವಶ್ಯ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಬೋರಾನ್ ಏಕೆ ಅವಶ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಹೂ ಬಿಡದೆ ಅಥವಾ ಬೀಜ ಕಟ್ಟದೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "Borax 1.5 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಬಿತ್ತನೆ ಸಮಯ ಭೂಮಿಗೆ ಕೊಡಿ ಅಥವಾ 0.2% Boric acid ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಹೂ ಬಿಡದೆ ಅಥವಾ ಬೀಜ ಕಟ್ಟದೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಬೋರಾನ್ ಏಕೆ ಅವಶ್ಯ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಹೂ ಬಿಡದೆ ಅಥವಾ ಬೀಜ ಕಟ್ಟದೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "subtopic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಎಲೆ ಹಳದಿ ಆದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಎಲೆ ಹಳದಿ ಆದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಳದಿ ಎಲ್ಲ ಎಲೆ: N ಕೊರತೆ - Urea 19 ಕಿ.ಗ್ರಾ/ಎಕರೆ ಕೊಡಿ. ಹೊಸ ಎಲೆ ಮಾತ್ರ: Fe ಕೊರತೆ - FeSO4 0.5% ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿ ಕೊರತೆ ಖಚಿತ ಮಾಡಿ. ನಂತರ ಅಗತ್ಯ ಗೊಬ್ಬರ ಕೊಡಿ.",
+      "step_by_step": [
+        "ಹಳದಿ ಎಲ್ಲ ಎಲೆ: N ಕೊರತೆ - Urea 19 ಕಿ.ಗ್ರಾ/ಎಕರೆ ಕೊಡಿ. ಹೊಸ ಎಲೆ ಮಾತ್ರ: Fe ಕೊರತೆ - FeSO4 0.5% ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಎಲೆ ಹಳದಿ ಆದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ಕೊರತೆ. ಉತ್ತರ: ಹಳದಿ ಎಲ್ಲ ಎಲೆ: N ಕೊರತೆ - Urea 19 ಕಿ.ಗ್ರಾ/ಎಕರೆ ಕೊಡಿ. ಹೊಸ ಎಲೆ ಮಾತ್ರ: Fe ಕೊರತೆ - FeSO4 0.5% ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಅಂತರ ಬೆಳೆ",
+    "subtopic": "ಅಂತರ ಬೆಳೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಜೊತೆ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಜೊತೆ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಜೊತೆ ಸಜ್ಜೆ, ಶೇಂಗಾ, ಹೆಸರು, ಉದ್ದು ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "2:1 (2 ಸಾಲು ಸೂರ್ಯಕಾಂತಿ : 1 ಸಾಲು ಶೇಂಗಾ) ಅನುಪಾತ ಉತ್ತಮ. ಹೆಚ್ಚು ಆದಾಯ ಸಿಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಜೊತೆ ಸಜ್ಜೆ, ಶೇಂಗಾ, ಹೆಸರು, ಉದ್ದು ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಜೊತೆ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಅಂತರ ಬೆಳೆ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಜೊತೆ ಸಜ್ಜೆ, ಶೇಂಗಾ, ಹೆಸರು, ಉದ್ದು ಅಂತರ ಬೆಳೆ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಎಷ್ಟು ದಿನ ಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಎಷ್ಟು ದಿನ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೈಬ್ರಿಡ್ ತಳಿಗಳು 85-95 ದಿನ ಮತ್ತು ಸ್ಥಳೀಯ ತಳಿಗಳು 100-110 ದಿನ.",
+      "detailed_answer": "KBSH-44: 88 ದಿನ, KBSH-53: 92 ದಿನ, MSFH-17: 90 ದಿನ.",
+      "step_by_step": [
+        "ಹೈಬ್ರಿಡ್ ತಳಿಗಳು 85-95 ದಿನ ಮತ್ತು ಸ್ಥಳೀಯ ತಳಿಗಳು 100-110 ದಿನ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಎಷ್ಟು ದಿನ ಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೈಬ್ರಿಡ್ ತಳಿಗಳು 85-95 ದಿನ ಮತ್ತು ಸ್ಥಳೀಯ ತಳಿಗಳು 100-110 ದಿನ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಜಾಸಿಡ್ (Jassids) ಕೀಟ ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಜಾಸಿಡ್ (Jassids) ಕೀಟ ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Imidacloprid 0.3 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Thiamethoxam 0.2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "Jassids ಎಲೆ ರಸ ಹೀರಿ ಎಲೆ ತುದಿ ಮಡಚಿ ಒಣಗಿಸುತ್ತದೆ. ಹಳದಿ ಅಂಟುಪಟ್ಟಿ ನೇತಾಡಿಸಿ.",
+      "step_by_step": [
+        "Imidacloprid 0.3 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Thiamethoxam 0.2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಜಾಸಿಡ್ (Jassids) ಕೀಟ ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Imidacloprid 0.3 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Thiamethoxam 0.2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮಿಲ್ಲಿಬಗ್ (Mealybug) ಹಾವಳಿ ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮಿಲ್ಲಿಬಗ್ (Mealybug) ಹಾವಳಿ ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Profenofos 2 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Dimethoate 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಬಿಳಿ ಹತ್ತಿ ತರಹ ಲೇಪ Mealybug ಲಕ್ಷಣ. Chrysoperla 1 ಲಕ್ಷ/ಹೆಕ್ಟೇರ್ ಜೈವಿಕ ನಿಯಂತ್ರಣ.",
+      "step_by_step": [
+        "Profenofos 2 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Dimethoate 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮಿಲ್ಲಿಬಗ್ (Mealybug) ಹಾವಳಿ ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Profenofos 2 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Dimethoate 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "subtopic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಗಿಡ ಕಡಿಮೆ ಎತ್ತರ ಮತ್ತು ಗಾಢ ಹಸಿರು ಇದ್ದರೆ ಏಕೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಗಿಡ ಕಡಿಮೆ ಎತ್ತರ ಮತ್ತು ಗಾಢ ಹಸಿರು ಇದ್ದರೆ ಏಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಂಜಕ (P) ಕೊರತೆಯಿಂದ ಗಿಡ ಕುಂಠಿತ ಮತ್ತು ನೇರಳೆ ಬಣ್ಣ ಬರುತ್ತದೆ.",
+      "detailed_answer": "DAP 150 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಬಿತ್ತನೆ ಸಮಯ ಕೊಡಿ. ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "ರಂಜಕ (P) ಕೊರತೆಯಿಂದ ಗಿಡ ಕುಂಠಿತ ಮತ್ತು ನೇರಳೆ ಬಣ್ಣ ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಗಿಡ ಕಡಿಮೆ ಎತ್ತರ ಮತ್ತು ಗಾಢ ಹಸಿರು ಇದ್ದರೆ ಏಕೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ಕೊರತೆ. ಉತ್ತರ: ರಂಜಕ (P) ಕೊರತೆಯಿಂದ ಗಿಡ ಕುಂಠಿತ ಮತ್ತು ನೇರಳೆ ಬಣ್ಣ ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "subtopic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹಳೆ ಎಲೆ ಅಂಚು ಹಳದಿ ಆದರೆ ಏನು (Potassium deficiency)?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹಳೆ ಎಲೆ ಅಂಚು ಹಳದಿ ಆದರೆ ಏನು (Potassium deficiency)?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಳೆ ಎಲೆ ತುದಿ ಮತ್ತು ಅಂಚು ಹಳದಿ ಆದರೆ ಪೊಟ್ಯಾಷ್ ಕೊರತೆ.",
+      "detailed_answer": "MOP 100 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಬಿತ್ತನೆ ಸಮಯ ಕೊಡಿ. KNO3 1% ತ್ವರಿತ ಪರಿಹಾರ ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಹಳೆ ಎಲೆ ತುದಿ ಮತ್ತು ಅಂಚು ಹಳದಿ ಆದರೆ ಪೊಟ್ಯಾಷ್ ಕೊರತೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹಳೆ ಎಲೆ ಅಂಚು ಹಳದಿ ಆದರೆ ಏನು (Potassium deficiency)? ವಿಷಯ: ಪೋಷಕಾಂಶ ಕೊರತೆ. ಉತ್ತರ: ಹಳೆ ಎಲೆ ತುದಿ ಮತ್ತು ಅಂಚು ಹಳದಿ ಆದರೆ ಪೊಟ್ಯಾಷ್ ಕೊರತೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ",
+    "subtopic": "ನೀರಾವರಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿಗೆ ಹನಿ ನೀರಾವರಿ ಸೂಕ್ತವೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿಗೆ ಹನಿ ನೀರಾವರಿ ಸೂಕ್ತವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹನಿ ನೀರಾವರಿ 30-40% ನೀರು ಉಳಿಸುತ್ತದೆ ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "detailed_answer": "ನೇರ ಬೇರಿಗೆ ನೀರು ಕೊಡುವುದರಿಂದ ರೋಗ ಕಡಿಮೆ. ಆದರೆ ಆರಂಭಿಕ ಖರ್ಚು ಹೆಚ್ಚು.",
+      "step_by_step": [
+        "ಹನಿ ನೀರಾವರಿ 30-40% ನೀರು ಉಳಿಸುತ್ತದೆ ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿಗೆ ಹನಿ ನೀರಾವರಿ ಸೂಕ್ತವೇ? ವಿಷಯ: ನೀರಾವರಿ. ಉತ್ತರ: ಹನಿ ನೀರಾವರಿ 30-40% ನೀರು ಉಳಿಸುತ್ತದೆ ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಬೀಜ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಬೀಜ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮೊಳಕೆ ಬಾರದಿದ್ದರೆ ಏಕೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮೊಳಕೆ ಬಾರದಿದ್ದರೆ ಏಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಳಪೆ ಬೀಜ, ಅತಿ ಆಳ ಬಿತ್ತನೆ ಅಥವಾ ಮಣ್ಣಿನ ತೇವ ಕೊರತೆ ಕಾರಣ.",
+      "detailed_answer": "ಬೀಜ ಮೊಳಕೆ ಸಾಮರ್ಥ್ಯ 85% ಮೇಲಿರಬೇಕು. ಬಿತ್ತನೆ ಆಳ 3-4 ಸೆ.ಮೀ. ಬಿತ್ತಿದ ತಕ್ಷಣ ನೀರಾವರಿ ಕೊಡಿ.",
+      "step_by_step": [
+        "ಕಳಪೆ ಬೀಜ, ಅತಿ ಆಳ ಬಿತ್ತನೆ ಅಥವಾ ಮಣ್ಣಿನ ತೇವ ಕೊರತೆ ಕಾರಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮೊಳಕೆ ಬಾರದಿದ್ದರೆ ಏಕೆ? ವಿಷಯ: ಬೀಜ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಳಪೆ ಬೀಜ, ಅತಿ ಆಳ ಬಿತ್ತನೆ ಅಥವಾ ಮಣ್ಣಿನ ತೇವ ಕೊರತೆ ಕಾರಣ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಮಾರುಕಟ್ಟೆ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಮಾರುಕಟ್ಟೆ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಧಾರವಾಡ, ಹುಬ್ಬಳ್ಳಿ, ಬಾಗಲಕೋಟ APMC ಮಾರ್ಕೆಟ್‌ಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಖರೀದಿ ಆಗುತ್ತದೆ.",
+      "detailed_answer": "MSP ಕೇಂದ್ರ ಸರ್ಕಾರ ಪ್ರತಿ ವರ್ಷ ಘೋಷಿಸುತ್ತದೆ. ಎಣ್ಣೆ ಮಿಲ್‌ಗಳು ನೇರ ಖರೀದಿ ಮಾಡುತ್ತವೆ.",
+      "step_by_step": [
+        "ಧಾರವಾಡ, ಹುಬ್ಬಳ್ಳಿ, ಬಾಗಲಕೋಟ APMC ಮಾರ್ಕೆಟ್‌ಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಖರೀದಿ ಆಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಮಾರುಕಟ್ಟೆ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಧಾರವಾಡ, ಹುಬ್ಬಳ್ಳಿ, ಬಾಗಲಕೋಟ APMC ಮಾರ್ಕೆಟ್‌ಗಳಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಖರೀದಿ ಆಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಇಳುವರಿ ಹೆಚ್ಚಳ",
+    "subtopic": "ಇಳುವರಿ ಹೆಚ್ಚಳ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ತಳಿ, ಸಮಯಕ್ಕೆ ಗೊಬ್ಬರ, ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಪರಾಗಸ್ಪರ್ಶ ಉತ್ತಮ ಇಳುವರಿ ಕೊಡುತ್ತದೆ.",
+      "detailed_answer": "ಉತ್ತಮ ಹೈಬ್ರಿಡ್ ತಳಿ, ಶಿಫಾರಸು NPK, ಕಳೆ ತೆಗೆಯಿರಿ, ಜೇನ್ನೊಣ ಇಡಿ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ತಳಿ, ಸಮಯಕ್ಕೆ ಗೊಬ್ಬರ, ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಪರಾಗಸ್ಪರ್ಶ ಉತ್ತಮ ಇಳುವರಿ ಕೊಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಇಳುವರಿ ಹೆಚ್ಚಳ. ಉತ್ತರ: ಉತ್ತಮ ತಳಿ, ಸಮಯಕ್ಕೆ ಗೊಬ್ಬರ, ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಪರಾಗಸ್ಪರ್ಶ ಉತ್ತಮ ಇಳುವರಿ ಕೊಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾವಯವ ಕೃಷಿ",
+    "subtopic": "ಸಾವಯವ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಸಾವಯವ ಕೃಷಿಯಲ್ಲಿ ಹೇಗೆ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಸಾವಯವ ಕೃಷಿಯಲ್ಲಿ ಹೇಗೆ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "FYM, ಹಸಿರು ಗೊಬ್ಬರ, ಜೈವಿಕ ಕೀಟನಾಶಕ ಬಳಸಿ ಸಾವಯವ ಕೃಷಿ ಮಾಡಬಹುದು.",
+      "detailed_answer": "15 ಟನ್ FYM + Trichoderma ಬೀಜ ಸಂಸ್ಕರಣ + Neem oil 5 ಮಿ.ಲೀ/ಲೀ ಕೀಟ ನಿಯಂತ್ರಣ.",
+      "step_by_step": [
+        "FYM, ಹಸಿರು ಗೊಬ್ಬರ, ಜೈವಿಕ ಕೀಟನಾಶಕ ಬಳಸಿ ಸಾವಯವ ಕೃಷಿ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಸಾವಯವ ಕೃಷಿಯಲ್ಲಿ ಹೇಗೆ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾವಯವ ಕೃಷಿ. ಉತ್ತರ: FYM, ಹಸಿರು ಗೊಬ್ಬರ, ಜೈವಿಕ ಕೀಟನಾಶಕ ಬಳಸಿ ಸಾವಯವ ಕೃಷಿ ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಎಲ್ಟರ್ನೇರಿಯ ಎಲೆ ರೋಗ (Alternaria) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಎಲ್ಟರ್ನೇರಿಯ ಎಲೆ ರೋಗ (Alternaria) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Mancozeb 2.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Iprodione 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ದುಂಡಾದ ಕಂದು ಕಲೆ ಎಲೆ ಮೇಲೆ Alternaria ಶಿಲೀಂಧ್ರ ಲಕ್ಷಣ. ಮೊದಲ ಲಕ್ಷಣ ಕಂಡ ತಕ್ಷಣ ಸಿಂಪರಣೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "Mancozeb 2.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Iprodione 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಎಲ್ಟರ್ನೇರಿಯ ಎಲೆ ರೋಗ (Alternaria) ನಿಯಂತ್ರಣ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Mancozeb 2.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Iprodione 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ Phoma ಕಾಂಡ ರೋಗ ಏನು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ Phoma ಕಾಂಡ ರೋಗ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Carbendazim 1 ಗ್ರಾ/ಲೀ ಕಾಂಡ ಮೇಲೆ ಸುರಿಯಿರಿ.",
+      "detailed_answer": "ಕಾಂಡದ ತಳಭಾಗ ಕಂದು ಮತ್ತು ಟೊಳ್ಳಾಗುವಿಕೆ Phoma ಲಕ್ಷಣ. ನೀರು ಬಸಿಯುವ ಜಮೀನು ಆಯ್ಕೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "Carbendazim 1 ಗ್ರಾ/ಲೀ ಕಾಂಡ ಮೇಲೆ ಸುರಿಯಿರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ Phoma ಕಾಂಡ ರೋಗ ಏನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Carbendazim 1 ಗ್ರಾ/ಲೀ ಕಾಂಡ ಮೇಲೆ ಸುರಿಯಿರಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಚಿಟ್ಟೆ ಮರಿ (Caterpillar) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಚಿಟ್ಟೆ ಮರಿ (Caterpillar) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Bacillus thuringiensis (Bt) 1 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಅಥವಾ Spinosad 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಮೊಟ್ಟೆ ಮತ್ತು ಮೊದಲ ಹಂತ ಮರಿ ನಾಶ ಮಾಡಿ. ಜೈವಿಕ ನಿಯಂತ್ರಣ ಉತ್ತಮ.",
+      "step_by_step": [
+        "Bacillus thuringiensis (Bt) 1 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಅಥವಾ Spinosad 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಚಿಟ್ಟೆ ಮರಿ (Caterpillar) ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Bacillus thuringiensis (Bt) 1 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಅಥವಾ Spinosad 1 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ತಿರುಗಣೆ (Crop Rotation) ಮಾಡಬಹುದೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ತಿರುಗಣೆ (Crop Rotation) ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ನಂತರ ಜೋಳ, ಭತ್ತ, ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಸೂರ್ಯಕಾಂತಿ ಒಂದೇ ಜಮೀನಿನಲ್ಲಿ ಸತತ ಬೆಳೆಯಬೇಡಿ. 3-4 ವರ್ಷ ತಿರುಗಣೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ನಂತರ ಜೋಳ, ಭತ್ತ, ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ತಿರುಗಣೆ (Crop Rotation) ಮಾಡಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ನಂತರ ಜೋಳ, ಭತ್ತ, ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸರ್ಕಾರ ಯೋಜನೆ",
+    "subtopic": "ಸರ್ಕಾರ ಯೋಜನೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಯಾವ ಸಹಾಯ ನೀಡುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಯಾವ ಸಹಾಯ ನೀಡುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "NFSM ಅಡಿ ಬಿತ್ತನೆ ಬೀಜ ಸಹಾಯ ಮತ್ತು PM Fasal Bima Yojana ಅಡಿ ಬೆಳೆ ವಿಮೆ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "NFSM ಯೋಜನೆ ಅಡಿ ಪ್ರಮಾಣಿತ ಬೀಜ ಸಬ್ಸಿಡಿ. NMOOP ಅಡಿ ತಂತ್ರಜ್ಞಾನ ವರ್ಗಾವಣೆ.",
+      "step_by_step": [
+        "NFSM ಅಡಿ ಬಿತ್ತನೆ ಬೀಜ ಸಹಾಯ ಮತ್ತು PM Fasal Bima Yojana ಅಡಿ ಬೆಳೆ ವಿಮೆ ಸಿಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಕರ್ನಾಟಕ ಸರ್ಕಾರ ಯಾವ ಸಹಾಯ ನೀಡುತ್ತದೆ? ವಿಷಯ: ಸರ್ಕಾರ ಯೋಜನೆ. ಉತ್ತರ: NFSM ಅಡಿ ಬಿತ್ತನೆ ಬೀಜ ಸಹಾಯ ಮತ್ತು PM Fasal Bima Yojana ಅಡಿ ಬೆಳೆ ವಿಮೆ ಸಿಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಬಿತ್ತನೆ",
+    "subtopic": "ಬಿತ್ತನೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜ ಬಿತ್ತನೆ ಆಳ 3-4 ಸೆ.ಮೀ ಸೂಕ್ತ.",
+      "detailed_answer": "ಹೆಚ್ಚು ಆಳ ಬಿತ್ತಿದರೆ ಮೊಳಕೆ ಬರಲು ಕಷ್ಟ. 3-4 ಸೆ.ಮೀ ಆಳ ಬಿತ್ತಿ ಮಣ್ಣು ಮುಚ್ಚಿ ಒತ್ತಿ.",
+      "step_by_step": [
+        "ಬೀಜ ಬಿತ್ತನೆ ಆಳ 3-4 ಸೆ.ಮೀ ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಬಿತ್ತನೆ. ಉತ್ತರ: ಬೀಜ ಬಿತ್ತನೆ ಆಳ 3-4 ಸೆ.ಮೀ ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ Verticillium Wilt ರೋಗ ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ Verticillium Wilt ರೋಗ ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು Trichoderma 4 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+      "detailed_answer": "Verticillium ಶಿಲೀಂಧ್ರ ನಾಳ ಮೂಲಕ ಹರಡಿ ಒಣಗಿಸುತ್ತದೆ. ರೋಗ ಬಂದ ಗಿಡ ಕಿತ್ತು ನಾಶ ಮಾಡಿ.",
+      "step_by_step": [
+        "ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು Trichoderma 4 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ Verticillium Wilt ರೋಗ ನಿಯಂತ್ರಣ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು Trichoderma 4 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ",
+    "subtopic": "ನೀರಾವರಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಕೊಯ್ಲಿಗೆ ಮೊದಲು ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಕೊಯ್ಲಿಗೆ ಮೊದಲು ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೊಯ್ಲಿಗೆ 10-15 ದಿನ ಮೊದಲು ನೀರಾವರಿ ನಿಲ್ಲಿಸಿ ಬೀಜ ಒಣಗಿಸಿ.",
+      "detailed_answer": "ನೀರು ನಿಲ್ಲಿಸಿದರೆ ಎಣ್ಣೆ ಗುಣಮಟ್ಟ ಹೆಚ್ಚಾಗುತ್ತದೆ. ತೇವ ಬೀಜ ಸಂಗ್ರಹಿಸಿದರೆ ಶಿಲೀಂಧ್ರ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕೊಯ್ಲಿಗೆ 10-15 ದಿನ ಮೊದಲು ನೀರಾವರಿ ನಿಲ್ಲಿಸಿ ಬೀಜ ಒಣಗಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಕೊಯ್ಲಿಗೆ ಮೊದಲು ನೀರು ನಿಲ್ಲಿಸಬೇಕೇ? ವಿಷಯ: ನೀರಾವರಿ. ಉತ್ತರ: ಕೊಯ್ಲಿಗೆ 10-15 ದಿನ ಮೊದಲು ನೀರಾವರಿ ನಿಲ್ಲಿಸಿ ಬೀಜ ಒಣಗಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೊಯ್ಲು ನಂತರ",
+    "subtopic": "ಕೊಯ್ಲು ನಂತರ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜದಿಂದ ಎಣ್ಣೆ ತೆಗೆಯುವ ವಿಧಾನ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜದಿಂದ ಎಣ್ಣೆ ತೆಗೆಯುವ ವಿಧಾನ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕ್ಸ್ಪೆಲ್ಲರ್ ಯಂತ್ರ ಬಳಸಿ ಎಣ್ಣೆ ತೆಗೆಯಬಹುದು. 40 ಕಿ.ಗ್ರಾ ಬೀಜದಿಂದ ಸರಿಸುಮಾರು 15 ಲೀ ಎಣ್ಣೆ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "ಬೀಜ 8-10% ತೇವ ಇರುವಾಗ ಎಕ್ಸ್ಪೆಲ್ಲರ್‌ಗೆ ಹಾಕಿ. ಎಣ್ಣೆ ಮಿಲ್‌ಗೆ ಮಾರಾಟ ಮಾಡಬಹುದು.",
+      "step_by_step": [
+        "ಎಕ್ಸ್ಪೆಲ್ಲರ್ ಯಂತ್ರ ಬಳಸಿ ಎಣ್ಣೆ ತೆಗೆಯಬಹುದು. 40 ಕಿ.ಗ್ರಾ ಬೀಜದಿಂದ ಸರಿಸುಮಾರು 15 ಲೀ ಎಣ್ಣೆ ಸಿಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೀಜದಿಂದ ಎಣ್ಣೆ ತೆಗೆಯುವ ವಿಧಾನ? ವಿಷಯ: ಕೊಯ್ಲು ನಂತರ. ಉತ್ತರ: ಎಕ್ಸ್ಪೆಲ್ಲರ್ ಯಂತ್ರ ಬಳಸಿ ಎಣ್ಣೆ ತೆಗೆಯಬಹುದು. 40 ಕಿ.ಗ್ರಾ ಬೀಜದಿಂದ ಸರಿಸುಮಾರು 15 ಲೀ ಎಣ್ಣೆ ಸಿಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಒಂದು ಎಕರೆ ಬೆಳೆಯಲು ಎಷ್ಟು ಖರ್ಚಾಗುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಒಂದು ಎಕರೆ ಬೆಳೆಯಲು ಎಷ್ಟು ಖರ್ಚಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಎಕರೆ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಅಂದಾಜು 10,000-15,000 ರೂ ಖರ್ಚಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಬೀಜ 500-800 ರೂ, ಗೊಬ್ಬರ 3,000-4,000 ರೂ, ಕೀಟನಾಶಕ 1,500-2,000 ರೂ, ಕಾರ್ಮಿಕ 3,000-4,000 ರೂ.",
+      "step_by_step": [
+        "ಒಂದು ಎಕರೆ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಅಂದಾಜು 10,000-15,000 ರೂ ಖರ್ಚಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಒಂದು ಎಕರೆ ಬೆಳೆಯಲು ಎಷ್ಟು ಖರ್ಚಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಒಂದು ಎಕರೆ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲು ಅಂದಾಜು 10,000-15,000 ರೂ ಖರ್ಚಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಳೆ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕಳೆ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ Striga ಸಮಸ್ಯೆ ಹೇಗೆ ತಡೆಯಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ Striga ಸಮಸ್ಯೆ ಹೇಗೆ ತಡೆಯಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Striga ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು ಮೊದಲು ಹೂ ಬಿಡುವ ಮೊದಲು ಕಿತ್ತು ನಾಶ ಮಾಡಿ.",
+      "detailed_answer": "Striga ಪರಾವಲಂಬಿ ಕಳೆ ಬೇರಿಗೆ ಅಂಟಿಕೊಂಡು ಪೋಷಕಾಂಶ ಕದಿಯುತ್ತದೆ.",
+      "step_by_step": [
+        "Striga ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು ಮೊದಲು ಹೂ ಬಿಡುವ ಮೊದಲು ಕಿತ್ತು ನಾಶ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ Striga ಸಮಸ್ಯೆ ಹೇಗೆ ತಡೆಯಬೇಕು? ವಿಷಯ: ಕಳೆ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Striga ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು ಮೊದಲು ಹೂ ಬಿಡುವ ಮೊದಲು ಕಿತ್ತು ನಾಶ ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಉಪ ಉತ್ಪನ್ನ ಯಾವವು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಉಪ ಉತ್ಪನ್ನ ಯಾವವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಹಿಂಡಿ ಜಾನುವಾರು ಮೇವು, ಕಾಂಡ ಗೊಬ್ಬರ ಮತ್ತು ಹೂ ಜೇನ್ನೊಣಕ್ಕೆ ಮಕರಂದ.",
+      "detailed_answer": "ಎಣ್ಣೆ ತೆಗೆದ ನಂತರ ಹಿಂಡಿ 28% ಪ್ರೊಟೀನ್ ಜಾನುವಾರು ಮೇವು. ಕಾಂಡ ಬಯೋಗ್ಯಾಸ ಅಥವಾ ಗೊಬ್ಬರ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಹಿಂಡಿ ಜಾನುವಾರು ಮೇವು, ಕಾಂಡ ಗೊಬ್ಬರ ಮತ್ತು ಹೂ ಜೇನ್ನೊಣಕ್ಕೆ ಮಕರಂದ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಉಪ ಉತ್ಪನ್ನ ಯಾವವು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಹಿಂಡಿ ಜಾನುವಾರು ಮೇವು, ಕಾಂಡ ಗೊಬ್ಬರ ಮತ್ತು ಹೂ ಜೇನ್ನೊಣಕ್ಕೆ ಮಕರಂದ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಎಷ್ಟು ಕೊಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಎಷ್ಟು ಕೊಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೆಕ್ಟೇರ್‌ಗೆ 10-15 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಅಥವಾ ಹಸಿರು ಗೊಬ್ಬರ ಬೆರೆಸಿ.",
+      "detailed_answer": "FYM 10 ಟನ್ + Vermicompost 2 ಟನ್ ಬಿತ್ತನೆ ಮೊದಲು ಮಣ್ಣಿಗೆ ಬೆರೆಸಿ.",
+      "step_by_step": [
+        "ಹೆಕ್ಟೇರ್‌ಗೆ 10-15 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಅಥವಾ ಹಸಿರು ಗೊಬ್ಬರ ಬೆರೆಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿಗೆ ಸಾವಯವ ಗೊಬ್ಬರ ಎಷ್ಟು ಕೊಡಬೇಕು? ವಿಷಯ: ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೆಕ್ಟೇರ್‌ಗೆ 10-15 ಟನ್ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಅಥವಾ ಹಸಿರು ಗೊಬ್ಬರ ಬೆರೆಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಬಿತ್ತನೆ",
+    "subtopic": "ಬಿತ್ತನೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ನೇರ ಬಿತ್ತನೆ ಅಥವಾ ಸಸಿ ನಾಟಿ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ನೇರ ಬಿತ್ತನೆ ಅಥವಾ ಸಸಿ ನಾಟಿ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಸಾಮಾನ್ಯವಾಗಿ ನೇರ ಬಿತ್ತನೆ ಮಾಡಲಾಗುತ್ತದೆ. ಸ್ಥಳಾಂತರ ಸಹಿಸಲಾರದು.",
+      "detailed_answer": "ನೇರ ಗುಣಿ ಬಿತ್ತನೆ ಅಥವಾ ಡ್ರಿಲ್ ಬಿತ್ತನೆ ಮಾಡಿ. ಒಂದು ಗುಣಿಗೆ 2 ಬೀಜ, 15 ದಿನ ನಂತರ 1 ಗಿಡ ಉಳಿಸಿ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಸಾಮಾನ್ಯವಾಗಿ ನೇರ ಬಿತ್ತನೆ ಮಾಡಲಾಗುತ್ತದೆ. ಸ್ಥಳಾಂತರ ಸಹಿಸಲಾರದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ನೇರ ಬಿತ್ತನೆ ಅಥವಾ ಸಸಿ ನಾಟಿ? ವಿಷಯ: ಬಿತ್ತನೆ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಸಾಮಾನ್ಯವಾಗಿ ನೇರ ಬಿತ್ತನೆ ಮಾಡಲಾಗುತ್ತದೆ. ಸ್ಥಳಾಂತರ ಸಹಿಸಲಾರದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ Thrips ಕೀಟ ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ Thrips ಕೀಟ ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Spinosad 1 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Imidacloprid 0.3 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "Thrips ಎಲೆ ಮತ್ತು ಹೂ ರಸ ಹೀರಿ ಹಾನಿ ಮಾಡುತ್ತದೆ. ನೀಲಿ ಅಂಟುಪಟ್ಟಿ ನೇತಾಡಿಸಿ.",
+      "step_by_step": [
+        "Spinosad 1 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Imidacloprid 0.3 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ Thrips ಕೀಟ ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Spinosad 1 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Imidacloprid 0.3 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ Charcoal Rot ರೋಗ ಏನು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ Charcoal Rot ರೋಗ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಕಷ್ಟು ನೀರಾವರಿ ಕೊಡಿ ಮತ್ತು Thiram ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+      "detailed_answer": "ಬಿಸಿ ಒಣ ವಾತಾವರಣದಲ್ಲಿ Macrophomina ಶಿಲೀಂಧ್ರ ಬೇರು ಕೊಳೆಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಾಕಷ್ಟು ನೀರಾವರಿ ಕೊಡಿ ಮತ್ತು Thiram ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ Charcoal Rot ರೋಗ ಏನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾಕಷ್ಟು ನೀರಾವರಿ ಕೊಡಿ ಮತ್ತು Thiram ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿಗೆ ಸೂಕ್ಷ್ಮಪೋಷಕಾಂಶ ಯಾವವು ಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿಗೆ ಸೂಕ್ಷ್ಮಪೋಷಕಾಂಶ ಯಾವವು ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Borax 1.5 ಕಿ.ಗ್ರಾ + Gypsum 400 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಬಿತ್ತನೆ ಸಮಯ ಕೊಡಿ.",
+      "detailed_answer": "ಬೋರಾನ್ ಮತ್ತು ಸಲ್ಫರ್ ಎಣ್ಣೆ ಗುಣಮಟ್ಟ ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "Borax 1.5 ಕಿ.ಗ್ರಾ + Gypsum 400 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಬಿತ್ತನೆ ಸಮಯ ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿಗೆ ಸೂಕ್ಷ್ಮಪೋಷಕಾಂಶ ಯಾವವು ಬೇಕು? ವಿಷಯ: ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Borax 1.5 ಕಿ.ಗ್ರಾ + Gypsum 400 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಬಿತ್ತನೆ ಸಮಯ ಕೊಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬಿಳಿ ನೊಣ (Whitefly) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬಿಳಿ ನೊಣ (Whitefly) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Imidacloprid 0.5 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Acetamiprid 0.2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "Whitefly ರಸ ಹೀರಿ ವೈರಸ್ ರೋಗ ಹರಡುತ್ತದೆ. ಹಳದಿ ಅಂಟುಪಟ್ಟಿ ನೇತಾಡಿಸಿ.",
+      "step_by_step": [
+        "Imidacloprid 0.5 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Acetamiprid 0.2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬಿಳಿ ನೊಣ (Whitefly) ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Imidacloprid 0.5 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Acetamiprid 0.2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ನಾಡಿ-ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ನಾಡಿ-ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಆಳವಾದ ನಾಡಿ-ಬೇರು (2-3 ಮೀ) ಹೊಂದಿರುತ್ತದೆ.",
+      "detailed_answer": "ಆಳ ಬೇರಿನಿಂದ ಆಳ ಮಣ್ಣಿನ ನೀರು ಮತ್ತು ಪೋಷಕಾಂಶ ಹೀರುತ್ತದೆ. ಆಳ ಉಳುಮೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಆಳವಾದ ನಾಡಿ-ಬೇರು (2-3 ಮೀ) ಹೊಂದಿರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ನಾಡಿ-ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಆಳವಾದ ನಾಡಿ-ಬೇರು (2-3 ಮೀ) ಹೊಂದಿರುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹಿಂದ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹಿಂದ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಕಟಾವಿನ ನಂತರ ಹೆಸರು, ಉದ್ದು ಅಥವಾ ಗೋಧಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ದ್ವಿದಳ ಧಾನ್ಯ ಬೆಳೆದರೆ ಮಣ್ಣಿಗೆ ಸಾರಜನಕ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಕಟಾವಿನ ನಂತರ ಹೆಸರು, ಉದ್ದು ಅಥವಾ ಗೋಧಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹಿಂದ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಕಟಾವಿನ ನಂತರ ಹೆಸರು, ಉದ್ದು ಅಥವಾ ಗೋಧಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮೊಸಾಯಿಕ್ ವೈರಸ್ ರೋಗ ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮೊಸಾಯಿಕ್ ವೈರಸ್ ರೋಗ ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು Aphids ಮತ್ತು Whitefly ನಿಯಂತ್ರಿಸಿ.",
+      "detailed_answer": "ಎಲೆ ಮೊಸಾಯಿಕ್ ಬಣ್ಣ ವೈರಸ್ ಲಕ್ಷಣ. ರೋಗ ಪೀಡಿತ ಗಿಡ ತೆಗೆದು ನಾಶ ಮಾಡಿ.",
+      "step_by_step": [
+        "ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು Aphids ಮತ್ತು Whitefly ನಿಯಂತ್ರಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮೊಸಾಯಿಕ್ ವೈರಸ್ ರೋಗ ನಿಯಂತ್ರಣ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ ಮತ್ತು Aphids ಮತ್ತು Whitefly ನಿಯಂತ್ರಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೇರು ತಿನ್ನುವ ಹುಳ (White Grub) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೇರು ತಿನ್ನುವ ಹುಳ (White Grub) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Chlorpyrifos 20% EC 3 ಮಿ.ಲೀ/ಲೀ ಮಣ್ಣಿಗೆ ಸುರಿಯಿರಿ.",
+      "detailed_answer": "ಬೆಳಕಿನ ಬಲೆ ಇಟ್ಟು ಹಿರಿಯ ದುಂಬಿ ನಾಶ ಮಾಡಿ. ಬೇಸಿಗೆಯಲ್ಲಿ ಮಣ್ಣು ಆಳ ಉಳಿಮೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "Chlorpyrifos 20% EC 3 ಮಿ.ಲೀ/ಲೀ ಮಣ್ಣಿಗೆ ಸುರಿಯಿರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೇರು ತಿನ್ನುವ ಹುಳ (White Grub) ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Chlorpyrifos 20% EC 3 ಮಿ.ಲೀ/ಲೀ ಮಣ್ಣಿಗೆ ಸುರಿಯಿರಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಬೇಕೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಬೇಕೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಪ್ರತಿ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಅವಶ್ಯ.",
+      "detailed_answer": "ಮಣ್ಣು ಪರೀಕ್ಷೆಯಿಂದ pH, N, P, K ತಿಳಿಯುತ್ತದೆ. ಹತ್ತಿರದ KVK ಪ್ರಯೋಗಾಲಯದಲ್ಲಿ ಮಣ್ಣು ಪರೀಕ್ಷಿಸಿ.",
+      "step_by_step": [
+        "ಹೌದು, ಪ್ರತಿ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಅವಶ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಗೆ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಬೇಕೇ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಪ್ರತಿ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಅವಶ್ಯ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೆಲಿಯೋಟ್ರಾಪಿಸಮ್ ಎಂದರೇನು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೆಲಿಯೋಟ್ರಾಪಿಸಮ್ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಹೂ ಸೂರ್ಯನ ದಿಕ್ಕಿನಲ್ಲಿ ತಿರುಗುವ ಗುಣ (Heliotropism).",
+      "detailed_answer": "ಬೆಳವಣಿಗೆ ಹಂತದಲ್ಲಿ ಸೂರ್ಯಕಾಂತಿ ಸೂರ್ಯನನ್ನು ಹಿಂಬಾಲಿಸುತ್ತದೆ. ಹೂ ಅರಳಿದ ನಂತರ ಪೂರ್ವ ದಿಕ್ಕಿನಲ್ಲಿ ಸ್ಥಿರ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಹೂ ಸೂರ್ಯನ ದಿಕ್ಕಿನಲ್ಲಿ ತಿರುಗುವ ಗುಣ (Heliotropism)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೆಲಿಯೋಟ್ರಾಪಿಸಮ್ ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಹೂ ಸೂರ್ಯನ ದಿಕ್ಕಿನಲ್ಲಿ ತಿರುಗುವ ಗುಣ (Heliotropism).",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ",
+    "subtopic": "ನೀರಾವರಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೇಸಿಗೆ ನೀರಾವರಿ ಯಾವ ಪದ್ಧತಿ ಉತ್ತಮ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೇಸಿಗೆ ನೀರಾವರಿ ಯಾವ ಪದ್ಧತಿ ಉತ್ತಮ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿ ಅಥವಾ ತೋಡು ನೀರಾವರಿ ಉತ್ತಮ.",
+      "detailed_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ 7-10 ದಿನಕ್ಕೊಮ್ಮೆ ನೀರಾವರಿ. ಮಧ್ಯಾಹ್ನ ನೀರಾವರಿ ತಪ್ಪಿಸಿ.",
+      "step_by_step": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿ ಅಥವಾ ತೋಡು ನೀರಾವರಿ ಉತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೇಸಿಗೆ ನೀರಾವರಿ ಯಾವ ಪದ್ಧತಿ ಉತ್ತಮ? ವಿಷಯ: ನೀರಾವರಿ. ಉತ್ತರ: ಬೇಸಿಗೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿ ಅಥವಾ ತೋಡು ನೀರಾವರಿ ಉತ್ತಮ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ IPM (Integrated Pest Management) ಪದ್ಧತಿ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ IPM (Integrated Pest Management) ಪದ್ಧತಿ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "IPM ರಾಸಾಯನಿಕ, ಜೈವಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ವಿಧಾನ ಸಂಯೋಜಿಸಿ ಕೀಟ-ರೋಗ ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
+      "detailed_answer": "1. ನಿರೋಧಕ ತಳಿ 2. ಬೀಜ ಸಂಸ್ಕರಣ 3. ಹಳದಿ ಅಂಟುಪಟ್ಟಿ 4. Trichoderma ಬಳಕೆ 5. ಅಗತ್ಯವಿದ್ದರೆ ಮಾತ್ರ ರಾಸಾಯನಿಕ.",
+      "step_by_step": [
+        "IPM ರಾಸಾಯನಿಕ, ಜೈವಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ವಿಧಾನ ಸಂಯೋಜಿಸಿ ಕೀಟ-ರೋಗ ನಿಯಂತ್ರಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ IPM (Integrated Pest Management) ಪದ್ಧತಿ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: IPM ರಾಸಾಯನಿಕ, ಜೈವಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ವಿಧಾನ ಸಂಯೋಜಿಸಿ ಕೀಟ-ರೋಗ ನಿಯಂತ್ರಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಭಾರತದಲ್ಲಿ ಎಷ್ಟು ಪ್ರಮುಖ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಭಾರತದಲ್ಲಿ ಎಷ್ಟು ಪ್ರಮುಖ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭಾರತ ವಿಶ್ವದ ಅತಿ ಹೆಚ್ಚು ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ ಆಮದು ಮಾಡಿಕೊಳ್ಳುವ ದೇಶ.",
+      "detailed_answer": "ಕರ್ನಾಟಕ, ಆಂಧ್ರ, ಮಹಾರಾಷ್ಟ್ರ ಪ್ರಮುಖ ಬೆಳೆಗಾರ ರಾಜ್ಯ. ದೇಶೀಯ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಸರ್ಕಾರ ಪ್ರೋತ್ಸಾಹ ನೀಡುತ್ತಿದೆ.",
+      "step_by_step": [
+        "ಭಾರತ ವಿಶ್ವದ ಅತಿ ಹೆಚ್ಚು ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ ಆಮದು ಮಾಡಿಕೊಳ್ಳುವ ದೇಶ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಭಾರತದಲ್ಲಿ ಎಷ್ಟು ಪ್ರಮುಖ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಭಾರತ ವಿಶ್ವದ ಅತಿ ಹೆಚ್ಚು ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ ಆಮದು ಮಾಡಿಕೊಳ್ಳುವ ದೇಶ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮೈಟ್ (Mites) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮೈಟ್ (Mites) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Abamectin 9 ಮಿ.ಲೀ/10 ಲೀ ಅಥವಾ Dicofol 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಮೈಟ್ ಎಲೆ ಕೆಳ ಭಾಗ ಜಾಲ ನೇಯ್ದು ರಸ ಹೀರುತ್ತದೆ. ಎಲೆ ಕೆಳ ಭಾಗ ಸರಿಯಾಗಿ ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "Abamectin 9 ಮಿ.ಲೀ/10 ಲೀ ಅಥವಾ Dicofol 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮೈಟ್ (Mites) ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Abamectin 9 ಮಿ.ಲೀ/10 ಲೀ ಅಥವಾ Dicofol 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿಗೆ ಗಂಧಕ (Sulfur) ಏಕೆ ಕೊಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿಗೆ ಗಂಧಕ (Sulfur) ಏಕೆ ಕೊಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Gypsum 400 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಅಥವಾ Elemental Sulfur 40 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಕೊಡಿ.",
+      "detailed_answer": "ಗಂಧಕ ಎಣ್ಣೆ ಗುಣಮಟ್ಟ ಮತ್ತು ಪ್ರೊಟೀನ್ ಹೆಚ್ಚಿಸುತ್ತದೆ. ಗಂಧಕ ಕೊರತೆ: ಹೊಸ ಎಲೆ ಹಳದಿ ಆಗುತ್ತದೆ.",
+      "step_by_step": [
+        "Gypsum 400 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಅಥವಾ Elemental Sulfur 40 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಕೊಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿಗೆ ಗಂಧಕ (Sulfur) ಏಕೆ ಕೊಡಬೇಕು? ವಿಷಯ: ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Gypsum 400 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಅಥವಾ Elemental Sulfur 40 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಕೊಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೊಯ್ಲು ನಂತರ",
+    "subtopic": "ಕೊಯ್ಲು ನಂತರ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಶ್ರೇಣೀಕರಣ (Grading) ಮಾಡುವ ವಿಧಾನ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಶ್ರೇಣೀಕರಣ (Grading) ಮಾಡುವ ವಿಧಾನ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಣಗಿಸಿ (10% ತೇವ), ವಿಂಡ್ರೋವಿಂಗ್ ಮಾಡಿ ಕಸ ತೆಗೆಯಿರಿ. ಶ್ರೇಣೀಕರಣ ಯಂತ್ರ ಬಳಸಿ.",
+      "detailed_answer": "ಉತ್ತಮ ಶ್ರೇಣಿ ಬೀಜಕ್ಕೆ ಹೆಚ್ಚು ಬೆಲೆ ಸಿಗುತ್ತದೆ. ಏಕರೂಪ ಬೀಜ ಬೇರ್ಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಒಣಗಿಸಿ (10% ತೇವ), ವಿಂಡ್ರೋವಿಂಗ್ ಮಾಡಿ ಕಸ ತೆಗೆಯಿರಿ. ಶ್ರೇಣೀಕರಣ ಯಂತ್ರ ಬಳಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಶ್ರೇಣೀಕರಣ (Grading) ಮಾಡುವ ವಿಧಾನ? ವಿಷಯ: ಕೊಯ್ಲು ನಂತರ. ಉತ್ತರ: ಒಣಗಿಸಿ (10% ತೇವ), ವಿಂಡ್ರೋವಿಂಗ್ ಮಾಡಿ ಕಸ ತೆಗೆಯಿರಿ. ಶ್ರೇಣೀಕರಣ ಯಂತ್ರ ಬಳಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಕೊಳೆ (Seed Rot) ತಡೆಯಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಕೊಳೆ (Seed Rot) ತಡೆಯಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಮೊದಲು Thiram 3 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಅಥವಾ Captan 2.5 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+      "detailed_answer": "ಪ್ರಮಾಣಿತ ಬೀಜ ಮಾತ್ರ ಬಳಸಿ. ಮಣ್ಣಿನ ತೇವ ಸರಿಯಾಗಿರಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಮೊದಲು Thiram 3 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಅಥವಾ Captan 2.5 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಕೊಳೆ (Seed Rot) ತಡೆಯಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ಮೊದಲು Thiram 3 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಅಥವಾ Captan 2.5 ಗ್ರಾ/ಕಿ.ಗ್ರಾ ಬೀಜ ಸಂಸ್ಕರಣ ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಜೈವಿಕ ಇಂಧನ ಬಳಕೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಜೈವಿಕ ಇಂಧನ ಬಳಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ Transesterification ಮೂಲಕ ಬಯೋಡೀಸೆಲ್ ಆಗುತ್ತದೆ.",
+      "detailed_answer": "ಬಯೋಡೀಸೆಲ್ ಪೆಟ್ರೋ ಡೀಸೆಲ್‌ಗೆ ಪರ್ಯಾಯ. ಕಾರ್ಬನ್ ಹೊರಸೂಸುವಿಕೆ ಕಡಿಮೆ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ Transesterification ಮೂಲಕ ಬಯೋಡೀಸೆಲ್ ಆಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಜೈವಿಕ ಇಂಧನ ಬಳಕೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ Transesterification ಮೂಲಕ ಬಯೋಡೀಸೆಲ್ ಆಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "subtopic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮ್ಯಾಂಗನೀಸ್ ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮ್ಯಾಂಗನೀಸ್ ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಸ ಎಲೆ ಹಳದಿ ಮತ್ತು ಹಸಿರು ನಾಳ ಉಳಿಯುವುದು ಮ್ಯಾಂಗನೀಸ್ ಕೊರತೆ.",
+      "detailed_answer": "MnSO4 0.5% ಸಿಂಪಡಿಸಿ ಅಥವಾ ಮಣ್ಣಿಗೆ MnSO4 20 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಕೊಡಿ.",
+      "step_by_step": [
+        "ಹೊಸ ಎಲೆ ಹಳದಿ ಮತ್ತು ಹಸಿರು ನಾಳ ಉಳಿಯುವುದು ಮ್ಯಾಂಗನೀಸ್ ಕೊರತೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮ್ಯಾಂಗನೀಸ್ ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ಕೊರತೆ. ಉತ್ತರ: ಹೊಸ ಎಲೆ ಹಳದಿ ಮತ್ತು ಹಸಿರು ನಾಳ ಉಳಿಯುವುದು ಮ್ಯಾಂಗನೀಸ್ ಕೊರತೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "subtopic": "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಕ್ಯಾಲ್ಸಿಯಮ್ ಕೊರತೆ ಲಕ್ಷಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಕ್ಯಾಲ್ಸಿಯಮ್ ಕೊರತೆ ಲಕ್ಷಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಚಿಕ್ಕ ಎಲೆ ಮಡಚಿಕೊಳ್ಳುವಿಕೆ ಮತ್ತು ತಟ್ಟೆ ಅಭಿವೃದ್ಧಿ ಕೊರತೆ.",
+      "detailed_answer": "Gypsum 400 ಕಿ.ಗ್ರಾ/ಹೆಕ್ಟೇರ್ ಅಥವಾ CaCl2 0.5% ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಚಿಕ್ಕ ಎಲೆ ಮಡಚಿಕೊಳ್ಳುವಿಕೆ ಮತ್ತು ತಟ್ಟೆ ಅಭಿವೃದ್ಧಿ ಕೊರತೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಕ್ಯಾಲ್ಸಿಯಮ್ ಕೊರತೆ ಲಕ್ಷಣ? ವಿಷಯ: ಪೋಷಕಾಂಶ ಕೊರತೆ. ಉತ್ತರ: ಚಿಕ್ಕ ಎಲೆ ಮಡಚಿಕೊಳ್ಳುವಿಕೆ ಮತ್ತು ತಟ್ಟೆ ಅಭಿವೃದ್ಧಿ ಕೊರತೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಳೆ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕಳೆ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಯಾವ ಕಳೆ ಸಾಮಾನ್ಯ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಯಾವ ಕಳೆ ಸಾಮಾನ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅಂಬೆ ಗಿಡ, ಮ್ಯಾಡಿ, ದಾರದ ಗಿಡ ಸೂರ್ಯಕಾಂತಿ ಹೊಲದ ಸಾಮಾನ್ಯ ಕಳೆ.",
+      "detailed_answer": "Pendimethalin Pre-emergence ಸಿಂಪರಣೆ ಮತ್ತು 2 ಕೈ ಕಳೆ ತೆಗೆತ ಮಾಡಿ.",
+      "step_by_step": [
+        "ಅಂಬೆ ಗಿಡ, ಮ್ಯಾಡಿ, ದಾರದ ಗಿಡ ಸೂರ್ಯಕಾಂತಿ ಹೊಲದ ಸಾಮಾನ್ಯ ಕಳೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಯಾವ ಕಳೆ ಸಾಮಾನ್ಯ? ವಿಷಯ: ಕಳೆ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅಂಬೆ ಗಿಡ, ಮ್ಯಾಡಿ, ದಾರದ ಗಿಡ ಸೂರ್ಯಕಾಂತಿ ಹೊಲದ ಸಾಮಾನ್ಯ ಕಳೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಆರ್ಥಿಕ ಪ್ರಾಮುಖ್ಯ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಆರ್ಥಿಕ ಪ್ರಾಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜ 4,000-5,000 ರೂ/ಕ್ವಿಂಟಲ್, ಎಣ್ಣೆ 150-180 ರೂ/ಲೀ ಮತ್ತು ಹಿಂಡಿ 20-25 ರೂ/ಕಿ.ಗ್ರಾ.",
+      "detailed_answer": "1 ರೂ ಖರ್ಚಿಗೆ 1.5-2 ರೂ ಆದಾಯ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಬೀಜ 4,000-5,000 ರೂ/ಕ್ವಿಂಟಲ್, ಎಣ್ಣೆ 150-180 ರೂ/ಲೀ ಮತ್ತು ಹಿಂಡಿ 20-25 ರೂ/ಕಿ.ಗ್ರಾ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಆರ್ಥಿಕ ಪ್ರಾಮುಖ್ಯ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೀಜ 4,000-5,000 ರೂ/ಕ್ವಿಂಟಲ್, ಎಣ್ಣೆ 150-180 ರೂ/ಲೀ ಮತ್ತು ಹಿಂಡಿ 20-25 ರೂ/ಕಿ.ಗ್ರಾ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕ್ಷೇತ್ರ ಬಲೆ (Pheromone Trap) ಬಳಕೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕ್ಷೇತ್ರ ಬಲೆ (Pheromone Trap) ಬಳಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Pheromone Trap 5/ಹೆಕ್ಟೇರ್ ಇಟ್ಟು Spodoptera ಮತ್ತು Helicoverpa ನಿಯಂತ್ರಿಸಿ.",
+      "detailed_answer": "ಗಂಡು ಕೀಟ ಬಿದ್ದರೆ ಹೆಣ್ಣು ಮೊಟ್ಟೆ ಇಡಲಾರದು. ಕಡಿಮೆ ಖರ್ಚಿನ ಪರಿಣಾಮಕಾರಿ ವಿಧಾನ.",
+      "step_by_step": [
+        "Pheromone Trap 5/ಹೆಕ್ಟೇರ್ ಇಟ್ಟು Spodoptera ಮತ್ತು Helicoverpa ನಿಯಂತ್ರಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕ್ಷೇತ್ರ ಬಲೆ (Pheromone Trap) ಬಳಕೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Pheromone Trap 5/ಹೆಕ್ಟೇರ್ ಇಟ್ಟು Spodoptera ಮತ್ತು Helicoverpa ನಿಯಂತ್ರಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಬಿತ್ತನೆ",
+    "subtopic": "ಬಿತ್ತನೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಒಣ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಒಣ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, 350-500 ಮಿ.ಮೀ ಮಳೆಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು. 1-2 ನೀರಾವರಿ ಕೊಟ್ಟರೆ ಸಾಕು.",
+      "detailed_answer": "ಬರ ನಿರೋಧಕ ತಳಿ ಆಯ್ಕೆ ಮಾಡಿ. ಒಣ ಪ್ರದೇಶದಲ್ಲಿ ರಬಿ ಋತು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಹೌದು, 350-500 ಮಿ.ಮೀ ಮಳೆಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು. 1-2 ನೀರಾವರಿ ಕೊಟ್ಟರೆ ಸಾಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಒಣ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ಬಿತ್ತನೆ. ಉತ್ತರ: ಹೌದು, 350-500 ಮಿ.ಮೀ ಮಳೆಯಲ್ಲಿ ಬೆಳೆಯಬಹುದು. 1-2 ನೀರಾವರಿ ಕೊಟ್ಟರೆ ಸಾಕು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ನಿರ್ವಹಣೆ ಕ್ಯಾಲೆಂಡರ್ ಹೇಗಿರುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ನಿರ್ವಹಣೆ ಕ್ಯಾಲೆಂಡರ್ ಹೇಗಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "0 ದಿನ ಬಿತ್ತನೆ, 7 ನೀರು, 15 ಕಳೆ, 30 ಎರಡನೇ N, 60 ಹೂ ನೀರು, 85 ಕಟಾವು.",
+      "detailed_answer": "ಪ್ರತಿ ಹಂತದಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಕಾರ್ಯ ಮಾಡಿ. ಸಮಯ ತಪ್ಪಿದರೆ ಇಳುವರಿ ಕಡಿಮೆ.",
+      "step_by_step": [
+        "0 ದಿನ ಬಿತ್ತನೆ, 7 ನೀರು, 15 ಕಳೆ, 30 ಎರಡನೇ N, 60 ಹೂ ನೀರು, 85 ಕಟಾವು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ನಿರ್ವಹಣೆ ಕ್ಯಾಲೆಂಡರ್ ಹೇಗಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 0 ದಿನ ಬಿತ್ತನೆ, 7 ನೀರು, 15 ಕಳೆ, 30 ಎರಡನೇ N, 60 ಹೂ ನೀರು, 85 ಕಟಾವು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮಿಡತೆ (Grasshopper) ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮಿಡತೆ (Grasshopper) ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Malathion 5% DP ಧೂಳು ಹಾಕಿ ಅಥವಾ Chlorpyrifos 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಮಿಡತೆ ಗುಂಪಾಗಿ ದಾಳಿ ಮಾಡಿ ಎಲ್ಲ ಎಲೆ ತಿಂದು ಬಿಡುತ್ತವೆ. ಬಲಿ ಬೆಳೆ ಹಾಕಿ.",
+      "step_by_step": [
+        "Malathion 5% DP ಧೂಳು ಹಾಕಿ ಅಥವಾ Chlorpyrifos 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮಿಡತೆ (Grasshopper) ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Malathion 5% DP ಧೂಳು ಹಾಕಿ ಅಥವಾ Chlorpyrifos 2 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮತ್ತು ಶೇಂಗಾ ಅಂತರ ಬೆಳೆ ಹೇಗೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮತ್ತು ಶೇಂಗಾ ಅಂತರ ಬೆಳೆ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "2 ಸಾಲು ಸೂರ್ಯಕಾಂತಿ : 4 ಸಾಲು ಶೇಂಗಾ. ಶೇಂಗಾ N ಸ್ಥಿರೀಕರಿಸಿ ಸೂರ್ಯಕಾಂತಿಗೆ ಪ್ರಯೋಜನ.",
+      "detailed_answer": "ಒಟ್ಟು ಇಳುವರಿ ಮೌಲ್ಯ ಹೆಚ್ಚು ಮತ್ತು ಒಂದು ಬೆಳೆ ಹಾಳಾದರೂ ಇನ್ನೊಂದು ರಕ್ಷಣೆ.",
+      "step_by_step": [
+        "2 ಸಾಲು ಸೂರ್ಯಕಾಂತಿ : 4 ಸಾಲು ಶೇಂಗಾ. ಶೇಂಗಾ N ಸ್ಥಿರೀಕರಿಸಿ ಸೂರ್ಯಕಾಂತಿಗೆ ಪ್ರಯೋಜನ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮತ್ತು ಶೇಂಗಾ ಅಂತರ ಬೆಳೆ ಹೇಗೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 2 ಸಾಲು ಸೂರ್ಯಕಾಂತಿ : 4 ಸಾಲು ಶೇಂಗಾ. ಶೇಂಗಾ N ಸ್ಥಿರೀಕರಿಸಿ ಸೂರ್ಯಕಾಂತಿಗೆ ಪ್ರಯೋಜನ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ರೋಗ ನಿರ್ವಹಣೆ ಕ್ಯಾಲೆಂಡರ್?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ರೋಗ ನಿರ್ವಹಣೆ ಕ್ಯಾಲೆಂಡರ್?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "0 ದಿನ Thiram+Metalaxyl ಬೀಜ ಸಂಸ್ಕರಣ. 30 ದಿನ Mancozeb 2.5 ಗ್ರಾ/ಲೀ. 60 ದಿನ Propiconazole 1 ಮಿ.ಲೀ/ಲೀ.",
+      "detailed_answer": "ರೋಗ ಕಾಣಿಸಿದರೆ ತಕ್ಷಣ ಸಿಂಪರಣೆ. ತಡ ಮಾಡಿದರೆ ರೋಗ ಹರಡುತ್ತದೆ.",
+      "step_by_step": [
+        "0 ದಿನ Thiram+Metalaxyl ಬೀಜ ಸಂಸ್ಕರಣ. 30 ದಿನ Mancozeb 2.5 ಗ್ರಾ/ಲೀ. 60 ದಿನ Propiconazole 1 ಮಿ.ಲೀ/ಲೀ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ರೋಗ ನಿರ್ವಹಣೆ ಕ್ಯಾಲೆಂಡರ್? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: 0 ದಿನ Thiram+Metalaxyl ಬೀಜ ಸಂಸ್ಕರಣ. 30 ದಿನ Mancozeb 2.5 ಗ್ರಾ/ಲೀ. 60 ದಿನ Propiconazole 1 ಮಿ.ಲೀ/ಲೀ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಹೂ ಬಿಡದಿದ್ದರೆ ಏಕೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಹೂ ಬಿಡದಿದ್ದರೆ ಏಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತುಂಬಾ N ಗೊಬ್ಬರ, ಅತಿ ನೀರು ಅಥವಾ ಬೋರಾನ್ ಕೊರತೆ ಕಾರಣ.",
+      "detailed_answer": "N ಪ್ರಮಾಣ ಕಡಿಮೆ ಮಾಡಿ. Borax 0.2% ಸಿಂಪಡಿಸಿ. ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮಾಡಿ.",
+      "step_by_step": [
+        "ತುಂಬಾ N ಗೊಬ್ಬರ, ಅತಿ ನೀರು ಅಥವಾ ಬೋರಾನ್ ಕೊರತೆ ಕಾರಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಹೂ ಬಿಡದಿದ್ದರೆ ಏಕೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತುಂಬಾ N ಗೊಬ್ಬರ, ಅತಿ ನೀರು ಅಥವಾ ಬೋರಾನ್ ಕೊರತೆ ಕಾರಣ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಇಳುವರಿ ಹೆಚ್ಚಳ",
+    "subtopic": "ಇಳುವರಿ ಹೆಚ್ಚಳ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ದೊಡ್ಡದಾಗಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ದೊಡ್ಡದಾಗಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "K2SO4 2% ಹೂಬಿಡುವ ಮೊದಲು ಸಿಂಪಡಿಸಿ ಮತ್ತು ಜೇನ್ನೊಣ ಕಾಲೊನಿ ಇಟ್ಟು ಪರಾಗಸ್ಪರ್ಶ ಖಚಿತ ಮಾಡಿ.",
+      "detailed_answer": "Borax 0.2% ಸಿಂಪಡಿಸಿ ಪರಾಗಸ್ಪರ್ಶ ಸುಧಾರಿಸಿ. ಜೇನ್ನೊಣ 50% ಹೆಚ್ಚು ಬೀಜ ಕಟ್ಟಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "K2SO4 2% ಹೂಬಿಡುವ ಮೊದಲು ಸಿಂಪಡಿಸಿ ಮತ್ತು ಜೇನ್ನೊಣ ಕಾಲೊನಿ ಇಟ್ಟು ಪರಾಗಸ್ಪರ್ಶ ಖಚಿತ ಮಾಡಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ದೊಡ್ಡದಾಗಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಇಳುವರಿ ಹೆಚ್ಚಳ. ಉತ್ತರ: K2SO4 2% ಹೂಬಿಡುವ ಮೊದಲು ಸಿಂಪಡಿಸಿ ಮತ್ತು ಜೇನ್ನೊಣ ಕಾಲೊನಿ ಇಟ್ಟು ಪರಾಗಸ್ಪರ್ಶ ಖಚಿತ ಮಾಡಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೊಯ್ಲು ನಂತರ",
+    "subtopic": "ಕೊಯ್ಲು ನಂತರ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಮಾರಾಟ ಯಾರಿಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಮಾರಾಟ ಯಾರಿಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "APMC ಮಾರ್ಕೆಟ್, ಎಣ್ಣೆ ಮಿಲ್, Farmer Producer Organization ಮೂಲಕ ಮಾರಾಟ ಮಾಡಬಹುದು.",
+      "detailed_answer": "FPO ಮೂಲಕ ಸಂಘಟಿತ ಮಾರಾಟ ಉತ್ತಮ ಬೆಲೆ ಕೊಡುತ್ತದೆ.",
+      "step_by_step": [
+        "APMC ಮಾರ್ಕೆಟ್, ಎಣ್ಣೆ ಮಿಲ್, Farmer Producer Organization ಮೂಲಕ ಮಾರಾಟ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೀಜ ಮಾರಾಟ ಯಾರಿಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಕೊಯ್ಲು ನಂತರ. ಉತ್ತರ: APMC ಮಾರ್ಕೆಟ್, ಎಣ್ಣೆ ಮಿಲ್, Farmer Producer Organization ಮೂಲಕ ಮಾರಾಟ ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಆರೋಗ್ಯ ಪ್ರಯೋಜನ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಆರೋಗ್ಯ ಪ್ರಯೋಜನ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ Linoleic acid ಮತ್ತು Vitamin E ಅಧಿಕ, ಹೃದ್ರೋಗ ತಡೆ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "Low saturated fat ಆರೋಗ್ಯಕರ ಅಡುಗೆ ಎಣ್ಣೆ. Omega-6 ಕೊಲೆಸ್ಟ್ರಾಲ್ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ Linoleic acid ಮತ್ತು Vitamin E ಅಧಿಕ, ಹೃದ್ರೋಗ ತಡೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯ ಆರೋಗ್ಯ ಪ್ರಯೋಜನ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸೂರ್ಯಕಾಂತಿ ಎಣ್ಣೆ Linoleic acid ಮತ್ತು Vitamin E ಅಧಿಕ, ಹೃದ್ರೋಗ ತಡೆ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲ್ಲಿ ರಸ ಹೀರುವ ಕೀಟ ಸಾಮಾನ್ಯ ಲಕ್ಷಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲ್ಲಿ ರಸ ಹೀರುವ ಕೀಟ ಸಾಮಾನ್ಯ ಲಕ್ಷಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆ ಮಡಚಿಕೊಳ್ಳುವಿಕೆ, ಹಳದಿ ಚುಕ್ಕೆ, ಅಂಟು ಮಧು Aphids, Whitefly, Jassids ಲಕ್ಷಣ.",
+      "detailed_answer": "Imidacloprid 0.3 ಮಿ.ಲೀ/ಲೀ ಅಥವಾ Thiamethoxam 0.2 ಗ್ರಾ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಎಲೆ ಮಡಚಿಕೊಳ್ಳುವಿಕೆ, ಹಳದಿ ಚುಕ್ಕೆ, ಅಂಟು ಮಧು Aphids, Whitefly, Jassids ಲಕ್ಷಣ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲ್ಲಿ ರಸ ಹೀರುವ ಕೀಟ ಸಾಮಾನ್ಯ ಲಕ್ಷಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆ ಮಡಚಿಕೊಳ್ಳುವಿಕೆ, ಹಳದಿ ಚುಕ್ಕೆ, ಅಂಟು ಮಧು Aphids, Whitefly, Jassids ಲಕ್ಷಣ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತಳಿ KBSH-44 ವೈಶಿಷ್ಟ್ಯ ಏನು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತಳಿ KBSH-44 ವೈಶಿಷ್ಟ್ಯ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "KBSH-44 ಉತ್ತರ ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ, 88 ದಿನ, 38-40% ಎಣ್ಣೆ, ಬರ ನಿರೋಧಕ.",
+      "detailed_answer": "UAS Dharwad ಅಭಿವೃದ್ಧಿ. ತಟ್ಟೆ ಗಾತ್ರ 18-22 ಸೆ.ಮೀ. 2-2.5 ಟನ್/ಹೆಕ್ಟೇರ್.",
+      "step_by_step": [
+        "KBSH-44 ಉತ್ತರ ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ, 88 ದಿನ, 38-40% ಎಣ್ಣೆ, ಬರ ನಿರೋಧಕ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತಳಿ KBSH-44 ವೈಶಿಷ್ಟ್ಯ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: KBSH-44 ಉತ್ತರ ಕರ್ನಾಟಕಕ್ಕೆ ಸೂಕ್ತ, 88 ದಿನ, 38-40% ಎಣ್ಣೆ, ಬರ ನಿರೋಧಕ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ MSFH-17 ತಳಿ ವೈಶಿಷ್ಟ್ಯ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ MSFH-17 ತಳಿ ವೈಶಿಷ್ಟ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "MSFH-17 ಅಧಿಕ ಎಣ್ಣೆ (42-45%), 90 ದಿನ ಅವಧಿ, ಕರ್ನಾಟಕ-ಆಂಧ್ರಕ್ಕೆ ಸೂಕ್ತ.",
+      "detailed_answer": "2-2.5 ಟನ್/ಹೆಕ್ಟೇರ್ ಇಳುವರಿ. ಎಣ್ಣೆ ಶೇಕಡಾ ಹೆಚ್ಚಿರುವ ಕಾರಣ ಕೈಗಾರಿಕೆಗೆ ಬೇಡಿಕೆ ಹೆಚ್ಚು.",
+      "step_by_step": [
+        "MSFH-17 ಅಧಿಕ ಎಣ್ಣೆ (42-45%), 90 ದಿನ ಅವಧಿ, ಕರ್ನಾಟಕ-ಆಂಧ್ರಕ್ಕೆ ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ MSFH-17 ತಳಿ ವೈಶಿಷ್ಟ್ಯ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: MSFH-17 ಅಧಿಕ ಎಣ್ಣೆ (42-45%), 90 ದಿನ ಅವಧಿ, ಕರ್ನಾಟಕ-ಆಂಧ್ರಕ್ಕೆ ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತಾಪಮಾನ 35 ಡಿಗ್ರಿ ಮೇಲೆ ಆದರೆ ಏನು ಆಗುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತಾಪಮಾನ 35 ಡಿಗ್ರಿ ಮೇಲೆ ಆದರೆ ಏನು ಆಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "35 ಡಿಗ್ರಿ ಮೇಲೆ ಪರಾಗರೇಣು ಸಾಯುತ್ತದೆ, ಪರಾಗಸ್ಪರ್ಶ ಕಡಿಮೆಯಾಗಿ ಬೀಜ ಕಟ್ಟದು.",
+      "detailed_answer": "ಬಿತ್ತನೆ ಸಮಯ ಹೊಂದಿಸಿ ಹೂಬಿಡುವ ಸಮಯ ಬಿಸಿ ತಪ್ಪಿಸಿ. ರಬಿ ಋತು ಉತ್ತಮ.",
+      "step_by_step": [
+        "35 ಡಿಗ್ರಿ ಮೇಲೆ ಪರಾಗರೇಣು ಸಾಯುತ್ತದೆ, ಪರಾಗಸ್ಪರ್ಶ ಕಡಿಮೆಯಾಗಿ ಬೀಜ ಕಟ್ಟದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತಾಪಮಾನ 35 ಡಿಗ್ರಿ ಮೇಲೆ ಆದರೆ ಏನು ಆಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 35 ಡಿಗ್ರಿ ಮೇಲೆ ಪರಾಗರೇಣು ಸಾಯುತ್ತದೆ, ಪರಾಗಸ್ಪರ್ಶ ಕಡಿಮೆಯಾಗಿ ಬೀಜ ಕಟ್ಟದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ತೂಕ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ತೂಕ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ತಳಿ ಮತ್ತು ನಿರ್ವಹಣೆಯಲ್ಲಿ ತಟ್ಟೆ ತೂಕ 100-150 ಗ್ರಾ ಇರುತ್ತದೆ.",
+      "detailed_answer": "ಒಳ್ಳೆಯ ಪರಾಗಸ್ಪರ್ಶ, ಬೋರಾನ್ ಮತ್ತು K2SO4 ಸಿಂಪರಣೆ ತಟ್ಟೆ ತೂಕ ಹೆಚ್ಚಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ತಳಿ ಮತ್ತು ನಿರ್ವಹಣೆಯಲ್ಲಿ ತಟ್ಟೆ ತೂಕ 100-150 ಗ್ರಾ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತಟ್ಟೆ ತೂಕ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತಮ ತಳಿ ಮತ್ತು ನಿರ್ವಹಣೆಯಲ್ಲಿ ತಟ್ಟೆ ತೂಕ 100-150 ಗ್ರಾ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ Fertigation ಮಾಡಬಹುದೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ Fertigation ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹನಿ ನೀರಾವರಿ ಇದ್ದರೆ Fertigation ಮೂಲಕ N ಮತ್ತು K ಕೊಡಬಹುದು.",
+      "detailed_answer": "Drip fertigation: 60% N + K ಕ್ರಮೇಣ ಕೊಡಿ. Urea ಅಥವಾ KNO3 ಬಳಸಿ.",
+      "step_by_step": [
+        "ಹನಿ ನೀರಾವರಿ ಇದ್ದರೆ Fertigation ಮೂಲಕ N ಮತ್ತು K ಕೊಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ Fertigation ಮಾಡಬಹುದೇ? ವಿಷಯ: ಗೊಬ್ಬರ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹನಿ ನೀರಾವರಿ ಇದ್ದರೆ Fertigation ಮೂಲಕ N ಮತ್ತು K ಕೊಡಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಮಿಶ್ರ ಬೇಸಾಯ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಮಿಶ್ರ ಬೇಸಾಯ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "2 ಸಾಲು ಸೂರ್ಯಕಾಂತಿ + 3 ಸಾಲು ಹೆಸರು/ಉದ್ದು ಮಿಶ್ರ ಬೇಸಾಯ ಲಾಭದಾಯಕ.",
+      "detailed_answer": "ಒಟ್ಟು ಆದಾಯ 25-30% ಹೆಚ್ಚಾಗಬಹುದು. ಭೂಮಿ ಸಂಪೂರ್ಣ ಬಳಕೆ ಆಗುತ್ತದೆ.",
+      "step_by_step": [
+        "2 ಸಾಲು ಸೂರ್ಯಕಾಂತಿ + 3 ಸಾಲು ಹೆಸರು/ಉದ್ದು ಮಿಶ್ರ ಬೇಸಾಯ ಲಾಭದಾಯಕ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಮಿಶ್ರ ಬೇಸಾಯ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 2 ಸಾಲು ಸೂರ್ಯಕಾಂತಿ + 3 ಸಾಲು ಹೆಸರು/ಉದ್ದು ಮಿಶ್ರ ಬೇಸಾಯ ಲಾಭದಾಯಕ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ",
+    "subtopic": "ನೀರಾವರಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಳು ಕಟ್ಟುವ ಸಮಯ ನೀರಿನ ಒತ್ತಡ ಆದರೆ ಬೀಜ ಪೂರ್ಣ ತುಂಬದೆ ಚಪ್ಪಟೆ ಆಗುತ್ತದೆ.",
+      "detailed_answer": "75-80 ದಿನ ನೀರಾವರಿ ನಿರ್ಣಾಯಕ. ತೇವ ಕೊರತೆ ಆದರೆ ಎಣ್ಣೆ ಶೇಕಡಾ ಕಡಿಮೆ ಆಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಾಳು ಕಟ್ಟುವ ಸಮಯ ನೀರಿನ ಒತ್ತಡ ಆದರೆ ಬೀಜ ಪೂರ್ಣ ತುಂಬದೆ ಚಪ್ಪಟೆ ಆಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಕಾಳು ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ನೀರಾವರಿ. ಉತ್ತರ: ಕಾಳು ಕಟ್ಟುವ ಸಮಯ ನೀರಿನ ಒತ್ತಡ ಆದರೆ ಬೀಜ ಪೂರ್ಣ ತುಂಬದೆ ಚಪ್ಪಟೆ ಆಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕಸ ಗೊಬ್ಬರ (Mulching) ಬಳಕೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕಸ ಗೊಬ್ಬರ (Mulching) ಬಳಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Mulching ಮಣ್ಣಿನ ತೇವ ಕಾಪಾಡಿ ಕಳೆ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಒಣ ಹುಲ್ಲು 5 ಸೆ.ಮೀ ದಪ್ಪ Mulching. Polythene Mulching ತೇವ 40% ಕಾಪಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "Mulching ಮಣ್ಣಿನ ತೇವ ಕಾಪಾಡಿ ಕಳೆ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಹೊಲದಲ್ಲಿ ಕಸ ಗೊಬ್ಬರ (Mulching) ಬಳಕೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: Mulching ಮಣ್ಣಿನ ತೇವ ಕಾಪಾಡಿ ಕಳೆ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಮಣ್ಣು ಸಂಸ್ಕರಣ (Soil Solarization) ಮಾಡಬಹುದೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಮಣ್ಣು ಸಂಸ್ಕರಣ (Soil Solarization) ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ Transparent Polythene ಹೊದಿಸಿ 3-4 ವಾರ ಮಣ್ಣಿನ ಶಿಲೀಂಧ್ರ ನಾಶ ಮಾಡಬಹುದು.",
+      "detailed_answer": "ಮಣ್ಣಿನ ತಾಪ 50-55 ಡಿಗ್ರಿ ಆಗಿ Sclerotinia ಮತ್ತು Pythium ನಾಶ ಆಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ Transparent Polythene ಹೊದಿಸಿ 3-4 ವಾರ ಮಣ್ಣಿನ ಶಿಲೀಂಧ್ರ ನಾಶ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಮಣ್ಣು ಸಂಸ್ಕರಣ (Soil Solarization) ಮಾಡಬಹುದೇ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇಸಿಗೆಯಲ್ಲಿ Transparent Polythene ಹೊದಿಸಿ 3-4 ವಾರ ಮಣ್ಣಿನ ಶಿಲೀಂಧ್ರ ನಾಶ ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ವಿಮೆ ಮಾಡಬಹುದೇ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ವಿಮೆ ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, PM Fasal Bima Yojana ಅಡಿ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ವಿಮೆ ಮಾಡಬಹುದು.",
+      "detailed_answer": "ಪ್ರೀಮಿಯಂ: ರಬಿ 1.5%, ಖಾರಿಫ್ 2%. ಹತ್ತಿರದ ಬ್ಯಾಂಕ್ ಅಥವಾ CSC ಕೇಂದ್ರ ಮೂಲಕ ನೋಂದಾಯಿಸಿ.",
+      "step_by_step": [
+        "ಹೌದು, PM Fasal Bima Yojana ಅಡಿ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ವಿಮೆ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ವಿಮೆ ಮಾಡಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, PM Fasal Bima Yojana ಅಡಿ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ವಿಮೆ ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ Armyworm ದಾಳಿ ನಿಯಂತ್ರಣ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ Armyworm ದಾಳಿ ನಿಯಂತ್ರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Emamectin benzoate 5 SG 0.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Chlorantraniliprole 18.5 SC 0.5 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "Fall Armyworm ಎಲ್ಲ ಎಲೆ ತಿಂದು ಹಾಳು ಮಾಡುತ್ತದೆ. ಮೊದಲ ಹಂತ ಕಂಡ ತಕ್ಷಣ ಸಿಂಪರಣೆ.",
+      "step_by_step": [
+        "Emamectin benzoate 5 SG 0.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Chlorantraniliprole 18.5 SC 0.5 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ Armyworm ದಾಳಿ ನಿಯಂತ್ರಣ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: Emamectin benzoate 5 SG 0.5 ಗ್ರಾ/ಲೀ ಅಥವಾ Chlorantraniliprole 18.5 SC 0.5 ಮಿ.ಲೀ/ಲೀ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ತಾಂತ್ರಿಕ ಮಾಹಿತಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ತಾಂತ್ರಿಕ ಮಾಹಿತಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "UAS Dharwad, ICAR-NRCS, KVK ಮತ್ತು KSDA ಮೂಲಕ ತಾಂತ್ರಿಕ ಮಾಹಿತಿ ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "UAS Dharwad: 0836-2748001. ಹತ್ತಿರದ KVK ಮತ್ತು ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರ (KSDA) ಸಂಪರ್ಕಿಸಿ.",
+      "step_by_step": [
+        "UAS Dharwad, ICAR-NRCS, KVK ಮತ್ತು KSDA ಮೂಲಕ ತಾಂತ್ರಿಕ ಮಾಹಿತಿ ಸಿಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ತಾಂತ್ರಿಕ ಮಾಹಿತಿ ಎಲ್ಲಿ ಸಿಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: UAS Dharwad, ICAR-NRCS, KVK ಮತ್ತು KSDA ಮೂಲಕ ತಾಂತ್ರಿಕ ಮಾಹಿತಿ ಸಿಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ಸೂರ್ಯಕಾಂತಿ (Sunflower)",
+    "crop_type": "Oilseed Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲ್ಲಿ ಯಶಸ್ಸು ಸಾಧಿಸಲು ಯಾವ ಪ್ರಮುಖ ಅಂಶ?",
+    "question_variants": [],
+    "keywords": [
+      "ಸೂರ್ಯಕಾಂತಿ",
+      "Karnataka",
+      "sunflower"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Loam",
+      "climate": "Semi-Arid",
+      "temperature": "20-30°C",
+      "rainfall": "500-750 mm"
+    },
+    "problem_description": "ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲ್ಲಿ ಯಶಸ್ಸು ಸಾಧಿಸಲು ಯಾವ ಪ್ರಮುಖ ಅಂಶ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ತಳಿ, ಸರಿಯಾದ ಬಿತ್ತನೆ, ಶಿಫಾರಸು ಗೊಬ್ಬರ, ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಜೇನ್ನೊಣ ಪರಾಗಸ್ಪರ್ಶ.",
+      "detailed_answer": "1. KBSH-44 ಅಥವಾ KBSH-53 ತಳಿ. 2. ಸರಿಯಾದ ಬಿತ್ತನೆ ಸಮಯ. 3. 90:60:60 NPK. 4. ಜೇನ್ನೊಣ ಪರಾಗಸ್ಪರ್ಶ. 5. IPM ನಿಯಂತ್ರಣ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ತಳಿ, ಸರಿಯಾದ ಬಿತ್ತನೆ, ಶಿಫಾರಸು ಗೊಬ್ಬರ, ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಜೇನ್ನೊಣ ಪರಾಗಸ್ಪರ್ಶ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಸೂರ್ಯಕಾಂತಿ (Sunflower) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆಯಲ್ಲಿ ಯಶಸ್ಸು ಸಾಧಿಸಲು ಯಾವ ಪ್ರಮುಖ ಅಂಶ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತಮ ತಳಿ, ಸರಿಯಾದ ಬಿತ್ತನೆ, ಶಿಫಾರಸು ಗೊಬ್ಬರ, ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಜೇನ್ನೊಣ ಪರಾಗಸ್ಪರ್ಶ.",
+    "metadata": {
+      "source": "UAS Dharwad / ICAR-NRCS",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-08-11"
+    }
+  }
+]

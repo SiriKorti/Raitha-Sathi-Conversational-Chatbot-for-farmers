@@ -1,0 +1,5379 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ಕಾಫಿಗೆ ಸಮಶೀತೋಷ್ಣ ಮತ್ತು ತೇವಾಂಶಭರಿತ ಹವಾಮಾನ ಸೂಕ್ತ. ಅರೇಬಿಕಾಗೆ 15-25°C ಹಾಗೂ ರೊಬಸ್ಟಾಗೆ 20-30°C ಉಷ್ಣಾಂಶ ಬೇಕು.",
+      "detailed_answer": "ಕಾಫಿಗೆ ಸಮಶೀತೋಷ್ಣ ಮತ್ತು ತೇವಾಂಶಭರಿತ ಹವಾಮಾನ ಸೂಕ್ತ. ಅರೇಬಿಕಾಗೆ 15-25°C ಹಾಗೂ ರೊಬಸ್ಟಾಗೆ 20-30°C ಉಷ್ಣಾಂಶ ಬೇಕು.",
+      "step_by_step": [
+        "ಕಾಫಿಗೆ ಸಮಶೀತೋಷ್ಣ",
+        "ತೇವಾಂಶಭರಿತ ಹವಾಮಾನ ಸೂಕ್ತ. ಅರೇಬಿಕಾಗೆ 15-25°C ಹಾಗೂ ರೊಬಸ್ಟಾಗೆ 20-30°C ಉಷ್ಣಾಂಶ ಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೆಳೆಯಲು ಎಂತಹ ಹವಾಮಾನ ಸೂಕ್ತ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಫಿಗೆ ಸಮಶೀತೋಷ್ಣ ಮತ್ತು ತೇವಾಂಶಭರಿತ ಹವಾಮಾನ ಸೂಕ್ತ. ಅರೇಬಿಕಾಗೆ 15-25°C ಹಾಗೂ ರೊಬಸ್ಟಾಗೆ 20-30°C ಉಷ್ಣಾಂಶ ಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "comparative",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾ ಕಾಫಿಯ ವ್ಯತ್ಯಾಸವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾ ಕಾಫಿಯ ವ್ಯತ್ಯಾಸವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಗುಣಮಟ್ಟ ಹೆಚ್ಚು",
+      "ರೋಗ",
+      "ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾ ಕಾಫಿಯ ವ್ಯತ್ಯಾಸವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರೇಬಿಕಾ ತಂಪಾದ ಮತ್ತು ಎತ್ತರದ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ಗುಣಮಟ್ಟ ಹೆಚ್ಚು), ರೊಬಸ್ಟಾ ಕಡಿಮೆ ಎತ್ತರದ ಬಿಸಿ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚು).",
+      "detailed_answer": "ಅರೇಬಿಕಾ ತಂಪಾದ ಮತ್ತು ಎತ್ತರದ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ಗುಣಮಟ್ಟ ಹೆಚ್ಚು), ರೊಬಸ್ಟಾ ಕಡಿಮೆ ಎತ್ತರದ ಬಿಸಿ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚು).",
+      "step_by_step": [
+        "ಅರೇಬಿಕಾ ತಂಪಾದ",
+        "ಎತ್ತರದ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ಗುಣಮಟ್ಟ ಹೆಚ್ಚು)",
+        "ರೊಬಸ್ಟಾ ಕಡಿಮೆ ಎತ್ತರದ ಬಿಸಿ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚು)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಗುಣಮಟ್ಟ ಹೆಚ್ಚು",
+        "ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚು"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾ ಕಾಫಿಯ ವ್ಯತ್ಯಾಸವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅರೇಬಿಕಾ ತಂಪಾದ ಮತ್ತು ಎತ್ತರದ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ಗುಣಮಟ್ಟ ಹೆಚ್ಚು), ರೊಬಸ್ಟಾ ಕಡಿಮೆ ಎತ್ತರದ ಬಿಸಿ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ (ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚು).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೆಳೆಗೆ ಎತ್ತರದ ಪ್ರದೇಶ ಎಷ್ಟು ಇರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಬೆಳೆಗೆ ಎತ್ತರದ ಪ್ರದೇಶ ಎಷ್ಟು ಇರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೆಳೆಗೆ ಎತ್ತರದ ಪ್ರದೇಶ ಎಷ್ಟು ಇರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರೇಬಿಕಾ ಕಾಫಿಯನ್ನು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000-1500 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಲಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಅರೇಬಿಕಾ ಕಾಫಿಯನ್ನು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000-1500 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಲಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅರೇಬಿಕಾ ಕಾಫಿಯನ್ನು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000-1500 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಲಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೆಳೆಗೆ ಎತ್ತರದ ಪ್ರದೇಶ ಎಷ್ಟು ಇರಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರೇಬಿಕಾ ಕಾಫಿಯನ್ನು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ 1000-1500 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಲಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು 500-1000 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಸುಲಭವಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು 500-1000 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಸುಲಭವಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು 500-1000 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಸುಲಭವಾಗಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು ಎಷ್ಟು ಎತ್ತರದಲ್ಲಿ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರೊಬಸ್ಟಾ ಕಾಫಿಯನ್ನು 500-1000 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿ ಸುಲಭವಾಗಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟಕ್ಕೆ ವಾರ್ಷಿಕ ಎಷ್ಟು ಮಳೆ ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ತೋಟಕ್ಕೆ ವಾರ್ಷಿಕ ಎಷ್ಟು ಮಳೆ ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟಕ್ಕೆ ವಾರ್ಷಿಕ ಎಷ್ಟು ಮಳೆ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರೇಬಿಕಾಗೆ 1600-2500 ಮಿ.ಮೀ. ಮತ್ತು ರೊಬಸ್ಟಾಗೆ 1000-2000 ಮಿ.ಮೀ. ಮಳೆ ಅಗತ್ಯವಿದೆ.",
+      "detailed_answer": "ಅರೇಬಿಕಾಗೆ 1600-2500 ಮಿ.ಮೀ. ಮತ್ತು ರೊಬಸ್ಟಾಗೆ 1000-2000 ಮಿ.ಮೀ. ಮಳೆ ಅಗತ್ಯವಿದೆ.",
+      "step_by_step": [
+        "ಅರೇಬಿಕಾಗೆ 1600-2500 ಮಿ.ಮೀ.",
+        "ರೊಬಸ್ಟಾಗೆ 1000-2000 ಮಿ.ಮೀ. ಮಳೆ ಅಗತ್ಯವಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟಕ್ಕೆ ವಾರ್ಷಿಕ ಎಷ್ಟು ಮಳೆ ಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅರೇಬಿಕಾಗೆ 1600-2500 ಮಿ.ಮೀ. ಮತ್ತು ರೊಬಸ್ಟಾಗೆ 1000-2000 ಮಿ.ಮೀ. ಮಳೆ ಅಗತ್ಯವಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಗೆ ನೆರಳು ಏಕೆ ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಗೆ ನೆರಳು ಏಕೆ ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಗೆ ನೆರಳು ಏಕೆ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರೇಬಿಕಾ ಕಾಫಿಗೆ ನೇರ ಸೂರ್ಯನ ಬೆಳಕು ತಾಗಿದರೆ ಬೆಳೆ ಸುಡುತ್ತದೆ ಮತ್ತು ಎಲೆ ತುಕ್ಕು ರೋಗ ಬರುತ್ತದೆ, ಆದ್ದರಿಂದ ಮರಗಳ ನೆರಳು ಕಡ್ಡಾಯ.",
+      "detailed_answer": "ಅರೇಬಿಕಾ ಕಾಫಿಗೆ ನೇರ ಸೂರ್ಯನ ಬೆಳಕು ತಾಗಿದರೆ ಬೆಳೆ ಸುಡುತ್ತದೆ ಮತ್ತು ಎಲೆ ತುಕ್ಕು ರೋಗ ಬರುತ್ತದೆ, ಆದ್ದರಿಂದ ಮರಗಳ ನೆರಳು ಕಡ್ಡಾಯ.",
+      "step_by_step": [
+        "ಅರೇಬಿಕಾ ಕಾಫಿಗೆ ನೇರ ಸೂರ್ಯನ ಬೆಳಕು ತಾಗಿದರೆ ಬೆಳೆ ಸುಡುತ್ತದೆ",
+        "ಎಲೆ ತುಕ್ಕು ರೋಗ ಬರುತ್ತದೆ",
+        "ಆದ್ದರಿಂದ ಮರಗಳ ನೆರಳು ಕಡ್ಡಾಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಗೆ ನೆರಳು ಏಕೆ ಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅರೇಬಿಕಾ ಕಾಫಿಗೆ ನೇರ ಸೂರ್ಯನ ಬೆಳಕು ತಾಗಿದರೆ ಬೆಳೆ ಸುಡುತ್ತದೆ ಮತ್ತು ಎಲೆ ತುಕ್ಕು ರೋಗ ಬರುತ್ತದೆ, ಆದ್ದರಿಂದ ಮರಗಳ ನೆರಳು ಕಡ್ಡಾಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ನೆರಳಿಗೆ ಯಾವ ಮರಗಳನ್ನು ಬೆಳೆಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಕಾಫಿ ತೋಟದಲ್ಲಿ ನೆರಳಿಗೆ ಏನು ಮರಗಳನ್ನು ಬೆಳೆಸುತ್ತಾರೆ?",
+      "ರೈತರು ಕಾಫಿ ತೋಟದಲ್ಲಿ ನೆರಳಿಗೆ ಯಾವ ಮರಗಳನ್ನು ಬೆಳೆಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ನೆರಳಿಗೆ ಯಾವ ಮರಗಳನ್ನು ಬೆಳೆಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಿಲ್ವರ್ ಓಕ್, ಹಲಸು, ಅತ್ತಿ, ಬಸವನಪಾದ ಮತ್ತು ನಂದಿ ಮರಗಳನ್ನು ನೆರಳಿಗಾಗಿ ಬೆಳೆಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಸಿಲ್ವರ್ ಓಕ್, ಹಲಸು, ಅತ್ತಿ, ಬಸವನಪಾದ ಮತ್ತು ನಂದಿ ಮರಗಳನ್ನು ನೆರಳಿಗಾಗಿ ಬೆಳೆಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಸಿಲ್ವರ್ ಓಕ್",
+        "ನಂದಿ ಮರಗಳನ್ನು ನೆರಳಿಗಾಗಿ ಬೆಳೆಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ನೆರಳಿಗೆ ಯಾವ ಮರಗಳನ್ನು ಬೆಳೆಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಿಲ್ವರ್ ಓಕ್, ಹಲಸು, ಅತ್ತಿ, ಬಸವನಪಾದ ಮತ್ತು ನಂದಿ ಮರಗಳನ್ನು ನೆರಳಿಗಾಗಿ ಬೆಳೆಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರೇಬಿಕಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಅರೇಬಿಕಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ಅರೇಬಿಕಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಅರೇಬಿಕಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಸ್-795, ಚಂದ್ರಗಿರಿ, ಕಾವೇರಿ ಮತ್ತು ಸೆಲೆಕ್ಷನ್-9 ಪ್ರಮುಖ ಅರೇಬಿಕಾ ತಳಿಗಳು.",
+      "detailed_answer": "ಎಸ್-795, ಚಂದ್ರಗಿರಿ, ಕಾವೇರಿ ಮತ್ತು ಸೆಲೆಕ್ಷನ್-9 ಪ್ರಮುಖ ಅರೇಬಿಕಾ ತಳಿಗಳು.",
+      "step_by_step": [
+        "ಸೆಲೆಕ್ಷನ್-9 ಪ್ರಮುಖ ಅರೇಬಿಕಾ ತಳಿಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರೇಬಿಕಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಎಸ್-795, ಚಂದ್ರಗಿರಿ, ಕಾವೇರಿ ಮತ್ತು ಸೆಲೆಕ್ಷನ್-9 ಪ್ರಮುಖ ಅರೇಬಿಕಾ ತಳಿಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "BR",
+      "CxR",
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಿ.ಎಕ್ಸ್.ಆರ್ (CxR), ಎಸ್-274 ಮತ್ತು ಬಿ.ಆರ್. (BR) ಸರಣಿಯ ತಳಿಗಳು.",
+      "detailed_answer": "ಸಿ.ಎಕ್ಸ್.ಆರ್ (CxR), ಎಸ್-274 ಮತ್ತು ಬಿ.ಆರ್. (BR) ಸರಣಿಯ ತಳಿಗಳು.",
+      "step_by_step": [
+        "ಸಿ.ಎಕ್ಸ್.ಆರ್ (CxR)",
+        "ಬಿ.ಆರ್. (BR) ಸರಣಿಯ ತಳಿಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "CxR"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಪ್ರಮುಖ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಿ.ಎಕ್ಸ್.ಆರ್ (CxR), ಎಸ್-274 ಮತ್ತು ಬಿ.ಆರ್. (BR) ಸರಣಿಯ ತಳಿಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಸಸಿಗಳನ್ನು ಹೇಗೆ ಉತ್ಪಾದಿಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಕಾಫಿ ಸಸಿಗಳನ್ನು ಯಾವ ರೀತಿ ಉತ್ಪಾದಿಸುತ್ತಾರೆ?",
+      "ರೈತರು ಕಾಫಿ ಸಸಿಗಳನ್ನು ಹೇಗೆ ಉತ್ಪಾದಿಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ನರ್ಸರಿಯಲ್ಲಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಸಸಿಗಳನ್ನು ಹೇಗೆ ಉತ್ಪಾದಿಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿಯನ್ನು ಬೀಜದ ಮೂಲಕ (ನರ್ಸರಿಯಲ್ಲಿ) ಮತ್ತು ಕಸಿ ಮಾಡುವ ಮೂಲಕ ಉತ್ಪಾದಿಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಕಾಫಿಯನ್ನು ಬೀಜದ ಮೂಲಕ (ನರ್ಸರಿಯಲ್ಲಿ) ಮತ್ತು ಕಸಿ ಮಾಡುವ ಮೂಲಕ ಉತ್ಪಾದಿಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕಾಫಿಯನ್ನು ಬೀಜದ ಮೂಲಕ (ನರ್ಸರಿಯಲ್ಲಿ)",
+        "ಕಸಿ ಮಾಡುವ ಮೂಲಕ ಉತ್ಪಾದಿಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ನರ್ಸರಿಯಲ್ಲಿ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಸಸಿಗಳನ್ನು ಹೇಗೆ ಉತ್ಪಾದಿಸುತ್ತಾರೆ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಕಾಫಿಯನ್ನು ಬೀಜದ ಮೂಲಕ (ನರ್ಸರಿಯಲ್ಲಿ) ಮತ್ತು ಕಸಿ ಮಾಡುವ ಮೂಲಕ ಉತ್ಪಾದಿಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತುವ ಮುನ್ನ ಯಾವ ಉಪಚಾರ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತುವ ಮುನ್ನ ಏನು ಉಪಚಾರ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕಾಫಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತುವ ಮುನ್ನ ಯಾವ ಉಪಚಾರ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Bavistin",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತುವ ಮುನ್ನ ಯಾವ ಉಪಚಾರ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜಗಳನ್ನು ಬೂದಿಯಿಂದ ಉಜ್ಜಿ, ಬಾವಿಸ್ಟಿನ್ (Bavistin) ದ್ರಾವಣದಲ್ಲಿ ಅದ್ದಿ ಬಿತ್ತಬೇಕು.",
+      "detailed_answer": "ಬೀಜಗಳನ್ನು ಬೂದಿಯಿಂದ ಉಜ್ಜಿ, ಬಾವಿಸ್ಟಿನ್ (Bavistin) ದ್ರಾವಣದಲ್ಲಿ ಅದ್ದಿ ಬಿತ್ತಬೇಕು.",
+      "step_by_step": [
+        "ಬೀಜಗಳನ್ನು ಬೂದಿಯಿಂದ ಉಜ್ಜಿ",
+        "ಬಾವಿಸ್ಟಿನ್ (Bavistin) ದ್ರಾವಣದಲ್ಲಿ ಅದ್ದಿ ಬಿತ್ತಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Bavistin"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತುವ ಮುನ್ನ ಯಾವ ಉಪಚಾರ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೀಜಗಳನ್ನು ಬೂದಿಯಿಂದ ಉಜ್ಜಿ, ಬಾವಿಸ್ಟಿನ್ (Bavistin) ದ್ರಾವಣದಲ್ಲಿ ಅದ್ದಿ ಬಿತ್ತಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಸಸಿ ನೆಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?",
+    "question_variants": [
+      "ಕಾಫಿ ಸಸಿ ನೆಡುವ ಸರಿಯಾದ ಸಮಯ ಏನುುದು?",
+      "ರೈತರು ಕಾಫಿ ಸಸಿ ನೆಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಸಸಿ ನೆಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮುಂಗಾರು ಮಳೆ ಪ್ರಾರಂಭವಾದಾಗ, ಅಂದರೆ ಜೂನ್ ನಿಂದ ಆಗಸ್ಟ್ ತಿಂಗಳಲ್ಲಿ ನೆಡಬೇಕು.",
+      "detailed_answer": "ಮುಂಗಾರು ಮಳೆ ಪ್ರಾರಂಭವಾದಾಗ, ಅಂದರೆ ಜೂನ್ ನಿಂದ ಆಗಸ್ಟ್ ತಿಂಗಳಲ್ಲಿ ನೆಡಬೇಕು.",
+      "step_by_step": [
+        "ಮುಂಗಾರು ಮಳೆ ಪ್ರಾರಂಭವಾದಾಗ",
+        "ಅಂದರೆ ಜೂನ್ ನಿಂದ ಆಗಸ್ಟ್ ತಿಂಗಳಲ್ಲಿ ನೆಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಸಸಿ ನೆಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಮುಂಗಾರು ಮಳೆ ಪ್ರಾರಂಭವಾದಾಗ, ಅಂದರೆ ಜೂನ್ ನಿಂದ ಆಗಸ್ಟ್ ತಿಂಗಳಲ್ಲಿ ನೆಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರೇಬಿಕಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಅರೇಬಿಕಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಅರೇಬಿಕಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 6x6 ಅಡಿ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು.",
+      "detailed_answer": "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 6x6 ಅಡಿ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು.",
+      "step_by_step": [
+        "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 6x6 ಅಡಿ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರೇಬಿಕಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 6x6 ಅಡಿ ಅಂತರದಲ್ಲಿ ನೆಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೊಬಸ್ಟಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರೊಬಸ್ಟಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ರೊಬಸ್ಟಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೊಬಸ್ಟಾ ಗಿಡಗಳು ದೊಡ್ಡದಾಗಿ ಬೆಳೆಯುವುದರಿಂದ 9x9 ಅಥವಾ 10x10 ಅಡಿ ಅಂತರ ಬೇಕು.",
+      "detailed_answer": "ರೊಬಸ್ಟಾ ಗಿಡಗಳು ದೊಡ್ಡದಾಗಿ ಬೆಳೆಯುವುದರಿಂದ 9x9 ಅಥವಾ 10x10 ಅಡಿ ಅಂತರ ಬೇಕು.",
+      "step_by_step": [
+        "ರೊಬಸ್ಟಾ ಗಿಡಗಳು ದೊಡ್ಡದಾಗಿ ಬೆಳೆಯುವುದರಿಂದ 9x9 ಅಥವಾ 10x10 ಅಡಿ ಅಂತರ ಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೊಬಸ್ಟಾ ಕಾಫಿ ನೆಡುವಾಗ ಅಂತರ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರೊಬಸ್ಟಾ ಗಿಡಗಳು ದೊಡ್ಡದಾಗಿ ಬೆಳೆಯುವುದರಿಂದ 9x9 ಅಥವಾ 10x10 ಅಡಿ ಅಂತರ ಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಗಿಡ ನೆಡಲು ಗುಂಡಿಯ ಅಳತೆ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಗಿಡ ನೆಡಲು ಗುಂಡಿಯ ಅಳತೆ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಗಿಡ ನೆಡಲು ಗುಂಡಿಯ ಅಳತೆ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "2 ಅಡಿ ಉದ್ದ, 2 ಅಡಿ ಅಗಲ ಮತ್ತು 2 ಅಡಿ ಆಳದ ಗುಂಡಿ ತೆಗೆಯಬೇಕು.",
+      "detailed_answer": "2 ಅಡಿ ಉದ್ದ, 2 ಅಡಿ ಅಗಲ ಮತ್ತು 2 ಅಡಿ ಆಳದ ಗುಂಡಿ ತೆಗೆಯಬೇಕು.",
+      "step_by_step": [
+        "2 ಅಡಿ ಆಳದ ಗುಂಡಿ ತೆಗೆಯಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಗಿಡ ನೆಡಲು ಗುಂಡಿಯ ಅಳತೆ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 2 ಅಡಿ ಉದ್ದ, 2 ಅಡಿ ಅಗಲ ಮತ್ತು 2 ಅಡಿ ಆಳದ ಗುಂಡಿ ತೆಗೆಯಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಗಿಡದ ಪ್ರೂನಿಂಗ್ (Pruning) ಅಥವಾ ಕತ್ತರಿಸುವಿಕೆ ಏಕೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಗಿಡದ ಪ್ರೂನಿಂಗ್ (Pruning) ಅಥವಾ ಕತ್ತರಿಸುವಿಕೆ ಏಕೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Pruning",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಗಿಡದ ಪ್ರೂನಿಂಗ್ (Pruning) ಅಥವಾ ಕತ್ತರಿಸುವಿಕೆ ಏಕೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಿಡದ ಸರಿಯಾದ ಆಕಾರಕ್ಕಾಗಿ, ಗಾಳಿ-ಬೆಳಕು ಹರಿಯಲು ಮತ್ತು ಹಳೆಯ ರೆಂಬೆಗಳನ್ನು ತೆಗೆದು ಹೊಸ ಚಿಗುರು ಪಡೆಯಲು.",
+      "detailed_answer": "ಗಿಡದ ಸರಿಯಾದ ಆಕಾರಕ್ಕಾಗಿ, ಗಾಳಿ-ಬೆಳಕು ಹರಿಯಲು ಮತ್ತು ಹಳೆಯ ರೆಂಬೆಗಳನ್ನು ತೆಗೆದು ಹೊಸ ಚಿಗುರು ಪಡೆಯಲು.",
+      "step_by_step": [
+        "ಗಿಡದ ಸರಿಯಾದ ಆಕಾರಕ್ಕಾಗಿ",
+        "ಗಾಳಿ-ಬೆಳಕು ಹರಿಯಲು",
+        "ಹಳೆಯ ರೆಂಬೆಗಳನ್ನು ತೆಗೆದು ಹೊಸ ಚಿಗುರು ಪಡೆಯಲು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಗಿಡದ ಪ್ರೂನಿಂಗ್ (Pruning) ಅಥವಾ ಕತ್ತರಿಸುವಿಕೆ ಏಕೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಿಡದ ಸರಿಯಾದ ಆಕಾರಕ್ಕಾಗಿ, ಗಾಳಿ-ಬೆಳಕು ಹರಿಯಲು ಮತ್ತು ಹಳೆಯ ರೆಂಬೆಗಳನ್ನು ತೆಗೆದು ಹೊಸ ಚಿಗುರು ಪಡೆಯಲು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಸೆಂಟರಿಂಗ್ (Centering) ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಸೆಂಟರಿಂಗ್ (Centering) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Centering",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಸೆಂಟರಿಂಗ್ (Centering) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಿಡದ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವ ಅನಗತ್ಯ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಗಾಳಿ ಬೆಳಕು ಆಡುವಂತೆ ಮಾಡುವುದು.",
+      "detailed_answer": "ಗಿಡದ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವ ಅನಗತ್ಯ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಗಾಳಿ ಬೆಳಕು ಆಡುವಂತೆ ಮಾಡುವುದು.",
+      "step_by_step": [
+        "ಗಿಡದ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವ ಅನಗತ್ಯ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಗಾಳಿ ಬೆಳಕು ಆಡುವಂತೆ ಮಾಡುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಸೆಂಟರಿಂಗ್ (Centering) ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಿಡದ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವ ಅನಗತ್ಯ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಗಾಳಿ ಬೆಳಕು ಆಡುವಂತೆ ಮಾಡುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಡಿಸಕ್ಕರಿಂಗ್ (Desuckering) ಅಂದರೆ ಏನು?",
+    "question_variants": [
+      "ಡಿಸಕ್ಕರಿಂಗ್ (Desuckering) ಅಂದರೆ ಯಾವುದು?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಡಿಸಕ್ಕರಿಂಗ್ (Desuckering) ಅಂದರೆ ಏನು?",
+      "ರೈತರು ಡಿಸಕ್ಕರಿಂಗ್ (Desuckering) ಅಂದರೆ ಏನು?"
+    ],
+    "keywords": [
+      "Desuckering",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ನೀರು ರೆಂಬೆ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಡಿಸಕ್ಕರಿಂಗ್ (Desuckering) ಅಂದರೆ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿ ಕಾಂಡದ ಕೆಳಭಾಗದಲ್ಲಿ ಹುಟ್ಟುವ ಅನಗತ್ಯ ಚಿಗುರುಗಳನ್ನು (ನೀರು ರೆಂಬೆ) ಆಗಾಗ್ಗೆ ಕತ್ತರಿಸಿ ತೆಗೆಯುವುದು.",
+      "detailed_answer": "ಕಾಫಿ ಕಾಂಡದ ಕೆಳಭಾಗದಲ್ಲಿ ಹುಟ್ಟುವ ಅನಗತ್ಯ ಚಿಗುರುಗಳನ್ನು (ನೀರು ರೆಂಬೆ) ಆಗಾಗ್ಗೆ ಕತ್ತರಿಸಿ ತೆಗೆಯುವುದು.",
+      "step_by_step": [
+        "ಕಾಫಿ ಕಾಂಡದ ಕೆಳಭಾಗದಲ್ಲಿ ಹುಟ್ಟುವ ಅನಗತ್ಯ ಚಿಗುರುಗಳನ್ನು (ನೀರು ರೆಂಬೆ) ಆಗಾಗ್ಗೆ ಕತ್ತರಿಸಿ ತೆಗೆಯುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ನೀರು ರೆಂಬೆ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಡಿಸಕ್ಕರಿಂಗ್ (Desuckering) ಅಂದರೆ ಏನು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಫಿ ಕಾಂಡದ ಕೆಳಭಾಗದಲ್ಲಿ ಹುಟ್ಟುವ ಅನಗತ್ಯ ಚಿಗುರುಗಳನ್ನು (ನೀರು ರೆಂಬೆ) ಆಗಾಗ್ಗೆ ಕತ್ತರಿಸಿ ತೆಗೆಯುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಗಾಲದ ಮುನ್ನ ಮತ್ತು ನಂತರ ಕುಡುಗೋಲಿನಿಂದ ಕಳೆ ಕತ್ತರಿಸಬೇಕು, ಅಥವಾ ಗ್ಲೈಫೋಸೇಟ್ ಕಳೆನಾಶಕ ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಮಳೆಗಾಲದ ಮುನ್ನ ಮತ್ತು ನಂತರ ಕುಡುಗೋಲಿನಿಂದ ಕಳೆ ಕತ್ತರಿಸಬೇಕು, ಅಥವಾ ಗ್ಲೈಫೋಸೇಟ್ ಕಳೆನಾಶಕ ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲದ ಮುನ್ನ",
+        "ನಂತರ ಕುಡುಗೋಲಿನಿಂದ ಕಳೆ ಕತ್ತರಿಸಬೇಕು",
+        "ಅಥವಾ ಗ್ಲೈಫೋಸೇಟ್ ಕಳೆನಾಶಕ ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [
+        "ಮಳೆಗಾಲದ ಮುನ್ನ ಮತ್ತು ನಂತರ ಕುಡುಗೋಲಿನಿಂದ ಕಳೆ ಕತ್ತರಿಸಬೇಕು, ಅಥವಾ ಗ್ಲೈಫೋಸೇಟ್ ಕಳೆನಾಶಕ ಬಳಸಬಹುದು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಳೆಗಾಲದ ಮುನ್ನ ಮತ್ತು ನಂತರ ಕುಡುಗೋಲಿನಿಂದ ಕಳೆ ಕತ್ತರಿಸಬೇಕು, ಅಥವಾ ಗ್ಲೈಫೋಸೇಟ್ ಕಳೆನಾಶಕ ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೆಳೆಗೆ ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಬೆಳೆಗೆ ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "NPK",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಗೊಬ್ಬರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೆಳೆಗೆ ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ ಅರೇಬಿಕಾಗೆ 60:40:40 ಕೆಜಿ NPK ಯನ್ನು ವರ್ಷಕ್ಕೆ ಮೂರು ಕಂತುಗಳಲ್ಲಿ ನೀಡಬೇಕು.",
+      "detailed_answer": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ ಅರೇಬಿಕಾಗೆ 60:40:40 ಕೆಜಿ NPK ಯನ್ನು ವರ್ಷಕ್ಕೆ ಮೂರು ಕಂತುಗಳಲ್ಲಿ ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ ಅರೇಬಿಕಾಗೆ 60:40:40 ಕೆಜಿ NPK ಯನ್ನು ವರ್ಷಕ್ಕೆ ಮೂರು ಕಂತುಗಳಲ್ಲಿ ನೀಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೆಳೆಗೆ ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಪರೀಕ್ಷೆಯ ಆಧಾರದ ಮೇಲೆ ಅರೇಬಿಕಾಗೆ 60:40:40 ಕೆಜಿ NPK ಯನ್ನು ವರ್ಷಕ್ಕೆ ಮೂರು ಕಂತುಗಳಲ್ಲಿ ನೀಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "NPK",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಗೊಬ್ಬರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೊಬಸ್ಟಾಗೆ ವರ್ಷಕ್ಕೆ 40:30:40 ಕೆಜಿ NPK ಯನ್ನು ನೀಡಬೇಕು.",
+      "detailed_answer": "ರೊಬಸ್ಟಾಗೆ ವರ್ಷಕ್ಕೆ 40:30:40 ಕೆಜಿ NPK ಯನ್ನು ನೀಡಬೇಕು.",
+      "step_by_step": [
+        "ರೊಬಸ್ಟಾಗೆ ವರ್ಷಕ್ಕೆ 40:30:40 ಕೆಜಿ NPK ಯನ್ನು ನೀಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ ಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೊಬಸ್ಟಾಗೆ ವರ್ಷಕ್ಕೆ 40:30:40 ಕೆಜಿ NPK ಯನ್ನು ನೀಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬ್ಲಾಸಮ್ ಶವರ್ (Blossom Shower) ಎಂದರೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಬ್ಲಾಸಮ್ ಶವರ್ (Blossom Shower) ಎಂದರೇನು?",
+      "ರೈತರು ಬ್ಲಾಸಮ್ ಶವರ್ (Blossom Shower) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Blossom",
+      "Blossom Shower",
+      "Karnataka",
+      "Shower",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಬ್ಲಾಸಮ್ ಶವರ್ (Blossom Shower) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಾರ್ಚ್-ಏಪ್ರಿಲ್ ತಿಂಗಳಲ್ಲಿ ಕಾಫಿ ಹೂ ಬಿಡಲು ಅಗತ್ಯವಿರುವ ಮೊದಲ ಮಳೆಯನ್ನು ಬ್ಲಾಸಮ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ.",
+      "detailed_answer": "ಮಾರ್ಚ್-ಏಪ್ರಿಲ್ ತಿಂಗಳಲ್ಲಿ ಕಾಫಿ ಹೂ ಬಿಡಲು ಅಗತ್ಯವಿರುವ ಮೊದಲ ಮಳೆಯನ್ನು ಬ್ಲಾಸಮ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಮಾರ್ಚ್-ಏಪ್ರಿಲ್ ತಿಂಗಳಲ್ಲಿ ಕಾಫಿ ಹೂ ಬಿಡಲು ಅಗತ್ಯವಿರುವ ಮೊದಲ ಮಳೆಯನ್ನು ಬ್ಲಾಸಮ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬ್ಲಾಸಮ್ ಶವರ್ (Blossom Shower) ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಾರ್ಚ್-ಏಪ್ರಿಲ್ ತಿಂಗಳಲ್ಲಿ ಕಾಫಿ ಹೂ ಬಿಡಲು ಅಗತ್ಯವಿರುವ ಮೊದಲ ಮಳೆಯನ್ನು ಬ್ಲಾಸಮ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬ್ಲಾಸಮ್ ಶವರ್ (ಹೂವಿನ ಮಳೆ) ಬರದಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಬ್ಲಾಸಮ್ ಶವರ್ (ಹೂವಿನ ಮಳೆ) ಬರದಿದ್ದರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಬ್ಲಾಸಮ್ ಶವರ್ (ಹೂವಿನ ಮಳೆ) ಬರದಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಬ್ಲಾಸಮ್ ಶವರ್ (ಹೂವಿನ ಮಳೆ) ಬರದಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Sprinkler",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ನೀರಾವರಿ",
+      "ಹೂವಿನ ಮಳೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಬ್ಲಾಸಮ್ ಶವರ್ (ಹೂವಿನ ಮಳೆ) ಬರದಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಮೂಲಕ ಮಳೆಯಂತೆ ನೀರು ಹಾಯಿಸಬೇಕು.",
+      "detailed_answer": "ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಮೂಲಕ ಮಳೆಯಂತೆ ನೀರು ಹಾಯಿಸಬೇಕು.",
+      "step_by_step": [
+        "ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಮೂಲಕ ಮಳೆಯಂತೆ ನೀರು ಹಾಯಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Sprinkler"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬ್ಲಾಸಮ್ ಶವರ್ (ಹೂವಿನ ಮಳೆ) ಬರದಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತುಂತುರು ನೀರಾವರಿ (Sprinkler) ಮೂಲಕ ಮಳೆಯಂತೆ ನೀರು ಹಾಯಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬ್ಲಾಸಮ್ ಶವರ್ ಆದ ಎಷ್ಟು ದಿನಕ್ಕೆ ಹೂ ಅರಳುತ್ತದೆ?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಬ್ಲಾಸಮ್ ಶವರ್ ಆದ ಎಷ್ಟು ದಿನಕ್ಕೆ ಹೂ ಅರಳುತ್ತದೆ?",
+      "ರೈತರು ಬ್ಲಾಸಮ್ ಶವರ್ ಆದ ಎಷ್ಟು ದಿನಕ್ಕೆ ಹೂ ಅರಳುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಬ್ಲಾಸಮ್ ಶವರ್ ಆದ ಎಷ್ಟು ದಿನಕ್ಕೆ ಹೂ ಅರಳುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಯಾದ 7 ರಿಂದ 9 ದಿನಗಳ ನಂತರ ಕಾಫಿ ಹೂವು ಅರಳುತ್ತದೆ.",
+      "detailed_answer": "ಮಳೆಯಾದ 7 ರಿಂದ 9 ದಿನಗಳ ನಂತರ ಕಾಫಿ ಹೂವು ಅರಳುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಳೆಯಾದ 7 ರಿಂದ 9 ದಿನಗಳ ನಂತರ ಕಾಫಿ ಹೂವು ಅರಳುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬ್ಲಾಸಮ್ ಶವರ್ ಆದ ಎಷ್ಟು ದಿನಕ್ಕೆ ಹೂ ಅರಳುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಳೆಯಾದ 7 ರಿಂದ 9 ದಿನಗಳ ನಂತರ ಕಾಫಿ ಹೂವು ಅರಳುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬ್ಯಾಕಿಂಗ್ ಶವರ್ (Backing Shower) ಎಂದರೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಬ್ಯಾಕಿಂಗ್ ಶವರ್ (Backing Shower) ಎಂದರೇನು?",
+      "ರೈತರು ಬ್ಯಾಕಿಂಗ್ ಶವರ್ (Backing Shower) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Backing",
+      "Backing Shower",
+      "Karnataka",
+      "Shower",
+      "ಅಥವಾ ನೀಡುವ ನೀರನ್ನು",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಬ್ಯಾಕಿಂಗ್ ಶವರ್ (Backing Shower) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂ ಅರಳಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಾಯಿ ಕಟ್ಟಲು ಬರುವ ಮಳೆ (ಅಥವಾ ನೀಡುವ ನೀರನ್ನು) ಬ್ಯಾಕಿಂಗ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ.",
+      "detailed_answer": "ಹೂ ಅರಳಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಾಯಿ ಕಟ್ಟಲು ಬರುವ ಮಳೆ (ಅಥವಾ ನೀಡುವ ನೀರನ್ನು) ಬ್ಯಾಕಿಂಗ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಹೂ ಅರಳಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಾಯಿ ಕಟ್ಟಲು ಬರುವ ಮಳೆ (ಅಥವಾ ನೀಡುವ ನೀರನ್ನು) ಬ್ಯಾಕಿಂಗ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಅಥವಾ ನೀಡುವ ನೀರನ್ನು"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬ್ಯಾಕಿಂಗ್ ಶವರ್ (Backing Shower) ಎಂದರೇನು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂ ಅರಳಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಾಯಿ ಕಟ್ಟಲು ಬರುವ ಮಳೆ (ಅಥವಾ ನೀಡುವ ನೀರನ್ನು) ಬ್ಯಾಕಿಂಗ್ ಶವರ್ ಎನ್ನುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+    "question_variants": [
+      "ಕಾಫಿಯಲ್ಲಿ ಪರಾಗಸ್ಪರ್ಶ ಯಾವ ರೀತಿ ನಡೆಯುತ್ತದೆ?",
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರೇಬಿಕಾ ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ, ಆದರೆ ರೊಬಸ್ಟಾಗೆ ಗಾಳಿ ಮತ್ತು ಜೇನುನೊಣಗಳ ಸಹಾಯ ಬೇಕು.",
+      "detailed_answer": "ಅರೇಬಿಕಾ ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ, ಆದರೆ ರೊಬಸ್ಟಾಗೆ ಗಾಳಿ ಮತ್ತು ಜೇನುನೊಣಗಳ ಸಹಾಯ ಬೇಕು.",
+      "step_by_step": [
+        "ಅರೇಬಿಕಾ ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ",
+        "ಆದರೆ ರೊಬಸ್ಟಾಗೆ ಗಾಳಿ",
+        "ಜೇನುನೊಣಗಳ ಸಹಾಯ ಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಪರಾಗಸ್ಪರ್ಶ ಹೇಗೆ ನಡೆಯುತ್ತದೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅರೇಬಿಕಾ ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ, ಆದರೆ ರೊಬಸ್ಟಾಗೆ ಗಾಳಿ ಮತ್ತು ಜೇನುನೊಣಗಳ ಸಹಾಯ ಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಕಂಡುಬರುವ ಅತಿದೊಡ್ಡ ಕೀಟಬಾಧೆ ಯಾವುದು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಕಂಡುಬರುವ ಅತಿದೊಡ್ಡ ಕೀಟಬಾಧೆ ಏನುುದು?",
+      "ರೈತರು ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಕಂಡುಬರುವ ಅತಿದೊಡ್ಡ ಕೀಟಬಾಧೆ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Borer",
+      "Karnataka",
+      "Stem",
+      "White",
+      "White Stem Borer",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಕೀಟ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಕಂಡುಬರುವ ಅತಿದೊಡ್ಡ ಕೀಟಬಾಧೆ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಬಿಳಿ ಕಾಂಡ ಕೊರಕ (White Stem Borer) ಕಾಫಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ಕೀಟ.",
+      "detailed_answer": "ಬಿಳಿ ಕಾಂಡ ಕೊರಕ (White Stem Borer) ಕಾಫಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ಕೀಟ.",
+      "step_by_step": [
+        "ಬಿಳಿ ಕಾಂಡ ಕೊರಕ (White Stem Borer) ಕಾಫಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ಕೀಟ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "White Stem Borer"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಕಂಡುಬರುವ ಅತಿದೊಡ್ಡ ಕೀಟಬಾಧೆ ಯಾವುದು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿಳಿ ಕಾಂಡ ಕೊರಕ (White Stem Borer) ಕಾಫಿಯ ಅತ್ಯಂತ ವಿನಾಶಕಾರಿ ಕೀಟ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?",
+      "ರೈತರು ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [
+      "ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತದೆ ಮತ್ತು ಕಾಂಡದಲ್ಲಿ ಹುಳು ತಿಂದ ರಂಧ್ರಗಳಿರುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಿಡದ ಕಾಂಡದ ಮೇಲೆ ಉಬ್ಬುಗಳು ಕಾಣುತ್ತವೆ, ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತದೆ ಮತ್ತು ಕಾಂಡದಲ್ಲಿ ಹುಳು ತಿಂದ ರಂಧ್ರಗಳಿರುತ್ತವೆ.",
+      "detailed_answer": "ಗಿಡದ ಕಾಂಡದ ಮೇಲೆ ಉಬ್ಬುಗಳು ಕಾಣುತ್ತವೆ, ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತದೆ ಮತ್ತು ಕಾಂಡದಲ್ಲಿ ಹುಳು ತಿಂದ ರಂಧ್ರಗಳಿರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಗಿಡದ ಕಾಂಡದ ಮೇಲೆ ಉಬ್ಬುಗಳು ಕಾಣುತ್ತವೆ",
+        "ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತದೆ",
+        "ಕಾಂಡದಲ್ಲಿ ಹುಳು ತಿಂದ ರಂಧ್ರಗಳಿರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಗಿಡದ ಕಾಂಡದ ಮೇಲೆ ಉಬ್ಬುಗಳು ಕಾಣುತ್ತವೆ, ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತದೆ ಮತ್ತು ಕಾಂಡದಲ್ಲಿ ಹುಳು ತಿಂದ ರಂಧ್ರಗಳಿರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಬಿಳಿ ಕಾಂಡ ಕೊರಕ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಬಿಳಿ ಕಾಂಡ ಕೊರಕ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಬಿಳಿ ಕಾಂಡ ಕೊರಕ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಬಿಳಿ ಕಾಂಡ ಕೊರಕ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಬಿಳಿ ಕಾಂಡ ಕೊರಕ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗಗ್ರಸ್ತ ಗಿಡಗಳನ್ನು ಬೇರು ಸಮೇತ ಕಿತ್ತು ಸುಡಬೇಕು ಮತ್ತು ಕಾಂಡಕ್ಕೆ 10% ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಜೊತೆ ಸುಣ್ಣ ಬೆರೆಸಿ ಹಚ್ಚಬೇಕು.",
+      "detailed_answer": "ರೋಗಗ್ರಸ್ತ ಗಿಡಗಳನ್ನು ಬೇರು ಸಮೇತ ಕಿತ್ತು ಸುಡಬೇಕು ಮತ್ತು ಕಾಂಡಕ್ಕೆ 10% ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಜೊತೆ ಸುಣ್ಣ ಬೆರೆಸಿ ಹಚ್ಚಬೇಕು.",
+      "step_by_step": [
+        "ರೋಗಗ್ರಸ್ತ ಗಿಡಗಳನ್ನು ಬೇರು ಸಮೇತ ಕಿತ್ತು ಸುಡಬೇಕು",
+        "ಕಾಂಡಕ್ಕೆ 10% ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಜೊತೆ ಸುಣ್ಣ ಬೆರೆಸಿ ಹಚ್ಚಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "10%"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬಿಳಿ ಕಾಂಡ ಕೊರಕ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗಗ್ರಸ್ತ ಗಿಡಗಳನ್ನು ಬೇರು ಸಮೇತ ಕಿತ್ತು ಸುಡಬೇಕು ಮತ್ತು ಕಾಂಡಕ್ಕೆ 10% ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಜೊತೆ ಸುಣ್ಣ ಬೆರೆಸಿ ಹಚ್ಚಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಕಾಯಿ ಕೊರಕ (Berry Borer) ಹುಳುವಿನ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಕಾಯಿ ಕೊರಕ (Berry Borer) ಹುಳುವಿನ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Berry",
+      "Berry Borer",
+      "Borer",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಕಾಯಿ ಕೊರಕ (Berry Borer) ಹುಳುವಿನ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [
+      "ಸಣ್ಣ ಕಪ್ಪು ಜೀರುಂಡೆಗಳು ಕಾಫಿ ಕಾಯಿಯ ತುದಿಯಲ್ಲಿ ರಂಧ್ರ ಮಾಡಿ ಒಳಗಿನ ಬೀಜವನ್ನು ತಿನ್ನುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಣ್ಣ ಕಪ್ಪು ಜೀರುಂಡೆಗಳು ಕಾಫಿ ಕಾಯಿಯ ತುದಿಯಲ್ಲಿ ರಂಧ್ರ ಮಾಡಿ ಒಳಗಿನ ಬೀಜವನ್ನು ತಿನ್ನುತ್ತವೆ.",
+      "detailed_answer": "ಸಣ್ಣ ಕಪ್ಪು ಜೀರುಂಡೆಗಳು ಕಾಫಿ ಕಾಯಿಯ ತುದಿಯಲ್ಲಿ ರಂಧ್ರ ಮಾಡಿ ಒಳಗಿನ ಬೀಜವನ್ನು ತಿನ್ನುತ್ತವೆ.",
+      "step_by_step": [
+        "ಸಣ್ಣ ಕಪ್ಪು ಜೀರುಂಡೆಗಳು ಕಾಫಿ ಕಾಯಿಯ ತುದಿಯಲ್ಲಿ ರಂಧ್ರ ಮಾಡಿ ಒಳಗಿನ ಬೀಜವನ್ನು ತಿನ್ನುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಕಾಯಿ ಕೊರಕ (Berry Borer) ಹುಳುವಿನ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಣ್ಣ ಕಪ್ಪು ಜೀರುಂಡೆಗಳು ಕಾಫಿ ಕಾಯಿಯ ತುದಿಯಲ್ಲಿ ರಂಧ್ರ ಮಾಡಿ ಒಳಗಿನ ಬೀಜವನ್ನು ತಿನ್ನುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಔಷಧ ಬಳಸಬೇಕು?",
+      "ರೈತರು ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Beauveria",
+      "Beauveria bassiana",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ಬ್ರೊವೆರಿಯಾ ಬಾಸಿಯಾನಾ (Beauveria bassiana) ಜೈವಿಕ ಶಿಲೀಂಧ್ರ ಬಳಸಬೇಕು.",
+      "detailed_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ಬ್ರೊವೆರಿಯಾ ಬಾಸಿಯಾನಾ (Beauveria bassiana) ಜೈವಿಕ ಶಿಲೀಂಧ್ರ ಬಳಸಬೇಕು.",
+      "step_by_step": [
+        "ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು",
+        "ಬ್ರೊವೆರಿಯಾ ಬಾಸಿಯಾನಾ (Beauveria bassiana) ಜೈವಿಕ ಶಿಲೀಂಧ್ರ ಬಳಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Beauveria bassiana"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕ್ವಿನಾಲ್ಫಾಸ್ ಅಥವಾ ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ಬ್ರೊವೆರಿಯಾ ಬಾಸಿಯಾನಾ (Beauveria bassiana) ಜೈವಿಕ ಶಿಲೀಂಧ್ರ ಬಳಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೊಬಸ್ಟಾ ಕಾಫಿಯಲ್ಲಿ ಶಾಟ್ ಹೋಲ್ ಬೋರರ್ (Shot Hole Borer) ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ರೊಬಸ್ಟಾ ಕಾಫಿಯಲ್ಲಿ ಶಾಟ್ ಹೋಲ್ ಬೋರರ್ (Shot Hole Borer) ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ರೈತರು ರೊಬಸ್ಟಾ ಕಾಫಿಯಲ್ಲಿ ಶಾಟ್ ಹೋಲ್ ಬೋರರ್ (Shot Hole Borer) ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Borer",
+      "Hole",
+      "Karnataka",
+      "Shot",
+      "Shot Hole Borer",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ರೊಬಸ್ಟಾ ಕಾಫಿಯಲ್ಲಿ ಶಾಟ್ ಹೋಲ್ ಬೋರರ್ (Shot Hole Borer) ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಾಧಿತ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಸುಡಬೇಕು ಮತ್ತು ಹೆಚ್ಚುವರಿ ನೆರಳನ್ನು ಕಡಿಮೆ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಬಾಧಿತ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಸುಡಬೇಕು ಮತ್ತು ಹೆಚ್ಚುವರಿ ನೆರಳನ್ನು ಕಡಿಮೆ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಬಾಧಿತ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಸುಡಬೇಕು",
+        "ಹೆಚ್ಚುವರಿ ನೆರಳನ್ನು ಕಡಿಮೆ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೊಬಸ್ಟಾ ಕಾಫಿಯಲ್ಲಿ ಶಾಟ್ ಹೋಲ್ ಬೋರರ್ (Shot Hole Borer) ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬಾಧಿತ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಸುಡಬೇಕು ಮತ್ತು ಹೆಚ್ಚುವರಿ ನೆರಳನ್ನು ಕಡಿಮೆ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಎಲೆ ತುಕ್ಕು ರೋಗದ (Leaf Rust) ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಎಲೆ ತುಕ್ಕು ರೋಗದ (Leaf Rust) ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Leaf",
+      "Leaf Rust",
+      "Rust",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಎಲೆ ತುಕ್ಕು ರೋಗದ (Leaf Rust) ಲಕ್ಷಣವೇನು?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಹುಡಿಯಂತಹ ಚುಕ್ಕೆಗಳು ಬಂದು ಎಲೆ ಉದುರುತ್ತದೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಹುಡಿಯಂತಹ ಚುಕ್ಕೆಗಳು ಬಂದು ಎಲೆ ಉದುರುತ್ತದೆ.",
+      "detailed_answer": "ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಹುಡಿಯಂತಹ ಚುಕ್ಕೆಗಳು ಬಂದು ಎಲೆ ಉದುರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಹುಡಿಯಂತಹ ಚುಕ್ಕೆಗಳು ಬಂದು ಎಲೆ ಉದುರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಎಲೆ ತುಕ್ಕು ರೋಗದ (Leaf Rust) ಲಕ್ಷಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಕೆಳಭಾಗದಲ್ಲಿ ಕಿತ್ತಳೆ ಬಣ್ಣದ ಹುಡಿಯಂತಹ ಚುಕ್ಕೆಗಳು ಬಂದು ಎಲೆ ಉದುರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಎಲೆ ತುಕ್ಕು ರೋಗ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಎಲೆ ತುಕ್ಕು ರೋಗ ತಡೆಗಟ್ಟುವುದು ಯಾವ ರೀತಿ?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಎಲೆ ತುಕ್ಕು ರೋಗ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಎಲೆ ತುಕ್ಕು ರೋಗ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Bordeaux",
+      "Bordeaux mixture",
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಎಲೆ ತುಕ್ಕು ರೋಗ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ. 0.5 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ (Bordeaux mixture) ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಶೇ. 0.5 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ (Bordeaux mixture) ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಶೇ. 0.5 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ (Bordeaux mixture) ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Bordeaux mixture"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಎಲೆ ತುಕ್ಕು ರೋಗ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶೇ. 0.5 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ (Bordeaux mixture) ಅಥವಾ ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಕಪ್ಪು ಕೊಳೆತ (Black Rot) ರೋಗ ಯಾವಾಗ ಬರುತ್ತದೆ?",
+    "question_variants": [
+      "ಕಾಫಿಯಲ್ಲಿ ಕಪ್ಪು ಕೊಳೆತ (Black Rot) ರೋಗ ಏನುಾಗ ಬರುತ್ತದೆ?",
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಕಪ್ಪು ಕೊಳೆತ (Black Rot) ರೋಗ ಯಾವಾಗ ಬರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Black",
+      "Black Rot",
+      "Karnataka",
+      "Rot",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಕಪ್ಪು ಕೊಳೆತ (Black Rot) ರೋಗ ಯಾವಾಗ ಬರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಮಳೆ ಮತ್ತು ತೇವಾಂಶವಿದ್ದಾಗ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಮಳೆ ಮತ್ತು ತೇವಾಂಶವಿದ್ದಾಗ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಮಳೆ",
+        "ತೇವಾಂಶವಿದ್ದಾಗ ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಕಪ್ಪು ಕೊಳೆತ (Black Rot) ರೋಗ ಯಾವಾಗ ಬರುತ್ತದೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಳೆಗಾಲದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಮಳೆ ಮತ್ತು ತೇವಾಂಶವಿದ್ದಾಗ ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಪ್ಪು ಕೊಳೆತ ರೋಗದ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಕಪ್ಪು ಕೊಳೆತ ರೋಗದ ಲಕ್ಷಣಗಳೇನು?",
+      "ರೈತರು ಕಪ್ಪು ಕೊಳೆತ ರೋಗದ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಪ್ಪು ಕೊಳೆತ ರೋಗದ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [
+      "ಎಲೆಗಳು ಮತ್ತು ಕಾಯಿಗಳು ಕಪ್ಪಾಗಿ ಕೊಳೆತು"
+    ],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಮತ್ತು ಕಾಯಿಗಳು ಕಪ್ಪಾಗಿ ಕೊಳೆತು, ಶಿಲೀಂಧ್ರದ ದಾರಗಳಿಂದ ರೆಂಬೆಗೆ ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಗಳು ಮತ್ತು ಕಾಯಿಗಳು ಕಪ್ಪಾಗಿ ಕೊಳೆತು, ಶಿಲೀಂಧ್ರದ ದಾರಗಳಿಂದ ರೆಂಬೆಗೆ ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಕಾಯಿಗಳು ಕಪ್ಪಾಗಿ ಕೊಳೆತು",
+        "ಶಿಲೀಂಧ್ರದ ದಾರಗಳಿಂದ ರೆಂಬೆಗೆ ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಪ್ಪು ಕೊಳೆತ ರೋಗದ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳು ಮತ್ತು ಕಾಯಿಗಳು ಕಪ್ಪಾಗಿ ಕೊಳೆತು, ಶಿಲೀಂಧ್ರದ ದಾರಗಳಿಂದ ರೆಂಬೆಗೆ ಅಂಟಿಕೊಂಡಿರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಪ್ಪು ಕೊಳೆತ ರೋಗ ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಪ್ಪು ಕೊಳೆತ ರೋಗ ನಿಯಂತ್ರಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಕಪ್ಪು ಕೊಳೆತ ರೋಗ ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕಪ್ಪು ಕೊಳೆತ ರೋಗ ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಪ್ಪು ಕೊಳೆತ ರೋಗ ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಗಾಲದ ಮುನ್ನ ಶೇ. 1 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ನೆರಳು ಕತ್ತರಿಸಿ ಗಾಳಿ ಆಡಲು ಬಿಡಬೇಕು.",
+      "detailed_answer": "ಮಳೆಗಾಲದ ಮುನ್ನ ಶೇ. 1 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ನೆರಳು ಕತ್ತರಿಸಿ ಗಾಳಿ ಆಡಲು ಬಿಡಬೇಕು.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲದ ಮುನ್ನ ಶೇ. 1 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ ಸಿಂಪಡಿಸಬೇಕು",
+        "ನೆರಳು ಕತ್ತರಿಸಿ ಗಾಳಿ ಆಡಲು ಬಿಡಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಮಳೆಗಾಲದ ಮುನ್ನ ಶೇ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಪ್ಪು ಕೊಳೆತ ರೋಗ ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಳೆಗಾಲದ ಮುನ್ನ ಶೇ. 1 ರ ಬೋರ್ಡೊ ದ್ರಾವಣ ಸಿಂಪಡಿಸಬೇಕು ಮತ್ತು ನೆರಳು ಕತ್ತರಿಸಿ ಗಾಳಿ ಆಡಲು ಬಿಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಬೇರು ಕೊಳೆತ ರೋಗ (Root Rot) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಾಫಿಯಲ್ಲಿ ಬೇರು ಕೊಳೆತ ರೋಗ (Root Rot) ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಬೇರು ಕೊಳೆತ ರೋಗ (Root Rot) ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Root",
+      "Root Rot",
+      "Rot",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಬೇರು ಕೊಳೆತ ರೋಗ (Root Rot) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [
+      "ಮಣ್ಣಿಗೆ ಟ್ರೈಕೋಡರ್ಮಾ ಸೇರಿಸಬೇಕು ಮತ್ತು ಬಾಧಿತ ಗಿಡದ ಸುತ್ತ ಕಂದಕ ತೋಡಬೇಕು"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು, ಮಣ್ಣಿಗೆ ಟ್ರೈಕೋಡರ್ಮಾ ಸೇರಿಸಬೇಕು ಮತ್ತು ಬಾಧಿತ ಗಿಡದ ಸುತ್ತ ಕಂದಕ ತೋಡಬೇಕು.",
+      "detailed_answer": "ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು, ಮಣ್ಣಿಗೆ ಟ್ರೈಕೋಡರ್ಮಾ ಸೇರಿಸಬೇಕು ಮತ್ತು ಬಾಧಿತ ಗಿಡದ ಸುತ್ತ ಕಂದಕ ತೋಡಬೇಕು.",
+      "step_by_step": [
+        "ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು",
+        "ಮಣ್ಣಿಗೆ ಟ್ರೈಕೋಡರ್ಮಾ ಸೇರಿಸಬೇಕು",
+        "ಬಾಧಿತ ಗಿಡದ ಸುತ್ತ ಕಂದಕ ತೋಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಮಣ್ಣಿಗೆ ಟ್ರೈಕೋಡರ್ಮಾ ಸೇರಿಸಬೇಕು ಮತ್ತು ಬಾಧಿತ ಗಿಡದ ಸುತ್ತ ಕಂದಕ ತೋಡಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಬೇರು ಕೊಳೆತ ರೋಗ (Root Rot) ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಬೇಕು, ಮಣ್ಣಿಗೆ ಟ್ರೈಕೋಡರ್ಮಾ ಸೇರಿಸಬೇಕು ಮತ್ತು ಬಾಧಿತ ಗಿಡದ ಸುತ್ತ ಕಂದಕ ತೋಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಾಫಿಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು ಮತ್ತು ರೋಗಗಳ ನಿರ್ವಹಣೆ ಸರಿಯಾಗಿ ಮಾಡುವುದು.",
+      "detailed_answer": "ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು ಮತ್ತು ರೋಗಗಳ ನಿರ್ವಹಣೆ ಸರಿಯಾಗಿ ಮಾಡುವುದು.",
+      "step_by_step": [
+        "ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು",
+        "ರೋಗಗಳ ನಿರ್ವಹಣೆ ಸರಿಯಾಗಿ ಮಾಡುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳುವುದು ಮತ್ತು ರೋಗಗಳ ನಿರ್ವಹಣೆ ಸರಿಯಾಗಿ ಮಾಡುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಬೋರ್ಡೊ ದ್ರಾವಣವನ್ನು ಎಷ್ಟು ಬಾರಿ ಸಿಂಪಡಿಸಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಬೋರ್ಡೊ ದ್ರಾವಣವನ್ನು ಎಷ್ಟು ಬಾರಿ ಸಿಂಪಡಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಮುಂಗಾರು ಮುನ್ನ, ಮಧ್ಯದಲ್ಲಿ ಮತ್ತು ನಂತರ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಬೋರ್ಡೊ ದ್ರಾವಣವನ್ನು ಎಷ್ಟು ಬಾರಿ ಸಿಂಪಡಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ವರ್ಷಕ್ಕೆ ಕನಿಷ್ಠ 2-3 ಬಾರಿ (ಮುಂಗಾರು ಮುನ್ನ, ಮಧ್ಯದಲ್ಲಿ ಮತ್ತು ನಂತರ) ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ವರ್ಷಕ್ಕೆ ಕನಿಷ್ಠ 2-3 ಬಾರಿ (ಮುಂಗಾರು ಮುನ್ನ, ಮಧ್ಯದಲ್ಲಿ ಮತ್ತು ನಂತರ) ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ವರ್ಷಕ್ಕೆ ಕನಿಷ್ಠ 2-3 ಬಾರಿ (ಮುಂಗಾರು ಮುನ್ನ",
+        "ನಂತರ) ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ವರ್ಷಕ್ಕೆ ಕನಿಷ್ಠ 2-3 ಬಾರಿ (ಮುಂಗಾರು ಮುನ್ನ, ಮಧ್ಯದಲ್ಲಿ ಮತ್ತು ನಂತರ) ಸಿಂಪಡಿಸಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಬೋರ್ಡೊ ದ್ರಾವಣವನ್ನು ಎಷ್ಟು ಬಾರಿ ಸಿಂಪಡಿಸಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ವರ್ಷಕ್ಕೆ ಕನಿಷ್ಠ 2-3 ಬಾರಿ (ಮುಂಗಾರು ಮುನ್ನ, ಮಧ್ಯದಲ್ಲಿ ಮತ್ತು ನಂತರ) ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಕಾಫಿ ಕಟಾವು ಏನುಾಗ ಮಾಡುತ್ತಾರೆ?",
+      "ರೈತರು ಕಾಫಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅರೇಬಿಕಾವನ್ನು ನವೆಂಬರ್-ಡಿಸೆಂಬರ್ ನಲ್ಲಿ ಮತ್ತು ರೊಬಸ್ಟಾವನ್ನು ಜನವರಿ-ಮಾರ್ಚ್ ನಲ್ಲಿ ಕಟಾವು ಮಾಡುತ್ತಾರೆ.",
+      "detailed_answer": "ಅರೇಬಿಕಾವನ್ನು ನವೆಂಬರ್-ಡಿಸೆಂಬರ್ ನಲ್ಲಿ ಮತ್ತು ರೊಬಸ್ಟಾವನ್ನು ಜನವರಿ-ಮಾರ್ಚ್ ನಲ್ಲಿ ಕಟಾವು ಮಾಡುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಅರೇಬಿಕಾವನ್ನು ನವೆಂಬರ್-ಡಿಸೆಂಬರ್ ನಲ್ಲಿ",
+        "ರೊಬಸ್ಟಾವನ್ನು ಜನವರಿ-ಮಾರ್ಚ್ ನಲ್ಲಿ ಕಟಾವು ಮಾಡುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಕಟಾವು ಯಾವಾಗ ಮಾಡುತ್ತಾರೆ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಅರೇಬಿಕಾವನ್ನು ನವೆಂಬರ್-ಡಿಸೆಂಬರ್ ನಲ್ಲಿ ಮತ್ತು ರೊಬಸ್ಟಾವನ್ನು ಜನವರಿ-ಮಾರ್ಚ್ ನಲ್ಲಿ ಕಟಾವು ಮಾಡುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಪ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ (Fly picking) ಎಂದರೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಪ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ (Fly picking) ಎಂದರೇನು?",
+      "ರೈತರು ಪ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ (Fly picking) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Fly",
+      "Fly picking",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಪ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ (Fly picking) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಆರಂಭದಲ್ಲಿ ಹಣ್ಣಾದ ಕೆಲವು ಕಾಯಿಗಳನ್ನು ಮಾತ್ರ ಆಯ್ದು ಕೀಳುವುದನ್ನು ಫ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ ಎನ್ನುತ್ತಾರೆ.",
+      "detailed_answer": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಆರಂಭದಲ್ಲಿ ಹಣ್ಣಾದ ಕೆಲವು ಕಾಯಿಗಳನ್ನು ಮಾತ್ರ ಆಯ್ದು ಕೀಳುವುದನ್ನು ಫ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ ಎನ್ನುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಆರಂಭದಲ್ಲಿ ಹಣ್ಣಾದ ಕೆಲವು ಕಾಯಿಗಳನ್ನು ಮಾತ್ರ ಆಯ್ದು ಕೀಳುವುದನ್ನು ಫ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ ಎನ್ನುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಪ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ (Fly picking) ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ಆರಂಭದಲ್ಲಿ ಹಣ್ಣಾದ ಕೆಲವು ಕಾಯಿಗಳನ್ನು ಮಾತ್ರ ಆಯ್ದು ಕೀಳುವುದನ್ನು ಫ್ಲೈಯಿಂಗ್ ಪಿಕ್ಕಿಂಗ್ ಎನ್ನುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮುಖ್ಯ ಕಟಾವು (Main picking) ಎಂದರೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಮುಖ್ಯ ಕಟಾವು (Main picking) ಎಂದರೇನು?",
+      "ರೈತರು ಮುಖ್ಯ ಕಟಾವು (Main picking) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Main",
+      "Main picking",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಮುಖ್ಯ ಕಟಾವು (Main picking) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಹುತೇಕ ಕಾಯಿಗಳು ಹಣ್ಣಾದಾಗ ಮಾಡುವ ಪೂರ್ಣ ಕಟಾವು ಪ್ರಕ್ರಿಯೆ.",
+      "detailed_answer": "ಬಹುತೇಕ ಕಾಯಿಗಳು ಹಣ್ಣಾದಾಗ ಮಾಡುವ ಪೂರ್ಣ ಕಟಾವು ಪ್ರಕ್ರಿಯೆ.",
+      "step_by_step": [
+        "ಬಹುತೇಕ ಕಾಯಿಗಳು ಹಣ್ಣಾದಾಗ ಮಾಡುವ ಪೂರ್ಣ ಕಟಾವು ಪ್ರಕ್ರಿಯೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮುಖ್ಯ ಕಟಾವು (Main picking) ಎಂದರೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಬಹುತೇಕ ಕಾಯಿಗಳು ಹಣ್ಣಾದಾಗ ಮಾಡುವ ಪೂರ್ಣ ಕಟಾವು ಪ್ರಕ್ರಿಯೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸ್ಟ್ರಿಪ್ಪಿಂಗ್ (Stripping) ಎಂದರೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಸ್ಟ್ರಿಪ್ಪಿಂಗ್ (Stripping) ಎಂದರೇನು?",
+      "ರೈತರು ಸ್ಟ್ರಿಪ್ಪಿಂಗ್ (Stripping) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Stripping",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಸ್ಟ್ರಿಪ್ಪಿಂಗ್ (Stripping) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ ಉಳಿದ ಹಸಿರು, ಹಣ್ಣಾದ ಮತ್ತು ಒಣಗಿದ ಎಲ್ಲಾ ಕಾಯಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಕೀಳುವುದು.",
+      "detailed_answer": "ಕೊನೆಯ ಹಂತದಲ್ಲಿ ಉಳಿದ ಹಸಿರು, ಹಣ್ಣಾದ ಮತ್ತು ಒಣಗಿದ ಎಲ್ಲಾ ಕಾಯಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಕೀಳುವುದು.",
+      "step_by_step": [
+        "ಕೊನೆಯ ಹಂತದಲ್ಲಿ ಉಳಿದ ಹಸಿರು",
+        "ಒಣಗಿದ ಎಲ್ಲಾ ಕಾಯಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಕೀಳುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸ್ಟ್ರಿಪ್ಪಿಂಗ್ (Stripping) ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೊನೆಯ ಹಂತದಲ್ಲಿ ಉಳಿದ ಹಸಿರು, ಹಣ್ಣಾದ ಮತ್ತು ಒಣಗಿದ ಎಲ್ಲಾ ಕಾಯಿಗಳನ್ನು ಒಟ್ಟಿಗೆ ಕೀಳುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಂಸ್ಕರಿಸುವ ಎರಡು ವಿಧಾನಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಂಸ್ಕರಿಸುವ ಎರಡು ವಿಧಾನಗಳು ಏನುುವು?",
+      "ರೈತರು ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಂಸ್ಕರಿಸುವ ಎರಡು ವಿಧಾನಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Dry",
+      "Dry processing - ಚೆರಿ ಕಾಫಿ",
+      "Karnataka",
+      "Wet",
+      "Wet processing - ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಂಸ್ಕರಿಸುವ ಎರಡು ವಿಧಾನಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೇವ ಸಂಸ್ಕರಣೆ (Wet processing - ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿ) ಮತ್ತು ಒಣ ಸಂಸ್ಕರಣೆ (Dry processing - ಚೆರಿ ಕಾಫಿ).",
+      "detailed_answer": "ತೇವ ಸಂಸ್ಕರಣೆ (Wet processing - ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿ) ಮತ್ತು ಒಣ ಸಂಸ್ಕರಣೆ (Dry processing - ಚೆರಿ ಕಾಫಿ).",
+      "step_by_step": [
+        "ತೇವ ಸಂಸ್ಕರಣೆ (Wet processing - ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿ)",
+        "ಒಣ ಸಂಸ್ಕರಣೆ (Dry processing - ಚೆರಿ ಕಾಫಿ)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Dry processing - ಚೆರಿ ಕಾಫಿ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಂಸ್ಕರಿಸುವ ಎರಡು ವಿಧಾನಗಳು ಯಾವುವು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತೇವ ಸಂಸ್ಕರಣೆ (Wet processing - ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿ) ಮತ್ತು ಒಣ ಸಂಸ್ಕರಣೆ (Dry processing - ಚೆರಿ ಕಾಫಿ).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಪಾರ್ಚ್‌ಮೆಂಟ್ (Parchment) ಕಾಫಿ ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಪಾರ್ಚ್‌ಮೆಂಟ್ (Parchment) ಕಾಫಿ ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Parchment",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಪಾರ್ಚ್‌ಮೆಂಟ್ (Parchment) ಕಾಫಿ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಣ್ಣಾದ ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಯಂತ್ರದಲ್ಲಿ ಸಿಪ್ಪೆ ತೆಗೆದು, ಹುದುಗಿಸಿ, ತೊಳೆದು ಒಣಗಿಸಿದ ಕಾಫಿ.",
+      "detailed_answer": "ಹಣ್ಣಾದ ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಯಂತ್ರದಲ್ಲಿ ಸಿಪ್ಪೆ ತೆಗೆದು, ಹುದುಗಿಸಿ, ತೊಳೆದು ಒಣಗಿಸಿದ ಕಾಫಿ.",
+      "step_by_step": [
+        "ಹಣ್ಣಾದ ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಯಂತ್ರದಲ್ಲಿ ಸಿಪ್ಪೆ ತೆಗೆದು",
+        "ತೊಳೆದು ಒಣಗಿಸಿದ ಕಾಫಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಪಾರ್ಚ್‌ಮೆಂಟ್ (Parchment) ಕಾಫಿ ಎಂದರೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಹಣ್ಣಾದ ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಯಂತ್ರದಲ್ಲಿ ಸಿಪ್ಪೆ ತೆಗೆದು, ಹುದುಗಿಸಿ, ತೊಳೆದು ಒಣಗಿಸಿದ ಕಾಫಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಚೆರಿ (Cherry) ಕಾಫಿ ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಚೆರಿ (Cherry) ಕಾಫಿ ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Cherry",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಚೆರಿ (Cherry) ಕಾಫಿ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಿಪ್ಪೆ ಸಮೇತ ನೇರವಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವ ವಿಧಾನ.",
+      "detailed_answer": "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಿಪ್ಪೆ ಸಮೇತ ನೇರವಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವ ವಿಧಾನ.",
+      "step_by_step": [
+        "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಿಪ್ಪೆ ಸಮೇತ ನೇರವಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವ ವಿಧಾನ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಚೆರಿ (Cherry) ಕಾಫಿ ಎಂದರೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಸಿಪ್ಪೆ ಸಮೇತ ನೇರವಾಗಿ ಬಿಸಿಲಿನಲ್ಲಿ ಒಣಗಿಸುವ ವಿಧಾನ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಮಾಡುವುದು ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಮಾಡುವುದು ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಮಾಡುವುದು ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಣ್ಣಾದ ಕಾಫಿಯ ಹೊರಗಿನ ಕೆಂಪು ಸಿಪ್ಪೆಯನ್ನು ಯಂತ್ರದ ಸಹಾಯದಿಂದ ಬೇರ್ಪಡಿಸುವುದು.",
+      "detailed_answer": "ಹಣ್ಣಾದ ಕಾಫಿಯ ಹೊರಗಿನ ಕೆಂಪು ಸಿಪ್ಪೆಯನ್ನು ಯಂತ್ರದ ಸಹಾಯದಿಂದ ಬೇರ್ಪಡಿಸುವುದು.",
+      "step_by_step": [
+        "ಹಣ್ಣಾದ ಕಾಫಿಯ ಹೊರಗಿನ ಕೆಂಪು ಸಿಪ್ಪೆಯನ್ನು ಯಂತ್ರದ ಸಹಾಯದಿಂದ ಬೇರ್ಪಡಿಸುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಕಾಯಿಗಳನ್ನು ಪಲ್ಪಿಂಗ್ ಮಾಡುವುದು ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹಣ್ಣಾದ ಕಾಫಿಯ ಹೊರಗಿನ ಕೆಂಪು ಸಿಪ್ಪೆಯನ್ನು ಯಂತ್ರದ ಸಹಾಯದಿಂದ ಬೇರ್ಪಡಿಸುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೀಜಗಳನ್ನು ಎಷ್ಟು ದಿನ ಒಣಗಿಸಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಬೀಜಗಳನ್ನು ಎಷ್ಟು ದಿನ ಒಣಗಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೀಜಗಳನ್ನು ಎಷ್ಟು ದಿನ ಒಣಗಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿಯನ್ನು 7-10 ದಿನಗಳು ಮತ್ತು ಚೆರಿ ಕಾಫಿಯನ್ನು 15-20 ದಿನಗಳ ಕಾಲ ಟೈಲ್ಸ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸಬೇಕು.",
+      "detailed_answer": "ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿಯನ್ನು 7-10 ದಿನಗಳು ಮತ್ತು ಚೆರಿ ಕಾಫಿಯನ್ನು 15-20 ದಿನಗಳ ಕಾಲ ಟೈಲ್ಸ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿಯನ್ನು 7-10 ದಿನಗಳು",
+        "ಚೆರಿ ಕಾಫಿಯನ್ನು 15-20 ದಿನಗಳ ಕಾಲ ಟೈಲ್ಸ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೀಜಗಳನ್ನು ಎಷ್ಟು ದಿನ ಒಣಗಿಸಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಪಾರ್ಚ್‌ಮೆಂಟ್ ಕಾಫಿಯನ್ನು 7-10 ದಿನಗಳು ಮತ್ತು ಚೆರಿ ಕಾಫಿಯನ್ನು 15-20 ದಿನಗಳ ಕಾಲ ಟೈಲ್ಸ್ ಅಥವಾ ಸಿಮೆಂಟ್ ಕಣದ ಮೇಲೆ ಒಣಗಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಣಗಿಸಿದ ಕಾಫಿ ಬೀಜಗಳಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಒಣಗಿಸಿದ ಕಾಫಿ ಬೀಜಗಳಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಒಣಗಿಸಿದ ಕಾಫಿ ಬೀಜಗಳಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜಗಳಲ್ಲಿ ಶೇ. 10 ರಿಂದ 10.5 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "detailed_answer": "ಬೀಜಗಳಲ್ಲಿ ಶೇ. 10 ರಿಂದ 10.5 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "step_by_step": [
+        "ಬೀಜಗಳಲ್ಲಿ ಶೇ. 10 ರಿಂದ 10.5 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಣಗಿಸಿದ ಕಾಫಿ ಬೀಜಗಳಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೀಜಗಳಲ್ಲಿ ಶೇ. 10 ರಿಂದ 10.5 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯನ್ನು ಎಲ್ಲಿ ಮತ್ತು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?",
+    "question_variants": [
+      "ಕಾಫಿಯನ್ನು ಎಲ್ಲಿ ಮತ್ತು ಯಾವ ರೀತಿ ಸಂಗ್ರಹಿಸಬೇಕು?",
+      "ರೈತರು ಕಾಫಿಯನ್ನು ಎಲ್ಲಿ ಮತ್ತು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯನ್ನು ಎಲ್ಲಿ ಮತ್ತು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಣಗಿದ, ತೇವಾಂಶವಿಲ್ಲದ ಮತ್ತು ಚೆನ್ನಾಗಿ ಗಾಳಿಯಾಡುವ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು.",
+      "detailed_answer": "ಒಣಗಿದ, ತೇವಾಂಶವಿಲ್ಲದ ಮತ್ತು ಚೆನ್ನಾಗಿ ಗಾಳಿಯಾಡುವ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ತೇವಾಂಶವಿಲ್ಲದ",
+        "ಚೆನ್ನಾಗಿ ಗಾಳಿಯಾಡುವ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯನ್ನು ಎಲ್ಲಿ ಮತ್ತು ಹೇಗೆ ಸಂಗ್ರಹಿಸಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಒಣಗಿದ, ತೇವಾಂಶವಿಲ್ಲದ ಮತ್ತು ಚೆನ್ನಾಗಿ ಗಾಳಿಯಾಡುವ ಗೋದಾಮಿನಲ್ಲಿ ಗೋಣಿ ಚೀಲಗಳಲ್ಲಿ ಶೇಖರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಅರೇಬಿಕಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಅರೇಬಿಕಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಅರೇಬಿಕಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ 400 ರಿಂದ 500 ಕೆಜಿ ಕ್ಲೀನ್ ಕಾಫಿ ಇಳುವರಿ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ 400 ರಿಂದ 500 ಕೆಜಿ ಕ್ಲೀನ್ ಕಾಫಿ ಇಳುವರಿ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ 400 ರಿಂದ 500 ಕೆಜಿ ಕ್ಲೀನ್ ಕಾಫಿ ಇಳುವರಿ ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಅರೇಬಿಕಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ 400 ರಿಂದ 500 ಕೆಜಿ ಕ್ಲೀನ್ ಕಾಫಿ ಇಳುವರಿ ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸುಮಾರು 600 ರಿಂದ 800 ಕೆಜಿ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "detailed_answer": "ಸುಮಾರು 600 ರಿಂದ 800 ಕೆಜಿ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಸುಮಾರು 600 ರಿಂದ 800 ಕೆಜಿ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ರೊಬಸ್ಟಾ ಕಾಫಿಯ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸುಮಾರು 600 ರಿಂದ 800 ಕೆಜಿ ಇಳುವರಿ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಸಿಲ್ವರ್ ಓಕ್ ಮರಗಳ ಉಪಯೋಗವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಸಿಲ್ವರ್ ಓಕ್ ಮರಗಳ ಉಪಯೋಗವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಸಿಲ್ವರ್ ಓಕ್ ಮರಗಳ ಉಪಯೋಗವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿಗೆ ನೆರಳು ನೀಡಲು ಮತ್ತು ಮರಗಳನ್ನು ಮಾರಿ ಹೆಚ್ಚುವರಿ ಆದಾಯ ಪಡೆಯಲು.",
+      "detailed_answer": "ಕಾಫಿಗೆ ನೆರಳು ನೀಡಲು ಮತ್ತು ಮರಗಳನ್ನು ಮಾರಿ ಹೆಚ್ಚುವರಿ ಆದಾಯ ಪಡೆಯಲು.",
+      "step_by_step": [
+        "ಕಾಫಿಗೆ ನೆರಳು ನೀಡಲು",
+        "ಮರಗಳನ್ನು ಮಾರಿ ಹೆಚ್ಚುವರಿ ಆದಾಯ ಪಡೆಯಲು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಸಿಲ್ವರ್ ಓಕ್ ಮರಗಳ ಉಪಯೋಗವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಫಿಗೆ ನೆರಳು ನೀಡಲು ಮತ್ತು ಮರಗಳನ್ನು ಮಾರಿ ಹೆಚ್ಚುವರಿ ಆದಾಯ ಪಡೆಯಲು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕರಿಮೆಣಸು (Pepper) ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕರಿಮೆಣಸು (Pepper) ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Pepper",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕರಿಮೆಣಸು (Pepper) ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೆರಳು ನೀಡುವ ಮರಗಳ ಮೇಲೆ ಕರಿಮೆಣಸು ಬೆಳೆದು, ಒಂದೇ ಜಾಗದಲ್ಲಿ ಅಧಿಕ ಆದಾಯ ಪಡೆಯಲು.",
+      "detailed_answer": "ನೆರಳು ನೀಡುವ ಮರಗಳ ಮೇಲೆ ಕರಿಮೆಣಸು ಬೆಳೆದು, ಒಂದೇ ಜಾಗದಲ್ಲಿ ಅಧಿಕ ಆದಾಯ ಪಡೆಯಲು.",
+      "step_by_step": [
+        "ನೆರಳು ನೀಡುವ ಮರಗಳ ಮೇಲೆ ಕರಿಮೆಣಸು ಬೆಳೆದು",
+        "ಒಂದೇ ಜಾಗದಲ್ಲಿ ಅಧಿಕ ಆದಾಯ ಪಡೆಯಲು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕರಿಮೆಣಸು (Pepper) ಏಕೆ ಬೆಳೆಯುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ನೆರಳು ನೀಡುವ ಮರಗಳ ಮೇಲೆ ಕರಿಮೆಣಸು ಬೆಳೆದು, ಒಂದೇ ಜಾಗದಲ್ಲಿ ಅಧಿಕ ಆದಾಯ ಪಡೆಯಲು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಿತ್ತಳೆ, ಏಲಕ್ಕಿ, ವೀಳ್ಯದೆಲೆ ಮತ್ತು ಕರಿಮೆಣಸು ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಕಿತ್ತಳೆ, ಏಲಕ್ಕಿ, ವೀಳ್ಯದೆಲೆ ಮತ್ತು ಕರಿಮೆಣಸು ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಕರಿಮೆಣಸು ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ಅಂತರ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಿತ್ತಳೆ, ಏಲಕ್ಕಿ, ವೀಳ್ಯದೆಲೆ ಮತ್ತು ಕರಿಮೆಣಸು ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೀಜಗಳನ್ನು ಹುರಿಯುವ (Roasting) ಪ್ರಕ್ರಿಯೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಬೀಜಗಳನ್ನು ಹುರಿಯುವ (Roasting) ಪ್ರಕ್ರಿಯೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Roasting",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೀಜಗಳನ್ನು ಹುರಿಯುವ (Roasting) ಪ್ರಕ್ರಿಯೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜದೊಳಗಿನ ಸುವಾಸನೆ ಮತ್ತು ರುಚಿಯನ್ನು ಹೊರತರಲು ಹುರಿಯಲಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಬೀಜದೊಳಗಿನ ಸುವಾಸನೆ ಮತ್ತು ರುಚಿಯನ್ನು ಹೊರತರಲು ಹುರಿಯಲಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬೀಜದೊಳಗಿನ ಸುವಾಸನೆ",
+        "ರುಚಿಯನ್ನು ಹೊರತರಲು ಹುರಿಯಲಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೀಜಗಳನ್ನು ಹುರಿಯುವ (Roasting) ಪ್ರಕ್ರಿಯೆ ಏಕೆ ಮಾಡುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೀಜದೊಳಗಿನ ಸುವಾಸನೆ ಮತ್ತು ರುಚಿಯನ್ನು ಹೊರತರಲು ಹುರಿಯಲಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಗೆ ಬಣ್ಣ ಮತ್ತು ಕಹಿ ರುಚಿ ಬರಲು ಏನು ಕಾರಣ?",
+    "question_variants": [
+      "ಕಾಫಿಗೆ ಬಣ್ಣ ಮತ್ತು ಕಹಿ ರುಚಿ ಬರಲು ಯಾವುದು ಕಾರಣ?",
+      "ರೈತರು ಕಾಫಿಗೆ ಬಣ್ಣ ಮತ್ತು ಕಹಿ ರುಚಿ ಬರಲು ಏನು ಕಾರಣ?"
+    ],
+    "keywords": [
+      "Dark",
+      "Dark roast",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಗೆ ಬಣ್ಣ ಮತ್ತು ಕಹಿ ರುಚಿ ಬರಲು ಏನು ಕಾರಣ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿಯನ್ನು ಅತಿಯಾಗಿ ಹುರಿದಾಗ (Dark roast) ಅದರಲ್ಲಿರುವ ಸಕ್ಕರೆ ಕರಟಿ ಕಹಿ ರುಚಿ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಕಾಫಿಯನ್ನು ಅತಿಯಾಗಿ ಹುರಿದಾಗ (Dark roast) ಅದರಲ್ಲಿರುವ ಸಕ್ಕರೆ ಕರಟಿ ಕಹಿ ರುಚಿ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಾಫಿಯನ್ನು ಅತಿಯಾಗಿ ಹುರಿದಾಗ (Dark roast) ಅದರಲ್ಲಿರುವ ಸಕ್ಕರೆ ಕರಟಿ ಕಹಿ ರುಚಿ ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Dark roast"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಗೆ ಬಣ್ಣ ಮತ್ತು ಕಹಿ ರುಚಿ ಬರಲು ಏನು ಕಾರಣ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಫಿಯನ್ನು ಅತಿಯಾಗಿ ಹುರಿದಾಗ (Dark roast) ಅದರಲ್ಲಿರುವ ಸಕ್ಕರೆ ಕರಟಿ ಕಹಿ ರುಚಿ ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಪುಡಿಯಲ್ಲಿ ಚಿಕೋರಿ (Chicory) ಏಕೆ ಬೆರೆಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಪುಡಿಯಲ್ಲಿ ಚಿಕೋರಿ (Chicory) ಏಕೆ ಬೆರೆಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Chicory",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಪುಡಿಯಲ್ಲಿ ಚಿಕೋರಿ (Chicory) ಏಕೆ ಬೆರೆಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿಯ ಕಡುಬಣ್ಣ, ದಪ್ಪನೆಯ ರುಚಿ ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಬೆಲೆ ಕಡಿಮೆ ಮಾಡಲು ಚಿಕೋರಿ ಬೆರೆಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಕಾಫಿಯ ಕಡುಬಣ್ಣ, ದಪ್ಪನೆಯ ರುಚಿ ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಬೆಲೆ ಕಡಿಮೆ ಮಾಡಲು ಚಿಕೋರಿ ಬೆರೆಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕಾಫಿಯ ಕಡುಬಣ್ಣ",
+        "ದಪ್ಪನೆಯ ರುಚಿ ಹೆಚ್ಚಿಸಲು",
+        "ಬೆಲೆ ಕಡಿಮೆ ಮಾಡಲು ಚಿಕೋರಿ ಬೆರೆಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಪುಡಿಯಲ್ಲಿ ಚಿಕೋರಿ (Chicory) ಏಕೆ ಬೆರೆಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಫಿಯ ಕಡುಬಣ್ಣ, ದಪ್ಪನೆಯ ರುಚಿ ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಬೆಲೆ ಕಡಿಮೆ ಮಾಡಲು ಚಿಕೋರಿ ಬೆರೆಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿರುವ ಉತ್ತೇಜಕ ವಸ್ತುವಿನ ಹೆಸರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿರುವ ಉತ್ತೇಜಕ ವಸ್ತುವಿನ ಹೆಸರೇನು?"
+    ],
+    "keywords": [
+      "Caffeine",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿರುವ ಉತ್ತೇಜಕ ವಸ್ತುವಿನ ಹೆಸರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೆಫೀನ್ (Caffeine) ಎಂಬ ಉತ್ತೇಜಕ ವಸ್ತು ಕಾಫಿಯಲ್ಲಿದೆ.",
+      "detailed_answer": "ಕೆಫೀನ್ (Caffeine) ಎಂಬ ಉತ್ತೇಜಕ ವಸ್ತು ಕಾಫಿಯಲ್ಲಿದೆ.",
+      "step_by_step": [
+        "ಕೆಫೀನ್ (Caffeine) ಎಂಬ ಉತ್ತೇಜಕ ವಸ್ತು ಕಾಫಿಯಲ್ಲಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Caffeine"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿರುವ ಉತ್ತೇಜಕ ವಸ್ತುವಿನ ಹೆಸರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೆಫೀನ್ (Caffeine) ಎಂಬ ಉತ್ತೇಜಕ ವಸ್ತು ಕಾಫಿಯಲ್ಲಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾದಲ್ಲಿ ಯಾವುದರಲ್ಲಿ ಕೆಫೀನ್ ಹೆಚ್ಚಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾದಲ್ಲಿ ಏನುುದರಲ್ಲಿ ಕೆಫೀನ್ ಹೆಚ್ಚಿರುತ್ತದೆ?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾದಲ್ಲಿ ಯಾವುದರಲ್ಲಿ ಕೆಫೀನ್ ಹೆಚ್ಚಿರುತ್ತದೆ?",
+      "ರೈತರು ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾದಲ್ಲಿ ಯಾವುದರಲ್ಲಿ ಕೆಫೀನ್ ಹೆಚ್ಚಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾದಲ್ಲಿ ಯಾವುದರಲ್ಲಿ ಕೆಫೀನ್ ಹೆಚ್ಚಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೊಬಸ್ಟಾದಲ್ಲಿ ಅರೇಬಿಕಾಕ್ಕಿಂತ ಸುಮಾರು ಎರಡು ಪಟ್ಟು ಹೆಚ್ಚು ಕೆಫೀನ್ ಇರುತ್ತದೆ.",
+      "detailed_answer": "ರೊಬಸ್ಟಾದಲ್ಲಿ ಅರೇಬಿಕಾಕ್ಕಿಂತ ಸುಮಾರು ಎರಡು ಪಟ್ಟು ಹೆಚ್ಚು ಕೆಫೀನ್ ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ರೊಬಸ್ಟಾದಲ್ಲಿ ಅರೇಬಿಕಾಕ್ಕಿಂತ ಸುಮಾರು ಎರಡು ಪಟ್ಟು ಹೆಚ್ಚು ಕೆಫೀನ್ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅರೇಬಿಕಾ ಮತ್ತು ರೊಬಸ್ಟಾದಲ್ಲಿ ಯಾವುದರಲ್ಲಿ ಕೆಫೀನ್ ಹೆಚ್ಚಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರೊಬಸ್ಟಾದಲ್ಲಿ ಅರೇಬಿಕಾಕ್ಕಿಂತ ಸುಮಾರು ಎರಡು ಪಟ್ಟು ಹೆಚ್ಚು ಕೆಫೀನ್ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಗೊಬ್ಬರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಕಾಂಪೋಸ್ಟ್, ಎರೆಹುಳು ಗೊಬ್ಬರ ಮತ್ತು ಬೇಂವಿನ ಹಿಂಡಿ ಬಳಸುವುದರಿಂದ ಮಣ್ಣಿನ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಕಾಂಪೋಸ್ಟ್, ಎರೆಹುಳು ಗೊಬ್ಬರ ಮತ್ತು ಬೇಂವಿನ ಹಿಂಡಿ ಬಳಸುವುದರಿಂದ ಮಣ್ಣಿನ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎರೆಹುಳು ಗೊಬ್ಬರ",
+        "ಬೇಂವಿನ ಹಿಂಡಿ ಬಳಸುವುದರಿಂದ ಮಣ್ಣಿನ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಕಾಂಪೋಸ್ಟ್",
+        "ಎರೆಹುಳು ಗೊಬ್ಬರ ಮತ್ತು ಬೇಂವಿನ ಹಿಂಡಿ ಬಳಸುವುದರಿಂದ ಮಣ್ಣಿನ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಕಾಂಪೋಸ್ಟ್, ಎರೆಹುಳು ಗೊಬ್ಬರ ಮತ್ತು ಬೇಂವಿನ ಹಿಂಡಿ ಬಳಸುವುದರಿಂದ ಮಣ್ಣಿನ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಗಿಡದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಮುಖ್ಯ ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಗಿಡದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಮುಖ್ಯ ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಗಿಡದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಮುಖ್ಯ ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಸಾರಜನಕ ಮತ್ತು ಮ್ಯಾಗ್ನೀಷಿಯಂ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆ.",
+      "detailed_answer": "ಸಾರಜನಕ ಮತ್ತು ಮ್ಯಾಗ್ನೀಷಿಯಂ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆ.",
+      "step_by_step": [
+        "ಮ್ಯಾಗ್ನೀಷಿಯಂ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಗಿಡದ ಎಲೆಗಳು ಹಳದಿಯಾಗಲು ಮುಖ್ಯ ಕಾರಣವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾರಜನಕ ಮತ್ತು ಮ್ಯಾಗ್ನೀಷಿಯಂ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಸತು (Zinc) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಸತು (Zinc) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Rosette",
+      "Zinc",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಸತು (Zinc) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಸ ಎಲೆಗಳು ಚಿಕ್ಕದಾಗಿ ಮತ್ತು ವಿಕಾರವಾಗಿ ಬೆಳೆಯುತ್ತವೆ (Rosette).",
+      "detailed_answer": "ಹೊಸ ಎಲೆಗಳು ಚಿಕ್ಕದಾಗಿ ಮತ್ತು ವಿಕಾರವಾಗಿ ಬೆಳೆಯುತ್ತವೆ (Rosette).",
+      "step_by_step": [
+        "ಹೊಸ ಎಲೆಗಳು ಚಿಕ್ಕದಾಗಿ",
+        "ವಿಕಾರವಾಗಿ ಬೆಳೆಯುತ್ತವೆ (Rosette)."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Rosette"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಸತು (Zinc) ಕೊರತೆಯ ಲಕ್ಷಣವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೊಸ ಎಲೆಗಳು ಚಿಕ್ಕದಾಗಿ ಮತ್ತು ವಿಕಾರವಾಗಿ ಬೆಳೆಯುತ್ತವೆ (Rosette).",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜಿಂಕ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಜಿಂಕ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಜಿಂಕ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಜಿಂಕ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಜಿಂಕ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ನೀಡಬೇಕು ಅಥವಾ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ನೀಡಬೇಕು ಅಥವಾ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ನೀಡಬೇಕು ಅಥವಾ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜಿಂಕ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಮಣ್ಣಿಗೆ ನೀಡಬೇಕು ಅಥವಾ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಫಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಫಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಫಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂಗಳು ಉದುರುತ್ತವೆ ಮತ್ತು ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳುವುದಿಲ್ಲ.",
+      "detailed_answer": "ಹೂಗಳು ಉದುರುತ್ತವೆ ಮತ್ತು ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "ಹೂಗಳು ಉದುರುತ್ತವೆ",
+        "ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳುವುದಿಲ್ಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಫಿ ಗಿಡಕ್ಕೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂಗಳು ಉದುರುತ್ತವೆ ಮತ್ತು ಕಾಯಿಗಳು ಸರಿಯಾಗಿ ರೂಪುಗೊಳ್ಳುವುದಿಲ್ಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಗಿಡಗಳಲ್ಲಿ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದಾಗುವ ಹಾನಿ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಾಫಿ ಗಿಡಗಳಲ್ಲಿ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದಾಗುವ ಹಾನಿ ತಪ್ಪಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕಾಫಿ ಗಿಡಗಳಲ್ಲಿ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದಾಗುವ ಹಾನಿ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಗಿಡಗಳಲ್ಲಿ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದಾಗುವ ಹಾನಿ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮರಗಳ ಉತ್ತಮ ನೆರಳು ಇದ್ದರೆ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಗಿಡಗಳಿಗೆ ಆಗುವ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಮರಗಳ ಉತ್ತಮ ನೆರಳು ಇದ್ದರೆ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಗಿಡಗಳಿಗೆ ಆಗುವ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮರಗಳ ಉತ್ತಮ ನೆರಳು ಇದ್ದರೆ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಗಿಡಗಳಿಗೆ ಆಗುವ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಮರಗಳ ಉತ್ತಮ ನೆರಳು ಇದ್ದರೆ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಗಿಡಗಳಿಗೆ ಆಗುವ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ"
+      ]
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಗಿಡಗಳಲ್ಲಿ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದಾಗುವ ಹಾನಿ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮರಗಳ ಉತ್ತಮ ನೆರಳು ಇದ್ದರೆ ಆಲಿಕಲ್ಲು ಮಳೆಯಿಂದ ಗಿಡಗಳಿಗೆ ಆಗುವ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Trenches",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಳಿಜಾರಿಗೆ ಅಡ್ಡಲಾಗಿ ಕಂದಕಗಳನ್ನು (Trenches) ನಿರ್ಮಿಸಬೇಕು.",
+      "detailed_answer": "ಇಳಿಜಾರಿಗೆ ಅಡ್ಡಲಾಗಿ ಕಂದಕಗಳನ್ನು (Trenches) ನಿರ್ಮಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಇಳಿಜಾರಿಗೆ ಅಡ್ಡಲಾಗಿ ಕಂದಕಗಳನ್ನು (Trenches) ನಿರ್ಮಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Trenches"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ಮಣ್ಣಿನ ಸವೆತ ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇಳಿಜಾರಿಗೆ ಅಡ್ಡಲಾಗಿ ಕಂದಕಗಳನ್ನು (Trenches) ನಿರ್ಮಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಂದಕಗಳ (Trenches) ಇನ್ನೊಂದು ಉಪಯೋಗವೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಕಂದಕಗಳ (Trenches) ಇನ್ನೊಂದು ಉಪಯೋಗವೇನು?",
+      "ರೈತರು ಕಂದಕಗಳ (Trenches) ಇನ್ನೊಂದು ಉಪಯೋಗವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Trenches",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಗೊಬ್ಬರ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಂದಕಗಳ (Trenches) ಇನ್ನೊಂದು ಉಪಯೋಗವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ನೀರು ಮತ್ತು ಒಣಗಿದ ಎಲೆಗಳು ಕಂದಕದಲ್ಲಿ ಶೇಖರಣೆಯಾಗಿ ಅತ್ಯುತ್ತಮ ಗೊಬ್ಬರವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ನೀರು ಮತ್ತು ಒಣಗಿದ ಎಲೆಗಳು ಕಂದಕದಲ್ಲಿ ಶೇಖರಣೆಯಾಗಿ ಅತ್ಯುತ್ತಮ ಗೊಬ್ಬರವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲದಲ್ಲಿ ನೀರು",
+        "ಒಣಗಿದ ಎಲೆಗಳು ಕಂದಕದಲ್ಲಿ ಶೇಖರಣೆಯಾಗಿ ಅತ್ಯುತ್ತಮ ಗೊಬ್ಬರವಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಂದಕಗಳ (Trenches) ಇನ್ನೊಂದು ಉಪಯೋಗವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಳೆಗಾಲದಲ್ಲಿ ನೀರು ಮತ್ತು ಒಣಗಿದ ಎಲೆಗಳು ಕಂದಕದಲ್ಲಿ ಶೇಖರಣೆಯಾಗಿ ಅತ್ಯುತ್ತಮ ಗೊಬ್ಬರವಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಮಾಡಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಮಾಡಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "irrigation",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ವಿಶೇಷವಾಗಿ ಬೇಸಿಗೆಯಲ್ಲಿ ರೊಬಸ್ಟಾಗೆ ಹನಿ ನೀರಾವರಿ ಮಾಡುವುದರಿಂದ ಹೂ ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ವಿಶೇಷವಾಗಿ ಬೇಸಿಗೆಯಲ್ಲಿ ರೊಬಸ್ಟಾಗೆ ಹನಿ ನೀರಾವರಿ ಮಾಡುವುದರಿಂದ ಹೂ ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ವಿಶೇಷವಾಗಿ ಬೇಸಿಗೆಯಲ್ಲಿ ರೊಬಸ್ಟಾಗೆ ಹನಿ ನೀರಾವರಿ ಮಾಡುವುದರಿಂದ ಹೂ",
+        "ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಗಿಡಗಳಿಗೆ ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಮಾಡಬಹುದೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ವಿಶೇಷವಾಗಿ ಬೇಸಿಗೆಯಲ್ಲಿ ರೊಬಸ್ಟಾಗೆ ಹನಿ ನೀರಾವರಿ ಮಾಡುವುದರಿಂದ ಹೂ ಮತ್ತು ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕೊಳಕು ಬಗ್ಸ್ (Mealybugs) ಕಾಫಿಯಲ್ಲಿ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತವೆ?",
+    "question_variants": [
+      "ಕೊಳಕು ಬಗ್ಸ್ (Mealybugs) ಕಾಫಿಯಲ್ಲಿ ಯಾವ ರೀತಿ ಹಾನಿ ಮಾಡುತ್ತವೆ?",
+      "ರೈತರು ಕೊಳಕು ಬಗ್ಸ್ (Mealybugs) ಕಾಫಿಯಲ್ಲಿ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತವೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Mealybugs",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕೊಳಕು ಬಗ್ಸ್ (Mealybugs) ಕಾಫಿಯಲ್ಲಿ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತವೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇರು ಮತ್ತು ಚಿಗುರುಗಳ ರಸ ಹೀರಿ ಗಿಡವನ್ನು ದುರ್ಬಲಗೊಳಿಸುತ್ತವೆ.",
+      "detailed_answer": "ಬೇರು ಮತ್ತು ಚಿಗುರುಗಳ ರಸ ಹೀರಿ ಗಿಡವನ್ನು ದುರ್ಬಲಗೊಳಿಸುತ್ತವೆ.",
+      "step_by_step": [
+        "ಚಿಗುರುಗಳ ರಸ ಹೀರಿ ಗಿಡವನ್ನು ದುರ್ಬಲಗೊಳಿಸುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕೊಳಕು ಬಗ್ಸ್ (Mealybugs) ಕಾಫಿಯಲ್ಲಿ ಹೇಗೆ ಹಾನಿ ಮಾಡುತ್ತವೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೇರು ಮತ್ತು ಚಿಗುರುಗಳ ರಸ ಹೀರಿ ಗಿಡವನ್ನು ದುರ್ಬಲಗೊಳಿಸುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಮೀಲಿ ಬಗ್ಸ್ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಮೀಲಿ ಬಗ್ಸ್ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಮೀಲಿ ಬಗ್ಸ್ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಮೀಲಿ ಬಗ್ಸ್ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಮೀಲಿ ಬಗ್ಸ್ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಕ್ರಿಪ್ಟೋಲೇಮಸ್ ಜೀರುಂಡೆಗಳನ್ನು ಬಿಡಬೇಕು.",
+      "detailed_answer": "ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಕ್ರಿಪ್ಟೋಲೇಮಸ್ ಜೀರುಂಡೆಗಳನ್ನು ಬಿಡಬೇಕು.",
+      "step_by_step": [
+        "ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಕ್ರಿಪ್ಟೋಲೇಮಸ್ ಜೀರುಂಡೆಗಳನ್ನು ಬಿಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮೀಲಿ ಬಗ್ಸ್ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಬೇಕು ಅಥವಾ ಕ್ರಿಪ್ಟೋಲೇಮಸ್ ಜೀರುಂಡೆಗಳನ್ನು ಬಿಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಕಾಯಿಗಳು ಅಕಾಲಿಕವಾಗಿ ಉದುರಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಕಾಯಿಗಳು ಅಕಾಲಿಕವಾಗಿ ಉದುರಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಕಾಯಿಗಳು ಅಕಾಲಿಕವಾಗಿ ಉದುರಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೇವಾಂಶದ ಕೊರತೆ ಅಥವಾ ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಯಿಗಳು ಉದುರುತ್ತವೆ.",
+      "detailed_answer": "ತೇವಾಂಶದ ಕೊರತೆ ಅಥವಾ ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಯಿಗಳು ಉದುರುತ್ತವೆ.",
+      "step_by_step": [
+        "ತೇವಾಂಶದ ಕೊರತೆ ಅಥವಾ ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಯಿಗಳು ಉದುರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಕಾಯಿಗಳು ಅಕಾಲಿಕವಾಗಿ ಉದುರಲು ಕಾರಣವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತೇವಾಂಶದ ಕೊರತೆ ಅಥವಾ ಬೋರಾನ್ ಕೊರತೆಯಿಂದ ಕಾಯಿಗಳು ಉದುರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟಕ್ಕೆ ಸುಣ್ಣ (Lime) ಏಕೆ ಹಾಕಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ತೋಟಕ್ಕೆ ಸುಣ್ಣ (Lime) ಏಕೆ ಹಾಕಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Lime",
+      "pH",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟಕ್ಕೆ ಸುಣ್ಣ (Lime) ಏಕೆ ಹಾಕಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಆಮ್ಲೀಯತೆಯನ್ನು (pH) ಸರಿಪಡಿಸಲು ಪ್ರತಿ 2-3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಕೃಷಿ ಸುಣ್ಣ ಹಾಕಬೇಕು.",
+      "detailed_answer": "ಮಣ್ಣಿನ ಆಮ್ಲೀಯತೆಯನ್ನು (pH) ಸರಿಪಡಿಸಲು ಪ್ರತಿ 2-3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಕೃಷಿ ಸುಣ್ಣ ಹಾಕಬೇಕು.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಆಮ್ಲೀಯತೆಯನ್ನು (pH) ಸರಿಪಡಿಸಲು ಪ್ರತಿ 2-3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಕೃಷಿ ಸುಣ್ಣ ಹಾಕಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟಕ್ಕೆ ಸುಣ್ಣ (Lime) ಏಕೆ ಹಾಕಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಆಮ್ಲೀಯತೆಯನ್ನು (pH) ಸರಿಪಡಿಸಲು ಪ್ರತಿ 2-3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಕೃಷಿ ಸುಣ್ಣ ಹಾಕಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸುಣ್ಣವನ್ನು ಮಣ್ಣಿಗೆ ಯಾವಾಗ ಸೇರಿಸಬೇಕು?",
+    "question_variants": [
+      "ಸುಣ್ಣವನ್ನು ಮಣ್ಣಿಗೆ ಏನುಾಗ ಸೇರಿಸಬೇಕು?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಸುಣ್ಣವನ್ನು ಮಣ್ಣಿಗೆ ಯಾವಾಗ ಸೇರಿಸಬೇಕು?",
+      "ರೈತರು ಸುಣ್ಣವನ್ನು ಮಣ್ಣಿಗೆ ಯಾವಾಗ ಸೇರಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಸುಣ್ಣವನ್ನು ಮಣ್ಣಿಗೆ ಯಾವಾಗ ಸೇರಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಗಾಲ ಮುಗಿದ ನಂತರ ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್ ನಲ್ಲಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "detailed_answer": "ಮಳೆಗಾಲ ಮುಗಿದ ನಂತರ ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್ ನಲ್ಲಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲ ಮುಗಿದ ನಂತರ ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್ ನಲ್ಲಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸುಣ್ಣವನ್ನು ಮಣ್ಣಿಗೆ ಯಾವಾಗ ಸೇರಿಸಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಳೆಗಾಲ ಮುಗಿದ ನಂತರ ಅಕ್ಟೋಬರ್-ನವೆಂಬರ್ ನಲ್ಲಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಗೊಬ್ಬರ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಳೆಗಾಲದಲ್ಲಿ ಬೆಳೆದ ಕಳೆ ಮತ್ತು ಸೊಪ್ಪುಗಳನ್ನು ಕತ್ತರಿಸಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದೇ ಉತ್ತಮ ಹಸಿರೆಲೆ ಗೊಬ್ಬರ.",
+      "detailed_answer": "ಹೌದು, ಮಳೆಗಾಲದಲ್ಲಿ ಬೆಳೆದ ಕಳೆ ಮತ್ತು ಸೊಪ್ಪುಗಳನ್ನು ಕತ್ತರಿಸಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದೇ ಉತ್ತಮ ಹಸಿರೆಲೆ ಗೊಬ್ಬರ.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲದಲ್ಲಿ ಬೆಳೆದ ಕಳೆ",
+        "ಸೊಪ್ಪುಗಳನ್ನು ಕತ್ತರಿಸಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದೇ ಉತ್ತಮ ಹಸಿರೆಲೆ ಗೊಬ್ಬರ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಮಳೆಗಾಲದಲ್ಲಿ ಬೆಳೆದ ಕಳೆ ಮತ್ತು ಸೊಪ್ಪುಗಳನ್ನು ಕತ್ತರಿಸಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದೇ ಉತ್ತಮ ಹಸಿರೆಲೆ ಗೊಬ್ಬರ"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಕಾಫಿ ತೋಟದಲ್ಲಿ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಮಳೆಗಾಲದಲ್ಲಿ ಬೆಳೆದ ಕಳೆ ಮತ್ತು ಸೊಪ್ಪುಗಳನ್ನು ಕತ್ತರಿಸಿ ಮಣ್ಣಿಗೆ ಸೇರಿಸುವುದೇ ಉತ್ತಮ ಹಸಿರೆಲೆ ಗೊಬ್ಬರ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ದಾದಿಯ ಮರಗಳು (Nurse trees) ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ತೋಟದಲ್ಲಿ ದಾದಿಯ ಮರಗಳು (Nurse trees) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Nurse",
+      "Nurse trees",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ತೋಟದಲ್ಲಿ ದಾದಿಯ ಮರಗಳು (Nurse trees) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಣ್ಣ ಕಾಫಿ ಗಿಡಗಳಿಗೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ನೆರಳು ನೀಡಲು ಬೆಳೆಸುವ ಎರಿಥ್ರಿನಾ ಮರಗಳಿಗೆ ದಾದಿ ಮರ ಎನ್ನುತ್ತಾರೆ.",
+      "detailed_answer": "ಸಣ್ಣ ಕಾಫಿ ಗಿಡಗಳಿಗೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ನೆರಳು ನೀಡಲು ಬೆಳೆಸುವ ಎರಿಥ್ರಿನಾ ಮರಗಳಿಗೆ ದಾದಿ ಮರ ಎನ್ನುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಸಣ್ಣ ಕಾಫಿ ಗಿಡಗಳಿಗೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ನೆರಳು ನೀಡಲು ಬೆಳೆಸುವ ಎರಿಥ್ರಿನಾ ಮರಗಳಿಗೆ ದಾದಿ ಮರ ಎನ್ನುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ತೋಟದಲ್ಲಿ ದಾದಿಯ ಮರಗಳು (Nurse trees) ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಣ್ಣ ಕಾಫಿ ಗಿಡಗಳಿಗೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ನೆರಳು ನೀಡಲು ಬೆಳೆಸುವ ಎರಿಥ್ರಿನಾ ಮರಗಳಿಗೆ ದಾದಿ ಮರ ಎನ್ನುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಗಿಡದ ಜೀವಿತಾವಧಿ ಎಷ್ಟು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಗಿಡದ ಜೀವಿತಾವಧಿ ಎಷ್ಟು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಗಿಡದ ಜೀವಿತಾವಧಿ ಎಷ್ಟು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸಿದರೆ ಒಂದು ಕಾಫಿ ಗಿಡ 50 ರಿಂದ 60 ವರ್ಷಗಳವರೆಗೆ ಇಳುವರಿ ನೀಡಬಲ್ಲದು.",
+      "detailed_answer": "ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸಿದರೆ ಒಂದು ಕಾಫಿ ಗಿಡ 50 ರಿಂದ 60 ವರ್ಷಗಳವರೆಗೆ ಇಳುವರಿ ನೀಡಬಲ್ಲದು.",
+      "step_by_step": [
+        "ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸಿದರೆ ಒಂದು ಕಾಫಿ ಗಿಡ 50 ರಿಂದ 60 ವರ್ಷಗಳವರೆಗೆ ಇಳುವರಿ ನೀಡಬಲ್ಲದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಗಿಡದ ಜೀವಿತಾವಧಿ ಎಷ್ಟು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸಿದರೆ ಒಂದು ಕಾಫಿ ಗಿಡ 50 ರಿಂದ 60 ವರ್ಷಗಳವರೆಗೆ ಇಳುವರಿ ನೀಡಬಲ್ಲದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮುಪ್ಪಾದ ಕಾಫಿ ತೋಟವನ್ನು ನವೀಕರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಮುಪ್ಪಾದ ಕಾಫಿ ತೋಟವನ್ನು ನವೀಕರಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಮುಪ್ಪಾದ ಕಾಫಿ ತೋಟವನ್ನು ನವೀಕರಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಮುಪ್ಪಾದ ಕಾಫಿ ತೋಟವನ್ನು ನವೀಕರಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹಳೆಯ ಗಿಡಗಳನ್ನು ಬುಡಕ್ಕೆ ಕತ್ತರಿಸಿ, ಹೊಸ ಚಿಗುರನ್ನು ಬೆಳೆಸುವ ಮೂಲಕ ತೋಟ ನವೀಕರಿಸಬಹುದು.",
+      "detailed_answer": "ಹಳೆಯ ಗಿಡಗಳನ್ನು ಬುಡಕ್ಕೆ ಕತ್ತರಿಸಿ, ಹೊಸ ಚಿಗುರನ್ನು ಬೆಳೆಸುವ ಮೂಲಕ ತೋಟ ನವೀಕರಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಹಳೆಯ ಗಿಡಗಳನ್ನು ಬುಡಕ್ಕೆ ಕತ್ತರಿಸಿ",
+        "ಹೊಸ ಚಿಗುರನ್ನು ಬೆಳೆಸುವ ಮೂಲಕ ತೋಟ ನವೀಕರಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮುಪ್ಪಾದ ಕಾಫಿ ತೋಟವನ್ನು ನವೀಕರಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹಳೆಯ ಗಿಡಗಳನ್ನು ಬುಡಕ್ಕೆ ಕತ್ತರಿಸಿ, ಹೊಸ ಚಿಗುರನ್ನು ಬೆಳೆಸುವ ಮೂಲಕ ತೋಟ ನವೀಕರಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಎಲೆಗಳನ್ನು ತಿನ್ನುವ ಮರಿಹುಳುಗಳ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಕಾಫಿ ಎಲೆಗಳನ್ನು ತಿನ್ನುವ ಮರಿಹುಳುಗಳ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಕಾಫಿ ಎಲೆಗಳನ್ನು ತಿನ್ನುವ ಮರಿಹುಳುಗಳ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಎಲೆಗಳನ್ನು ತಿನ್ನುವ ಮರಿಹುಳುಗಳ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬಹುದು.",
+      "detailed_answer": "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಎಲೆಗಳನ್ನು ತಿನ್ನುವ ಮರಿಹುಳುಗಳ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ ಸಿಂಪಡಿಸಿ ನಿಯಂತ್ರಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಶೇಡ್ ರೆಗ್ಯುಲೇಶನ್ (Shade Regulation) ಅಂದರೆ ಏನು?",
+    "question_variants": [
+      "ಕಾಫಿಯಲ್ಲಿ ಶೇಡ್ ರೆಗ್ಯುಲೇಶನ್ (Shade Regulation) ಅಂದರೆ ಯಾವುದು?",
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಶೇಡ್ ರೆಗ್ಯುಲೇಶನ್ (Shade Regulation) ಅಂದರೆ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Regulation",
+      "Shade",
+      "Shade Regulation",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಶೇಡ್ ರೆಗ್ಯುಲೇಶನ್ (Shade Regulation) ಅಂದರೆ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ಮರಗಳ ಹೆಚ್ಚುವರಿ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ತೋಟಕ್ಕೆ ಸಾಕಷ್ಟು ಗಾಳಿ ಮತ್ತು ಬೆಳಕು ಬೀಳುವಂತೆ ಮಾಡುವುದು.",
+      "detailed_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ಮರಗಳ ಹೆಚ್ಚುವರಿ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ತೋಟಕ್ಕೆ ಸಾಕಷ್ಟು ಗಾಳಿ ಮತ್ತು ಬೆಳಕು ಬೀಳುವಂತೆ ಮಾಡುವುದು.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲದಲ್ಲಿ ಮರಗಳ ಹೆಚ್ಚುವರಿ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ತೋಟಕ್ಕೆ ಸಾಕಷ್ಟು ಗಾಳಿ",
+        "ಬೆಳಕು ಬೀಳುವಂತೆ ಮಾಡುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಶೇಡ್ ರೆಗ್ಯುಲೇಶನ್ (Shade Regulation) ಅಂದರೆ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಳೆಗಾಲದಲ್ಲಿ ಮರಗಳ ಹೆಚ್ಚುವರಿ ರೆಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ತೋಟಕ್ಕೆ ಸಾಕಷ್ಟು ಗಾಳಿ ಮತ್ತು ಬೆಳಕು ಬೀಳುವಂತೆ ಮಾಡುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹವಾಮಾನ ಬದಲಾವಣೆಯಿಂದ ಕಾಫಿಗೆ ಆಗುತ್ತಿರುವ ತೊಂದರೆ ಏನು?",
+    "question_variants": [
+      "ಹವಾಮಾನ ಬದಲಾವಣೆಯಿಂದ ಕಾಫಿಗೆ ಆಗುತ್ತಿರುವ ತೊಂದರೆ ಯಾವುದು?",
+      "ರೈತರು ಹವಾಮಾನ ಬದಲಾವಣೆಯಿಂದ ಕಾಫಿಗೆ ಆಗುತ್ತಿರುವ ತೊಂದರೆ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಹವಾಮಾನ ಬದಲಾವಣೆಯಿಂದ ಕಾಫಿಗೆ ಆಗುತ್ತಿರುವ ತೊಂದರೆ ಏನು?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ತಾಪಮಾನ ಹೆಚ್ಚಾಗಿ, ಮಳೆ ಕಡಿಮೆಯಾಗುವುದರಿಂದ ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಹಾವಳಿ ಹೆಚ್ಚಾಗಿದೆ.",
+      "detailed_answer": "ತಾಪಮಾನ ಹೆಚ್ಚಾಗಿ, ಮಳೆ ಕಡಿಮೆಯಾಗುವುದರಿಂದ ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಹಾವಳಿ ಹೆಚ್ಚಾಗಿದೆ.",
+      "step_by_step": [
+        "ತಾಪಮಾನ ಹೆಚ್ಚಾಗಿ",
+        "ಮಳೆ ಕಡಿಮೆಯಾಗುವುದರಿಂದ ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಹಾವಳಿ ಹೆಚ್ಚಾಗಿದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹವಾಮಾನ ಬದಲಾವಣೆಯಿಂದ ಕಾಫಿಗೆ ಆಗುತ್ತಿರುವ ತೊಂದರೆ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತಾಪಮಾನ ಹೆಚ್ಚಾಗಿ, ಮಳೆ ಕಡಿಮೆಯಾಗುವುದರಿಂದ ಬಿಳಿ ಕಾಂಡ ಕೊರಕದ ಹಾವಳಿ ಹೆಚ್ಚಾಗಿದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಫೇರ್ ಟ್ರೇಡ್ (Fair Trade) ಕಾಫಿ ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಫೇರ್ ಟ್ರೇಡ್ (Fair Trade) ಕಾಫಿ ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Fair",
+      "Fair Trade",
+      "Karnataka",
+      "Trade",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಫೇರ್ ಟ್ರೇಡ್ (Fair Trade) ಕಾಫಿ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೈತರಿಗೆ ನ್ಯಾಯಯುತ ಬೆಲೆ ಸಿಗುವಂತೆ ಮತ್ತು ಪರಿಸರ ಸ್ನೇಹಿಯಾಗಿ ಬೆಳೆದ ಕಾಫಿಯನ್ನು ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ.",
+      "detailed_answer": "ರೈತರಿಗೆ ನ್ಯಾಯಯುತ ಬೆಲೆ ಸಿಗುವಂತೆ ಮತ್ತು ಪರಿಸರ ಸ್ನೇಹಿಯಾಗಿ ಬೆಳೆದ ಕಾಫಿಯನ್ನು ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ರೈತರಿಗೆ ನ್ಯಾಯಯುತ ಬೆಲೆ ಸಿಗುವಂತೆ",
+        "ಪರಿಸರ ಸ್ನೇಹಿಯಾಗಿ ಬೆಳೆದ ಕಾಫಿಯನ್ನು ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಫೇರ್ ಟ್ರೇಡ್ (Fair Trade) ಕಾಫಿ ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರೈತರಿಗೆ ನ್ಯಾಯಯುತ ಬೆಲೆ ಸಿಗುವಂತೆ ಮತ್ತು ಪರಿಸರ ಸ್ನೇಹಿಯಾಗಿ ಬೆಳೆದ ಕಾಫಿಯನ್ನು ಹೀಗೆ ಕರೆಯುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸ್ಪೆಷಾಲಿಟಿ ಕಾಫಿ (Specialty Coffee) ಅಂದರೆ ಏನು?",
+    "question_variants": [
+      "ಸ್ಪೆಷಾಲಿಟಿ ಕಾಫಿ (Specialty Coffee) ಅಂದರೆ ಯಾವುದು?",
+      "ರೈತರು ಸ್ಪೆಷಾಲಿಟಿ ಕಾಫಿ (Specialty Coffee) ಅಂದರೆ ಏನು?"
+    ],
+    "keywords": [
+      "Coffee",
+      "Karnataka",
+      "Specialty",
+      "Specialty Coffee",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಸ್ಪೆಷಾಲಿಟಿ ಕಾಫಿ (Specialty Coffee) ಅಂದರೆ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅತ್ಯುತ್ತಮ ರುಚಿ ಮತ್ತು ಗುಣಮಟ್ಟ ಹೊಂದಿರುವ, ನಿರ್ದಿಷ್ಟ ಭೌಗೋಳಿಕ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆದ ಉತ್ಕೃಷ್ಟ ಕಾಫಿ.",
+      "detailed_answer": "ಅತ್ಯುತ್ತಮ ರುಚಿ ಮತ್ತು ಗುಣಮಟ್ಟ ಹೊಂದಿರುವ, ನಿರ್ದಿಷ್ಟ ಭೌಗೋಳಿಕ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆದ ಉತ್ಕೃಷ್ಟ ಕಾಫಿ.",
+      "step_by_step": [
+        "ಅತ್ಯುತ್ತಮ ರುಚಿ",
+        "ಗುಣಮಟ್ಟ ಹೊಂದಿರುವ",
+        "ನಿರ್ದಿಷ್ಟ ಭೌಗೋಳಿಕ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆದ ಉತ್ಕೃಷ್ಟ ಕಾಫಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸ್ಪೆಷಾಲಿಟಿ ಕಾಫಿ (Specialty Coffee) ಅಂದರೆ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅತ್ಯುತ್ತಮ ರುಚಿ ಮತ್ತು ಗುಣಮಟ್ಟ ಹೊಂದಿರುವ, ನಿರ್ದಿಷ್ಟ ಭೌಗೋಳಿಕ ಪ್ರದೇಶದಲ್ಲಿ ಬೆಳೆದ ಉತ್ಕೃಷ್ಟ ಕಾಫಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೋರ್ಡ್ ನ ಮುಖ್ಯ ಕೆಲಸವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಬೋರ್ಡ್ ನ ಮುಖ್ಯ ಕೆಲಸವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೋರ್ಡ್ ನ ಮುಖ್ಯ ಕೆಲಸವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿ ಸಂಶೋಧನೆ, ರೈತರಿಗೆ ತರಬೇತಿ ಮತ್ತು ರಫ್ತು ಉತ್ತೇಜನ ಮಾಡುವುದು.",
+      "detailed_answer": "ಕಾಫಿ ಸಂಶೋಧನೆ, ರೈತರಿಗೆ ತರಬೇತಿ ಮತ್ತು ರಫ್ತು ಉತ್ತೇಜನ ಮಾಡುವುದು.",
+      "step_by_step": [
+        "ಕಾಫಿ ಸಂಶೋಧನೆ",
+        "ರೈತರಿಗೆ ತರಬೇತಿ",
+        "ರಫ್ತು ಉತ್ತೇಜನ ಮಾಡುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೋರ್ಡ್ ನ ಮುಖ್ಯ ಕೆಲಸವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಫಿ ಸಂಶೋಧನೆ, ರೈತರಿಗೆ ತರಬೇತಿ ಮತ್ತು ರಫ್ತು ಉತ್ತೇಜನ ಮಾಡುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಲ್ಚಿಂಗ್ (Mulching) ಕಾಫಿಯಲ್ಲಿ ಏಕೆ ಮಾಡುತ್ತಾರೆ?",
+    "question_variants": [
+      "ರೈತರು ಮಲ್ಚಿಂಗ್ (Mulching) ಕಾಫಿಯಲ್ಲಿ ಏಕೆ ಮಾಡುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Mulching",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಮಲ್ಚಿಂಗ್ (Mulching) ಕಾಫಿಯಲ್ಲಿ ಏಕೆ ಮಾಡುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯಲು ಬುಡಕ್ಕೆ ಒಣಗಿದ ಎಲೆಗಳಿಂದ ಹೊದಿಕೆ ಮಾಡುವುದು.",
+      "detailed_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯಲು ಬುಡಕ್ಕೆ ಒಣಗಿದ ಎಲೆಗಳಿಂದ ಹೊದಿಕೆ ಮಾಡುವುದು.",
+      "step_by_step": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯಲು ಬುಡಕ್ಕೆ ಒಣಗಿದ ಎಲೆಗಳಿಂದ ಹೊದಿಕೆ ಮಾಡುವುದು."
+      ],
+      "preventive_measures": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯಲು ಬುಡಕ್ಕೆ ಒಣಗಿದ ಎಲೆಗಳಿಂದ ಹೊದಿಕೆ ಮಾಡುವುದು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಲ್ಚಿಂಗ್ (Mulching) ಕಾಫಿಯಲ್ಲಿ ಏಕೆ ಮಾಡುತ್ತಾರೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇಸಿಗೆಯಲ್ಲಿ ತೇವಾಂಶ ಆವಿಯಾಗದಂತೆ ತಡೆಯಲು ಬುಡಕ್ಕೆ ಒಣಗಿದ ಎಲೆಗಳಿಂದ ಹೊದಿಕೆ ಮಾಡುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಗಿಡದ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಗಿಡದ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಗಿಡದ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಮೇಲ್ಮೈ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು, ಮಣ್ಣಿನ ಮೇಲಿನ 1-2 ಅಡಿಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೇರುಗಳಿರುತ್ತವೆ.",
+      "detailed_answer": "ಇದು ಮೇಲ್ಮೈ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು, ಮಣ್ಣಿನ ಮೇಲಿನ 1-2 ಅಡಿಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೇರುಗಳಿರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಇದು ಮೇಲ್ಮೈ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು",
+        "ಮಣ್ಣಿನ ಮೇಲಿನ 1-2 ಅಡಿಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೇರುಗಳಿರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಗಿಡದ ಬೇರು ವ್ಯವಸ್ಥೆ ಹೇಗಿರುತ್ತದೆ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಮೇಲ್ಮೈ ಬೇರುಗಳನ್ನು ಹೊಂದಿದ್ದು, ಮಣ್ಣಿನ ಮೇಲಿನ 1-2 ಅಡಿಗಳಲ್ಲಿ ಹೆಚ್ಚು ಬೇರುಗಳಿರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಹೂವಿನ ಸುವಾಸನೆ ಯಾವುದನ್ನು ಹೋಲುತ್ತದೆ?",
+    "question_variants": [
+      "ಕಾಫಿ ಹೂವಿನ ಸುವಾಸನೆ ಏನುುದನ್ನು ಹೋಲುತ್ತದೆ?",
+      "ರೈತರು ಕಾಫಿ ಹೂವಿನ ಸುವಾಸನೆ ಯಾವುದನ್ನು ಹೋಲುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಹೂವಿನ ಸುವಾಸನೆ ಯಾವುದನ್ನು ಹೋಲುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಫಿ ಹೂವು ಮಲ್ಲಿಗೆ ಹೂವಿನಂತಹ ಸಿಹಿ ಸುವಾಸನೆ ಹೊಂದಿರುತ್ತದೆ.",
+      "detailed_answer": "ಕಾಫಿ ಹೂವು ಮಲ್ಲಿಗೆ ಹೂವಿನಂತಹ ಸಿಹಿ ಸುವಾಸನೆ ಹೊಂದಿರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಕಾಫಿ ಹೂವು ಮಲ್ಲಿಗೆ ಹೂವಿನಂತಹ ಸಿಹಿ ಸುವಾಸನೆ ಹೊಂದಿರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಹೂವಿನ ಸುವಾಸನೆ ಯಾವುದನ್ನು ಹೋಲುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಫಿ ಹೂವು ಮಲ್ಲಿಗೆ ಹೂವಿನಂತಹ ಸಿಹಿ ಸುವಾಸನೆ ಹೊಂದಿರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಗೊಬ್ಬರವಾಗಿ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಗೊಬ್ಬರವಾಗಿ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಗೊಬ್ಬರ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಗೊಬ್ಬರವಾಗಿ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಪಲ್ಪಿಂಗ್ ಮಾಡಿದ ನಂತರ ಸಿಗುವ ಸಿಪ್ಪೆಯನ್ನು ಕಾಂಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತೆ ತೋಟಕ್ಕೆ ಹಾಕಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಪಲ್ಪಿಂಗ್ ಮಾಡಿದ ನಂತರ ಸಿಗುವ ಸಿಪ್ಪೆಯನ್ನು ಕಾಂಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತೆ ತೋಟಕ್ಕೆ ಹಾಕಬಹುದು.",
+      "step_by_step": [
+        "ಪಲ್ಪಿಂಗ್ ಮಾಡಿದ ನಂತರ ಸಿಗುವ ಸಿಪ್ಪೆಯನ್ನು ಕಾಂಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತೆ ತೋಟಕ್ಕೆ ಹಾಕಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಪಲ್ಪಿಂಗ್ ಮಾಡಿದ ನಂತರ ಸಿಗುವ ಸಿಪ್ಪೆಯನ್ನು ಕಾಂಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತೆ ತೋಟಕ್ಕೆ ಹಾಕಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಹಣ್ಣಿನ ಸಿಪ್ಪೆಯನ್ನು ಗೊಬ್ಬರವಾಗಿ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಪಲ್ಪಿಂಗ್ ಮಾಡಿದ ನಂತರ ಸಿಗುವ ಸಿಪ್ಪೆಯನ್ನು ಕಾಂಪೋಸ್ಟ್ ಮಾಡಿ ಮತ್ತೆ ತೋಟಕ್ಕೆ ಹಾಕಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಏಕಬೆಳೆ ಪದ್ಧತಿಗಿಂತ ಮಿಶ್ರಬೆಳೆ ಏಕೆ ಉತ್ತಮ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಏಕಬೆಳೆ ಪದ್ಧತಿಗಿಂತ ಮಿಶ್ರಬೆಳೆ ಏಕೆ ಉತ್ತಮ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಏಕಬೆಳೆ ಪದ್ಧತಿಗಿಂತ ಮಿಶ್ರಬೆಳೆ ಏಕೆ ಉತ್ತಮ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಏಕಬೆಳೆಯಿಂದ ರೋಗದ ಭಾದೆ ಹೆಚ್ಚು, ಮಿಶ್ರಬೆಳೆ ಪದ್ಧತಿಯಿಂದ ಆರ್ಥಿಕ ಭದ್ರತೆ ಮತ್ತು ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಏಕಬೆಳೆಯಿಂದ ರೋಗದ ಭಾದೆ ಹೆಚ್ಚು, ಮಿಶ್ರಬೆಳೆ ಪದ್ಧತಿಯಿಂದ ಆರ್ಥಿಕ ಭದ್ರತೆ ಮತ್ತು ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಏಕಬೆಳೆಯಿಂದ ರೋಗದ ಭಾದೆ ಹೆಚ್ಚು",
+        "ಮಿಶ್ರಬೆಳೆ ಪದ್ಧತಿಯಿಂದ ಆರ್ಥಿಕ ಭದ್ರತೆ",
+        "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಏಕಬೆಳೆ ಪದ್ಧತಿಗಿಂತ ಮಿಶ್ರಬೆಳೆ ಏಕೆ ಉತ್ತಮ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಏಕಬೆಳೆಯಿಂದ ರೋಗದ ಭಾದೆ ಹೆಚ್ಚು, ಮಿಶ್ರಬೆಳೆ ಪದ್ಧತಿಯಿಂದ ಆರ್ಥಿಕ ಭದ್ರತೆ ಮತ್ತು ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಡೆ ಕೊಳೆಯುವಿಕೆ (Collar rot) ರೋಗದ ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಡೆ ಕೊಳೆಯುವಿಕೆ (Collar rot) ರೋಗದ ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Collar",
+      "Collar rot",
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಡೆ ಕೊಳೆಯುವಿಕೆ (Collar rot) ರೋಗದ ಲಕ್ಷಣವೇನು?",
+    "symptoms": [
+      "ನರ್ಸರಿಯಲ್ಲಿರುವ ಸಣ್ಣ ಸಸಿಗಳ ಬುಡ ಕೊಳೆತು ಸಾಯುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನರ್ಸರಿಯಲ್ಲಿರುವ ಸಣ್ಣ ಸಸಿಗಳ ಬುಡ ಕೊಳೆತು ಸಾಯುತ್ತವೆ.",
+      "detailed_answer": "ನರ್ಸರಿಯಲ್ಲಿರುವ ಸಣ್ಣ ಸಸಿಗಳ ಬುಡ ಕೊಳೆತು ಸಾಯುತ್ತವೆ.",
+      "step_by_step": [
+        "ನರ್ಸರಿಯಲ್ಲಿರುವ ಸಣ್ಣ ಸಸಿಗಳ ಬುಡ ಕೊಳೆತು ಸಾಯುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ನರ್ಸರಿಯಲ್ಲಿರುವ ಸಣ್ಣ ಸಸಿಗಳ ಬುಡ ಕೊಳೆತು ಸಾಯುತ್ತವೆ"
+      ]
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಡೆ ಕೊಳೆಯುವಿಕೆ (Collar rot) ರೋಗದ ಲಕ್ಷಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನರ್ಸರಿಯಲ್ಲಿರುವ ಸಣ್ಣ ಸಸಿಗಳ ಬುಡ ಕೊಳೆತು ಸಾಯುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ನರ್ಸರಿಯಲ್ಲಿ ಈ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ನರ್ಸರಿಯಲ್ಲಿ ಈ ರೋಗ ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ನರ್ಸರಿಯಲ್ಲಿ ಈ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?",
+      "ರೈತರು ನರ್ಸರಿಯಲ್ಲಿ ಈ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ನರ್ಸರಿಯಲ್ಲಿ ಈ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಸಿ ಮಡಿಗಳಿಗೆ ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡುವುದು ಮತ್ತು ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಸಿಂಪಡಿಸುವುದು.",
+      "detailed_answer": "ಸಸಿ ಮಡಿಗಳಿಗೆ ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡುವುದು ಮತ್ತು ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಸಿಂಪಡಿಸುವುದು.",
+      "step_by_step": [
+        "ಸಸಿ ಮಡಿಗಳಿಗೆ ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡುವುದು",
+        "ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಸಿಂಪಡಿಸುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ನರ್ಸರಿಯಲ್ಲಿ ಈ ರೋಗ ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಸಿ ಮಡಿಗಳಿಗೆ ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡುವುದು ಮತ್ತು ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ದ್ರಾವಣ ಸಿಂಪಡಿಸುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಕುಡಿ ಕತ್ತರಿಸುವುದು (Topping) ಅಂದರೆ ಏನು?",
+    "question_variants": [
+      "ಕಾಫಿಯಲ್ಲಿ ಕುಡಿ ಕತ್ತರಿಸುವುದು (Topping) ಅಂದರೆ ಯಾವುದು?",
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಕುಡಿ ಕತ್ತರಿಸುವುದು (Topping) ಅಂದರೆ ಏನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Topping",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಕುಡಿ ಕತ್ತರಿಸುವುದು (Topping) ಅಂದರೆ ಏನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಿಡ 4.5 ರಿಂದ 5 ಅಡಿ ಎತ್ತರ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸುವುದು, ಇದರಿಂದ ಗಿಡ ಪಕ್ಕಕ್ಕೆ ಅಗಲವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಗಿಡ 4.5 ರಿಂದ 5 ಅಡಿ ಎತ್ತರ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸುವುದು, ಇದರಿಂದ ಗಿಡ ಪಕ್ಕಕ್ಕೆ ಅಗಲವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಗಿಡ 4.5 ರಿಂದ 5 ಅಡಿ ಎತ್ತರ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸುವುದು",
+        "ಇದರಿಂದ ಗಿಡ ಪಕ್ಕಕ್ಕೆ ಅಗಲವಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಕುಡಿ ಕತ್ತರಿಸುವುದು (Topping) ಅಂದರೆ ಏನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಿಡ 4.5 ರಿಂದ 5 ಅಡಿ ಎತ್ತರ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸುವುದು, ಇದರಿಂದ ಗಿಡ ಪಕ್ಕಕ್ಕೆ ಅಗಲವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕುಡಿ ಕತ್ತರಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಕಾಫಿ ಬೆಳೆಗೆ: ಕುಡಿ ಕತ್ತರಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+      "ರೈತರು ಕುಡಿ ಕತ್ತರಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕುಡಿ ಕತ್ತರಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ, ಕಾಯಿ ಕೀಳಲು ಸುಲಭವಾಗುತ್ತದೆ ಮತ್ತು ಗಾಳಿಗೆ ಗಿಡ ಬೀಳುವುದಿಲ್ಲ.",
+      "detailed_answer": "ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ, ಕಾಯಿ ಕೀಳಲು ಸುಲಭವಾಗುತ್ತದೆ ಮತ್ತು ಗಾಳಿಗೆ ಗಿಡ ಬೀಳುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ",
+        "ಕಾಯಿ ಕೀಳಲು ಸುಲಭವಾಗುತ್ತದೆ",
+        "ಗಾಳಿಗೆ ಗಿಡ ಬೀಳುವುದಿಲ್ಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕುಡಿ ಕತ್ತರಿಸುವುದರಿಂದ ಆಗುವ ಲಾಭವೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ, ಕಾಯಿ ಕೀಳಲು ಸುಲಭವಾಗುತ್ತದೆ ಮತ್ತು ಗಾಳಿಗೆ ಗಿಡ ಬೀಳುವುದಿಲ್ಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಕುಡಿ ಕತ್ತರಿಸುವುದು ಅಗತ್ಯವೇ?",
+    "question_variants": [
+      "ರೈತರು ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಕುಡಿ ಕತ್ತರಿಸುವುದು ಅಗತ್ಯವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಕುಡಿ ಕತ್ತರಿಸುವುದು ಅಗತ್ಯವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ರೊಬಸ್ಟಾವನ್ನು ಸಹ ಒಂದು ನಿರ್ದಿಷ್ಟ ಎತ್ತರಕ್ಕೆ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸಬೇಕು.",
+      "detailed_answer": "ಹೌದು, ರೊಬಸ್ಟಾವನ್ನು ಸಹ ಒಂದು ನಿರ್ದಿಷ್ಟ ಎತ್ತರಕ್ಕೆ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ರೊಬಸ್ಟಾವನ್ನು ಸಹ ಒಂದು ನಿರ್ದಿಷ್ಟ ಎತ್ತರಕ್ಕೆ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೊಬಸ್ಟಾ ಕಾಫಿಗೆ ಕುಡಿ ಕತ್ತರಿಸುವುದು ಅಗತ್ಯವೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ರೊಬಸ್ಟಾವನ್ನು ಸಹ ಒಂದು ನಿರ್ದಿಷ್ಟ ಎತ್ತರಕ್ಕೆ ಬೆಳೆದಾಗ ತುದಿಯನ್ನು ಕತ್ತರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿಯಲ್ಲಿ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (Gibberellic Acid) ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿಯಲ್ಲಿ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (Gibberellic Acid) ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Acid",
+      "Gibberellic",
+      "Gibberellic Acid",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿಯಲ್ಲಿ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (Gibberellic Acid) ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗಿದ್ದರೆ ತಜ್ಞರ ಸಲಹೆಯ ಮೇರೆಗೆ ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗಿದ್ದರೆ ತಜ್ಞರ ಸಲಹೆಯ ಮೇರೆಗೆ ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗಿದ್ದರೆ ತಜ್ಞರ ಸಲಹೆಯ ಮೇರೆಗೆ ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿಯಲ್ಲಿ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (Gibberellic Acid) ಬಳಸಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೆಳವಣಿಗೆ ಕುಂಠಿತವಾಗಿದ್ದರೆ ತಜ್ಞರ ಸಲಹೆಯ ಮೇರೆಗೆ ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೈವಿಕ ರೀತಿಯಲ್ಲಿ ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಜೈವಿಕ ರೀತಿಯಲ್ಲಿ ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಜೈವಿಕ ರೀತಿಯಲ್ಲಿ ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಜೈವಿಕ ರೀತಿಯಲ್ಲಿ ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಬ್ರೋವೆರಿಯಾ ಬಾಸಿಯಾನಾ ಎಂಬ ಪರಾವಲಂಬಿ ಶಿಲೀಂಧ್ರವನ್ನು ಮಳೆಗಾಲದಲ್ಲಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಬ್ರೋವೆರಿಯಾ ಬಾಸಿಯಾನಾ ಎಂಬ ಪರಾವಲಂಬಿ ಶಿಲೀಂಧ್ರವನ್ನು ಮಳೆಗಾಲದಲ್ಲಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬ್ರೋವೆರಿಯಾ ಬಾಸಿಯಾನಾ ಎಂಬ ಪರಾವಲಂಬಿ ಶಿಲೀಂಧ್ರವನ್ನು ಮಳೆಗಾಲದಲ್ಲಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೈವಿಕ ರೀತಿಯಲ್ಲಿ ಕಾಫಿ ಕಾಯಿ ಕೊರಕ ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬ್ರೋವೆರಿಯಾ ಬಾಸಿಯಾನಾ ಎಂಬ ಪರಾವಲಂಬಿ ಶಿಲೀಂಧ್ರವನ್ನು ಮಳೆಗಾಲದಲ್ಲಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಳೆಗಾಲದಲ್ಲಿ ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆನಾಶಕ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಮಳೆಗಾಲದಲ್ಲಿ ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆನಾಶಕ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಮಳೆಗಾಲದಲ್ಲಿ ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆನಾಶಕ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ಕಳೆನಾಶಕ ಕೊಚ್ಚಿಕೊಂಡು ಹೋಗುವುದರಿಂದ ಅದನ್ನು ಬಳಸಬಾರದು, ಕೈಯಿಂದ ಕತ್ತರಿಸುವುದು ಉತ್ತಮ.",
+      "detailed_answer": "ಮಳೆಗಾಲದಲ್ಲಿ ಕಳೆನಾಶಕ ಕೊಚ್ಚಿಕೊಂಡು ಹೋಗುವುದರಿಂದ ಅದನ್ನು ಬಳಸಬಾರದು, ಕೈಯಿಂದ ಕತ್ತರಿಸುವುದು ಉತ್ತಮ.",
+      "step_by_step": [
+        "ಮಳೆಗಾಲದಲ್ಲಿ ಕಳೆನಾಶಕ ಕೊಚ್ಚಿಕೊಂಡು ಹೋಗುವುದರಿಂದ ಅದನ್ನು ಬಳಸಬಾರದು",
+        "ಕೈಯಿಂದ ಕತ್ತರಿಸುವುದು ಉತ್ತಮ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಮಳೆಗಾಲದಲ್ಲಿ ಕಳೆನಾಶಕ ಕೊಚ್ಚಿಕೊಂಡು ಹೋಗುವುದರಿಂದ ಅದನ್ನು ಬಳಸಬಾರದು"
+      ]
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಳೆಗಾಲದಲ್ಲಿ ಕಾಫಿ ತೋಟದಲ್ಲಿ ಕಳೆನಾಶಕ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಳೆಗಾಲದಲ್ಲಿ ಕಳೆನಾಶಕ ಕೊಚ್ಚಿಕೊಂಡು ಹೋಗುವುದರಿಂದ ಅದನ್ನು ಬಳಸಬಾರದು, ಕೈಯಿಂದ ಕತ್ತರಿಸುವುದು ಉತ್ತಮ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಕಾಫಿ ಕಾಂಡ ಕೊರಕ ತಡೆಯಲು ಫೆರಮೋನ್ ಟ್ರ್ಯಾಪ್ (Pheromone Traps) ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಕಾಫಿ ಕಾಂಡ ಕೊರಕ ತಡೆಯಲು ಫೆರಮೋನ್ ಟ್ರ್ಯಾಪ್ (Pheromone Traps) ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Pheromone",
+      "Pheromone Traps",
+      "Traps",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಕಾಫಿ ಕಾಂಡ ಕೊರಕ ತಡೆಯಲು ಫೆರಮೋನ್ ಟ್ರ್ಯಾಪ್ (Pheromone Traps) ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಗಂಡು ಹುಳುಗಳನ್ನು ಆಕರ್ಷಿಸಿ ನಾಶ ಮಾಡಲು ಅರಣ್ಯ ಸಂಶೋಧಕರು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಬಲೆಗಳನ್ನು ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಗಂಡು ಹುಳುಗಳನ್ನು ಆಕರ್ಷಿಸಿ ನಾಶ ಮಾಡಲು ಅರಣ್ಯ ಸಂಶೋಧಕರು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಬಲೆಗಳನ್ನು ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಗಂಡು ಹುಳುಗಳನ್ನು ಆಕರ್ಷಿಸಿ ನಾಶ ಮಾಡಲು ಅರಣ್ಯ ಸಂಶೋಧಕರು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಬಲೆಗಳನ್ನು ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಾಫಿ ಕಾಂಡ ಕೊರಕ ತಡೆಯಲು ಫೆರಮೋನ್ ಟ್ರ್ಯಾಪ್ (Pheromone Traps) ಬಳಸಬಹುದೇ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಗಂಡು ಹುಳುಗಳನ್ನು ಆಕರ್ಷಿಸಿ ನಾಶ ಮಾಡಲು ಅರಣ್ಯ ಸಂಶೋಧಕರು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಬಲೆಗಳನ್ನು ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ಕಾಫಿ (Coffee)",
+    "crop_type": "Plantation Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Perennial",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಭಾರತದ ಕಾಫಿಗೆ ಯುರೋಪಿನಲ್ಲಿ ಏಕೆ ಹೆಚ್ಚು ಬೇಡಿಕೆ ಇದೆ?",
+    "question_variants": [
+      "ರೈತರು ಭಾರತದ ಕಾಫಿಗೆ ಯುರೋಪಿನಲ್ಲಿ ಏಕೆ ಹೆಚ್ಚು ಬೇಡಿಕೆ ಇದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಕಾಫಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Red Laterite / Forest Loam",
+      "climate": "Humid Sub-tropical",
+      "temperature": "15-28°C",
+      "rainfall": "1500-2500 mm"
+    },
+    "problem_description": "ಭಾರತದ ಕಾಫಿಗೆ ಯುರೋಪಿನಲ್ಲಿ ಏಕೆ ಹೆಚ್ಚು ಬೇಡಿಕೆ ಇದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭಾರತದ ಕಾಫಿಯನ್ನು ನೆರಳಿನಲ್ಲಿ ಬೆಳೆಯುವುದರಿಂದ ಅದರ ಗುಣಮಟ್ಟ, ಪರಿಮಳ ಮತ್ತು ರುಚಿ ಅತ್ಯುತ್ತಮವಾಗಿರುತ್ತದೆ.",
+      "detailed_answer": "ಭಾರತದ ಕಾಫಿಯನ್ನು ನೆರಳಿನಲ್ಲಿ ಬೆಳೆಯುವುದರಿಂದ ಅದರ ಗುಣಮಟ್ಟ, ಪರಿಮಳ ಮತ್ತು ರುಚಿ ಅತ್ಯುತ್ತಮವಾಗಿರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಭಾರತದ ಕಾಫಿಯನ್ನು ನೆರಳಿನಲ್ಲಿ ಬೆಳೆಯುವುದರಿಂದ ಅದರ ಗುಣಮಟ್ಟ",
+        "ರುಚಿ ಅತ್ಯುತ್ತಮವಾಗಿರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಕಾಫಿ (Coffee) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಭಾರತದ ಕಾಫಿಗೆ ಯುರೋಪಿನಲ್ಲಿ ಏಕೆ ಹೆಚ್ಚು ಬೇಡಿಕೆ ಇದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಭಾರತದ ಕಾಫಿಯನ್ನು ನೆರಳಿನಲ್ಲಿ ಬೆಳೆಯುವುದರಿಂದ ಅದರ ಗುಣಮಟ್ಟ, ಪರಿಮಳ ಮತ್ತು ರುಚಿ ಅತ್ಯುತ್ತಮವಾಗಿರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  }
+]

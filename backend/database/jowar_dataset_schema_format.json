@@ -1,0 +1,5441 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬೆಳೆಗೆ ಯಾವ ರೀತಿಯ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "question_variants": [
+      "ಜೋಳದ ಬೆಳೆಗೆ ಏನು ರೀತಿಯ ಹವಾಮಾನ ಸೂಕ್ತ?",
+      "ರೈತರು ಜೋಳದ ಬೆಳೆಗೆ ಯಾವ ರೀತಿಯ ಹವಾಮಾನ ಸೂಕ್ತ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬೆಳೆಗೆ ಯಾವ ರೀತಿಯ ಹವಾಮಾನ ಸೂಕ್ತ?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ಬೆಚ್ಚಗಿನ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದ್ದು, 25 ರಿಂದ 30 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಬೆಚ್ಚಗಿನ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದ್ದು, 25 ರಿಂದ 30 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬೆಚ್ಚಗಿನ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದ್ದು",
+        "25 ರಿಂದ 30 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬೆಳೆಗೆ ಯಾವ ರೀತಿಯ ಹವಾಮಾನ ಸೂಕ್ತ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೆಚ್ಚಗಿನ ಹವಾಮಾನ ಸೂಕ್ತವಾಗಿದ್ದು, 25 ರಿಂದ 30 ಡಿಗ್ರಿ ಸೆಲ್ಸಿಯಸ್ ಉಷ್ಣಾಂಶದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳವನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ಜೋಳವನ್ನು ಏನು ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+      "ರೈತರು ಜೋಳವನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳವನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರು ಚೆನ್ನಾಗಿ ಬಸಿದುಹೋಗುವ ದೋಮಟ್ಟು, ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಅತ್ಯಂತ ಸೂಕ್ತ.",
+      "detailed_answer": "ನೀರು ಚೆನ್ನಾಗಿ ಬಸಿದುಹೋಗುವ ದೋಮಟ್ಟು, ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಅತ್ಯಂತ ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ನೀರು ಚೆನ್ನಾಗಿ ಬಸಿದುಹೋಗುವ ದೋಮಟ್ಟು",
+        "ಕಪ್ಪು ಮಣ್ಣು ಅತ್ಯಂತ ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [
+        "ನೀರು ಚೆನ್ನಾಗಿ ಬಸಿದುಹೋಗುವ ದೋಮಟ್ಟು, ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಅತ್ಯಂತ ಸೂಕ್ತ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳವನ್ನು ಯಾವ ಮಣ್ಣಿನಲ್ಲಿ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರು ಚೆನ್ನಾಗಿ ಬಸಿದುಹೋಗುವ ದೋಮಟ್ಟು, ಕೆಂಪು ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಅತ್ಯಂತ ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?",
+    "question_variants": [
+      "ಜೋಳ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಏನುುದು?",
+      "ರೈತರು ಜೋಳ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜನವರಿ-ಫೆಬ್ರವರಿ",
+      "ಜೂನ್-ಜುಲೈ",
+      "ಜೋಳ",
+      "ಸೆಪ್ಟೆಂಬರ್-ಅಕ್ಟೋಬರ್"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮುಂಗಾರು (ಜೂನ್-ಜುಲೈ), ಹಿಂಗಾರು (ಸೆಪ್ಟೆಂಬರ್-ಅಕ್ಟೋಬರ್) ಮತ್ತು ಬೇಸಿಗೆ (ಜನವರಿ-ಫೆಬ್ರವರಿ) ಹಂಗಾಮುಗಳಲ್ಲಿ ಬಿತ್ತಬಹುದು.",
+      "detailed_answer": "ಮುಂಗಾರು (ಜೂನ್-ಜುಲೈ), ಹಿಂಗಾರು (ಸೆಪ್ಟೆಂಬರ್-ಅಕ್ಟೋಬರ್) ಮತ್ತು ಬೇಸಿಗೆ (ಜನವರಿ-ಫೆಬ್ರವರಿ) ಹಂಗಾಮುಗಳಲ್ಲಿ ಬಿತ್ತಬಹುದು.",
+      "step_by_step": [
+        "ಮುಂಗಾರು (ಜೂನ್-ಜುಲೈ)",
+        "ಹಿಂಗಾರು (ಸೆಪ್ಟೆಂಬರ್-ಅಕ್ಟೋಬರ್)",
+        "ಬೇಸಿಗೆ (ಜನವರಿ-ಫೆಬ್ರವರಿ) ಹಂಗಾಮುಗಳಲ್ಲಿ ಬಿತ್ತಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಜೂನ್-ಜುಲೈ",
+        "ಸೆಪ್ಟೆಂಬರ್-ಅಕ್ಟೋಬರ್",
+        "ಜನವರಿ-ಫೆಬ್ರವರಿ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಸಮಯ ಯಾವುದು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಮುಂಗಾರು (ಜೂನ್-ಜುಲೈ), ಹಿಂಗಾರು (ಸೆಪ್ಟೆಂಬರ್-ಅಕ್ಟೋಬರ್) ಮತ್ತು ಬೇಸಿಗೆ (ಜನವರಿ-ಫೆಬ್ರವರಿ) ಹಂಗಾಮುಗಳಲ್ಲಿ ಬಿತ್ತಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಪ್ರಮುಖ ಸುಧಾರಿತ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಜೋಳದ ಪ್ರಮುಖ ಸುಧಾರಿತ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ಜೋಳದ ಪ್ರಮುಖ ಸುಧಾರಿತ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಪ್ರಮುಖ ಸುಧಾರಿತ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಿ.ಎಸ್.ಹೆಚ್-14, ಸಿ.ಎಸ್.ಹೆಚ್-16, ಡಿ.ಎಸ್.ವಿ-4 ಮತ್ತು ಎಂ.೪-೧ ಪ್ರಮುಖ ತಳಿಗಳು.",
+      "detailed_answer": "ಸಿ.ಎಸ್.ಹೆಚ್-14, ಸಿ.ಎಸ್.ಹೆಚ್-16, ಡಿ.ಎಸ್.ವಿ-4 ಮತ್ತು ಎಂ.೪-೧ ಪ್ರಮುಖ ತಳಿಗಳು.",
+      "step_by_step": [
+        "ಸಿ.ಎಸ್.ಹೆಚ್-14",
+        "ಸಿ.ಎಸ್.ಹೆಚ್-16",
+        "ಡಿ.ಎಸ್.ವಿ-4",
+        "ಎಂ.೪-೧ ಪ್ರಮುಖ ತಳಿಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಪ್ರಮುಖ ಸುಧಾರಿತ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಿ.ಎಸ್.ಹೆಚ್-14, ಸಿ.ಎಸ್.ಹೆಚ್-16, ಡಿ.ಎಸ್.ವಿ-4 ಮತ್ತು ಎಂ.೪-೧ ಪ್ರಮುಖ ತಳಿಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಿಂಗಾರು ಹಂಗಾಮಿಗೆ ಸೂಕ್ತವಾದ ಜೋಳದ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಹಿಂಗಾರು ಹಂಗಾಮಿಗೆ ಸೂಕ್ತವಾದ ಜೋಳದ ತಳಿಗಳು ಏನುುವು?",
+      "ರೈತರು ಹಿಂಗಾರು ಹಂಗಾಮಿಗೆ ಸೂಕ್ತವಾದ ಜೋಳದ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಎಂ-35-1",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹಿಂಗಾರು ಹಂಗಾಮಿಗೆ ಸೂಕ್ತವಾದ ಜೋಳದ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಾಲ್ದಂಡಿ (ಎಂ-35-1), ಮುಧೋಳ-1 ಮತ್ತು ಬಿಜಾಪುರ-1 ಹಿಂಗಾರಿಗೆ ಉತ್ತಮ ತಳಿಗಳು.",
+      "detailed_answer": "ಮಾಲ್ದಂಡಿ (ಎಂ-35-1), ಮುಧೋಳ-1 ಮತ್ತು ಬಿಜಾಪುರ-1 ಹಿಂಗಾರಿಗೆ ಉತ್ತಮ ತಳಿಗಳು.",
+      "step_by_step": [
+        "ಮಾಲ್ದಂಡಿ (ಎಂ-35-1)",
+        "ಬಿಜಾಪುರ-1 ಹಿಂಗಾರಿಗೆ ಉತ್ತಮ ತಳಿಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಎಂ-35-1"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಿಂಗಾರು ಹಂಗಾಮಿಗೆ ಸೂಕ್ತವಾದ ಜೋಳದ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಮಾಲ್ದಂಡಿ (ಎಂ-35-1), ಮುಧೋಳ-1 ಮತ್ತು ಬಿಜಾಪುರ-1 ಹಿಂಗಾರಿಗೆ ಉತ್ತಮ ತಳಿಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಜೋಳದ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಜೋಳದ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಜೋಳದ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಜೋಳದ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಒಂದು ಎಕರೆಗೆ ಸುಮಾರು 3 ರಿಂದ 4 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೀಜೋಪಚಾರಕ್ಕೆ ಯಾವ ರಾಸಾಯನಿಕ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಬೀಜೋಪಚಾರಕ್ಕೆ ಏನು ರಾಸಾಯನಿಕ ಬಳಸಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಬೀಜೋಪಚಾರಕ್ಕೆ ಯಾವ ರಾಸಾಯನಿಕ ಬಳಸಬೇಕು?",
+      "ರೈತರು ಬೀಜೋಪಚಾರಕ್ಕೆ ಯಾವ ರಾಸಾಯನಿಕ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಬೀಜೋಪಚಾರಕ್ಕೆ ಯಾವ ರಾಸಾಯನಿಕ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಥೈರಮ್ ಅಥವಾ ಕ್ಯಾಪ್ಟಾನ್ ಬೆರೆಸಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಥೈರಮ್ ಅಥವಾ ಕ್ಯಾಪ್ಟಾನ್ ಬೆರೆಸಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಥೈರಮ್ ಅಥವಾ ಕ್ಯಾಪ್ಟಾನ್ ಬೆರೆಸಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಥೈರಮ್ ಅಥವಾ ಕ್ಯಾಪ್ಟಾನ್ ಬೆರೆಸಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು"
+      ],
+      "recommended_products": [
+        "3 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೀಜೋಪಚಾರಕ್ಕೆ ಯಾವ ರಾಸಾಯನಿಕ ಬಳಸಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಕೆಜಿ ಬೀಜಕ್ಕೆ 3 ಗ್ರಾಂ ಥೈರಮ್ ಅಥವಾ ಕ್ಯಾಪ್ಟಾನ್ ಬೆರೆಸಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ ಎಷ್ಟು ಅಂತರವಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳ ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ ಎಷ್ಟು ಅಂತರವಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ ಎಷ್ಟು ಅಂತರವಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಬೇಕು.",
+      "detailed_answer": "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಬೇಕು.",
+      "step_by_step": [
+        "ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ",
+        "ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ ಎಷ್ಟು ಅಂತರವಿರಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಲಿನಿಂದ ಸಾಲಿಗೆ 45 ಸೆಂ.ಮೀ ಮತ್ತು ಗಿಡದಿಂದ ಗಿಡಕ್ಕೆ 15 ಸೆಂ.ಮೀ ಅಂತರವಿರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಕಾಂಡ ಕೊರಕ ಹುಳುವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಜೋಳದಲ್ಲಿ ಕಾಂಡ ಕೊರಕ ಹುಳುವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಕಾಂಡ ಕೊರಕ ಹುಳುವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಕಾಂಡ ಕೊರಕ ಹುಳುವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 20 ಇಸಿ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 20 ಇಸಿ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 20 ಇಸಿ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "2 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಕಾಂಡ ಕೊರಕ ಹುಳುವನ್ನು ನಿಯಂತ್ರಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕ್ಲೋರ್‌ಪೈರಿಫಾಸ್ 20 ಇಸಿ 2 ಮಿ.ಲೀ. ಅನ್ನು 1 ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಸುಳಿ ನೊಣ (Shoot fly) ಕಾಟ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳದ ಸುಳಿ ನೊಣ (Shoot fly) ಕಾಟ ತಪ್ಪಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಜೋಳದ ಸುಳಿ ನೊಣ (Shoot fly) ಕಾಟ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Shoot",
+      "Shoot fly",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಸುಳಿ ನೊಣ (Shoot fly) ಕಾಟ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಸಮಯವನ್ನು ಮುಂಚಿತವಾಗಿ ಮಾಡಬೇಕು ಮತ್ತು ಬೀಜಗಳಿಗೆ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಉಪಚರಿಸಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆ ಸಮಯವನ್ನು ಮುಂಚಿತವಾಗಿ ಮಾಡಬೇಕು ಮತ್ತು ಬೀಜಗಳಿಗೆ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಉಪಚರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಸಮಯವನ್ನು ಮುಂಚಿತವಾಗಿ ಮಾಡಬೇಕು",
+        "ಬೀಜಗಳಿಗೆ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಉಪಚರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಸುಳಿ ನೊಣ (Shoot fly) ಕಾಟ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ಸಮಯವನ್ನು ಮುಂಚಿತವಾಗಿ ಮಾಡಬೇಕು ಮತ್ತು ಬೀಜಗಳಿಗೆ ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಉಪಚರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಫಾಲ್ ಆರ್ಮಿವರ್ಮ್ (Fall Armyworm) ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಫಾಲ್ ಆರ್ಮಿವರ್ಮ್ (Fall Armyworm) ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಫಾಲ್ ಆರ್ಮಿವರ್ಮ್ (Fall Armyworm) ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಫಾಲ್ ಆರ್ಮಿವರ್ಮ್ (Fall Armyworm) ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Armyworm",
+      "Fall",
+      "Fall Armyworm",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಫಾಲ್ ಆರ್ಮಿವರ್ಮ್ (Fall Armyworm) ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೋಯೇಟ್ 0.4 ಗ್ರಾಂ ಅಥವಾ ಸ್ಪೈನೋಸ್ಯಾಡ್ 0.3 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೋಯೇಟ್ 0.4 ಗ್ರಾಂ ಅಥವಾ ಸ್ಪೈನೋಸ್ಯಾಡ್ 0.3 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೋಯೇಟ್ 0.4 ಗ್ರಾಂ ಅಥವಾ ಸ್ಪೈನೋಸ್ಯಾಡ್ 0.3 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "0.4 ಗ್ರಾಂ",
+        "0.3 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಫಾಲ್ ಆರ್ಮಿವರ್ಮ್ (Fall Armyworm) ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೋಯೇಟ್ 0.4 ಗ್ರಾಂ ಅಥವಾ ಸ್ಪೈನೋಸ್ಯಾಡ್ 0.3 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬೆಳೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಬೆಳೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "NPK",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬೆಳೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಎಕರೆಗೆ 25 ಕೆಜಿ ಸಾರಜನಕ, 25 ಕೆಜಿ ರಂಜಕ ಮತ್ತು 15 ಕೆಜಿ ಪೊಟ್ಯಾಷ್ ಒದಗಿಸಬೇಕು.",
+      "detailed_answer": "ಒಂದು ಎಕರೆಗೆ 25 ಕೆಜಿ ಸಾರಜನಕ, 25 ಕೆಜಿ ರಂಜಕ ಮತ್ತು 15 ಕೆಜಿ ಪೊಟ್ಯಾಷ್ ಒದಗಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಒಂದು ಎಕರೆಗೆ 25 ಕೆಜಿ ಸಾರಜನಕ",
+        "25 ಕೆಜಿ ರಂಜಕ",
+        "15 ಕೆಜಿ ಪೊಟ್ಯಾಷ್ ಒದಗಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬೆಳೆಗೆ ಎಷ್ಟು ರಸಗೊಬ್ಬರ (NPK) ಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಒಂದು ಎಕರೆಗೆ 25 ಕೆಜಿ ಸಾರಜನಕ, 25 ಕೆಜಿ ರಂಜಕ ಮತ್ತು 15 ಕೆಜಿ ಪೊಟ್ಯಾಷ್ ಒದಗಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಾರಜನಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಕೊಡಬೇಕು?",
+    "question_variants": [
+      "ಸಾರಜನಕ ಗೊಬ್ಬರವನ್ನು ಏನುಾಗ ಕೊಡಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಸಾರಜನಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಕೊಡಬೇಕು?",
+      "ರೈತರು ಸಾರಜನಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಕೊಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಸಾರಜನಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಕೊಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ, ಮತ್ತು 30 ದಿನಗಳ ನಂತರ ಉಳಿದ ಅರ್ಧ ಭಾಗ ಸಾರಜನಕ ಕೊಡಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ, ಮತ್ತು 30 ದಿನಗಳ ನಂತರ ಉಳಿದ ಅರ್ಧ ಭಾಗ ಸಾರಜನಕ ಕೊಡಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ",
+        "30 ದಿನಗಳ ನಂತರ ಉಳಿದ ಅರ್ಧ ಭಾಗ ಸಾರಜನಕ ಕೊಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಾರಜನಕ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಕೊಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ಮಾಡುವಾಗ ಅರ್ಧ ಭಾಗ, ಮತ್ತು 30 ದಿನಗಳ ನಂತರ ಉಳಿದ ಅರ್ಧ ಭಾಗ ಸಾರಜನಕ ಕೊಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಜಿಂಕ್ (ಸತು) ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಜಿಂಕ್ (ಸತು) ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸತು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಜಿಂಕ್ (ಸತು) ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಅಥವಾ ಬಿಳಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಅಥವಾ ಬಿಳಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಅಥವಾ ಬಿಳಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಜಿಂಕ್ (ಸತು) ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಅಥವಾ ಬಿಳಿ ಪಟ್ಟೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜಿಂಕ್ ಕೊರತೆ ನಿವಾರಣೆಗೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಜಿಂಕ್ ಕೊರತೆ ನಿವಾರಣೆಗೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಜಿಂಕ್ ಕೊರತೆ ನಿವಾರಣೆಗೆ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಜಿಂಕ್ ಕೊರತೆ ನಿವಾರಣೆಗೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜಿಂಕ್ ಕೊರತೆ ನಿವಾರಣೆಗೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "detailed_answer": "ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜಿಂಕ್ ಕೊರತೆ ನಿವಾರಣೆಗೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಕರೆಗೆ 10 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಅನ್ನು ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಸೇರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಬ್ಬಿಣದ (Iron) ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸುವುದು?",
+    "question_variants": [
+      "ಕಬ್ಬಿಣದ (Iron) ಕೊರತೆ ಯಾವ ರೀತಿ ಗುರುತಿಸುವುದು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಕಬ್ಬಿಣದ (Iron) ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸುವುದು?",
+      "ರೈತರು ಕಬ್ಬಿಣದ (Iron) ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸುವುದು?"
+    ],
+    "keywords": [
+      "Iron",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಕಬ್ಬಿಣದ (Iron) ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸುವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಸ ಎಲೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ, ಆದರೆ ನರಗಳು ಹಸಿರಾಗಿರುತ್ತವೆ.",
+      "detailed_answer": "ಹೊಸ ಎಲೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ, ಆದರೆ ನರಗಳು ಹಸಿರಾಗಿರುತ್ತವೆ.",
+      "step_by_step": [
+        "ಹೊಸ ಎಲೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ",
+        "ಆದರೆ ನರಗಳು ಹಸಿರಾಗಿರುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಬ್ಬಿಣದ (Iron) ಕೊರತೆ ಹೇಗೆ ಗುರುತಿಸುವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೊಸ ಎಲೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ, ಆದರೆ ನರಗಳು ಹಸಿರಾಗಿರುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಬ್ಬಿಣದ ಕೊರತೆ ಸರಿಪಡಿಸಲು ಯಾವ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಕಬ್ಬಿಣದ ಕೊರತೆ ಸರಿಪಡಿಸಲು ಏನು ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಕಬ್ಬಿಣದ ಕೊರತೆ ಸರಿಪಡಿಸಲು ಯಾವ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಕಬ್ಬಿಣದ ಕೊರತೆ ಸರಿಪಡಿಸಲು ಯಾವ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಕಬ್ಬಿಣದ ಕೊರತೆ ಸರಿಪಡಿಸಲು ಯಾವ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ. 0.5 ರ ಫೆರಸ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಶೇ. 0.5 ರ ಫೆರಸ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಶೇ. 0.5 ರ ಫೆರಸ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಬ್ಬಿಣದ ಕೊರತೆ ಸರಿಪಡಿಸಲು ಯಾವ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಶೇ. 0.5 ರ ಫೆರಸ್ ಸಲ್ಫೇಟ್ ದ್ರಾವಣವನ್ನು ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆಗೆ ಕಳೆನಾಶಕ ಯಾವುದು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ ಕಳೆನಾಶಕ ಏನುುದು?",
+      "ರೈತರು ಜೋಳ ಬೆಳೆಗೆ ಕಳೆನಾಶಕ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Atrazine",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆಗೆ ಕಳೆನಾಶಕ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 1 ಕೆಜಿಯನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 1 ಕೆಜಿಯನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 1 ಕೆಜಿಯನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Atrazine"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆಗೆ ಕಳೆನಾಶಕ ಯಾವುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತಿದ 3 ದಿನಗಳ ಒಳಗೆ ಅಟ್ರಾಜಿನ್ (Atrazine) 1 ಕೆಜಿಯನ್ನು 200 ಲೀಟರ್ ನೀರಿನಲ್ಲಿ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಅಂತರ ಬೇಸಾಯ ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳದಲ್ಲಿ ಅಂತರ ಬೇಸಾಯ ಏನುಾಗ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಅಂತರ ಬೇಸಾಯ ಯಾವಾಗ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಅಂತರ ಬೇಸಾಯ ಯಾವಾಗ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸಲು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸಲು ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಳೆ ನಿಯಂತ್ರಣ",
+        "ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸಲು ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಅಂತರ ಬೇಸಾಯ ಯಾವಾಗ ಮಾಡಬೇಕು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತಿದ 20-25 ದಿನಗಳ ನಂತರ ಕಳೆ ನಿಯಂತ್ರಣ ಮತ್ತು ಮಣ್ಣು ಸಡಿಲಗೊಳಿಸಲು ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಜೋಳದಲ್ಲಿ ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Smut",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜೋಪಚಾರ ಕಡ್ಡಾಯವಾಗಿ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು.",
+      "detailed_answer": "ಬೀಜೋಪಚಾರ ಕಡ್ಡಾಯವಾಗಿ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು.",
+      "step_by_step": [
+        "ಬೀಜೋಪಚಾರ ಕಡ್ಡಾಯವಾಗಿ ಮಾಡುವುದು",
+        "ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು."
+      ],
+      "preventive_measures": [
+        "ಬೀಜೋಪಚಾರ ಕಡ್ಡಾಯವಾಗಿ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಕಾಡಿಗೆ ರೋಗ (Smut) ತಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೀಜೋಪಚಾರ ಕಡ್ಡಾಯವಾಗಿ ಮಾಡುವುದು ಮತ್ತು ರೋಗಗ್ರಸ್ತ ತೆನೆಗಳನ್ನು ಸುಡುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಜೋಳದ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಜೋಳದ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮ್ಯಾಂಕೋಜೆಬ್ 2.5 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಮ್ಯಾಂಕೋಜೆಬ್ 2.5 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಮ್ಯಾಂಕೋಜೆಬ್ 2.5 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "2.5 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮ್ಯಾಂಕೋಜೆಬ್ 2.5 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ತುಕ್ಕು ರೋಗ (Rust) ಬಂದಾಗ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ತುಕ್ಕು ರೋಗ (Rust) ಬಂದಾಗ ಏನು ಔಷಧ ಬಳಸಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ತುಕ್ಕು ರೋಗ (Rust) ಬಂದಾಗ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+      "ರೈತರು ತುಕ್ಕು ರೋಗ (Rust) ಬಂದಾಗ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Rust",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ತುಕ್ಕು ರೋಗ (Rust) ಬಂದಾಗ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "1 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತುಕ್ಕು ರೋಗ (Rust) ಬಂದಾಗ ಯಾವ ಔಷಧ ಬಳಸಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೆಕ್ಸಾಕೊನಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೊನಜೋಲ್ 1 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೆಳೆ ಸುಳಿ ಒಣಗುವುದು (Charcoal rot) ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಬೆಳೆ ಸುಳಿ ಒಣಗುವುದು (Charcoal rot) ನಿಯಂತ್ರಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಬೆಳೆ ಸುಳಿ ಒಣಗುವುದು (Charcoal rot) ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಬೆಳೆ ಸುಳಿ ಒಣಗುವುದು (Charcoal rot) ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Charcoal",
+      "Charcoal rot",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಬೆಳೆ ಸುಳಿ ಒಣಗುವುದು (Charcoal rot) ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಕಾಪಾಡುವುದು ಮತ್ತು ಬೆಳೆ ಪರಿವರ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಗತ್ಯ.",
+      "detailed_answer": "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಕಾಪಾಡುವುದು ಮತ್ತು ಬೆಳೆ ಪರಿವರ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಗತ್ಯ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಕಾಪಾಡುವುದು",
+        "ಬೆಳೆ ಪರಿವರ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಗತ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೆಳೆ ಸುಳಿ ಒಣಗುವುದು (Charcoal rot) ನಿಯಂತ್ರಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನಲ್ಲಿ ತೇವಾಂಶ ಕಾಪಾಡುವುದು ಮತ್ತು ಬೆಳೆ ಪರಿವರ್ತನೆ ಮಾಡುವುದು ಅತ್ಯಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮೈರಿಡ್ ಬಗ್ (Mirid bug) ಹಾವಳಿಯನ್ನು ಹೇಗೆ ತಡೆಯುವುದು?",
+    "question_variants": [
+      "ಮೈರಿಡ್ ಬಗ್ (Mirid bug) ಹಾವಳಿಯನ್ನು ಯಾವ ರೀತಿ ತಡೆಯುವುದು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಮೈರಿಡ್ ಬಗ್ (Mirid bug) ಹಾವಳಿಯನ್ನು ಹೇಗೆ ತಡೆಯುವುದು?",
+      "ರೈತರು ಮೈರಿಡ್ ಬಗ್ (Mirid bug) ಹಾವಳಿಯನ್ನು ಹೇಗೆ ತಡೆಯುವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Mirid",
+      "Mirid bug",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಮೈರಿಡ್ ಬಗ್ (Mirid bug) ಹಾವಳಿಯನ್ನು ಹೇಗೆ ತಡೆಯುವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಡೈಮಿಥೋಯೇಟ್ 1.7 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಹೂ ಬಿಡುವಾಗ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಡೈಮಿಥೋಯೇಟ್ 1.7 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಹೂ ಬಿಡುವಾಗ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಡೈಮಿಥೋಯೇಟ್ 1.7 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಹೂ ಬಿಡುವಾಗ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "1.7 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮೈರಿಡ್ ಬಗ್ (Mirid bug) ಹಾವಳಿಯನ್ನು ಹೇಗೆ ತಡೆಯುವುದು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಡೈಮಿಥೋಯೇಟ್ 1.7 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಹೂ ಬಿಡುವಾಗ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ?",
+      "ರೈತರು ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಈ ಹಂತದಲ್ಲಿ ತೇವಾಂಶದ ಕೊರತೆಯಾದರೆ ಪರಾಗಸ್ಪರ್ಶ ಕುಂಠಿತಗೊಂಡು ಕಾಳುಗಳು ಜೊಳ್ಳಾಗುತ್ತವೆ.",
+      "detailed_answer": "ಈ ಹಂತದಲ್ಲಿ ತೇವಾಂಶದ ಕೊರತೆಯಾದರೆ ಪರಾಗಸ್ಪರ್ಶ ಕುಂಠಿತಗೊಂಡು ಕಾಳುಗಳು ಜೊಳ್ಳಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ಈ ಹಂತದಲ್ಲಿ ತೇವಾಂಶದ ಕೊರತೆಯಾದರೆ ಪರಾಗಸ್ಪರ್ಶ ಕುಂಠಿತಗೊಂಡು ಕಾಳುಗಳು ಜೊಳ್ಳಾಗುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಏಕೆ ಮುಖ್ಯ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಈ ಹಂತದಲ್ಲಿ ತೇವಾಂಶದ ಕೊರತೆಯಾದರೆ ಪರಾಗಸ್ಪರ್ಶ ಕುಂಠಿತಗೊಂಡು ಕಾಳುಗಳು ಜೊಳ್ಳಾಗುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರುಣಿಸಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರುಣಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರುಣಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಗುಣಲಕ್ಷಣಗಳ ಆಧಾರದ ಮೇಲೆ 4-5 ಬಾರಿ (ಮುಖ್ಯವಾಗಿ ಸುಳಿ, ಹೂ ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತ) ನೀರುಣಿಸಬೇಕು.",
+      "detailed_answer": "ಮಣ್ಣಿನ ಗುಣಲಕ್ಷಣಗಳ ಆಧಾರದ ಮೇಲೆ 4-5 ಬಾರಿ (ಮುಖ್ಯವಾಗಿ ಸುಳಿ, ಹೂ ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತ) ನೀರುಣಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಗುಣಲಕ್ಷಣಗಳ ಆಧಾರದ ಮೇಲೆ 4-5 ಬಾರಿ (ಮುಖ್ಯವಾಗಿ ಸುಳಿ",
+        "ಕಾಳು ಕಟ್ಟುವ ಹಂತ) ನೀರುಣಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರುಣಿಸಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಗುಣಲಕ್ಷಣಗಳ ಆಧಾರದ ಮೇಲೆ 4-5 ಬಾರಿ (ಮುಖ್ಯವಾಗಿ ಸುಳಿ, ಹೂ ಮತ್ತು ಕಾಳು ಕಟ್ಟುವ ಹಂತ) ನೀರುಣಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರೋಗ ಮುಕ್ತ ಬೀಜಗಳನ್ನು ಪಡೆಯುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ರೋಗ ಮುಕ್ತ ಬೀಜಗಳನ್ನು ಪಡೆಯುವುದು ಯಾವ ರೀತಿ?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ರೋಗ ಮುಕ್ತ ಬೀಜಗಳನ್ನು ಪಡೆಯುವುದು ಹೇಗೆ?",
+      "ರೈತರು ರೋಗ ಮುಕ್ತ ಬೀಜಗಳನ್ನು ಪಡೆಯುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ರೋಗ ಮುಕ್ತ ಬೀಜಗಳನ್ನು ಪಡೆಯುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಖರೀದಿಸಬೇಕು ಅಥವಾ ಉತ್ತಮ ತೆನೆಗಳನ್ನು ಆರಿಸಿ ಬೀಜಕ್ಕಾಗಿ ಇಡಬೇಕು.",
+      "detailed_answer": "ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಖರೀದಿಸಬೇಕು ಅಥವಾ ಉತ್ತಮ ತೆನೆಗಳನ್ನು ಆರಿಸಿ ಬೀಜಕ್ಕಾಗಿ ಇಡಬೇಕು.",
+      "step_by_step": [
+        "ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಖರೀದಿಸಬೇಕು ಅಥವಾ ಉತ್ತಮ ತೆನೆಗಳನ್ನು ಆರಿಸಿ ಬೀಜಕ್ಕಾಗಿ ಇಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೋಗ ಮುಕ್ತ ಬೀಜಗಳನ್ನು ಪಡೆಯುವುದು ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಖರೀದಿಸಬೇಕು ಅಥವಾ ಉತ್ತಮ ತೆನೆಗಳನ್ನು ಆರಿಸಿ ಬೀಜಕ್ಕಾಗಿ ಇಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಸೈಕ್ಲೋಸ್ಫೋರ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣವೇನು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಸೈಕ್ಲೋಸ್ಫೋರ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣವೇನು?",
+      "ರೈತರು ಸೈಕ್ಲೋಸ್ಫೋರ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣವೇನು?"
+    ],
+    "keywords": [
+      "Downy",
+      "Downy Mildew",
+      "Karnataka",
+      "Mildew",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಸೈಕ್ಲೋಸ್ಫೋರ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣವೇನು?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಮತ್ತು ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬಂದು ಗಿಡ ಗಿಡ್ಡವಾಗುತ್ತದೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಮತ್ತು ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬಂದು ಗಿಡ ಗಿಡ್ಡವಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಮತ್ತು ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬಂದು ಗಿಡ ಗಿಡ್ಡವಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ",
+        "ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬಂದು ಗಿಡ ಗಿಡ್ಡವಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸೈಕ್ಲೋಸ್ಫೋರ (Downy Mildew) ರೋಗದ ಲಕ್ಷಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಹಳದಿ ಮತ್ತು ಬಿಳಿ ಪಟ್ಟೆಗಳು ಬಂದು ಗಿಡ ಗಿಡ್ಡವಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮೆಟಲಾಕ್ಸಿಲ್ MZ 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಮೆಟಲಾಕ್ಸಿಲ್ MZ 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಮೆಟಲಾಕ್ಸಿಲ್ MZ 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "2 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಡೌನಿ ಮಿಲ್ಡ್ಯೂ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮೆಟಲಾಕ್ಸಿಲ್ MZ 2 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಕ್ಕಿಗಳ ಕಾಟದಿಂದ ತೆನೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಹಕ್ಕಿಗಳ ಕಾಟದಿಂದ ತೆನೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಹಕ್ಕಿಗಳ ಕಾಟದಿಂದ ತೆನೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಹಕ್ಕಿಗಳ ಕಾಟದಿಂದ ತೆನೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹಕ್ಕಿಗಳ ಕಾಟದಿಂದ ತೆನೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೆಳಗ್ಗೆ ಮತ್ತು ಸಂಜೆ ಹೊಲದಲ್ಲಿ ಶಬ್ದ ಮಾಡುವುದು ಹಾಗೂ ಹಕ್ಕಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು.",
+      "detailed_answer": "ಬೆಳಗ್ಗೆ ಮತ್ತು ಸಂಜೆ ಹೊಲದಲ್ಲಿ ಶಬ್ದ ಮಾಡುವುದು ಹಾಗೂ ಹಕ್ಕಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು.",
+      "step_by_step": [
+        "ಸಂಜೆ ಹೊಲದಲ್ಲಿ ಶಬ್ದ ಮಾಡುವುದು ಹಾಗೂ ಹಕ್ಕಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಕ್ಕಿಗಳ ಕಾಟದಿಂದ ತೆನೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೆಳಗ್ಗೆ ಮತ್ತು ಸಂಜೆ ಹೊಲದಲ್ಲಿ ಶಬ್ದ ಮಾಡುವುದು ಹಾಗೂ ಹಕ್ಕಿ ಬೆದರುಬೊಂಬೆ ನಿಲ್ಲಿಸುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಕಟಾವು ಮಾಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?",
+    "question_variants": [
+      "ಜೋಳ ಕಟಾವು ಮಾಡುವ ಸರಿಯಾದ ಸಮಯ ಏನುುದು?",
+      "ರೈತರು ಜೋಳ ಕಟಾವು ಮಾಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಕಟಾವು ಮಾಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ ಕಟಾವು ಮಾಡಬೇಕು.",
+      "detailed_answer": "ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ ಕಟಾವು ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ",
+        "ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ ಕಟಾವು ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಕಟಾವು ಮಾಡುವ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ತೆನೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಕಾಳುಗಳು ಗಟ್ಟಿಯಾದಾಗ ಕಟಾವು ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಕಟಾವಿನ ನಂತರ ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಕಟಾವಿನ ನಂತರ ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+      "ರೈತರು ಕಟಾವಿನ ನಂತರ ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಕಟಾವಿನ ನಂತರ ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇಖರಣೆಗಾಗಿ ಧಾನ್ಯದಲ್ಲಿ ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "detailed_answer": "ಶೇಖರಣೆಗಾಗಿ ಧಾನ್ಯದಲ್ಲಿ ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು.",
+      "step_by_step": [
+        "ಶೇಖರಣೆಗಾಗಿ ಧಾನ್ಯದಲ್ಲಿ ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಕಟಾವಿನ ನಂತರ ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶೇಖರಣೆಗಾಗಿ ಧಾನ್ಯದಲ್ಲಿ ಶೇ. 10 ರಿಂದ 12 ರಷ್ಟು ಮಾತ್ರ ತೇವಾಂಶ ಇರಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಅಂದಾಜು ಎಷ್ಟು ಇಳುವರಿ ಬರುತ್ತದೆ?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಒಂದು ಎಕರೆಗೆ ಅಂದಾಜು ಎಷ್ಟು ಇಳುವರಿ ಬರುತ್ತದೆ?",
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಅಂದಾಜು ಎಷ್ಟು ಇಳುವರಿ ಬರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಅಂದಾಜು ಎಷ್ಟು ಇಳುವರಿ ಬರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಹೈಬ್ರಿಡ್ ತಳಿಗಳಲ್ಲಿ 15-20 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ಪಡೆಯಬಹುದು.",
+      "detailed_answer": "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಹೈಬ್ರಿಡ್ ತಳಿಗಳಲ್ಲಿ 15-20 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ಪಡೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಹೈಬ್ರಿಡ್ ತಳಿಗಳಲ್ಲಿ 15-20 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ಪಡೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಅಂದಾಜು ಎಷ್ಟು ಇಳುವರಿ ಬರುತ್ತದೆ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಉತ್ತಮ ನಿರ್ವಹಣೆಯಿಂದ ಹೈಬ್ರಿಡ್ ತಳಿಗಳಲ್ಲಿ 15-20 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ಪಡೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯುವಾಗ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯುವಾಗ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+      "ರೈತರು ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯುವಾಗ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯುವಾಗ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ 5-8 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "detailed_answer": "ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ 5-8 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ 5-8 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ನಿರೀಕ್ಷಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಳೆಯಾಶ್ರಿತವಾಗಿ ಬೆಳೆಯುವಾಗ ಇಳುವರಿ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಳೆಯಾಶ್ರಿತದಲ್ಲಿ 5-8 ಕ್ವಿಂಟಾಲ್ ಧಾನ್ಯ ನಿರೀಕ್ಷಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ದಂಟನ್ನು (Fodder) ಹೇಗೆ ಬಳಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಜೋಳದ ದಂಟನ್ನು (Fodder) ಯಾವ ರೀತಿ ಬಳಸುತ್ತಾರೆ?",
+      "ರೈತರು ಜೋಳದ ದಂಟನ್ನು (Fodder) ಹೇಗೆ ಬಳಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Fodder",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಹೊಟ್ಟು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ದಂಟನ್ನು (Fodder) ಹೇಗೆ ಬಳಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದನ್ನು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಒಣ ಮೇವಾಗಿ (ಹೊಟ್ಟು) ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಇದನ್ನು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಒಣ ಮೇವಾಗಿ (ಹೊಟ್ಟು) ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಇದನ್ನು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಒಣ ಮೇವಾಗಿ (ಹೊಟ್ಟು) ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಹೊಟ್ಟು"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ದಂಟನ್ನು (Fodder) ಹೇಗೆ ಬಳಸುತ್ತಾರೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇದನ್ನು ದನಕರುಗಳಿಗೆ ಅತ್ಯುತ್ತಮ ಒಣ ಮೇವಾಗಿ (ಹೊಟ್ಟು) ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಟನ್ ಮೇವು ಸಿಗಬಹುದು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಟನ್ ಮೇವು ಸಿಗಬಹುದು?",
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಟನ್ ಮೇವು ಸಿಗಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಟನ್ ಮೇವು ಸಿಗಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಒಣ ಮೇವು ಸಿಗುತ್ತದೆ.",
+      "detailed_answer": "ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಒಣ ಮೇವು ಸಿಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಒಣ ಮೇವು ಸಿಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಟನ್ ಮೇವು ಸಿಗಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸುಮಾರು 3 ರಿಂದ 4 ಟನ್ ಒಣ ಮೇವು ಸಿಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮಾಡಿಸಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮಾಡಿಸಬೇಕು?",
+      "ರೈತರು ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮಾಡಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮಾಡಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನಲ್ಲಿರುವ ರಸಗೊಬ್ಬರದ ಪ್ರಮಾಣ ತಿಳಿಯಲು ಮತ್ತು ಅಗತ್ಯವಿರುವ ಗೊಬ್ಬರ ಮಾತ್ರ ನೀಡಲು.",
+      "detailed_answer": "ಮಣ್ಣಿನಲ್ಲಿರುವ ರಸಗೊಬ್ಬರದ ಪ್ರಮಾಣ ತಿಳಿಯಲು ಮತ್ತು ಅಗತ್ಯವಿರುವ ಗೊಬ್ಬರ ಮಾತ್ರ ನೀಡಲು.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನಲ್ಲಿರುವ ರಸಗೊಬ್ಬರದ ಪ್ರಮಾಣ ತಿಳಿಯಲು",
+        "ಅಗತ್ಯವಿರುವ ಗೊಬ್ಬರ ಮಾತ್ರ ನೀಡಲು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮಾಡಿಸಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನಲ್ಲಿರುವ ರಸಗೊಬ್ಬರದ ಪ್ರಮಾಣ ತಿಳಿಯಲು ಮತ್ತು ಅಗತ್ಯವಿರುವ ಗೊಬ್ಬರ ಮಾತ್ರ ನೀಡಲು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆದ ನಂತರ ಹೊಲದಲ್ಲಿ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆದ ನಂತರ ಹೊಲದಲ್ಲಿ ಏನು ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+      "ರೈತರು ಜೋಳ ಬೆಳೆದ ನಂತರ ಹೊಲದಲ್ಲಿ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆದ ನಂತರ ಹೊಲದಲ್ಲಿ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಡಲೆ, ಹೆಸರು, ಅಥವಾ ಶೇಂಗಾ ಬೆಳೆಯುವುದರಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಕಡಲೆ, ಹೆಸರು, ಅಥವಾ ಶೇಂಗಾ ಬೆಳೆಯುವುದರಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಅಥವಾ ಶೇಂಗಾ ಬೆಳೆಯುವುದರಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆದ ನಂತರ ಹೊಲದಲ್ಲಿ ಯಾವ ಬೆಳೆ ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಡಲೆ, ಹೆಸರು, ಅಥವಾ ಶೇಂಗಾ ಬೆಳೆಯುವುದರಿಂದ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಜೋಳದ ಹೊಲಕ್ಕೆ ಹಾಕಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಜೋಳದ ಹೊಲಕ್ಕೆ ಹಾಕಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "fertilizer",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಜೋಳದ ಹೊಲಕ್ಕೆ ಹಾಕಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಸೆಣಬು ಅಥವಾ ಡಯಾಂಚಾ ಬೆಳೆದು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಸೆಣಬು ಅಥವಾ ಡಯಾಂಚಾ ಬೆಳೆದು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಸೆಣಬು ಅಥವಾ ಡಯಾಂಚಾ ಬೆಳೆದು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಸಿರೆಲೆ ಗೊಬ್ಬರವನ್ನು ಜೋಳದ ಹೊಲಕ್ಕೆ ಹಾಕಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಬಿತ್ತನೆಗೆ 1 ತಿಂಗಳ ಮುಂಚೆ ಸೆಣಬು ಅಥವಾ ಡಯಾಂಚಾ ಬೆಳೆದು ಮಣ್ಣಿಗೆ ಸೇರಿಸಿದರೆ ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟಿರಬೇಕು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟಿರಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟಿರಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜಗಳನ್ನು 3 ರಿಂದ 4 ಸೆಂ.ಮೀ. ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು.",
+      "detailed_answer": "ಬೀಜಗಳನ್ನು 3 ರಿಂದ 4 ಸೆಂ.ಮೀ. ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು.",
+      "step_by_step": [
+        "ಬೀಜಗಳನ್ನು 3 ರಿಂದ 4 ಸೆಂ.ಮೀ. ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟಿರಬೇಕು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಬೀಜಗಳನ್ನು 3 ರಿಂದ 4 ಸೆಂ.ಮೀ. ಆಳದಲ್ಲಿ ಬಿತ್ತಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೆಚ್ಚು ಆಳವಾಗಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಹೆಚ್ಚು ಆಳವಾಗಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?",
+      "ರೈತರು ಹೆಚ್ಚು ಆಳವಾಗಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹೆಚ್ಚು ಆಳವಾಗಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೀಜ ಸರಿಯಾಗಿ ಮೊಳಕೆಯೊಡೆಯುವುದಿಲ್ಲ ಮತ್ತು ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಬೀಜ ಸರಿಯಾಗಿ ಮೊಳಕೆಯೊಡೆಯುವುದಿಲ್ಲ ಮತ್ತು ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬೀಜ ಸರಿಯಾಗಿ ಮೊಳಕೆಯೊಡೆಯುವುದಿಲ್ಲ",
+        "ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೆಚ್ಚು ಆಳವಾಗಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಬೀಜ ಸರಿಯಾಗಿ ಮೊಳಕೆಯೊಡೆಯುವುದಿಲ್ಲ ಮತ್ತು ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸಿಹಿ ಜೋಳ (Sweet Sorghum) ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಸಿಹಿ ಜೋಳ (Sweet Sorghum) ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Sorghum",
+      "Sweet",
+      "Sweet Sorghum",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಸಿಹಿ ಜೋಳ (Sweet Sorghum) ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದರ ಕಾಂಡದಲ್ಲಿ ಸಿಹಿ ರಸವಿದ್ದು, ಇಥೆನಾಲ್ ಮತ್ತು ಬೆಲ್ಲ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+      "detailed_answer": "ಇದರ ಕಾಂಡದಲ್ಲಿ ಸಿಹಿ ರಸವಿದ್ದು, ಇಥೆನಾಲ್ ಮತ್ತು ಬೆಲ್ಲ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಇದರ ಕಾಂಡದಲ್ಲಿ ಸಿಹಿ ರಸವಿದ್ದು",
+        "ಬೆಲ್ಲ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸಿಹಿ ಜೋಳ (Sweet Sorghum) ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಇದರ ಕಾಂಡದಲ್ಲಿ ಸಿಹಿ ರಸವಿದ್ದು, ಇಥೆನಾಲ್ ಮತ್ತು ಬೆಲ್ಲ ತಯಾರಿಸಲು ಬಳಸುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೋಳದಲ್ಲಿ ಶೇ. 10-12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "detailed_answer": "ಜೋಳದಲ್ಲಿ ಶೇ. 10-12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಜೋಳದಲ್ಲಿ ಶೇ. 10-12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಪ್ರೋಟೀನ್ ಪ್ರಮಾಣ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಜೋಳದಲ್ಲಿ ಶೇ. 10-12 ರಷ್ಟು ಉತ್ತಮ ಪ್ರೋಟೀನ್ ಇರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?"
+    ],
+    "keywords": [
+      "4:1 ಅಥವಾ 2:1 ಅನುಪಾತದಲ್ಲಿ",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೊಗರಿಯನ್ನು (4:1 ಅಥವಾ 2:1 ಅನುಪಾತದಲ್ಲಿ) ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ತೊಗರಿಯನ್ನು (4:1 ಅಥವಾ 2:1 ಅನುಪಾತದಲ್ಲಿ) ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ತೊಗರಿಯನ್ನು (4:1 ಅಥವಾ 2:1 ಅನುಪಾತದಲ್ಲಿ) ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "4:1 ಅಥವಾ 2:1 ಅನುಪಾತದಲ್ಲಿ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಏನನ್ನು ಬೆಳೆಯಬಹುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತೊಗರಿಯನ್ನು (4:1 ಅಥವಾ 2:1 ಅನುಪಾತದಲ್ಲಿ) ಅಕ್ಕಡಿ ಬೆಳೆಯಾಗಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಅಕ್ಕಡಿ ಬೆಳೆಯ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಅಕ್ಕಡಿ ಬೆಳೆಯ ಲಾಭವೇನು?",
+      "ರೈತರು ಅಕ್ಕಡಿ ಬೆಳೆಯ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಅಕ್ಕಡಿ ಬೆಳೆಯ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಬೆಳೆ ವಿಫಲವಾದರೂ ಇನ್ನೊಂದು ಬೆಳೆ ಆದಾಯ ನೀಡುತ್ತದೆ ಮತ್ತು ಮಣ್ಣಿನ ಸಾರಜನಕ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಒಂದು ಬೆಳೆ ವಿಫಲವಾದರೂ ಇನ್ನೊಂದು ಬೆಳೆ ಆದಾಯ ನೀಡುತ್ತದೆ ಮತ್ತು ಮಣ್ಣಿನ ಸಾರಜನಕ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಒಂದು ಬೆಳೆ ವಿಫಲವಾದರೂ ಇನ್ನೊಂದು ಬೆಳೆ ಆದಾಯ ನೀಡುತ್ತದೆ",
+        "ಮಣ್ಣಿನ ಸಾರಜನಕ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಅಕ್ಕಡಿ ಬೆಳೆಯ ಲಾಭವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಒಂದು ಬೆಳೆ ವಿಫಲವಾದರೂ ಇನ್ನೊಂದು ಬೆಳೆ ಆದಾಯ ನೀಡುತ್ತದೆ ಮತ್ತು ಮಣ್ಣಿನ ಸಾರಜನಕ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಜೋಳದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Aphids",
+      "Dimethoate",
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Dimethoate",
+        "1.5 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಎಲೆಹೇನು (Aphids) ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗರ್ (Dimethoate) 1.5 ಮಿ.ಲೀ. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಮಡ್ಜ್ (Midge) ಕೀಟದ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಮಡ್ಜ್ (Midge) ಕೀಟದ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Midge",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಮಡ್ಜ್ (Midge) ಕೀಟದ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೂ ಬಿಡುವಾಗ ಸಣ್ಣ ನೊಣಗಳು ಮೊಟ್ಟೆ ಇಟ್ಟು ಕಾಳು ಕಟ್ಟದಂತೆ ಮಾಡುತ್ತವೆ.",
+      "detailed_answer": "ಹೂ ಬಿಡುವಾಗ ಸಣ್ಣ ನೊಣಗಳು ಮೊಟ್ಟೆ ಇಟ್ಟು ಕಾಳು ಕಟ್ಟದಂತೆ ಮಾಡುತ್ತವೆ.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವಾಗ ಸಣ್ಣ ನೊಣಗಳು ಮೊಟ್ಟೆ ಇಟ್ಟು ಕಾಳು ಕಟ್ಟದಂತೆ ಮಾಡುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಮಡ್ಜ್ (Midge) ಕೀಟದ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂ ಬಿಡುವಾಗ ಸಣ್ಣ ನೊಣಗಳು ಮೊಟ್ಟೆ ಇಟ್ಟು ಕಾಳು ಕಟ್ಟದಂತೆ ಮಾಡುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಮಡ್ಜ್ ಕೀಟ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಮಡ್ಜ್ ಕೀಟ ತಡೆಗಟ್ಟುವುದು ಯಾವ ರೀತಿ?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಮಡ್ಜ್ ಕೀಟ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಮಡ್ಜ್ ಕೀಟ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಮಡ್ಜ್ ಕೀಟ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "2 ಮಿ.ಲೀ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಡ್ಜ್ ಕೀಟ ತಡೆಗಟ್ಟುವುದು ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂ ಬಿಡುವ ಸಮಯದಲ್ಲಿ ಕ್ವಿನಾಲ್ಫಾಸ್ 2 ಮಿ.ಲೀ. ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಸ್ಟ್ರೈಗಾ (Striga) ಕಳೆ ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಸ್ಟ್ರೈಗಾ (Striga) ಕಳೆ ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Striga",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಸ್ಟ್ರೈಗಾ (Striga) ಕಳೆ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಬೇರಿಗೆ ಅಂಟಿಕೊಳ್ಳುವ ಪರಾವಲಂಬಿ ಕಳೆಯಾಗಿದ್ದು, ಗಿಡದ ರಸ ಹೀರಿ ಒಣಗಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಬೇರಿಗೆ ಅಂಟಿಕೊಳ್ಳುವ ಪರಾವಲಂಬಿ ಕಳೆಯಾಗಿದ್ದು, ಗಿಡದ ರಸ ಹೀರಿ ಒಣಗಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ಬೇರಿಗೆ ಅಂಟಿಕೊಳ್ಳುವ ಪರಾವಲಂಬಿ ಕಳೆಯಾಗಿದ್ದು",
+        "ಗಿಡದ ರಸ ಹೀರಿ ಒಣಗಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಸ್ಟ್ರೈಗಾ (Striga) ಕಳೆ ಎಂದರೇನು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಇದು ಬೇರಿಗೆ ಅಂಟಿಕೊಳ್ಳುವ ಪರಾವಲಂಬಿ ಕಳೆಯಾಗಿದ್ದು, ಗಿಡದ ರಸ ಹೀರಿ ಒಣಗಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಸ್ಟ್ರೈಗಾ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಸ್ಟ್ರೈಗಾ ಕಳೆ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಸ್ಟ್ರೈಗಾ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "ರೈತರು ಸ್ಟ್ರೈಗಾ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಸ್ಟ್ರೈಗಾ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೈಯಿಂದ ಕೀಳಬೇಕು ಅಥವಾ ಬಿತ್ತನೆಗೆ ಮುನ್ನ 2,4-D ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಕೈಯಿಂದ ಕೀಳಬೇಕು ಅಥವಾ ಬಿತ್ತನೆಗೆ ಮುನ್ನ 2,4-D ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಕೈಯಿಂದ ಕೀಳಬೇಕು ಅಥವಾ ಬಿತ್ತನೆಗೆ ಮುನ್ನ 2",
+        "4-D ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಕೈಯಿಂದ ಕೀಳಬೇಕು ಅಥವಾ ಬಿತ್ತನೆಗೆ ಮುನ್ನ 2,4-D ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಸ್ಟ್ರೈಗಾ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಕೈಯಿಂದ ಕೀಳಬೇಕು ಅಥವಾ ಬಿತ್ತನೆಗೆ ಮುನ್ನ 2,4-D ಕಳೆನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಬಳಸದೆ ಸಾವಯವ ರೀತಿಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಬಳಸದೆ ಸಾವಯವ ರೀತಿಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಬಳಸದೆ ಸಾವಯವ ರೀತಿಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ, ಜೀವಾಮೃತ ಮತ್ತು ಎರೆಹುಳು ಗೊಬ್ಬರ ಬಳಸಿ ಬೆಳೆಯಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ, ಜೀವಾಮೃತ ಮತ್ತು ಎರೆಹುಳು ಗೊಬ್ಬರ ಬಳಸಿ ಬೆಳೆಯಬಹುದು.",
+      "step_by_step": [
+        "ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+        "ಎರೆಹುಳು ಗೊಬ್ಬರ ಬಳಸಿ ಬೆಳೆಯಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ",
+        "ಜೀವಾಮೃತ ಮತ್ತು ಎರೆಹುಳು ಗೊಬ್ಬರ ಬಳಸಿ ಬೆಳೆಯಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರಾಸಾಯನಿಕ ಗೊಬ್ಬರ ಬಳಸದೆ ಸಾವಯವ ರೀತಿಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ, ಜೀವಾಮೃತ ಮತ್ತು ಎರೆಹುಳು ಗೊಬ್ಬರ ಬಳಸಿ ಬೆಳೆಯಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು?",
+      "ರೈತರು ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಗೆ ಮುಂಚೆ 3-4 ಟನ್ ಚೆನ್ನಾಗಿ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆಗೆ ಮುಂಚೆ 3-4 ಟನ್ ಚೆನ್ನಾಗಿ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ ಮುಂಚೆ 3-4 ಟನ್ ಚೆನ್ನಾಗಿ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬಿತ್ತನೆಗೆ ಮುಂಚೆ 3-4 ಟನ್ ಚೆನ್ನಾಗಿ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಒಂದು ಎಕರೆಗೆ ಎಷ್ಟು ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆಗೆ ಮುಂಚೆ 3-4 ಟನ್ ಚೆನ್ನಾಗಿ ಕಳಿತ ಕೊಟ್ಟಿಗೆ ಗೊಬ್ಬರ ಹಾಕಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ ಉಪಚರಿಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ ಉಪಚರಿಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ ಉಪಚರಿಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಅಜೋಸ್ಪೈರಿಲಂ ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ. ತಲಾ 200 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆ ಬೀಜಕ್ಕೆ ಬೆರೆಸಬೇಕು.",
+      "detailed_answer": "ಹೌದು, ಅಜೋಸ್ಪೈರಿಲಂ ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ. ತಲಾ 200 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆ ಬೀಜಕ್ಕೆ ಬೆರೆಸಬೇಕು.",
+      "step_by_step": [
+        "ಅಜೋಸ್ಪೈರಿಲಂ",
+        "ಪಿ.ಎಸ್.ಬಿ. ತಲಾ 200 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆ ಬೀಜಕ್ಕೆ ಬೆರೆಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "200 ಗ್ರಾಂ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬೀಜಗಳಿಗೆ ಜೈವಿಕ ಗೊಬ್ಬರ ಉಪಚರಿಸಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಅಜೋಸ್ಪೈರಿಲಂ ಮತ್ತು ಪಿ.ಎಸ್.ಬಿ. ತಲಾ 200 ಗ್ರಾಂ ಪ್ರತಿ ಎಕರೆ ಬೀಜಕ್ಕೆ ಬೆರೆಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೈವಿಕ ಗೊಬ್ಬರಗಳ ಉಪಯೋಗವೇನು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಜೈವಿಕ ಗೊಬ್ಬರಗಳ ಉಪಯೋಗವೇನು?",
+      "ರೈತರು ಜೈವಿಕ ಗೊಬ್ಬರಗಳ ಉಪಯೋಗವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೈವಿಕ ಗೊಬ್ಬರಗಳ ಉಪಯೋಗವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾಸಾಯನಿಕ ಗೊಬ್ಬರದ ಖರ್ಚನ್ನು ಶೇ. 20-25 ರಷ್ಟು ಕಡಿಮೆ ಮಾಡಬಹುದು.",
+      "detailed_answer": "ರಾಸಾಯನಿಕ ಗೊಬ್ಬರದ ಖರ್ಚನ್ನು ಶೇ. 20-25 ರಷ್ಟು ಕಡಿಮೆ ಮಾಡಬಹುದು.",
+      "step_by_step": [
+        "ರಾಸಾಯನಿಕ ಗೊಬ್ಬರದ ಖರ್ಚನ್ನು ಶೇ. 20-25 ರಷ್ಟು ಕಡಿಮೆ ಮಾಡಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ರಾಸಾಯನಿಕ ಗೊಬ್ಬರದ ಖರ್ಚನ್ನು ಶೇ"
+      ]
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೈವಿಕ ಗೊಬ್ಬರಗಳ ಉಪಯೋಗವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಾಸಾಯನಿಕ ಗೊಬ್ಬರದ ಖರ್ಚನ್ನು ಶೇ. 20-25 ರಷ್ಟು ಕಡಿಮೆ ಮಾಡಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೇಸಿಗೆಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವಾಗ ಯಾವ ಕಾಳಜಿ ವಹಿಸಬೇಕು?",
+    "question_variants": [
+      "ಬೇಸಿಗೆಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವಾಗ ಏನು ಕಾಳಜಿ ವಹಿಸಬೇಕು?",
+      "ರೈತರು ಬೇಸಿಗೆಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವಾಗ ಯಾವ ಕಾಳಜಿ ವಹಿಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಬೇಸಿಗೆಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವಾಗ ಯಾವ ಕಾಳಜಿ ವಹಿಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೆಚ್ಚು ಉಷ್ಣತೆಯಿರುವುದರಿಂದ 8-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಕಡ್ಡಾಯವಾಗಿ ನೀರು ಹಾಯಿಸಬೇಕು.",
+      "detailed_answer": "ಹೆಚ್ಚು ಉಷ್ಣತೆಯಿರುವುದರಿಂದ 8-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಕಡ್ಡಾಯವಾಗಿ ನೀರು ಹಾಯಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಹೆಚ್ಚು ಉಷ್ಣತೆಯಿರುವುದರಿಂದ 8-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಕಡ್ಡಾಯವಾಗಿ ನೀರು ಹಾಯಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೇಸಿಗೆಯಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವಾಗ ಯಾವ ಕಾಳಜಿ ವಹಿಸಬೇಕು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೆಚ್ಚು ಉಷ್ಣತೆಯಿರುವುದರಿಂದ 8-10 ದಿನಗಳಿಗೊಮ್ಮೆ ಕಡ್ಡಾಯವಾಗಿ ನೀರು ಹಾಯಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಸುಳಿಯಲ್ಲಿ ಮರಳು ಹಾಕುವುದೇಕೆ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಸುಳಿಯಲ್ಲಿ ಮರಳು ಹಾಕುವುದೇಕೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಸುಳಿಯಲ್ಲಿ ಮರಳು ಹಾಕುವುದೇಕೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಂಡ ಕೊರಕ ಹುಳುಗಳು ಮತ್ತು ಸುಳಿ ನೊಣಗಳನ್ನು ತಡೆಯಲು ರೈತರು ಮರಳು ಅಥವಾ ಬೂದಿ ಹಾಕುತ್ತಾರೆ.",
+      "detailed_answer": "ಕಾಂಡ ಕೊರಕ ಹುಳುಗಳು ಮತ್ತು ಸುಳಿ ನೊಣಗಳನ್ನು ತಡೆಯಲು ರೈತರು ಮರಳು ಅಥವಾ ಬೂದಿ ಹಾಕುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕಾಂಡ ಕೊರಕ ಹುಳುಗಳು",
+        "ಸುಳಿ ನೊಣಗಳನ್ನು ತಡೆಯಲು ರೈತರು ಮರಳು ಅಥವಾ ಬೂದಿ ಹಾಕುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [
+        "ಕಾಂಡ ಕೊರಕ ಹುಳುಗಳು ಮತ್ತು ಸುಳಿ ನೊಣಗಳನ್ನು ತಡೆಯಲು ರೈತರು ಮರಳು ಅಥವಾ ಬೂದಿ ಹಾಕುತ್ತಾರೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಸುಳಿಯಲ್ಲಿ ಮರಳು ಹಾಕುವುದೇಕೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಂಡ ಕೊರಕ ಹುಳುಗಳು ಮತ್ತು ಸುಳಿ ನೊಣಗಳನ್ನು ತಡೆಯಲು ರೈತರು ಮರಳು ಅಥವಾ ಬೂದಿ ಹಾಕುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಬೆಳೆಗಳಿಗೆ ಆಲಿಕಲ್ಲು ಮಳೆ ಬಿದ್ದರೆ ತಕ್ಷಣ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಬೆಳೆಗಳಿಗೆ ಆಲಿಕಲ್ಲು ಮಳೆ ಬಿದ್ದರೆ ತಕ್ಷಣ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಬೆಳೆಗಳಿಗೆ ಆಲಿಕಲ್ಲು ಮಳೆ ಬಿದ್ದರೆ ತಕ್ಷಣ ಏನು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಬೆಳೆಗಳಿಗೆ ಆಲಿಕಲ್ಲು ಮಳೆ ಬಿದ್ದರೆ ತಕ್ಷಣ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಬೆಳೆಗಳಿಗೆ ಆಲಿಕಲ್ಲು ಮಳೆ ಬಿದ್ದರೆ ತಕ್ಷಣ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗಾಣುಗಳು ಹರಡದಂತೆ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ರೋಗಾಣುಗಳು ಹರಡದಂತೆ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ರೋಗಾಣುಗಳು ಹರಡದಂತೆ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೆಳೆಗಳಿಗೆ ಆಲಿಕಲ್ಲು ಮಳೆ ಬಿದ್ದರೆ ತಕ್ಷಣ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗಾಣುಗಳು ಹರಡದಂತೆ ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕಾರ್ಬೆಂಡೈಜಿಮ್ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಬಿಳಿ ನೊಣಗಳ ಕಾಟವಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳದಲ್ಲಿ ಬಿಳಿ ನೊಣಗಳ ಕಾಟವಿದ್ದರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಬಿಳಿ ನೊಣಗಳ ಕಾಟವಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಬಿಳಿ ನೊಣಗಳ ಕಾಟವಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಬೇವು ಆಧಾರಿತ ಕೀಟನಾಶಕ ಅಥವಾ ಅಜಾಡಿರಾಕ್ಟಿನ್ ಸಿಂಪಡಿಸಬಹುದು.",
+      "detailed_answer": "ಬೇವು ಆಧಾರಿತ ಕೀಟನಾಶಕ ಅಥವಾ ಅಜಾಡಿರಾಕ್ಟಿನ್ ಸಿಂಪಡಿಸಬಹುದು.",
+      "step_by_step": [
+        "ಬೇವು ಆಧಾರಿತ ಕೀಟನಾಶಕ ಅಥವಾ ಅಜಾಡಿರಾಕ್ಟಿನ್ ಸಿಂಪಡಿಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬೇವು ಆಧಾರಿತ ಕೀಟನಾಶಕ ಅಥವಾ ಅಜಾಡಿರಾಕ್ಟಿನ್ ಸಿಂಪಡಿಸಬಹುದು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಬಿಳಿ ನೊಣಗಳ ಕಾಟವಿದ್ದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇವು ಆಧಾರಿತ ಕೀಟನಾಶಕ ಅಥವಾ ಅಜಾಡಿರಾಕ್ಟಿನ್ ಸಿಂಪಡಿಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಹಸಿರು ಏರುಹುಳು ನಿಯಂತ್ರಿಸಲು ಮೋಹಕ ಬಲೆ (Pheromone traps) ಎಷ್ಟು ಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಹಸಿರು ಏರುಹುಳು ನಿಯಂತ್ರಿಸಲು ಮೋಹಕ ಬಲೆ (Pheromone traps) ಎಷ್ಟು ಬೇಕು?",
+      "ರೈತರು ಹಸಿರು ಏರುಹುಳು ನಿಯಂತ್ರಿಸಲು ಮೋಹಕ ಬಲೆ (Pheromone traps) ಎಷ್ಟು ಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Pheromone",
+      "Pheromone traps",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹಸಿರು ಏರುಹುಳು ನಿಯಂತ್ರಿಸಲು ಮೋಹಕ ಬಲೆ (Pheromone traps) ಎಷ್ಟು ಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಎಕರೆಗೆ 4 ರಿಂದ 5 ಮೋಹಕ ಬಲೆಗಳನ್ನು ಅಳವಡಿಸಬೇಕು.",
+      "detailed_answer": "ಒಂದು ಎಕರೆಗೆ 4 ರಿಂದ 5 ಮೋಹಕ ಬಲೆಗಳನ್ನು ಅಳವಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಒಂದು ಎಕರೆಗೆ 4 ರಿಂದ 5 ಮೋಹಕ ಬಲೆಗಳನ್ನು ಅಳವಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಸಿರು ಏರುಹುಳು ನಿಯಂತ್ರಿಸಲು ಮೋಹಕ ಬಲೆ (Pheromone traps) ಎಷ್ಟು ಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಒಂದು ಎಕರೆಗೆ 4 ರಿಂದ 5 ಮೋಹಕ ಬಲೆಗಳನ್ನು ಅಳವಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತೆನೆಯ ಗಾತ್ರ ಚಿಕ್ಕದಾಗುವುದು ಮತ್ತು ಕಾಳುಗಳು ಪೂರ್ತಿಯಾಗಿ ತುಂಬದಿರುವುದು.",
+      "detailed_answer": "ತೆನೆಯ ಗಾತ್ರ ಚಿಕ್ಕದಾಗುವುದು ಮತ್ತು ಕಾಳುಗಳು ಪೂರ್ತಿಯಾಗಿ ತುಂಬದಿರುವುದು.",
+      "step_by_step": [
+        "ತೆನೆಯ ಗಾತ್ರ ಚಿಕ್ಕದಾಗುವುದು",
+        "ಕಾಳುಗಳು ಪೂರ್ತಿಯಾಗಿ ತುಂಬದಿರುವುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಲಕ್ಷಣಗಳೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತೆನೆಯ ಗಾತ್ರ ಚಿಕ್ಕದಾಗುವುದು ಮತ್ತು ಕಾಳುಗಳು ಪೂರ್ತಿಯಾಗಿ ತುಂಬದಿರುವುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೋರಾನ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "ಬೋರಾನ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಬೋರಾನ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+      "ರೈತರು ಬೋರಾನ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಬೋರಾನ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಶೇ. 0.2 ಬೋರಾಕ್ಸ್ ದ್ರಾವಣವನ್ನು ಕಾಳು ಕಟ್ಟುವ ಮುನ್ನ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಶೇ. 0.2 ಬೋರಾಕ್ಸ್ ದ್ರಾವಣವನ್ನು ಕಾಳು ಕಟ್ಟುವ ಮುನ್ನ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಶೇ. 0.2 ಬೋರಾಕ್ಸ್ ದ್ರಾವಣವನ್ನು ಕಾಳು ಕಟ್ಟುವ ಮುನ್ನ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "2 ಬೋರಾಕ್ಸ್ ದ್ರಾವಣವನ್ನು ಕಾಳು ಕಟ್ಟುವ ಮುನ್ನ ಸಿಂಪಡಿಸಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೋರಾನ್ ಕೊರತೆ ಸರಿಪಡಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶೇ. 0.2 ಬೋರಾಕ್ಸ್ ದ್ರಾವಣವನ್ನು ಕಾಳು ಕಟ್ಟುವ ಮುನ್ನ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಗಿಡದ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ?",
+    "question_variants": [
+      "ಜೋಳದ ಗಿಡದ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಏನು ಪೋಷಕಾಂಶ ಮುಖ್ಯ?",
+      "ರೈತರು ಜೋಳದ ಗಿಡದ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Phosphorus",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಗಿಡದ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ರಂಜಕ (Phosphorus) ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯಗತ್ಯ.",
+      "detailed_answer": "ರಂಜಕ (Phosphorus) ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯಗತ್ಯ.",
+      "step_by_step": [
+        "ರಂಜಕ (Phosphorus) ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯಗತ್ಯ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Phosphorus"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಗಿಡದ ಬೇರುಗಳ ಬೆಳವಣಿಗೆಗೆ ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಂಜಕ (Phosphorus) ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಅತ್ಯಗತ್ಯ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಮಣ್ಣಿನಲ್ಲಿ ಲವಣಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಜೋಳ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಮಣ್ಣಿನಲ್ಲಿ ಲವಣಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಜೋಳ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಮಣ್ಣಿನಲ್ಲಿ ಲವಣಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಜೋಳ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೋಳ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶವನ್ನು ತಡೆಯಬಲ್ಲದು, ಆದರೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಜೋಳ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶವನ್ನು ತಡೆಯಬಲ್ಲದು, ಆದರೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಜೋಳ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶವನ್ನು ತಡೆಯಬಲ್ಲದು",
+        "ಆದರೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [
+        "ಜೋಳ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶವನ್ನು ತಡೆಯಬಲ್ಲದು, ಆದರೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಮಣ್ಣಿನಲ್ಲಿ ಲವಣಾಂಶ ಹೆಚ್ಚಿದ್ದರೆ ಜೋಳ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಜೋಳ ಸ್ವಲ್ಪ ಮಟ್ಟಿಗೆ ಲವಣಾಂಶವನ್ನು ತಡೆಯಬಲ್ಲದು, ಆದರೆ ಇಳುವರಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಭೂಮಿ ಸಿದ್ಧತೆ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+      "ರೈತರು ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಂದು ಬಾರಿ ಆಳವಾದ ಉಳುಮೆ ಮಾಡಿ, 2-3 ಬಾರಿ ಕುಂಟೆ ಹೊಡೆದು ಹದ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಒಂದು ಬಾರಿ ಆಳವಾದ ಉಳುಮೆ ಮಾಡಿ, 2-3 ಬಾರಿ ಕುಂಟೆ ಹೊಡೆದು ಹದ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಒಂದು ಬಾರಿ ಆಳವಾದ ಉಳುಮೆ ಮಾಡಿ",
+        "2-3 ಬಾರಿ ಕುಂಟೆ ಹೊಡೆದು ಹದ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಭೂಮಿ ಸಿದ್ಧತೆ ಹೇಗೆ ಮಾಡಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಒಂದು ಬಾರಿ ಆಳವಾದ ಉಳುಮೆ ಮಾಡಿ, 2-3 ಬಾರಿ ಕುಂಟೆ ಹೊಡೆದು ಹದ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬಿತ್ತಲು ಯಾವ ಕೂರಿಗೆ ಬಳಸಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳ ಬಿತ್ತಲು ಏನು ಕೂರಿಗೆ ಬಳಸಬೇಕು?",
+      "ರೈತರು ಜೋಳ ಬಿತ್ತಲು ಯಾವ ಕೂರಿಗೆ ಬಳಸಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬಿತ್ತಲು ಯಾವ ಕೂರಿಗೆ ಬಳಸಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೈತರು ಸ್ಥಳೀಯ ಕೂರಿಗೆ ಅಥವಾ ಟ್ರ್ಯಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಡ್ರಿಲ್ ಬಳಸಬಹುದು.",
+      "detailed_answer": "ರೈತರು ಸ್ಥಳೀಯ ಕೂರಿಗೆ ಅಥವಾ ಟ್ರ್ಯಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಡ್ರಿಲ್ ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ರೈತರು ಸ್ಥಳೀಯ ಕೂರಿಗೆ ಅಥವಾ ಟ್ರ್ಯಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಡ್ರಿಲ್ ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬಿತ್ತಲು ಯಾವ ಕೂರಿಗೆ ಬಳಸಬೇಕು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ರೈತರು ಸ್ಥಳೀಯ ಕೂರಿಗೆ ಅಥವಾ ಟ್ರ್ಯಾಕ್ಟರ್ ಚಾಲಿತ ಸೀಡ್ ಡ್ರಿಲ್ ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಎಲೆ ಕೆಂಪಾಗಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಎಲೆ ಕೆಂಪಾಗಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಎಲೆ ಕೆಂಪಾಗಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರಾತ್ರಿ ವೇಳೆ ತಾಪಮಾನ ಕಡಿಮೆಯಾದರೆ ಅಥವಾ ರಂಜಕದ ಕೊರತೆಯಿಂದ ಎಲೆಗಳು ಕೆಂಪಾಗುತ್ತವೆ.",
+      "detailed_answer": "ರಾತ್ರಿ ವೇಳೆ ತಾಪಮಾನ ಕಡಿಮೆಯಾದರೆ ಅಥವಾ ರಂಜಕದ ಕೊರತೆಯಿಂದ ಎಲೆಗಳು ಕೆಂಪಾಗುತ್ತವೆ.",
+      "step_by_step": [
+        "ರಾತ್ರಿ ವೇಳೆ ತಾಪಮಾನ ಕಡಿಮೆಯಾದರೆ ಅಥವಾ ರಂಜಕದ ಕೊರತೆಯಿಂದ ಎಲೆಗಳು ಕೆಂಪಾಗುತ್ತವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಎಲೆ ಕೆಂಪಾಗಲು ಕಾರಣವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರಾತ್ರಿ ವೇಳೆ ತಾಪಮಾನ ಕಡಿಮೆಯಾದರೆ ಅಥವಾ ರಂಜಕದ ಕೊರತೆಯಿಂದ ಎಲೆಗಳು ಕೆಂಪಾಗುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಪ್ಯಾನಿಕಲ್ (ತೆನೆ) ಸರಿಯಾಗಿ ಹೊರಬರದಿರಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಪ್ಯಾನಿಕಲ್ (ತೆನೆ) ಸರಿಯಾಗಿ ಹೊರಬರದಿರಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತೆನೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಪ್ಯಾನಿಕಲ್ (ತೆನೆ) ಸರಿಯಾಗಿ ಹೊರಬರದಿರಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [
+      "ನೀರಿನ ಕೊರತೆ (Water stress)"
+    ],
+    "solution": {
+      "short_answer": "ನೀರಿನ ಕೊರತೆ ಅಥವಾ ಕಾಂಡ ಕೊರಕ ಹುಳುವಿನ ಬಾಧೆ.",
+      "detailed_answer": "ನೀರಿನ ಕೊರತೆ ಅಥವಾ ಕಾಂಡ ಕೊರಕ ಹುಳುವಿನ ಬಾಧೆ.",
+      "step_by_step": [
+        "ನೀರಿನ ಕೊರತೆ ಅಥವಾ ಕಾಂಡ ಕೊರಕ ಹುಳುವಿನ ಬಾಧೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಪ್ಯಾನಿಕಲ್ (ತೆನೆ) ಸರಿಯಾಗಿ ಹೊರಬರದಿರಲು ಕಾರಣವೇನು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರಿನ ಕೊರತೆ ಅಥವಾ ಕಾಂಡ ಕೊರಕ ಹುಳುವಿನ ಬಾಧೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬೀಜಗಳನ್ನು ಸಂಗ್ರಹಿಸುವಾಗ ಕೀಟಬಾಧೆ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳದ ಬೀಜಗಳನ್ನು ಸಂಗ್ರಹಿಸುವಾಗ ಕೀಟಬಾಧೆ ತಪ್ಪಿಸಲು ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಜೋಳದ ಬೀಜಗಳನ್ನು ಸಂಗ್ರಹಿಸುವಾಗ ಕೀಟಬಾಧೆ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬೀಜಗಳನ್ನು ಸಂಗ್ರಹಿಸುವಾಗ ಕೀಟಬಾಧೆ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಬೇವಿನ ಎಲೆಗಳನ್ನು ಚೀಲದಲ್ಲಿ ಇಡುವುದು ಅಥವಾ ಮ್ಯಾಲಾಥಿಯಾನ್ ಧೂಳೀಕರಣ ಮಾಡಬೇಕು.",
+      "detailed_answer": "ಬೇವಿನ ಎಲೆಗಳನ್ನು ಚೀಲದಲ್ಲಿ ಇಡುವುದು ಅಥವಾ ಮ್ಯಾಲಾಥಿಯಾನ್ ಧೂಳೀಕರಣ ಮಾಡಬೇಕು.",
+      "step_by_step": [
+        "ಬೇವಿನ ಎಲೆಗಳನ್ನು ಚೀಲದಲ್ಲಿ ಇಡುವುದು ಅಥವಾ ಮ್ಯಾಲಾಥಿಯಾನ್ ಧೂಳೀಕರಣ ಮಾಡಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಬೇವಿನ ಎಲೆಗಳನ್ನು ಚೀಲದಲ್ಲಿ ಇಡುವುದು ಅಥವಾ ಮ್ಯಾಲಾಥಿಯಾನ್ ಧೂಳೀಕರಣ ಮಾಡಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬೀಜಗಳನ್ನು ಸಂಗ್ರಹಿಸುವಾಗ ಕೀಟಬಾಧೆ ತಪ್ಪಿಸಲು ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇವಿನ ಎಲೆಗಳನ್ನು ಚೀಲದಲ್ಲಿ ಇಡುವುದು ಅಥವಾ ಮ್ಯಾಲಾಥಿಯಾನ್ ಧೂಳೀಕರಣ ಮಾಡಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳವನ್ನು ಹಸಿ ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವಾಗ ಯಾವಾಗ ಕಟಾವು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳವನ್ನು ಹಸಿ ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವಾಗ ಏನುಾಗ ಕಟಾವು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಜೋಳವನ್ನು ಹಸಿ ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವಾಗ ಯಾವಾಗ ಕಟಾವು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "harvesting",
+      "ಕಟಾವ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳವನ್ನು ಹಸಿ ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವಾಗ ಯಾವಾಗ ಕಟಾವು ಮಾಡಬೇಕು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಕಟಾವು ಮಾಡಿದರೆ ಮೇವು ಪೌಷ್ಟಿಕವಾಗಿರುತ್ತದೆ.",
+      "detailed_answer": "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಕಟಾವು ಮಾಡಿದರೆ ಮೇವು ಪೌಷ್ಟಿಕವಾಗಿರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಕಟಾವು ಮಾಡಿದರೆ ಮೇವು ಪೌಷ್ಟಿಕವಾಗಿರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳವನ್ನು ಹಸಿ ಮೇವಿಗಾಗಿ ಬೆಳೆಯುವಾಗ ಯಾವಾಗ ಕಟಾವು ಮಾಡಬೇಕು? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಹೂ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಕಟಾವು ಮಾಡಿದರೆ ಮೇವು ಪೌಷ್ಟಿಕವಾಗಿರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹಸಿ ಮೇವಿನ ತಳಿಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಹಸಿ ಮೇವಿನ ತಳಿಗಳು ಏನುುವು?",
+      "ಜೋಳ ಬೆಳೆಗೆ: ಹಸಿ ಮೇವಿನ ತಳಿಗಳು ಯಾವುವು?",
+      "ರೈತರು ಹಸಿ ಮೇವಿನ ತಳಿಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "SSG-",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹಸಿ ಮೇವಿನ ತಳಿಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "SSG-59-3, ಪೂಸಾ ಚಾರಿ ಪ್ರಮುಖ ಮೇವಿನ ತಳಿಗಳು.",
+      "detailed_answer": "SSG-59-3, ಪೂಸಾ ಚಾರಿ ಪ್ರಮುಖ ಮೇವಿನ ತಳಿಗಳು.",
+      "step_by_step": [
+        "ಪೂಸಾ ಚಾರಿ ಪ್ರಮುಖ ಮೇವಿನ ತಳಿಗಳು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹಸಿ ಮೇವಿನ ತಳಿಗಳು ಯಾವುವು? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: SSG-59-3, ಪೂಸಾ ಚಾರಿ ಪ್ರಮುಖ ಮೇವಿನ ತಳಿಗಳು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್ (HCN) ವಿಷ ಎಂದರೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್ (HCN) ವಿಷ ಎಂದರೇನು?"
+    ],
+    "keywords": [
+      "HCN",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್ (HCN) ವಿಷ ಎಂದರೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆಯಿಲ್ಲದೆ ಗಿಡ ಬಾಡಿದಾಗ ಎಲೆಗಳಲ್ಲಿ ಈ ವಿಷ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ, ಇದು ದನಗಳಿಗೆ ಅಪಾಯಕಾರಿ.",
+      "detailed_answer": "ಮಳೆಯಿಲ್ಲದೆ ಗಿಡ ಬಾಡಿದಾಗ ಎಲೆಗಳಲ್ಲಿ ಈ ವಿಷ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ, ಇದು ದನಗಳಿಗೆ ಅಪಾಯಕಾರಿ.",
+      "step_by_step": [
+        "ಮಳೆಯಿಲ್ಲದೆ ಗಿಡ ಬಾಡಿದಾಗ ಎಲೆಗಳಲ್ಲಿ ಈ ವಿಷ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ",
+        "ಇದು ದನಗಳಿಗೆ ಅಪಾಯಕಾರಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಇದು ದನಗಳಿಗೆ ಅಪಾಯಕಾರಿ"
+      ]
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಹೈಡ್ರೋಸಯಾನಿಕ್ ಆಸಿಡ್ (HCN) ವಿಷ ಎಂದರೇನು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಮಳೆಯಿಲ್ಲದೆ ಗಿಡ ಬಾಡಿದಾಗ ಎಲೆಗಳಲ್ಲಿ ಈ ವಿಷ ಉತ್ಪತ್ತಿಯಾಗುತ್ತದೆ, ಇದು ದನಗಳಿಗೆ ಅಪಾಯಕಾರಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "HCN ವಿಷದಿಂದ ದನಗಳನ್ನು ರಕ್ಷಿಸುವುದು ಹೇಗೆ?",
+    "question_variants": [
+      "HCN ವಿಷದಿಂದ ದನಗಳನ್ನು ರಕ್ಷಿಸುವುದು ಯಾವ ರೀತಿ?",
+      "ಜೋಳ ಬೆಳೆಗೆ: HCN ವಿಷದಿಂದ ದನಗಳನ್ನು ರಕ್ಷಿಸುವುದು ಹೇಗೆ?",
+      "ರೈತರು hCN ವಿಷದಿಂದ ದನಗಳನ್ನು ರಕ್ಷಿಸುವುದು ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "HCN",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "HCN ವಿಷದಿಂದ ದನಗಳನ್ನು ರಕ್ಷಿಸುವುದು ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಳೆ ಬಂದ ನಂತರ ಅಥವಾ ನೀರು ಹಾಯಿಸಿದ 3-4 ದಿನಗಳ ನಂತರವೇ ಮೇವನ್ನು ದನಗಳಿಗೆ ಹಾಕಬೇಕು.",
+      "detailed_answer": "ಮಳೆ ಬಂದ ನಂತರ ಅಥವಾ ನೀರು ಹಾಯಿಸಿದ 3-4 ದಿನಗಳ ನಂತರವೇ ಮೇವನ್ನು ದನಗಳಿಗೆ ಹಾಕಬೇಕು.",
+      "step_by_step": [
+        "ಮಳೆ ಬಂದ ನಂತರ ಅಥವಾ ನೀರು ಹಾಯಿಸಿದ 3-4 ದಿನಗಳ ನಂತರವೇ ಮೇವನ್ನು ದನಗಳಿಗೆ ಹಾಕಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: HCN ವಿಷದಿಂದ ದನಗಳನ್ನು ರಕ್ಷಿಸುವುದು ಹೇಗೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಳೆ ಬಂದ ನಂತರ ಅಥವಾ ನೀರು ಹಾಯಿಸಿದ 3-4 ದಿನಗಳ ನಂತರವೇ ಮೇವನ್ನು ದನಗಳಿಗೆ ಹಾಕಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಧಾನ್ಯಕ್ಕಾಗಿ ಬೆಳೆಯುವ ಜೋಳದ ಗಿಡದ ಎತ್ತರ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಧಾನ್ಯಕ್ಕಾಗಿ ಬೆಳೆಯುವ ಜೋಳದ ಗಿಡದ ಎತ್ತರ ಎಷ್ಟಿರುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಧಾನ್ಯಕ್ಕಾಗಿ ಬೆಳೆಯುವ ಜೋಳದ ಗಿಡದ ಎತ್ತರ ಎಷ್ಟಿರುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 6 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+      "detailed_answer": "ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 6 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 6 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಧಾನ್ಯಕ್ಕಾಗಿ ಬೆಳೆಯುವ ಜೋಳದ ಗಿಡದ ಎತ್ತರ ಎಷ್ಟಿರುತ್ತದೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 6 ಅಡಿ ಎತ್ತರ ಬೆಳೆಯುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಮಾಡಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳ ಬೆಳೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಮಾಡಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಮಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣ ಸಿಂಪಡಿಸಿದರೆ ಗಿಡ ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣ ಸಿಂಪಡಿಸಿದರೆ ಗಿಡ ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+      "step_by_step": [
+        "ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣ ಸಿಂಪಡಿಸಿದರೆ ಗಿಡ ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆಗೆ ಯೂರಿಯಾ ಸಿಂಪಡಣೆ ಮಾಡಬಹುದೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ತೇವಾಂಶ ಕೊರತೆಯಿದ್ದಾಗ ಶೇ. 2 ಯೂರಿಯಾ ದ್ರಾವಣ ಸಿಂಪಡಿಸಿದರೆ ಗಿಡ ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಹಾರ್ಮೋನ್ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಹಾರ್ಮೋನ್ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "GA3",
+      "Karnataka",
+      "crop yield",
+      "spraying",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಹಾರ್ಮೋನ್ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಳು ಕಟ್ಟುವಾಗ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (GA3) ಸಿಂಪಡಿಸುವುದರಿಂದ ತೆನೆಯ ಗಾತ್ರ ಹೆಚ್ಚಬಹುದು.",
+      "detailed_answer": "ಕಾಳು ಕಟ್ಟುವಾಗ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (GA3) ಸಿಂಪಡಿಸುವುದರಿಂದ ತೆನೆಯ ಗಾತ್ರ ಹೆಚ್ಚಬಹುದು.",
+      "step_by_step": [
+        "ಕಾಳು ಕಟ್ಟುವಾಗ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (GA3) ಸಿಂಪಡಿಸುವುದರಿಂದ ತೆನೆಯ ಗಾತ್ರ ಹೆಚ್ಚಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "GA3"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಇಳುವರಿ ಹೆಚ್ಚಿಸಲು ಹಾರ್ಮೋನ್ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಳು ಕಟ್ಟುವಾಗ ಜಿಬ್ಬರೆಲಿಕ್ ಆಸಿಡ್ (GA3) ಸಿಂಪಡಿಸುವುದರಿಂದ ತೆನೆಯ ಗಾತ್ರ ಹೆಚ್ಚಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಹಿಟ್ಟಿನಿಂದ ಯಾವ ಪೋಷಕಾಂಶಗಳು ದೊರೆಯುತ್ತವೆ?",
+    "question_variants": [
+      "ಜೋಳದ ಹಿಟ್ಟಿನಿಂದ ಏನು ಪೋಷಕಾಂಶಗಳು ದೊರೆಯುತ್ತವೆ?",
+      "ರೈತರು ಜೋಳದ ಹಿಟ್ಟಿನಿಂದ ಯಾವ ಪೋಷಕಾಂಶಗಳು ದೊರೆಯುತ್ತವೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಹಿಟ್ಟಿನಿಂದ ಯಾವ ಪೋಷಕಾಂಶಗಳು ದೊರೆಯುತ್ತವೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಕಬ್ಬಿಣ, ಕ್ಯಾಲ್ಸಿಯಂ, ಫೈಬರ್ ಮತ್ತು ಬಿ-ವಿಟಮಿನ್ ಗಳು ಹೇರಳವಾಗಿವೆ.",
+      "detailed_answer": "ಕಬ್ಬಿಣ, ಕ್ಯಾಲ್ಸಿಯಂ, ಫೈಬರ್ ಮತ್ತು ಬಿ-ವಿಟಮಿನ್ ಗಳು ಹೇರಳವಾಗಿವೆ.",
+      "step_by_step": [
+        "ಬಿ-ವಿಟಮಿನ್ ಗಳು ಹೇರಳವಾಗಿವೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಹಿಟ್ಟಿನಿಂದ ಯಾವ ಪೋಷಕಾಂಶಗಳು ದೊರೆಯುತ್ತವೆ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಬ್ಬಿಣ, ಕ್ಯಾಲ್ಸಿಯಂ, ಫೈಬರ್ ಮತ್ತು ಬಿ-ವಿಟಮಿನ್ ಗಳು ಹೇರಳವಾಗಿವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ರೈತರು ತಾವೇ ಬೆಳೆದ ಬೀಜವನ್ನು ಮುಂದಿನ ವರ್ಷ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ರೈತರು ತಾವೇ ಬೆಳೆದ ಬೀಜವನ್ನು ಮುಂದಿನ ವರ್ಷ ಬಳಸಬಹುದೇ?",
+      "ರೈತರು ರೈತರು ತಾವೇ ಬೆಳೆದ ಬೀಜವನ್ನು ಮುಂದಿನ ವರ್ಷ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ರೈತರು ತಾವೇ ಬೆಳೆದ ಬೀಜವನ್ನು ಮುಂದಿನ ವರ್ಷ ಬಳಸಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸ್ಥಳೀಯ ತಳಿಗಳ ಬೀಜ ಬಳಸಬಹುದು, ಆದರೆ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಖರೀದಿಸಬೇಕು.",
+      "detailed_answer": "ಸ್ಥಳೀಯ ತಳಿಗಳ ಬೀಜ ಬಳಸಬಹುದು, ಆದರೆ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಖರೀದಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಸ್ಥಳೀಯ ತಳಿಗಳ ಬೀಜ ಬಳಸಬಹುದು",
+        "ಆದರೆ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಖರೀದಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ರೈತರು ತಾವೇ ಬೆಳೆದ ಬೀಜವನ್ನು ಮುಂದಿನ ವರ್ಷ ಬಳಸಬಹುದೇ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸ್ಥಳೀಯ ತಳಿಗಳ ಬೀಜ ಬಳಸಬಹುದು, ಆದರೆ ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನು ಪ್ರತಿ ವರ್ಷ ಹೊಸದಾಗಿ ಖರೀದಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನೇ ಮರಳಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನೇ ಮರಳಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?",
+      "ರೈತರು ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನೇ ಮರಳಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನೇ ಮರಳಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇಳುವರಿ ಶೇ. 30-40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ ಮತ್ತು ತೆನೆಗಳು ಏಕರೂಪವಾಗಿರುವುದಿಲ್ಲ.",
+      "detailed_answer": "ಇಳುವರಿ ಶೇ. 30-40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ ಮತ್ತು ತೆನೆಗಳು ಏಕರೂಪವಾಗಿರುವುದಿಲ್ಲ.",
+      "step_by_step": [
+        "ಇಳುವರಿ ಶೇ. 30-40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ",
+        "ತೆನೆಗಳು ಏಕರೂಪವಾಗಿರುವುದಿಲ್ಲ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೈಬ್ರಿಡ್ ಬೀಜವನ್ನೇ ಮರಳಿ ಬಿತ್ತಿದರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಇಳುವರಿ ಶೇ. 30-40 ರಷ್ಟು ಕಡಿಮೆಯಾಗುತ್ತದೆ ಮತ್ತು ತೆನೆಗಳು ಏಕರೂಪವಾಗಿರುವುದಿಲ್ಲ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "advanced",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆಯಲ್ಲಿ ಸೈನಿಕ ಹುಳು (Armyworm) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಯಲ್ಲಿ ಸೈನಿಕ ಹುಳು (Armyworm) ಬಂದರೆ ಯಾವುದು ಮಾಡಬೇಕು?",
+      "ರೈತರು ಜೋಳ ಬೆಳೆಯಲ್ಲಿ ಸೈನಿಕ ಹುಳು (Armyworm) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?"
+    ],
+    "keywords": [
+      "Armyworm",
+      "Karnataka",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆಯಲ್ಲಿ ಸೈನಿಕ ಹುಳು (Armyworm) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು?",
+    "symptoms": [
+      "ಹೊಲದ ಸುತ್ತಲೂ ಕಂದಕ ತೋಡಿ ಮತ್ತು ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಿ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೊಲದ ಸುತ್ತಲೂ ಕಂದಕ ತೋಡಿ ಮತ್ತು ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಿ.",
+      "detailed_answer": "ಹೊಲದ ಸುತ್ತಲೂ ಕಂದಕ ತೋಡಿ ಮತ್ತು ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಿ.",
+      "step_by_step": [
+        "ಹೊಲದ ಸುತ್ತಲೂ ಕಂದಕ ತೋಡಿ",
+        "ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಿ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆಯಲ್ಲಿ ಸೈನಿಕ ಹುಳು (Armyworm) ಬಂದರೆ ಏನು ಮಾಡಬೇಕು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೊಲದ ಸುತ್ತಲೂ ಕಂದಕ ತೋಡಿ ಮತ್ತು ಕ್ವಿನಾಲ್ಫಾಸ್ ಸಿಂಪಡಿಸಿ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗದೆ ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗಲು ಆರಂಭಿಸುತ್ತದೆ.",
+      "detailed_answer": "ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗದೆ ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗಲು ಆರಂಭಿಸುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗದೆ ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗಲು ಆರಂಭಿಸುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಹೊಲದಲ್ಲಿ ನೀರು ನಿಂತರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇರುಗಳಿಗೆ ಗಾಳಿ ಸಿಗದೆ ಗಿಡ ಹಳದಿಯಾಗಿ ಒಣಗಲು ಆರಂಭಿಸುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ತೆನೆ ಒಣಗುವ ಮುನ್ನ ಕೊಯ್ಲು ಮಾಡಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ತೆನೆ ಒಣಗುವ ಮುನ್ನ ಕೊಯ್ಲು ಮಾಡಿದರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ತೆನೆ ಒಣಗುವ ಮುನ್ನ ಕೊಯ್ಲು ಮಾಡಿದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [
+      "ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರ ಬೆಳೆದು ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ"
+    ],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರ ಬೆಳೆದು ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+      "detailed_answer": "ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರ ಬೆಳೆದು ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರ ಬೆಳೆದು ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ತೆನೆ ಒಣಗುವ ಮುನ್ನ ಕೊಯ್ಲು ಮಾಡಿದರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಧಾನ್ಯದಲ್ಲಿ ತೇವಾಂಶ ಹೆಚ್ಚಾಗಿ ಶಿಲೀಂಧ್ರ ಬೆಳೆದು ಕಪ್ಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬಿತ್ತಲು ಸೂಕ್ತವಾದ ದಿಕ್ಕು ಯಾವುದು?",
+    "question_variants": [
+      "ಜೋಳ ಬಿತ್ತಲು ಸೂಕ್ತವಾದ ದಿಕ್ಕು ಏನುುದು?",
+      "ರೈತರು ಜೋಳ ಬಿತ್ತಲು ಸೂಕ್ತವಾದ ದಿಕ್ಕು ಯಾವುದು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬಿತ್ತಲು ಸೂಕ್ತವಾದ ದಿಕ್ಕು ಯಾವುದು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಲುಗಳನ್ನು ಪೂರ್ವ-ಪಶ್ಚಿಮವಾಗಿ ಬಿತ್ತಿದರೆ ಬೆಳಕು ಚೆನ್ನಾಗಿ ಬೀಳುತ್ತದೆ.",
+      "detailed_answer": "ಸಾಲುಗಳನ್ನು ಪೂರ್ವ-ಪಶ್ಚಿಮವಾಗಿ ಬಿತ್ತಿದರೆ ಬೆಳಕು ಚೆನ್ನಾಗಿ ಬೀಳುತ್ತದೆ.",
+      "step_by_step": [
+        "ಸಾಲುಗಳನ್ನು ಪೂರ್ವ-ಪಶ್ಚಿಮವಾಗಿ ಬಿತ್ತಿದರೆ ಬೆಳಕು ಚೆನ್ನಾಗಿ ಬೀಳುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬಿತ್ತಲು ಸೂಕ್ತವಾದ ದಿಕ್ಕು ಯಾವುದು? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಸಾಲುಗಳನ್ನು ಪೂರ್ವ-ಪಶ್ಚಿಮವಾಗಿ ಬಿತ್ತಿದರೆ ಬೆಳಕು ಚೆನ್ನಾಗಿ ಬೀಳುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬೆಳೆಯ ನಡುವೆ ಅಂತರ ಬೆಳೆಯಾಗಿ ಸೋಯಾಬೀನ್ ಬೆಳೆಯಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಬೆಳೆಯ ನಡುವೆ ಅಂತರ ಬೆಳೆಯಾಗಿ ಸೋಯಾಬೀನ್ ಬೆಳೆಯಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬೆಳೆಯ ನಡುವೆ ಅಂತರ ಬೆಳೆಯಾಗಿ ಸೋಯಾಬೀನ್ ಬೆಳೆಯಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸೋಯಾಬೀನ್ ಅತ್ಯುತ್ತಮ ಅಂತರ ಬೆಳೆ.",
+      "detailed_answer": "ಹೌದು, ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸೋಯಾಬೀನ್ ಅತ್ಯುತ್ತಮ ಅಂತರ ಬೆಳೆ.",
+      "step_by_step": [
+        "ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸೋಯಾಬೀನ್ ಅತ್ಯುತ್ತಮ ಅಂತರ ಬೆಳೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬೆಳೆಯ ನಡುವೆ ಅಂತರ ಬೆಳೆಯಾಗಿ ಸೋಯಾಬೀನ್ ಬೆಳೆಯಬಹುದೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಸೋಯಾಬೀನ್ ಅತ್ಯುತ್ತಮ ಅಂತರ ಬೆಳೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬೆಳೆಯಲ್ಲಿ ಕಸದ ಹೊದಿಕೆ (Mulching) ಮಾಡುವುದರಿಂದ ತೇವಾಂಶ ಕಾಪಾಡಬಹುದೇ?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಗೆ: ಕಸದ ಹೊದಿಕೆ (Mulching) ಮಾಡುವುದರಿಂದ ತೇವಾಂಶ ಕಾಪಾಡಬಹುದೇ?",
+      "ರೈತರು ಜೋಳದ ಬೆಳೆಗೆ ಕಸದ ಹೊದಿಕೆ ಮಾಡಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬೆಳೆಯಲ್ಲಿ ಕಸದ ಹೊದಿಕೆ (Mulching) ಮಾಡುವುದರಿಂದ ತೇವಾಂಶ ಕಾಪಾಡಬಹುದೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಕಸದ ಹೊದಿಕೆ ಉಪಯುಕ್ತ.",
+      "detailed_answer": "ಹೌದು, ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಕಸದ ಹೊದಿಕೆ ಉಪಯುಕ್ತ.",
+      "step_by_step": [
+        "ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಕಸದ ಹೊದಿಕೆ ಉಪಯುಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬೆಳೆಯಲ್ಲಿ ಕಸದ ಹೊದಿಕೆ (Mulching) ಮಾಡುವುದರಿಂದ ತೇವಾಂಶ ಕಾಪಾಡಬಹುದೇ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಮಳೆಯಾಶ್ರಿತ ಪ್ರದೇಶಗಳಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಕಸದ ಹೊದಿಕೆ ಉಪಯುಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Sulphur",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು, ಯೂರಿಯಾ ಬದಲಿಗೆ ಅಮೋನಿಯಂ ಸಲ್ಫೇಟ್ ಬಳಸಿದರೆ ಸಾಕು.",
+      "detailed_answer": "ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು, ಯೂರಿಯಾ ಬದಲಿಗೆ ಅಮೋನಿಯಂ ಸಲ್ಫೇಟ್ ಬಳಸಿದರೆ ಸಾಕು.",
+      "step_by_step": [
+        "ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು",
+        "ಯೂರಿಯಾ ಬದಲಿಗೆ ಅಮೋನಿಯಂ ಸಲ್ಫೇಟ್ ಬಳಸಿದರೆ ಸಾಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಬೆಳೆಗೆ ಗಂಧಕದ (Sulphur) ಅಗತ್ಯವಿದೆಯೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತುಂಬಾ ಕಡಿಮೆ ಪ್ರಮಾಣದಲ್ಲಿ ಬೇಕು, ಯೂರಿಯಾ ಬದಲಿಗೆ ಅಮೋನಿಯಂ ಸಲ್ಫೇಟ್ ಬಳಸಿದರೆ ಸಾಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಬೇರು ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "question_variants": [
+      "ಜೋಳದಲ್ಲಿ ಬೇರು ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ?",
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಬೇರು ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಬೇರು ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಫೋರೇಟ್ ಅಥವಾ ಕಾರ್ಬೋಫ್ಯುರಾನ್ ಹರಳುಗಳನ್ನು ಸೇರಿಸಬೇಕು.",
+      "detailed_answer": "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಫೋರೇಟ್ ಅಥವಾ ಕಾರ್ಬೋಫ್ಯುರಾನ್ ಹರಳುಗಳನ್ನು ಸೇರಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಫೋರೇಟ್ ಅಥವಾ ಕಾರ್ಬೋಫ್ಯುರಾನ್ ಹರಳುಗಳನ್ನು ಸೇರಿಸಬೇಕು."
+      ],
+      "preventive_measures": [
+        "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಫೋರೇಟ್ ಅಥವಾ ಕಾರ್ಬೋಫ್ಯುರಾನ್ ಹರಳುಗಳನ್ನು ಸೇರಿಸಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಬೇರು ಹುಳುವಿನ ನಿಯಂತ್ರಣ ಹೇಗೆ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಮಣ್ಣಿಗೆ ಫೋರೇಟ್ ಅಥವಾ ಕಾರ್ಬೋಫ್ಯುರಾನ್ ಹರಳುಗಳನ್ನು ಸೇರಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳವನ್ನು ಸತತವಾಗಿ ಅದೇ ಹೊಲದಲ್ಲಿ ಬೆಳೆದರೆ ಏನಾಗುತ್ತದೆ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳವನ್ನು ಸತತವಾಗಿ ಅದೇ ಹೊಲದಲ್ಲಿ ಬೆಳೆದರೆ ಏನಾಗುತ್ತದೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳವನ್ನು ಸತತವಾಗಿ ಅದೇ ಹೊಲದಲ್ಲಿ ಬೆಳೆದರೆ ಏನಾಗುತ್ತದೆ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗಿ ಸ್ಟ್ರೈಗಾ ಕಳೆಯ ಹಾವಳಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+      "detailed_answer": "ಮಣ್ಣಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗಿ ಸ್ಟ್ರೈಗಾ ಕಳೆಯ ಹಾವಳಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಮಣ್ಣಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗಿ ಸ್ಟ್ರೈಗಾ ಕಳೆಯ ಹಾವಳಿ ಹೆಚ್ಚಾಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳವನ್ನು ಸತತವಾಗಿ ಅದೇ ಹೊಲದಲ್ಲಿ ಬೆಳೆದರೆ ಏನಾಗುತ್ತದೆ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಪೋಷಕಾಂಶಗಳ ಕೊರತೆಯಾಗಿ ಸ್ಟ್ರೈಗಾ ಕಳೆಯ ಹಾವಳಿ ಹೆಚ್ಚಾಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "comparative",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಹೈಬ್ರಿಡ್ ಜೋಳ ಮತ್ತು ದೇಶಿ ಜೋಳದ ವ್ಯತ್ಯಾಸವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಹೈಬ್ರಿಡ್ ಜೋಳ ಮತ್ತು ದೇಶಿ ಜೋಳದ ವ್ಯತ್ಯಾಸವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "crop yield",
+      "plant disease",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತಳಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಹೈಬ್ರಿಡ್ ಜೋಳ ಮತ್ತು ದೇಶಿ ಜೋಳದ ವ್ಯತ್ಯಾಸವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೈಬ್ರಿಡ್ ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ ಆದರೆ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಕಡಿಮೆ. ದೇಶಿ ತಳಿಗಳು ಬರ ನಿರೋಧಕ ಮತ್ತು ರುಚಿಕರ.",
+      "detailed_answer": "ಹೈಬ್ರಿಡ್ ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ ಆದರೆ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಕಡಿಮೆ. ದೇಶಿ ತಳಿಗಳು ಬರ ನಿರೋಧಕ ಮತ್ತು ರುಚಿಕರ.",
+      "step_by_step": [
+        "ಹೈಬ್ರಿಡ್ ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ ಆದರೆ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಕಡಿಮೆ. ದೇಶಿ ತಳಿಗಳು ಬರ ನಿರೋಧಕ"
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಹೈಬ್ರಿಡ್ ಜೋಳ ಮತ್ತು ದೇಶಿ ಜೋಳದ ವ್ಯತ್ಯಾಸವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೈಬ್ರಿಡ್ ಹೆಚ್ಚು ಇಳುವರಿ ನೀಡುತ್ತದೆ ಆದರೆ ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಕಡಿಮೆ. ದೇಶಿ ತಳಿಗಳು ಬರ ನಿರೋಧಕ ಮತ್ತು ರುಚಿಕರ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಕಾಳುಗಳಿಗೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಕಾಳುಗಳಿಗೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Smut",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಕಾಳುಗಳಿಗೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಇದನ್ನು ಕಾಡಿಗೆ ರೋಗ (Smut) ಎನ್ನುತ್ತಾರೆ, ಶಿಲೀಂಧ್ರದಿಂದ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಇದನ್ನು ಕಾಡಿಗೆ ರೋಗ (Smut) ಎನ್ನುತ್ತಾರೆ, ಶಿಲೀಂಧ್ರದಿಂದ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದನ್ನು ಕಾಡಿಗೆ ರೋಗ (Smut) ಎನ್ನುತ್ತಾರೆ",
+        "ಶಿಲೀಂಧ್ರದಿಂದ ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Smut"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಕಾಳುಗಳಿಗೆ ಕಪ್ಪು ಮಸಿ ಅಂಟಿದಂತಾಗಲು ಕಾರಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದನ್ನು ಕಾಡಿಗೆ ರೋಗ (Smut) ಎನ್ನುತ್ತಾರೆ, ಶಿಲೀಂಧ್ರದಿಂದ ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಪಾಪ್ ಕಾರ್ನ್ ಮಾಡುವ ತಳಿಗಳಿವೆಯೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಪಾಪ್ ಕಾರ್ನ್ ಮಾಡುವ ತಳಿಗಳಿವೆಯೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Pop",
+      "Pop Sorghum",
+      "Sorghum",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ತಳಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಪಾಪ್ ಕಾರ್ನ್ ಮಾಡುವ ತಳಿಗಳಿವೆಯೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಮುಂಗಾರಿನಲ್ಲಿ ಬೆಳೆಯುವ ಕೆಲವು ವಿಶೇಷ ದೇಶಿ ತಳಿಗಳು ಅರಳು (Pop Sorghum) ಮಾಡಲು ಸೂಕ್ತ.",
+      "detailed_answer": "ಹೌದು, ಮುಂಗಾರಿನಲ್ಲಿ ಬೆಳೆಯುವ ಕೆಲವು ವಿಶೇಷ ದೇಶಿ ತಳಿಗಳು ಅರಳು (Pop Sorghum) ಮಾಡಲು ಸೂಕ್ತ.",
+      "step_by_step": [
+        "ಮುಂಗಾರಿನಲ್ಲಿ ಬೆಳೆಯುವ ಕೆಲವು ವಿಶೇಷ ದೇಶಿ ತಳಿಗಳು ಅರಳು (Pop Sorghum) ಮಾಡಲು ಸೂಕ್ತ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Pop Sorghum"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಪಾಪ್ ಕಾರ್ನ್ ಮಾಡುವ ತಳಿಗಳಿವೆಯೇ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಹೌದು, ಮುಂಗಾರಿನಲ್ಲಿ ಬೆಳೆಯುವ ಕೆಲವು ವಿಶೇಷ ದೇಶಿ ತಳಿಗಳು ಅರಳು (Pop Sorghum) ಮಾಡಲು ಸೂಕ್ತ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಎಲೆಗಳು ತುದಿಯಿಂದ ಒಣಗಲು ಪ್ರಾರಂಭಿಸಿದರೆ ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಎಲೆಗಳು ತುದಿಯಿಂದ ಒಣಗಲು ಪ್ರಾರಂಭಿಸಿದರೆ ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Potash",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಎಲೆಗಳು ತುದಿಯಿಂದ ಒಣಗಲು ಪ್ರಾರಂಭಿಸಿದರೆ ಕಾರಣವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪೊಟ್ಯಾಷ್ (Potash) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ತುದಿ ಒಣಗುತ್ತದೆ.",
+      "detailed_answer": "ಪೊಟ್ಯಾಷ್ (Potash) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ತುದಿ ಒಣಗುತ್ತದೆ.",
+      "step_by_step": [
+        "ಪೊಟ್ಯಾಷ್ (Potash) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ತುದಿ ಒಣಗುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Potash"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಎಲೆಗಳು ತುದಿಯಿಂದ ಒಣಗಲು ಪ್ರಾರಂಭಿಸಿದರೆ ಕಾರಣವೇನು? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪೊಟ್ಯಾಷ್ (Potash) ಕೊರತೆಯಿಂದ ಎಲೆಗಳ ತುದಿ ಒಣಗುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ಕೀಟಬಾಧೆ ಅಳೆಯಲು ಹಳದಿ ಅಂಟುಬಲೆ ಬಳಸಬಹುದೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ಕೀಟಬಾಧೆ ಅಳೆಯಲು ಹಳದಿ ಅಂಟುಬಲೆ ಬಳಸಬಹುದೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Yellow",
+      "Yellow sticky trap",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ಕೀಟಬಾಧೆ ಅಳೆಯಲು ಹಳದಿ ಅಂಟುಬಲೆ ಬಳಸಬಹುದೇ?",
+    "symptoms": [
+      "ಬಿಳಿನೊಣ ಮತ್ತು ಗಿಡಹೇನುಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಹಳದಿ ಅಂಟುಬಲೆ (Yellow sticky trap) ಬಳಸಬಹುದು"
+    ],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೌದು, ಬಿಳಿನೊಣ ಮತ್ತು ಗಿಡಹೇನುಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಹಳದಿ ಅಂಟುಬಲೆ (Yellow sticky trap) ಬಳಸಬಹುದು.",
+      "detailed_answer": "ಹೌದು, ಬಿಳಿನೊಣ ಮತ್ತು ಗಿಡಹೇನುಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಹಳದಿ ಅಂಟುಬಲೆ (Yellow sticky trap) ಬಳಸಬಹುದು.",
+      "step_by_step": [
+        "ಗಿಡಹೇನುಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಹಳದಿ ಅಂಟುಬಲೆ (Yellow sticky trap) ಬಳಸಬಹುದು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Yellow sticky trap"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ಕೀಟಬಾಧೆ ಅಳೆಯಲು ಹಳದಿ ಅಂಟುಬಲೆ ಬಳಸಬಹುದೇ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಬಿಳಿನೊಣ ಮತ್ತು ಗಿಡಹೇನುಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಹಳದಿ ಅಂಟುಬಲೆ (Yellow sticky trap) ಬಳಸಬಹುದು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಹೊಲಕ್ಕೆ ಬೂದಿ (Ash) ಹಾಕುವುದರಿಂದ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಹೊಲಕ್ಕೆ ಬೂದಿ (Ash) ಹಾಕುವುದರಿಂದ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Ash",
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಹೊಲಕ್ಕೆ ಬೂದಿ (Ash) ಹಾಕುವುದರಿಂದ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೂದಿಯಲ್ಲಿ ಪೊಟ್ಯಾಷ್ ಇರುವುದರಿಂದ ಕಾಂಡ ಗಟ್ಟಿಯಾಗುತ್ತದೆ ಮತ್ತು ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಬರುತ್ತದೆ.",
+      "detailed_answer": "ಬೂದಿಯಲ್ಲಿ ಪೊಟ್ಯಾಷ್ ಇರುವುದರಿಂದ ಕಾಂಡ ಗಟ್ಟಿಯಾಗುತ್ತದೆ ಮತ್ತು ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಬರುತ್ತದೆ.",
+      "step_by_step": [
+        "ಬೂದಿಯಲ್ಲಿ ಪೊಟ್ಯಾಷ್ ಇರುವುದರಿಂದ ಕಾಂಡ ಗಟ್ಟಿಯಾಗುತ್ತದೆ",
+        "ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಬರುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಹೊಲಕ್ಕೆ ಬೂದಿ (Ash) ಹಾಕುವುದರಿಂದ ಲಾಭವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೂದಿಯಲ್ಲಿ ಪೊಟ್ಯಾಷ್ ಇರುವುದರಿಂದ ಕಾಂಡ ಗಟ್ಟಿಯಾಗುತ್ತದೆ ಮತ್ತು ರೋಗ ನಿರೋಧಕ ಶಕ್ತಿ ಬರುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆಯಲು ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಸೂಕ್ತವೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳ ಬೆಳೆಯಲು ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಸೂಕ್ತವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop yield",
+      "fertilizer",
+      "ಇಳುವರಿ",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ಜೋಳ",
+      "ಫರ್ಟಿಗೇಷನ್"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆಯಲು ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಸೂಕ್ತವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಡ್ರಿಪ್ ಮೂಲಕ ನೀರು ಮತ್ತು ಗೊಬ್ಬರ (ಫರ್ಟಿಗೇಷನ್) ನೀಡುವುದರಿಂದ ಶೇ. 30 ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಡ್ರಿಪ್ ಮೂಲಕ ನೀರು ಮತ್ತು ಗೊಬ್ಬರ (ಫರ್ಟಿಗೇಷನ್) ನೀಡುವುದರಿಂದ ಶೇ. 30 ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಡ್ರಿಪ್ ಮೂಲಕ ನೀರು",
+        "ಗೊಬ್ಬರ (ಫರ್ಟಿಗೇಷನ್) ನೀಡುವುದರಿಂದ ಶೇ. 30 ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಫರ್ಟಿಗೇಷನ್"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆಯಲು ಡ್ರಿಪ್ ಇರಿಗೇಷನ್ ಸೂಕ್ತವೇ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು, ಡ್ರಿಪ್ ಮೂಲಕ ನೀರು ಮತ್ತು ಗೊಬ್ಬರ (ಫರ್ಟಿಗೇಷನ್) ನೀಡುವುದರಿಂದ ಶೇ. 30 ಇಳುವರಿ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದಲ್ಲಿ ತೆನೆ ಹೊರಬರುವ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ಲಾಭವೇ?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದಲ್ಲಿ ತೆನೆ ಹೊರಬರುವ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ಲಾಭವೇ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದಲ್ಲಿ ತೆನೆ ಹೊರಬರುವ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ಲಾಭವೇ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು, ಈ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ತೆನೆಯ ಗಾತ್ರ ಮತ್ತು ಕಾಳಿನ ತೂಕ ಹೆಚ್ಚುತ್ತದೆ.",
+      "detailed_answer": "ಹೌದು, ಈ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ತೆನೆಯ ಗಾತ್ರ ಮತ್ತು ಕಾಳಿನ ತೂಕ ಹೆಚ್ಚುತ್ತದೆ.",
+      "step_by_step": [
+        "ಈ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ತೆನೆಯ ಗಾತ್ರ",
+        "ಕಾಳಿನ ತೂಕ ಹೆಚ್ಚುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದಲ್ಲಿ ತೆನೆ ಹೊರಬರುವ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ಲಾಭವೇ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು, ಈ ಹಂತದಲ್ಲಿ ಮಳೆಯಾದರೆ ತೆನೆಯ ಗಾತ್ರ ಮತ್ತು ಕಾಳಿನ ತೂಕ ಹೆಚ್ಚುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆಯನ್ನು ಆಶ್ರಯಿಸುವ ಪರಾಗಸ್ಪರ್ಶಕಗಳು ಯಾವುವು?",
+    "question_variants": [
+      "ಜೋಳ ಬೆಳೆಯನ್ನು ಆಶ್ರಯಿಸುವ ಪರಾಗಸ್ಪರ್ಶಕಗಳು ಏನುುವು?",
+      "ರೈತರು ಜೋಳ ಬೆಳೆಯನ್ನು ಆಶ್ರಯಿಸುವ ಪರಾಗಸ್ಪರ್ಶಕಗಳು ಯಾವುವು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "Wind",
+      "Wind pollination",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "flowering",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆಯನ್ನು ಆಶ್ರಯಿಸುವ ಪರಾಗಸ್ಪರ್ಶಕಗಳು ಯಾವುವು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೋಳ ಗಾಳಿಯ ಮೂಲಕ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ (Wind pollination), ಆದ್ದರಿಂದ ಜೇನುನೊಣಗಳ ಪಾತ್ರ ಕಡಿಮೆ.",
+      "detailed_answer": "ಜೋಳ ಗಾಳಿಯ ಮೂಲಕ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ (Wind pollination), ಆದ್ದರಿಂದ ಜೇನುನೊಣಗಳ ಪಾತ್ರ ಕಡಿಮೆ.",
+      "step_by_step": [
+        "ಜೋಳ ಗಾಳಿಯ ಮೂಲಕ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ (Wind pollination)",
+        "ಆದ್ದರಿಂದ ಜೇನುನೊಣಗಳ ಪಾತ್ರ ಕಡಿಮೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Wind pollination"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆಯನ್ನು ಆಶ್ರಯಿಸುವ ಪರಾಗಸ್ಪರ್ಶಕಗಳು ಯಾವುವು? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಜೋಳ ಗಾಳಿಯ ಮೂಲಕ ಪರಾಗಸ್ಪರ್ಶ ಮಾಡುತ್ತದೆ (Wind pollination), ಆದ್ದರಿಂದ ಜೇನುನೊಣಗಳ ಪಾತ್ರ ಕಡಿಮೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳದ ಗಿಡದ ದಂಟು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದರೆ ಕಾರಣವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳದ ಗಿಡದ ದಂಟು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದರೆ ಕಾರಣವೇನು?"
+    ],
+    "keywords": [
+      "Anthracnose",
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳದ ಗಿಡದ ದಂಟು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದರೆ ಕಾರಣವೇನು?",
+    "symptoms": [
+      "ಇದು ಆಂಥ್ರಾಕ್ನೋಸ್ (Anthracnose) ರೋಗದ ಲಕ್ಷಣ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಆಂಥ್ರಾಕ್ನೋಸ್ (Anthracnose) ರೋಗದ ಲಕ್ಷಣ, ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "detailed_answer": "ಇದು ಆಂಥ್ರಾಕ್ನೋಸ್ (Anthracnose) ರೋಗದ ಲಕ್ಷಣ, ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಬೇಕು.",
+      "step_by_step": [
+        "ಇದು ಆಂಥ್ರಾಕ್ನೋಸ್ (Anthracnose) ರೋಗದ ಲಕ್ಷಣ",
+        "ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಬೇಕು."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "Anthracnose"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳದ ಗಿಡದ ದಂಟು ಕೆಂಪು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದರೆ ಕಾರಣವೇನು? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಆಂಥ್ರಾಕ್ನೋಸ್ (Anthracnose) ರೋಗದ ಲಕ್ಷಣ, ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಬೇಕು.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬೆಳೆದ ಜೋಳವನ್ನು ಮಾರಾಟ ಮಾಡಲು ಯಾವ ಗುಣಮಟ್ಟ ಪರೀಕ್ಷಿಸುತ್ತಾರೆ?",
+    "question_variants": [
+      "ಬೆಳೆದ ಜೋಳವನ್ನು ಮಾರಾಟ ಮಾಡಲು ಏನು ಗುಣಮಟ್ಟ ಪರೀಕ್ಷಿಸುತ್ತಾರೆ?",
+      "ರೈತರು ಬೆಳೆದ ಜೋಳವನ್ನು ಮಾರಾಟ ಮಾಡಲು ಯಾವ ಗುಣಮಟ್ಟ ಪರೀಕ್ಷಿಸುತ್ತಾರೆ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಶೇ. 12ಕ್ಕಿಂತ ಕಡಿಮೆ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಬೆಳೆದ ಜೋಳವನ್ನು ಮಾರಾಟ ಮಾಡಲು ಯಾವ ಗುಣಮಟ್ಟ ಪರೀಕ್ಷಿಸುತ್ತಾರೆ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಳಿನ ಗಾತ್ರ, ತೇವಾಂಶ (ಶೇ. 12ಕ್ಕಿಂತ ಕಡಿಮೆ) ಮತ್ತು ಕಪ್ಪು ಕಲೆಗಳಿಲ್ಲದ ಕಾಳುಗಳನ್ನು ನೋಡುತ್ತಾರೆ.",
+      "detailed_answer": "ಕಾಳಿನ ಗಾತ್ರ, ತೇವಾಂಶ (ಶೇ. 12ಕ್ಕಿಂತ ಕಡಿಮೆ) ಮತ್ತು ಕಪ್ಪು ಕಲೆಗಳಿಲ್ಲದ ಕಾಳುಗಳನ್ನು ನೋಡುತ್ತಾರೆ.",
+      "step_by_step": [
+        "ಕಾಳಿನ ಗಾತ್ರ",
+        "ತೇವಾಂಶ (ಶೇ. 12ಕ್ಕಿಂತ ಕಡಿಮೆ)",
+        "ಕಪ್ಪು ಕಲೆಗಳಿಲ್ಲದ ಕಾಳುಗಳನ್ನು ನೋಡುತ್ತಾರೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "ಶೇ. 12ಕ್ಕಿಂತ ಕಡಿಮೆ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬೆಳೆದ ಜೋಳವನ್ನು ಮಾರಾಟ ಮಾಡಲು ಯಾವ ಗುಣಮಟ್ಟ ಪರೀಕ್ಷಿಸುತ್ತಾರೆ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಾಳಿನ ಗಾತ್ರ, ತೇವಾಂಶ (ಶೇ. 12ಕ್ಕಿಂತ ಕಡಿಮೆ) ಮತ್ತು ಕಪ್ಪು ಕಲೆಗಳಿಲ್ಲದ ಕಾಳುಗಳನ್ನು ನೋಡುತ್ತಾರೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಜೋಳ ಬೆಳೆಯುವುದರಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು?",
+    "question_variants": [
+      "ರೈತರು ಜೋಳ ಬೆಳೆಯುವುದರಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಜೋಳ ಬೆಳೆಯುವುದರಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಇದು ಕಡಿಮೆ ನೀರು ಬೇಡುವ ಬೆಳೆಯಾಗಿದ್ದು, ಅಂತರ್ಜಲ ಉಳಿಸಲು ಮತ್ತು ಬರಗಾಲ ಎದುರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "detailed_answer": "ಇದು ಕಡಿಮೆ ನೀರು ಬೇಡುವ ಬೆಳೆಯಾಗಿದ್ದು, ಅಂತರ್ಜಲ ಉಳಿಸಲು ಮತ್ತು ಬರಗಾಲ ಎದುರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "step_by_step": [
+        "ಇದು ಕಡಿಮೆ ನೀರು ಬೇಡುವ ಬೆಳೆಯಾಗಿದ್ದು",
+        "ಅಂತರ್ಜಲ ಉಳಿಸಲು",
+        "ಬರಗಾಲ ಎದುರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಇದು ಕಡಿಮೆ ನೀರು ಬೇಡುವ ಬೆಳೆಯಾಗಿದ್ದು"
+      ]
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಜೋಳ ಬೆಳೆಯುವುದರಿಂದ ಪರಿಸರಕ್ಕೆ ಆಗುವ ಲಾಭವೇನು? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಇದು ಕಡಿಮೆ ನೀರು ಬೇಡುವ ಬೆಳೆಯಾಗಿದ್ದು, ಅಂತರ್ಜಲ ಉಳಿಸಲು ಮತ್ತು ಬರಗಾಲ ಎದುರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ಜೋಳ (Sorghum)",
+    "crop_type": "Cereal Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif / Rabi",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ಬರಗಾಲದಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವುದು ಏಕೆ ಸುರಕ್ಷಿತ?",
+    "question_variants": [
+      "ರೈತರು ಬರಗಾಲದಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವುದು ಏಕೆ ಸುರಕ್ಷಿತ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ಜೋಳ",
+      "ಹೊದಿಕೆ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "25-30°C",
+      "rainfall": "400-900 mm"
+    },
+    "problem_description": "ಬರಗಾಲದಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವುದು ಏಕೆ ಸುರಕ್ಷಿತ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೋಳದ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಮಲ್ಚಿಂಗ್ (ಹೊದಿಕೆ) ಜೋಳಕ್ಕೆ ಲಾಭದಾಯಕವೇ?ಹೋಗಿ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ತೇವಾಂಶವಿಲ್ಲದಾಗ ಎಲೆಗಳನ್ನು ಮುದುರಿಕೊಂಡು ರಕ್ಷಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "detailed_answer": "ಜೋಳದ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಮಲ್ಚಿಂಗ್ (ಹೊದಿಕೆ) ಜೋಳಕ್ಕೆ ಲಾಭದಾಯಕವೇ?ಹೋಗಿ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ತೇವಾಂಶವಿಲ್ಲದಾಗ ಎಲೆಗಳನ್ನು ಮುದುರಿಕೊಂಡು ರಕ್ಷಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+      "step_by_step": [
+        "ಜೋಳದ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಮಲ್ಚಿಂಗ್ (ಹೊದಿಕೆ) ಜೋಳಕ್ಕೆ ಲಾಭದಾಯಕವೇ?ಹೋಗಿ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ",
+        "ತೇವಾಂಶವಿಲ್ಲದಾಗ ಎಲೆಗಳನ್ನು ಮುದುರಿಕೊಂಡು ರಕ್ಷಿಸಿಕೊಳ್ಳುತ್ತವೆ."
+      ],
+      "preventive_measures": [
+        "ಜೋಳದ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಮಲ್ಚಿಂಗ್ (ಹೊದಿಕೆ) ಜೋಳಕ್ಕೆ ಲಾಭದಾಯಕವೇ?ಹೋಗಿ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ತೇವಾಂಶವಿಲ್ಲದಾಗ ಎಲೆಗಳನ್ನು ಮುದುರಿಕೊಂಡು ರಕ್ಷಿಸಿಕೊಳ್ಳುತ್ತವೆ"
+      ],
+      "recommended_products": [
+        "ಹೊದಿಕೆ"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ಜೋಳ (Sorghum) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ಬರಗಾಲದಲ್ಲಿ ಜೋಳ ಬೆಳೆಯುವುದು ಏಕೆ ಸುರಕ್ಷಿತ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಜೋಳದ ಬೇರುಗಳು ಆಳಕ್ಕೆ ಮಲ್ಚಿಂಗ್ (ಹೊದಿಕೆ) ಜೋಳಕ್ಕೆ ಲಾಭದಾಯಕವೇ?ಹೋಗಿ ನೀರನ್ನು ಹೀರಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ತೇವಾಂಶವಿಲ್ಲದಾಗ ಎಲೆಗಳನ್ನು ಮುದುರಿಕೊಂಡು ರಕ್ಷಿಸಿಕೊಳ್ಳುತ್ತವೆ.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  }
+]

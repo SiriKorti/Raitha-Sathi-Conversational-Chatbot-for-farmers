@@ -1,0 +1,5286 @@
+[
+  {
+    "id": 1,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆ ಏನು ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [
+      "ಪ್ರತಿಕೂಲ ಹವಾಮಾನ (Adverse weather)"
+    ],
+    "solution": {
+      "short_answer": "ತೊಗರಿ ಬೆಳೆ ಉಷ್ಣ ಮತ್ತು ಒಣ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ .",
+      "detailed_answer": "ತೊಗರಿ ಬೆಳೆ ಉಷ್ಣ ಮತ್ತು ಒಣ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ .",
+      "step_by_step": [
+        "ತೊಗರಿ ಬೆಳೆ ಉಷ್ಣ",
+        "ಒಣ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆ ಯಾವ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ತೊಗರಿ ಬೆಳೆ ಉಷ್ಣ ಮತ್ತು ಒಣ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 2,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಏನುುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ .",
+      "detailed_answer": "ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ .",
+      "step_by_step": [
+        "ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ",
+        "ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ಮಣ್ಣು ಯಾವುದು ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಚೆನ್ನಾಗಿ ನೀರು ಹರಿಯುವ ಲೋಮ ಮತ್ತು ಕಪ್ಪು ಮಣ್ಣು ಸೂಕ್ತವಾಗಿದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 3,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "6.0 ರಿಂದ 7.5 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ .",
+      "detailed_answer": "6.0 ರಿಂದ 7.5 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ .",
+      "step_by_step": [
+        "6.0 ರಿಂದ 7.5 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ pH ಪ್ರಮಾಣ ಎಷ್ಟು ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: 6.0 ರಿಂದ 7.5 pH ಪ್ರಮಾಣ ಸೂಕ್ತವಾಗಿದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 4,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ವಿಧಾನ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಗೆ ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ವಿಧಾನ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ವಿಧಾನ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ವಿಧಾನ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭೂಮಿಯನ್ನು ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ಭೂಮಿಯನ್ನು ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಭೂಮಿಯನ್ನು ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ವಿಧಾನ ಏನು ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಭೂಮಿಯನ್ನು ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 5,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಏನುುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಜೂನ್ ರಿಂದ ಜುಲೈ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ .",
+      "detailed_answer": "ಜೂನ್ ರಿಂದ ಜುಲೈ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ .",
+      "step_by_step": [
+        "ಜೂನ್ ರಿಂದ ಜುಲೈ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬಿತ್ತನೆಗೆ ಸೂಕ್ತ ಕಾಲ ಯಾವುದು ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಜೂನ್ ರಿಂದ ಜುಲೈ ತಿಂಗಳು ಸೂಕ್ತ ಕಾಲ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 6,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಸಾಲುಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಸಾಲುಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಸಾಲುಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "60 ರಿಂದ 90 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು .",
+      "detailed_answer": "60 ರಿಂದ 90 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು .",
+      "step_by_step": [
+        "60 ರಿಂದ 90 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಸಾಲುಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 60 ರಿಂದ 90 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 7,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಗಿಡಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಗಿಡಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಗಿಡಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "20 ರಿಂದ 30 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು .",
+      "detailed_answer": "20 ರಿಂದ 30 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು .",
+      "step_by_step": [
+        "20 ರಿಂದ 30 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಗಿಡಗಳ ನಡುವಿನ ಅಂತರ ಎಷ್ಟು ಇರಬೇಕು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 20 ರಿಂದ 30 ಸೆಂ . ಮೀ ಅಂತರ ಇರಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 8,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಬೀಜ ಪ್ರಮಾಣ ಎಷ್ಟು ಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಬೀಜ ಪ್ರಮಾಣ ಎಷ್ಟು ಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಬೀಜ ಪ್ರಮಾಣ ಎಷ್ಟು ಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 12 ರಿಂದ 15 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 12 ರಿಂದ 15 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 12 ರಿಂದ 15 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಬೀಜ ಪ್ರಮಾಣ ಎಷ್ಟು ಬೇಕು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 12 ರಿಂದ 15 ಕೆಜಿ ಬೀಜ ಬೇಕಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 9,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೀಜೋಪಚಾರ ಏಕೆ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೀಜೋಪಚಾರ ಏಕೆ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೀಜೋಪಚಾರ ಏಕೆ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ರೋಗ ಮತ್ತು ಕೀಟಗಳಿಂದ ರಕ್ಷಣೆಗಾಗಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ರೋಗ ಮತ್ತು ಕೀಟಗಳಿಂದ ರಕ್ಷಣೆಗಾಗಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಕೀಟಗಳಿಂದ ರಕ್ಷಣೆಗಾಗಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [
+        "ರೋಗ ಮತ್ತು ಕೀಟಗಳಿಂದ ರಕ್ಷಣೆಗಾಗಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೀಜೋಪಚಾರ ಏಕೆ ಮಾಡಬೇಕು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗ ಮತ್ತು ಕೀಟಗಳಿಂದ ರಕ್ಷಣೆಗಾಗಿ ಬೀಜೋಪಚಾರ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 10,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ತಾಪಮಾನ ಎಷ್ಟು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ತಾಪಮಾನ ಎಷ್ಟು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ತಾಪಮಾನ ಎಷ್ಟು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "25°C ರಿಂದ 35°C ತಾಪಮಾನ ಸೂಕ್ತವಾಗಿದೆ .",
+      "detailed_answer": "25°C ರಿಂದ 35°C ತಾಪಮಾನ ಸೂಕ್ತವಾಗಿದೆ .",
+      "step_by_step": [
+        "25°C ರಿಂದ 35°C ತಾಪಮಾನ ಸೂಕ್ತವಾಗಿದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಸೂಕ್ತ ತಾಪಮಾನ ಎಷ್ಟು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 25°C ರಿಂದ 35°C ತಾಪಮಾನ ಸೂಕ್ತವಾಗಿದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 11,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "600 ರಿಂದ 1000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯ .",
+      "detailed_answer": "600 ರಿಂದ 1000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯ .",
+      "step_by_step": [
+        "600 ರಿಂದ 1000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಮಳೆ ಅಗತ್ಯ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: 600 ರಿಂದ 1000 ಮಿಮೀ ಮಳೆ ಅಗತ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 12,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ನೈಟ್ರೋಜನ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ನೈಟ್ರೋಜನ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ನೈಟ್ರೋಜನ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ನೈಟ್ರೋಜನ್ ಕೊಡಬೇಕು .",
+      "detailed_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ನೈಟ್ರೋಜನ್ ಕೊಡಬೇಕು .",
+      "step_by_step": [
+        "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ನೈಟ್ರೋಜನ್ ಕೊಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ನೈಟ್ರೋಜನ್ ಎಷ್ಟು ಕೊಡಬೇಕು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ನೈಟ್ರೋಜನ್ ಕೊಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 13,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಫಾಸ್ಫರಸ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಫಾಸ್ಫರಸ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಫಾಸ್ಫರಸ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 50 ಕೆಜಿ ಫಾಸ್ಫರಸ್ ಕೊಡಬೇಕು .",
+      "detailed_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 50 ಕೆಜಿ ಫಾಸ್ಫರಸ್ ಕೊಡಬೇಕು .",
+      "step_by_step": [
+        "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 50 ಕೆಜಿ ಫಾಸ್ಫರಸ್ ಕೊಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಫಾಸ್ಫರಸ್ ಎಷ್ಟು ಕೊಡಬೇಕು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 50 ಕೆಜಿ ಫಾಸ್ಫರಸ್ ಕೊಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 14,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಪೊಟ್ಯಾಶ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಪೊಟ್ಯಾಶ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಪೊಟ್ಯಾಶ್ ಎಷ್ಟು ಕೊಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಕೊಡಬೇಕು .",
+      "detailed_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಕೊಡಬೇಕು .",
+      "step_by_step": [
+        "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಕೊಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಪೊಟ್ಯಾಶ್ ಎಷ್ಟು ಕೊಡಬೇಕು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಪೊಟ್ಯಾಶ್ ಕೊಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 15,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಉಪಯೋಗ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಉಪಯೋಗ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಉಪಯೋಗ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಉಪಯೋಗ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಬೆಳವಣಿಗೆಗೆ ಬೋರಾನ್ ಸಹಕಾರಿ .",
+      "detailed_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಬೆಳವಣಿಗೆಗೆ ಬೋರಾನ್ ಸಹಕಾರಿ .",
+      "step_by_step": [
+        "ಕಾಯಿ ಬೆಳವಣಿಗೆಗೆ ಬೋರಾನ್ ಸಹಕಾರಿ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಉಪಯೋಗ ಏನು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಮತ್ತು ಕಾಯಿ ಬೆಳವಣಿಗೆಗೆ ಬೋರಾನ್ ಸಹಕಾರಿ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 16,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಏಕೆ ಅಗತ್ಯ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಏಕೆ ಅಗತ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಏಕೆ ಅಗತ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಬೆಳವಣಿಗೆ ಮತ್ತು ಗಿಡದ ಆರೋಗ್ಯಕ್ಕೆ ಜಿಂಕ್ ಅಗತ್ಯ .",
+      "detailed_answer": "ಎಲೆಗಳ ಬೆಳವಣಿಗೆ ಮತ್ತು ಗಿಡದ ಆರೋಗ್ಯಕ್ಕೆ ಜಿಂಕ್ ಅಗತ್ಯ .",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಬೆಳವಣಿಗೆ",
+        "ಗಿಡದ ಆರೋಗ್ಯಕ್ಕೆ ಜಿಂಕ್ ಅಗತ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಏಕೆ ಅಗತ್ಯ ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಬೆಳವಣಿಗೆ ಮತ್ತು ಗಿಡದ ಆರೋಗ್ಯಕ್ಕೆ ಜಿಂಕ್ ಅಗತ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 17,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಹಾಕಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಏನುಾಗ ಹಾಕಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಹಾಕಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಹಾಕಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಮತ್ತು ಬೆಳವಣಿಗೆಯ ಹಂತದಲ್ಲಿ ಹಾಕಬೇಕು .",
+      "detailed_answer": "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಮತ್ತು ಬೆಳವಣಿಗೆಯ ಹಂತದಲ್ಲಿ ಹಾಕಬೇಕು .",
+      "step_by_step": [
+        "ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ",
+        "ಬೆಳವಣಿಗೆಯ ಹಂತದಲ್ಲಿ ಹಾಕಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಯಾವಾಗ ಹಾಕಬೇಕು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬಿತ್ತನೆ ಸಮಯದಲ್ಲಿ ಮತ್ತು ಬೆಳವಣಿಗೆಯ ಹಂತದಲ್ಲಿ ಹಾಕಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 18,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಯಾವ ನೀರಾವರಿ ವಿಧಾನ ಸೂಕ್ತ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಗೆ ಏನು ನೀರಾವರಿ ವಿಧಾನ ಸೂಕ್ತ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಯಾವ ನೀರಾವರಿ ವಿಧಾನ ಸೂಕ್ತ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಯಾವ ನೀರಾವರಿ ವಿಧಾನ ಸೂಕ್ತ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಡ್ರಿಪ್ ಮತ್ತು ಕಾಲುವೆ ನೀರಾವರಿ ಸೂಕ್ತ .",
+      "detailed_answer": "ಡ್ರಿಪ್ ಮತ್ತು ಕಾಲುವೆ ನೀರಾವರಿ ಸೂಕ್ತ .",
+      "step_by_step": [
+        "ಕಾಲುವೆ ನೀರಾವರಿ ಸೂಕ್ತ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಯಾವ ನೀರಾವರಿ ವಿಧಾನ ಸೂಕ್ತ ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಡ್ರಿಪ್ ಮತ್ತು ಕಾಲುವೆ ನೀರಾವರಿ ಸೂಕ್ತ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 19,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರಾವರಿ ಕೊಡಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರಾವರಿ ಕೊಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರಾವರಿ ಕೊಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಕೊಡಬೇಕು .",
+      "detailed_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಕೊಡಬೇಕು .",
+      "step_by_step": [
+        "ಕಾಯಿ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಕೊಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಗೆ ಎಷ್ಟು ಬಾರಿ ನೀರಾವರಿ ಕೊಡಬೇಕು ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಮತ್ತು ಕಾಯಿ ಹಂತದಲ್ಲಿ ನೀರಾವರಿ ಕೊಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 20,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ನಿಲುವು ಏಕೆ ತಪ್ಪಿಸಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ನಿಲುವು ಏಕೆ ತಪ್ಪಿಸಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ನಿಲುವು ಏಕೆ ತಪ್ಪಿಸಬೇಕು ?",
+    "symptoms": [
+      "ಬೇರು ಕೊಳೆ ರೋಗ ತಪ್ಪಿಸಲು ನೀರಿನ ನಿಲುವು ತಪ್ಪಿಸಬೇಕು"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇರು ಕೊಳೆ ರೋಗ ತಪ್ಪಿಸಲು ನೀರಿನ ನಿಲುವು ತಪ್ಪಿಸಬೇಕು .",
+      "detailed_answer": "ಬೇರು ಕೊಳೆ ರೋಗ ತಪ್ಪಿಸಲು ನೀರಿನ ನಿಲುವು ತಪ್ಪಿಸಬೇಕು .",
+      "step_by_step": [
+        "ಬೇರು ಕೊಳೆ ರೋಗ ತಪ್ಪಿಸಲು ನೀರಿನ ನಿಲುವು ತಪ್ಪಿಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಬೇರು ಕೊಳೆ ರೋಗ ತಪ್ಪಿಸಲು ನೀರಿನ ನಿಲುವು ತಪ್ಪಿಸಬೇಕು"
+      ]
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ನಿಲುವು ಏಕೆ ತಪ್ಪಿಸಬೇಕು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇರು ಕೊಳೆ ರೋಗ ತಪ್ಪಿಸಲು ನೀರಿನ ನಿಲುವು ತಪ್ಪಿಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 21,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕೈಯಿಂದ ಅಥವಾ ಕಳೆನಾಶಕ ಬಳಸಿ ನಿಯಂತ್ರಿಸಬೇಕು .",
+      "detailed_answer": "ಕೈಯಿಂದ ಅಥವಾ ಕಳೆನಾಶಕ ಬಳಸಿ ನಿಯಂತ್ರಿಸಬೇಕು .",
+      "step_by_step": [
+        "ಕೈಯಿಂದ ಅಥವಾ ಕಳೆನಾಶಕ ಬಳಸಿ ನಿಯಂತ್ರಿಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕೈಯಿಂದ ಅಥವಾ ಕಳೆನಾಶಕ ಬಳಸಿ ನಿಯಂತ್ರಿಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 22,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಏನುುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಪಾಡ್ ಬೋರರ್ ಪ್ರಮುಖ ಕೀಟವಾಗಿದೆ .",
+      "detailed_answer": "ಪಾಡ್ ಬೋರರ್ ಪ್ರಮುಖ ಕೀಟವಾಗಿದೆ .",
+      "step_by_step": [
+        "ಪಾಡ್ ಬೋರರ್ ಪ್ರಮುಖ ಕೀಟವಾಗಿದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯ ಪ್ರಮುಖ ಕೀಟ ಯಾವುದು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪಾಡ್ ಬೋರರ್ ಪ್ರಮುಖ ಕೀಟವಾಗಿದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 23,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕ್ಯಾಟರ್ಪಿಲ್ಲರ್ ಹಾನಿ ಹೇಗಿರುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕ್ಯಾಟರ್ಪಿಲ್ಲರ್ ಹಾನಿ ಹೇಗಿರುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕ್ಯಾಟರ್ಪಿಲ್ಲರ್ ಹಾನಿ ಹೇಗಿರುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆ ಮತ್ತು ಕಾಯಿ ತಿನ್ನುವುದರಿಂದ ಹಾನಿ ಉಂಟಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಎಲೆ ಮತ್ತು ಕಾಯಿ ತಿನ್ನುವುದರಿಂದ ಹಾನಿ ಉಂಟಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಕಾಯಿ ತಿನ್ನುವುದರಿಂದ ಹಾನಿ ಉಂಟಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಎಲೆ ಮತ್ತು ಕಾಯಿ ತಿನ್ನುವುದರಿಂದ ಹಾನಿ ಉಂಟಾಗುತ್ತದೆ"
+      ]
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕ್ಯಾಟರ್ಪಿಲ್ಲರ್ ಹಾನಿ ಹೇಗಿರುತ್ತದೆ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಲೆ ಮತ್ತು ಕಾಯಿ ತಿನ್ನುವುದರಿಂದ ಹಾನಿ ಉಂಟಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 24,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಶಿಫಾರಸು ಮಾಡಿದ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು .",
+      "detailed_answer": "ಶಿಫಾರಸು ಮಾಡಿದ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು .",
+      "step_by_step": [
+        "ಶಿಫಾರಸು ಮಾಡಿದ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶಿಫಾರಸು ಮಾಡಿದ ಕೀಟನಾಶಕ ಸಿಂಪಡಿಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 25,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ವೈಟ್ ಫ್ಲೈ ಹಾನಿ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ವೈಟ್ ಫ್ಲೈ ಹಾನಿ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ವೈಟ್ ಫ್ಲೈ ಹಾನಿ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ವೈಟ್ ಫ್ಲೈ ಹಾನಿ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತವೆ .",
+      "detailed_answer": "ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತವೆ .",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತವೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ವೈಟ್ ಫ್ಲೈ ಹಾನಿ ಏನು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಒಣಗುತ್ತವೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 26,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣ ಏನು ?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಚುಕ್ಕೆಗಳು ಕಾಣಿಸುತ್ತವೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಚುಕ್ಕೆಗಳು ಕಾಣಿಸುತ್ತವೆ .",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಚುಕ್ಕೆಗಳು ಕಾಣಿಸುತ್ತವೆ .",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಚುಕ್ಕೆಗಳು ಕಾಣಿಸುತ್ತವೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗದ ಲಕ್ಷಣ ಏನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಚುಕ್ಕೆಗಳು ಕಾಣಿಸುತ್ತವೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 27,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗ ಎಂದರೇನು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗ ಎಂದರೇನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗ ಎಂದರೇನು ?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು-ಕೆಂಪು ಪುಡಿ ಕಾಣಿಸುವ ರೋಗ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು-ಕೆಂಪು ಪುಡಿ ಕಾಣಿಸುವ ರೋಗ .",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು-ಕೆಂಪು ಪುಡಿ ಕಾಣಿಸುವ ರೋಗ .",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು-ಕೆಂಪು ಪುಡಿ ಕಾಣಿಸುವ ರೋಗ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗ ಎಂದರೇನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಕಂದು-ಕೆಂಪು ಪುಡಿ ಕಾಣಿಸುವ ರೋಗ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 28,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ರೋಗದ ಕಾರಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ರೋಗದ ಕಾರಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ರೋಗದ ಕಾರಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ರೋಗದ ಕಾರಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅತಿಯಾದ ತೇವಾಂಶ ಮತ್ತು ನೀರು ನಿಲುವಿನಿಂದ ಉಂಟಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಅತಿಯಾದ ತೇವಾಂಶ ಮತ್ತು ನೀರು ನಿಲುವಿನಿಂದ ಉಂಟಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಅತಿಯಾದ ತೇವಾಂಶ",
+        "ನೀರು ನಿಲುವಿನಿಂದ ಉಂಟಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ರೋಗದ ಕಾರಣ ಏನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಅತಿಯಾದ ತೇವಾಂಶ ಮತ್ತು ನೀರು ನಿಲುವಿನಿಂದ ಉಂಟಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 29,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಬೇಕು .",
+      "detailed_answer": "ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಬೇಕು .",
+      "step_by_step": [
+        "ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶಿಫಾರಸು ಮಾಡಿದ ಶಿಲೀಂಧ್ರನಾಶಕ ಬಳಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 30,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟ ನಿಯಂತ್ರಣ ಸಾಧ್ಯವೇ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟ ನಿಯಂತ್ರಣ ಸಾಧ್ಯವೇ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟ ನಿಯಂತ್ರಣ ಸಾಧ್ಯವೇ ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೌದು , ಜೈವಿಕ ವಿಧಾನಗಳಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು .",
+      "detailed_answer": "ಹೌದು , ಜೈವಿಕ ವಿಧಾನಗಳಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು .",
+      "step_by_step": [
+        "ಜೈವಿಕ ವಿಧಾನಗಳಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟ ನಿಯಂತ್ರಣ ಸಾಧ್ಯವೇ ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೌದು , ಜೈವಿಕ ವಿಧಾನಗಳಿಂದ ನಿಯಂತ್ರಿಸಬಹುದು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 31,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಗಿಡದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಗಿಡದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಗಿಡದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು ?"
+    ],
+    "keywords": [
+      "Cajanus",
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಗಿಡದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "Cajanus cajan.",
+      "detailed_answer": "Cajanus cajan.",
+      "step_by_step": [
+        "Cajanus cajan."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಗಿಡದ ವೈಜ್ಞಾನಿಕ ಹೆಸರು ಏನು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: Cajanus cajan.",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 32,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [
+      "ನೀರಿನ ಕೊರತೆ (Water stress)",
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ನೀರಿನ ಕೊರತೆ ಮತ್ತು ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ .",
+      "detailed_answer": "ನೀರಿನ ಕೊರತೆ ಮತ್ತು ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ .",
+      "step_by_step": [
+        "ನೀರಿನ ಕೊರತೆ",
+        "ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರಿನ ಕೊರತೆ ಮತ್ತು ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 33,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವೇನು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವೇನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವೇನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಸಹಕಾರಿ .",
+      "detailed_answer": "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಸಹಕಾರಿ .",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಸಹಕಾರಿ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಲ್ಚಿಂಗ್ ಉಪಯೋಗವೇನು ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಲು ಸಹಕಾರಿ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 34,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಹಳದಿಯಾಗಲು ಕಾರಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ .",
+      "detailed_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ .",
+      "step_by_step": [
+        "ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಹಳದಿಯಾಗಲು ಕಾರಣ ಏನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪೋಷಕಾಂಶ ಕೊರತೆ ಅಥವಾ ರೋಗ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 35,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಲಕ್ಷಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಸಣ್ಣದಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ .",
+      "detailed_answer": "ಎಲೆಗಳು ಸಣ್ಣದಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ .",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಸಣ್ಣದಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳು ಸಣ್ಣದಾಗಿ ಹಳದಿಯಾಗುತ್ತವೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 36,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆ ಲಕ್ಷಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಉದುರುವಿಕೆ .",
+      "detailed_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಉದುರುವಿಕೆ .",
+      "step_by_step": [
+        "ಕಾಯಿ ಉದುರುವಿಕೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಮತ್ತು ಕಾಯಿ ಉದುರುವಿಕೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 37,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಗೊಬ್ಬರ ಯಾವುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಗೊಬ್ಬರ ಏನುುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಗೊಬ್ಬರ ಯಾವುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಗೊಬ್ಬರ ಯಾವುದು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗೋಮಯ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ .",
+      "detailed_answer": "ಗೋಮಯ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ .",
+      "step_by_step": [
+        "ಕಾಂಪೋಸ್ಟ್ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಗೋಮಯ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಗೊಬ್ಬರ ಯಾವುದು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಗೋಮಯ ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 38,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಲಕ್ಷಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [
+      "ನೀರಿನ ಕೊರತೆ (Water stress)"
+    ],
+    "solution": {
+      "short_answer": "ಎಲೆ ಒಣಗುವುದು ಮತ್ತು ಬೆಳವಣಿಗೆ ಕಡಿಮೆಯಾಗುವುದು .",
+      "detailed_answer": "ಎಲೆ ಒಣಗುವುದು ಮತ್ತು ಬೆಳವಣಿಗೆ ಕಡಿಮೆಯಾಗುವುದು .",
+      "step_by_step": [
+        "ಎಲೆ ಒಣಗುವುದು",
+        "ಬೆಳವಣಿಗೆ ಕಡಿಮೆಯಾಗುವುದು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಿನ ಕೊರತೆ ಲಕ್ಷಣ ಏನು ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆ ಒಣಗುವುದು ಮತ್ತು ಬೆಳವಣಿಗೆ ಕಡಿಮೆಯಾಗುವುದು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 39,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯೋಗವೇನು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯೋಗವೇನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯೋಗವೇನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡಲು ಸಹಕಾರಿ .",
+      "detailed_answer": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡಲು ಸಹಕಾರಿ .",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡಲು ಸಹಕಾರಿ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆ ಉಪಯೋಗವೇನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡಲು ಸಹಕಾರಿ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 40,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಎಷ್ಟು ಹಂತಗಳಲ್ಲಿ ಹಾಕಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಎಷ್ಟು ಹಂತಗಳಲ್ಲಿ ಹಾಕಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಎಷ್ಟು ಹಂತಗಳಲ್ಲಿ ಹಾಕಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎರಡು ಹಂತಗಳಲ್ಲಿ ಹಾಕುವುದು ಉತ್ತಮ .",
+      "detailed_answer": "ಎರಡು ಹಂತಗಳಲ್ಲಿ ಹಾಕುವುದು ಉತ್ತಮ .",
+      "step_by_step": [
+        "ಎರಡು ಹಂತಗಳಲ್ಲಿ ಹಾಕುವುದು ಉತ್ತಮ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗೊಬ್ಬರವನ್ನು ಎಷ್ಟು ಹಂತಗಳಲ್ಲಿ ಹಾಕಬೇಕು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎರಡು ಹಂತಗಳಲ್ಲಿ ಹಾಕುವುದು ಉತ್ತಮ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 41,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ಹಾನಿ ಯಾವ ರೀತಿ ಕಾಣಿಸುತ್ತದೆ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳಲ್ಲಿ ರಂಧ್ರಗಳು ಕಾಣಿಸುತ್ತವೆ .",
+      "detailed_answer": "ಕಾಯಿಗಳಲ್ಲಿ ರಂಧ್ರಗಳು ಕಾಣಿಸುತ್ತವೆ .",
+      "step_by_step": [
+        "ಕಾಯಿಗಳಲ್ಲಿ ರಂಧ್ರಗಳು ಕಾಣಿಸುತ್ತವೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಕಾಯಿಗಳಲ್ಲಿ ರಂಧ್ರಗಳು ಕಾಣಿಸುತ್ತವೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 42,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಕೀಟಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಕೀಟಗಳನ್ನು ಯಾವ ರೀತಿ ನಿಯಂತ್ರಿಸಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಕೀಟಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಕೀಟಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಜೈವಿಕ ಅಥವಾ ರಾಸಾಯನಿಕ ಕೀಟನಾಶಕ ಬಳಸಬೇಕು .",
+      "detailed_answer": "ಜೈವಿಕ ಅಥವಾ ರಾಸಾಯನಿಕ ಕೀಟನಾಶಕ ಬಳಸಬೇಕು .",
+      "step_by_step": [
+        "ಜೈವಿಕ ಅಥವಾ ರಾಸಾಯನಿಕ ಕೀಟನಾಶಕ ಬಳಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಜೈವಿಕ ಅಥವಾ ರಾಸಾಯನಿಕ ಕೀಟನಾಶಕ ಬಳಸಬೇಕು"
+      ]
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ತಿನ್ನುವ ಕೀಟಗಳನ್ನು ಹೇಗೆ ನಿಯಂತ್ರಿಸಬೇಕು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಜೈವಿಕ ಅಥವಾ ರಾಸಾಯನಿಕ ಕೀಟನಾಶಕ ಬಳಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 43,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸರಿಯಾದ ಗೊಬ್ಬರ ಪ್ರಮಾಣ ತಿಳಿಯಲು ಮುಖ್ಯ .",
+      "detailed_answer": "ಸರಿಯಾದ ಗೊಬ್ಬರ ಪ್ರಮಾಣ ತಿಳಿಯಲು ಮುಖ್ಯ .",
+      "step_by_step": [
+        "ಸರಿಯಾದ ಗೊಬ್ಬರ ಪ್ರಮಾಣ ತಿಳಿಯಲು ಮುಖ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಏಕೆ ಮುಖ್ಯ ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸರಿಯಾದ ಗೊಬ್ಬರ ಪ್ರಮಾಣ ತಿಳಿಯಲು ಮುಖ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 44,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಯಾವುದು ಮುಖ್ಯ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "irrigation",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಸರಿಯಾದ ನೀರಾವರಿ , ಗೊಬ್ಬರ ಮತ್ತು ಕೀಟ ನಿಯಂತ್ರಣ ಮುಖ್ಯ .",
+      "detailed_answer": "ಸರಿಯಾದ ನೀರಾವರಿ , ಗೊಬ್ಬರ ಮತ್ತು ಕೀಟ ನಿಯಂತ್ರಣ ಮುಖ್ಯ .",
+      "step_by_step": [
+        "ಸರಿಯಾದ ನೀರಾವರಿ",
+        "ಕೀಟ ನಿಯಂತ್ರಣ ಮುಖ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಉತ್ಪಾದನೆಗೆ ಏನು ಮುಖ್ಯ ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸರಿಯಾದ ನೀರಾವರಿ , ಗೊಬ್ಬರ ಮತ್ತು ಕೀಟ ನಿಯಂತ್ರಣ ಮುಖ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 45,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಕೊಯ್ಲು ಏನುಾಗ ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳು ಒಣಗಿ ಕಂದು ಬಣ್ಣ ಬಂದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು .",
+      "detailed_answer": "ಕಾಯಿಗಳು ಒಣಗಿ ಕಂದು ಬಣ್ಣ ಬಂದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಕಾಯಿಗಳು ಒಣಗಿ ಕಂದು ಬಣ್ಣ ಬಂದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಕೊಯ್ಲು ಯಾವಾಗ ಮಾಡಬೇಕು ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಕಾಯಿಗಳು ಒಣಗಿ ಕಂದು ಬಣ್ಣ ಬಂದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 46,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಉತ್ಪಾದನೆ ಎಷ್ಟು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಉತ್ಪಾದನೆ ಎಷ್ಟು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಉತ್ಪಾದನೆ ಎಷ್ಟು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 10 ರಿಂದ 20 ಕ್ವಿಂಟಲ್ ಉತ್ಪಾದನೆ ಸಿಗುತ್ತದೆ .",
+      "detailed_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 10 ರಿಂದ 20 ಕ್ವಿಂಟಲ್ ಉತ್ಪಾದನೆ ಸಿಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 10 ರಿಂದ 20 ಕ್ವಿಂಟಲ್ ಉತ್ಪಾದನೆ ಸಿಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಉತ್ಪಾದನೆ ಎಷ್ಟು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 10 ರಿಂದ 20 ಕ್ವಿಂಟಲ್ ಉತ್ಪಾದನೆ ಸಿಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 47,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು , ಜೈವಿಕ ವಿಧಾನದಲ್ಲಿ ಬೆಳೆಸಬಹುದು .",
+      "detailed_answer": "ಹೌದು , ಜೈವಿಕ ವಿಧಾನದಲ್ಲಿ ಬೆಳೆಸಬಹುದು .",
+      "step_by_step": [
+        "ಜೈವಿಕ ವಿಧಾನದಲ್ಲಿ ಬೆಳೆಸಬಹುದು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೃಷಿ ಸಾಧ್ಯವೇ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು , ಜೈವಿಕ ವಿಧಾನದಲ್ಲಿ ಬೆಳೆಸಬಹುದು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 48,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)",
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಕೀಟ ಹಾನಿ ಮತ್ತು ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ .",
+      "detailed_answer": "ಕೀಟ ಹಾನಿ ಮತ್ತು ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ .",
+      "step_by_step": [
+        "ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಕೀಟ ಹಾನಿ ಮತ್ತು ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ"
+      ]
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಉದುರುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕೀಟ ಹಾನಿ ಮತ್ತು ಪೋಷಕಾಂಶ ಕೊರತೆಯಿಂದ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 49,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿಯ ಲಾಭ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿಯ ಲಾಭ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿಯ ಲಾಭ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿಯ ಲಾಭ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರು ಉಳಿತಾಯ ಮತ್ತು ಉತ್ತಮ ಬೆಳವಣಿಗೆ .",
+      "detailed_answer": "ನೀರು ಉಳಿತಾಯ ಮತ್ತು ಉತ್ತಮ ಬೆಳವಣಿಗೆ .",
+      "step_by_step": [
+        "ನೀರು ಉಳಿತಾಯ",
+        "ಉತ್ತಮ ಬೆಳವಣಿಗೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹನಿ ನೀರಾವರಿಯ ಲಾಭ ಏನು ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರು ಉಳಿತಾಯ ಮತ್ತು ಉತ್ತಮ ಬೆಳವಣಿಗೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 50,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಶಿಫಾರಸು ಮಾಡಿದ ಜಿಂಕ್ ಪ್ರಮಾಣ ಎಷ್ಟು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಶಿಫಾರಸು ಮಾಡಿದ ಜಿಂಕ್ ಪ್ರಮಾಣ ಎಷ್ಟು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಶಿಫಾರಸು ಮಾಡಿದ ಜಿಂಕ್ ಪ್ರಮಾಣ ಎಷ್ಟು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಕೊಡಬಹುದು .",
+      "detailed_answer": "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಕೊಡಬಹುದು .",
+      "step_by_step": [
+        "ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಕೊಡಬಹುದು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಶಿಫಾರಸು ಮಾಡಿದ ಜಿಂಕ್ ಪ್ರಮಾಣ ಎಷ್ಟು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪ್ರತಿ ಹೆಕ್ಟೇರ್‌ಗೆ 25 ಕೆಜಿ ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಕೊಡಬಹುದು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 51,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಯಾವ ಹಂತದಲ್ಲಿ ಉಪಯುಕ್ತ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಏನು ಹಂತದಲ್ಲಿ ಉಪಯುಕ್ತ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಯಾವ ಹಂತದಲ್ಲಿ ಉಪಯುಕ್ತ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಯಾವ ಹಂತದಲ್ಲಿ ಉಪಯುಕ್ತ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಬೋರಾನ್ ಹೆಚ್ಚು ಉಪಯುಕ್ತ .",
+      "detailed_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಬೋರಾನ್ ಹೆಚ್ಚು ಉಪಯುಕ್ತ .",
+      "step_by_step": [
+        "ಕಾಯಿ ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಬೋರಾನ್ ಹೆಚ್ಚು ಉಪಯುಕ್ತ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಯಾವ ಹಂತದಲ್ಲಿ ಉಪಯುಕ್ತ ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವ ಹಂತದಲ್ಲಿ ಬೋರಾನ್ ಹೆಚ್ಚು ಉಪಯುಕ್ತ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 52,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಏಕೆ ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಏಕೆ ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಏಕೆ ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆ ಮತ್ತು ಉತ್ಪಾದನೆಗೆ ತೇವಾಂಶ ಮುಖ್ಯ .",
+      "detailed_answer": "ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆ ಮತ್ತು ಉತ್ಪಾದನೆಗೆ ತೇವಾಂಶ ಮುಖ್ಯ .",
+      "step_by_step": [
+        "ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆ",
+        "ಉತ್ಪಾದನೆಗೆ ತೇವಾಂಶ ಮುಖ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಏಕೆ ಮುಖ್ಯ ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆ ಮತ್ತು ಉತ್ಪಾದನೆಗೆ ತೇವಾಂಶ ಮುಖ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 53,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಅತಿಯಾದ ಮಳೆಯ ಪರಿಣಾಮ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಅತಿಯಾದ ಮಳೆಯ ಪರಿಣಾಮ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಅತಿಯಾದ ಮಳೆಯ ಪರಿಣಾಮ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಅತಿಯಾದ ಮಳೆಯ ಪರಿಣಾಮ ಏನು ?",
+    "symptoms": [
+      "ಬೇರು ಕೊಳೆ ಮತ್ತು ರೋಗ ಹರಡುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇರು ಕೊಳೆ ಮತ್ತು ರೋಗ ಹರಡುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಬೇರು ಕೊಳೆ ಮತ್ತು ರೋಗ ಹರಡುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ರೋಗ ಹರಡುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಅತಿಯಾದ ಮಳೆಯ ಪರಿಣಾಮ ಏನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇರು ಕೊಳೆ ಮತ್ತು ರೋಗ ಹರಡುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 54,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಒಣಹವೆಯ ಪರಿಣಾಮ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಒಣಹವೆಯ ಪರಿಣಾಮ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಒಣಹವೆಯ ಪರಿಣಾಮ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಒಣಹವೆಯ ಪರಿಣಾಮ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿಗಳ ಉದುರುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿಗಳ ಉದುರುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಕಾಯಿಗಳ ಉದುರುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಒಣಹವೆಯ ಪರಿಣಾಮ ಏನು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೂವು ಮತ್ತು ಕಾಯಿಗಳ ಉದುರುವಿಕೆ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 55,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡದ ಬೆಳವಣಿಗೆ ನಿಧಾನವಾಗಲು ಕಾರಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡದ ಬೆಳವಣಿಗೆ ನಿಧಾನವಾಗಲು ಕಾರಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡದ ಬೆಳವಣಿಗೆ ನಿಧಾನವಾಗಲು ಕಾರಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡದ ಬೆಳವಣಿಗೆ ನಿಧಾನವಾಗಲು ಕಾರಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ ಮತ್ತು ನೀರಿನ ಅಭಾವ ಕಾರಣವಾಗಬಹುದು .",
+      "detailed_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ ಮತ್ತು ನೀರಿನ ಅಭಾವ ಕಾರಣವಾಗಬಹುದು .",
+      "step_by_step": [
+        "ಪೋಷಕಾಂಶ ಕೊರತೆ",
+        "ನೀರಿನ ಅಭಾವ ಕಾರಣವಾಗಬಹುದು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡದ ಬೆಳವಣಿಗೆ ನಿಧಾನವಾಗಲು ಕಾರಣ ಏನು ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಪೋಷಕಾಂಶ ಕೊರತೆ ಮತ್ತು ನೀರಿನ ಅಭಾವ ಕಾರಣವಾಗಬಹುದು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 56,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಸಮಯ ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಸಮಯ ಮುಖ್ಯ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಸಮಯ ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಸಮಯ ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬಿತ್ತನೆಯ ನಂತರ ಮೊದಲ 45 ದಿನಗಳು ಮುಖ್ಯ .",
+      "detailed_answer": "ಬಿತ್ತನೆಯ ನಂತರ ಮೊದಲ 45 ದಿನಗಳು ಮುಖ್ಯ .",
+      "step_by_step": [
+        "ಬಿತ್ತನೆಯ ನಂತರ ಮೊದಲ 45 ದಿನಗಳು ಮುಖ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಳೆ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವ ಸಮಯ ಮುಖ್ಯ ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಬಿತ್ತನೆಯ ನಂತರ ಮೊದಲ 45 ದಿನಗಳು ಮುಖ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 57,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಮಡಚುವ ಕೀಟ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಮಡಚುವ ಕೀಟ ಹಾನಿ ಯಾವ ರೀತಿ ಕಾಣಿಸುತ್ತದೆ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಮಡಚುವ ಕೀಟ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಮಡಚುವ ಕೀಟ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ?",
+    "symptoms": [
+      "ಎಲೆಗಳು ಮಡಚಿಕೊಂಡು ಒಣಗುತ್ತವೆ"
+    ],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳು ಮಡಚಿಕೊಂಡು ಒಣಗುತ್ತವೆ .",
+      "detailed_answer": "ಎಲೆಗಳು ಮಡಚಿಕೊಂಡು ಒಣಗುತ್ತವೆ .",
+      "step_by_step": [
+        "ಎಲೆಗಳು ಮಡಚಿಕೊಂಡು ಒಣಗುತ್ತವೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಮಡಚುವ ಕೀಟ ಹಾನಿ ಹೇಗೆ ಕಾಣಿಸುತ್ತದೆ ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳು ಮಡಚಿಕೊಂಡು ಒಣಗುತ್ತವೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 58,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಉದಾಹರಣೆ ಯಾವುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಉದಾಹರಣೆ ಏನುುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಉದಾಹರಣೆ ಯಾವುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಉದಾಹರಣೆ ಯಾವುದು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ನೀಮ್ ಆಧಾರಿತ ಕೀಟನಾಶಕ .",
+      "detailed_answer": "ನೀಮ್ ಆಧಾರಿತ ಕೀಟನಾಶಕ .",
+      "step_by_step": [
+        "ನೀಮ್ ಆಧಾರಿತ ಕೀಟನಾಶಕ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಕೀಟನಾಶಕ ಉದಾಹರಣೆ ಯಾವುದು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀಮ್ ಆಧಾರಿತ ಕೀಟನಾಶಕ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 59,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ಹೆಚ್ಚಾಗುವ ಸಮಯ ಯಾವುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ಹೆಚ್ಚಾಗುವ ಸಮಯ ಏನುುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ಹೆಚ್ಚಾಗುವ ಸಮಯ ಯಾವುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ಹೆಚ್ಚಾಗುವ ಸಮಯ ಯಾವುದು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಹಂತದಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಹಂತದಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಕಾಯಿ ಹಂತದಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರರ್ ಕೀಟ ಹೆಚ್ಚಾಗುವ ಸಮಯ ಯಾವುದು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಮತ್ತು ಕಾಯಿ ಹಂತದಲ್ಲಿ ಹೆಚ್ಚಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 60,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ನಿಯಂತ್ರಣಕ್ಕೆ ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಫೆರೋಮೋನ್ ಟ್ರ್ಯಾಪ್ ಮತ್ತು ಕೀಟನಾಶಕ ಬಳಸಬೇಕು .",
+      "detailed_answer": "ಫೆರೋಮೋನ್ ಟ್ರ್ಯಾಪ್ ಮತ್ತು ಕೀಟನಾಶಕ ಬಳಸಬೇಕು .",
+      "step_by_step": [
+        "ಫೆರೋಮೋನ್ ಟ್ರ್ಯಾಪ್",
+        "ಕೀಟನಾಶಕ ಬಳಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಪಾಡ್ ಬೋರರ್ ನಿಯಂತ್ರಣಕ್ಕೆ ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಫೆರೋಮೋನ್ ಟ್ರ್ಯಾಪ್ ಮತ್ತು ಕೀಟನಾಶಕ ಬಳಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 61,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "procedural",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ ನಿಯಂತ್ರಣ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "spraying",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ",
+      "ಸಿಂಪಡ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [
+      "ಶಿಲೀಂಧ್ರ (Fungal infection)"
+    ],
+    "solution": {
+      "short_answer": "ಶಿಲೀಂಧ್ರನಾಶಕ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ಶಿಲೀಂಧ್ರನಾಶಕ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಶಿಲೀಂಧ್ರನಾಶಕ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ ನಿಯಂತ್ರಣ ಹೇಗೆ ಮಾಡಬೇಕು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಶಿಲೀಂಧ್ರನಾಶಕ ಸಿಂಪಡಣೆ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 62,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗದ ಲಕ್ಷಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗದ ಲಕ್ಷಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗದ ಲಕ್ಷಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗದ ಲಕ್ಷಣ ಏನು ?",
+    "symptoms": [
+      "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಪುಡಿ ಕಾಣಿಸುತ್ತದೆ"
+    ],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಪುಡಿ ಕಾಣಿಸುತ್ತದೆ .",
+      "detailed_answer": "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಪುಡಿ ಕಾಣಿಸುತ್ತದೆ .",
+      "step_by_step": [
+        "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಪುಡಿ ಕಾಣಿಸುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರಸ್ಟ್ ರೋಗದ ಲಕ್ಷಣ ಏನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಎಲೆಗಳ ಮೇಲೆ ಕಂದು ಬಣ್ಣದ ಪುಡಿ ಕಾಣಿಸುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 63,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ತಡೆಯಲು ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ತಡೆಯಲು ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ತಡೆಯಲು ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ತಡೆಯಲು ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೀರು ನಿಲ್ಲದಂತೆ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ನೀರು ನಿಲ್ಲದಂತೆ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ನೀರು ನಿಲ್ಲದಂತೆ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೇರು ಕೊಳೆ ತಡೆಯಲು ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ನೀರು ನಿಲ್ಲದಂತೆ ಚರಂಡಿ ವ್ಯವಸ್ಥೆ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 64,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗಬಾಧಿತ ಗಿಡಗಳನ್ನು ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ತಕ್ಷಣ ತೆಗೆದು ನಾಶಪಡಿಸಬೇಕು .",
+      "detailed_answer": "ತಕ್ಷಣ ತೆಗೆದು ನಾಶಪಡಿಸಬೇಕು .",
+      "step_by_step": [
+        "ತಕ್ಷಣ ತೆಗೆದು ನಾಶಪಡಿಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗಬಾಧಿತ ಗಿಡಗಳನ್ನು ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ತಕ್ಷಣ ತೆಗೆದು ನಾಶಪಡಿಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 65,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಹೆಚ್ಚಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಹೆಚ್ಚಾಗಲು ಏನು ಪೋಷಕಾಂಶ ಮುಖ್ಯ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಹೆಚ್ಚಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಹೆಚ್ಚಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಫಾಸ್ಫರಸ್ ಮುಖ್ಯವಾಗಿದೆ .",
+      "detailed_answer": "ಫಾಸ್ಫರಸ್ ಮುಖ್ಯವಾಗಿದೆ .",
+      "step_by_step": [
+        "ಫಾಸ್ಫರಸ್ ಮುಖ್ಯವಾಗಿದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೂವು ಹೆಚ್ಚಾಗಲು ಯಾವ ಪೋಷಕಾಂಶ ಮುಖ್ಯ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಫಾಸ್ಫರಸ್ ಮುಖ್ಯವಾಗಿದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 66,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ತುಂಬುವಿಕೆಗಾಗಿ ಯಾವ ಪೋಷಕಾಂಶ ಅಗತ್ಯ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ತುಂಬುವಿಕೆಗಾಗಿ ಏನು ಪೋಷಕಾಂಶ ಅಗತ್ಯ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ತುಂಬುವಿಕೆಗಾಗಿ ಯಾವ ಪೋಷಕಾಂಶ ಅಗತ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ತುಂಬುವಿಕೆಗಾಗಿ ಯಾವ ಪೋಷಕಾಂಶ ಅಗತ್ಯ ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯವಾಗಿದೆ .",
+      "detailed_answer": "ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯವಾಗಿದೆ .",
+      "step_by_step": [
+        "ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯವಾಗಿದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ತುಂಬುವಿಕೆಗಾಗಿ ಯಾವ ಪೋಷಕಾಂಶ ಅಗತ್ಯ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪೊಟ್ಯಾಶ್ ಅಗತ್ಯವಾಗಿದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 67,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೈಟ್ರೋಜನ್ ಹೆಚ್ಚು ಕೊಟ್ಟರೆ ಏನಾಗುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೈಟ್ರೋಜನ್ ಹೆಚ್ಚು ಕೊಟ್ಟರೆ ಏನಾಗುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೈಟ್ರೋಜನ್ ಹೆಚ್ಚು ಕೊಟ್ಟರೆ ಏನಾಗುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಅತಿಯಾದ ಎಲೆ ಬೆಳವಣಿಗೆ ಆಗುತ್ತದೆ .",
+      "detailed_answer": "ಅತಿಯಾದ ಎಲೆ ಬೆಳವಣಿಗೆ ಆಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಅತಿಯಾದ ಎಲೆ ಬೆಳವಣಿಗೆ ಆಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೈಟ್ರೋಜನ್ ಹೆಚ್ಚು ಕೊಟ್ಟರೆ ಏನಾಗುತ್ತದೆ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಅತಿಯಾದ ಎಲೆ ಬೆಳವಣಿಗೆ ಆಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 68,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜ ಮೊಳಕೆಯ ಪ್ರಮಾಣ ಹೇಗೆ ಹೆಚ್ಚಿಸಬಹುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜ ಮೊಳಕೆಯ ಪ್ರಮಾಣ ಯಾವ ರೀತಿ ಹೆಚ್ಚಿಸಬಹುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜ ಮೊಳಕೆಯ ಪ್ರಮಾಣ ಹೇಗೆ ಹೆಚ್ಚಿಸಬಹುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜ ಮೊಳಕೆಯ ಪ್ರಮಾಣ ಹೇಗೆ ಹೆಚ್ಚಿಸಬಹುದು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗುಣಮಟ್ಟದ ಬೀಜ ಮತ್ತು ಬೀಜೋಪಚಾರದಿಂದ ಹೆಚ್ಚಿಸಬಹುದು .",
+      "detailed_answer": "ಗುಣಮಟ್ಟದ ಬೀಜ ಮತ್ತು ಬೀಜೋಪಚಾರದಿಂದ ಹೆಚ್ಚಿಸಬಹುದು .",
+      "step_by_step": [
+        "ಗುಣಮಟ್ಟದ ಬೀಜ",
+        "ಬೀಜೋಪಚಾರದಿಂದ ಹೆಚ್ಚಿಸಬಹುದು ."
+      ],
+      "preventive_measures": [
+        "ಗುಣಮಟ್ಟದ ಬೀಜ ಮತ್ತು ಬೀಜೋಪಚಾರದಿಂದ ಹೆಚ್ಚಿಸಬಹುದು"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೀಜ ಮೊಳಕೆಯ ಪ್ರಮಾಣ ಹೇಗೆ ಹೆಚ್ಚಿಸಬಹುದು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗುಣಮಟ್ಟದ ಬೀಜ ಮತ್ತು ಬೀಜೋಪಚಾರದಿಂದ ಹೆಚ್ಚಿಸಬಹುದು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 69,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡುವುದು ಏಕೆ ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡುವುದು ಏಕೆ ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "soil management",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ಮಣ್ಣು"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡುವುದು ಏಕೆ ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇರು ಬೆಳವಣಿಗೆ ಸುಲಭವಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಬೇರು ಬೆಳವಣಿಗೆ ಸುಲಭವಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಬೇರು ಬೆಳವಣಿಗೆ ಸುಲಭವಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣು ಪುಡಿ ಮಾಡುವುದು ಏಕೆ ಮುಖ್ಯ ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇರು ಬೆಳವಣಿಗೆ ಸುಲಭವಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 70,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳು ಬಾಗುವುದಕ್ಕೆ ಕಾರಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳು ಬಾಗುವುದಕ್ಕೆ ಕಾರಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳು ಬಾಗುವುದಕ್ಕೆ ಕಾರಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳು ಬಾಗುವುದಕ್ಕೆ ಕಾರಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಗಾಳಿ ಅಥವಾ ದುರ್ಬಲ ಕಾಂಡದಿಂದ .",
+      "detailed_answer": "ಗಾಳಿ ಅಥವಾ ದುರ್ಬಲ ಕಾಂಡದಿಂದ .",
+      "step_by_step": [
+        "ಗಾಳಿ ಅಥವಾ ದುರ್ಬಲ ಕಾಂಡದಿಂದ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳು ಬಾಗುವುದಕ್ಕೆ ಕಾರಣ ಏನು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಗಾಳಿ ಅಥವಾ ದುರ್ಬಲ ಕಾಂಡದಿಂದ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 71,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಿಶ್ರ ಬೆಳೆ ಪದ್ಧತಿ ಬಳಸಬಹುದೇ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಿಶ್ರ ಬೆಳೆ ಪದ್ಧತಿ ಬಳಸಬಹುದೇ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಿಶ್ರ ಬೆಳೆ ಪದ್ಧತಿ ಬಳಸಬಹುದೇ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೌದು , ಜೋಳ ಮತ್ತು ಸಜ್ಜೆಯೊಂದಿಗೆ ಬೆಳೆಸಬಹುದು .",
+      "detailed_answer": "ಹೌದು , ಜೋಳ ಮತ್ತು ಸಜ್ಜೆಯೊಂದಿಗೆ ಬೆಳೆಸಬಹುದು .",
+      "step_by_step": [
+        "ಸಜ್ಜೆಯೊಂದಿಗೆ ಬೆಳೆಸಬಹುದು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಿಶ್ರ ಬೆಳೆ ಪದ್ಧತಿ ಬಳಸಬಹುದೇ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಹೌದು , ಜೋಳ ಮತ್ತು ಸಜ್ಜೆಯೊಂದಿಗೆ ಬೆಳೆಸಬಹುದು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 72,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆಯ ಲಾಭ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆಯ ಲಾಭ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆಯ ಲಾಭ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆಯ ಲಾಭ ಏನು ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಪೋಷಕಾಂಶ ಸಮತೋಲನ ಕಾಪಾಡುತ್ತದೆ .",
+      "detailed_answer": "ಮಣ್ಣಿನ ಪೋಷಕಾಂಶ ಸಮತೋಲನ ಕಾಪಾಡುತ್ತದೆ .",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಪೋಷಕಾಂಶ ಸಮತೋಲನ ಕಾಪಾಡುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೆಳೆ ಪರಿವರ್ತನೆಯ ಲಾಭ ಏನು ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಪೋಷಕಾಂಶ ಸಮತೋಲನ ಕಾಪಾಡುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 73,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನಲ್ಲಿ ಜಿಂಕ್ ಪ್ರಮಾಣ ಕಡಿಮೆಯಿದ್ದರೆ ಉಂಟಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಮಣ್ಣಿನಲ್ಲಿ ಜಿಂಕ್ ಪ್ರಮಾಣ ಕಡಿಮೆಯಿದ್ದರೆ ಉಂಟಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಮಣ್ಣಿನಲ್ಲಿ ಜಿಂಕ್ ಪ್ರಮಾಣ ಕಡಿಮೆಯಿದ್ದರೆ ಉಂಟಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜಿಂಕ್ ಕೊರತೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನಲ್ಲಿ ಜಿಂಕ್ ಪ್ರಮಾಣ ಕಡಿಮೆಯಿದ್ದರೆ ಉಂಟಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 74,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಪರಿಣಾಮ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಪರಿಣಾಮ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಪರಿಣಾಮ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಪರಿಣಾಮ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಉದುರುತ್ತವೆ .",
+      "detailed_answer": "ಹೂವು ಮತ್ತು ಕಾಯಿ ಉದುರುತ್ತವೆ .",
+      "step_by_step": [
+        "ಕಾಯಿ ಉದುರುತ್ತವೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬೋರಾನ್ ಕೊರತೆಯ ಪರಿಣಾಮ ಏನು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಮತ್ತು ಕಾಯಿ ಉದುರುತ್ತವೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 75,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "diagnostic",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳು ಸಣ್ಣದಾಗಲು ಕಾರಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳು ಸಣ್ಣದಾಗಲು ಕಾರಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳು ಸಣ್ಣದಾಗಲು ಕಾರಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳು ಸಣ್ಣದಾಗಲು ಕಾರಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [
+      "ಪೋಷಕಾಂಶ ಕೊರತೆ (Nutrient deficiency)"
+    ],
+    "solution": {
+      "short_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ .",
+      "detailed_answer": "ಪೋಷಕಾಂಶ ಕೊರತೆ .",
+      "step_by_step": [
+        "ಪೋಷಕಾಂಶ ಕೊರತೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳು ಸಣ್ಣದಾಗಲು ಕಾರಣ ಏನು ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಪೋಷಕಾಂಶ ಕೊರತೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 76,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹಸಿರು ಗೊಬ್ಬರದ ಉಪಯೋಗ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹಸಿರು ಗೊಬ್ಬರದ ಉಪಯೋಗ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹಸಿರು ಗೊಬ್ಬರದ ಉಪಯೋಗ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹಸಿರು ಗೊಬ್ಬರದ ಉಪಯೋಗ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು .",
+      "detailed_answer": "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು .",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹಸಿರು ಗೊಬ್ಬರದ ಉಪಯೋಗ ಏನು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಲು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 77,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಕೃಷಿಯ ಲಾಭ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಕೃಷಿಯ ಲಾಭ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಕೃಷಿಯ ಲಾಭ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "organic farming",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಕೃಷಿಯ ಲಾಭ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಮತ್ತು ಉತ್ಪನ್ನದ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ .",
+      "detailed_answer": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಮತ್ತು ಉತ್ಪನ್ನದ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ .",
+      "step_by_step": [
+        "ಮಣ್ಣಿನ ಆರೋಗ್ಯ",
+        "ಉತ್ಪನ್ನದ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಸಾವಯವ ಕೃಷಿಯ ಲಾಭ ಏನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಮತ್ತು ಉತ್ಪನ್ನದ ಗುಣಮಟ್ಟ ಹೆಚ್ಚುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 78,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಾವರಿ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಾವರಿ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಾವರಿ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ನೀರಾವರಿ ಕೊರತೆ ಇದ್ದರೆ ಏನಾಗುತ್ತದೆ ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಉತ್ಪಾದನೆ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 79,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಳೆ ನೀರು ಸಂಗ್ರಹಣೆ ಏಕೆ ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಳೆ ನೀರು ಸಂಗ್ರಹಣೆ ಏಕೆ ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಳೆ ನೀರು ಸಂಗ್ರಹಣೆ ಏಕೆ ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ನೀರಾವರಿಗೆ ಸಹಕಾರಿ .",
+      "detailed_answer": "ಬೇಸಿಗೆಯಲ್ಲಿ ನೀರಾವರಿಗೆ ಸಹಕಾರಿ .",
+      "step_by_step": [
+        "ಬೇಸಿಗೆಯಲ್ಲಿ ನೀರಾವರಿಗೆ ಸಹಕಾರಿ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಳೆ ನೀರು ಸಂಗ್ರಹಣೆ ಏಕೆ ಮುಖ್ಯ ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಬೇಸಿಗೆಯಲ್ಲಿ ನೀರಾವರಿಗೆ ಸಹಕಾರಿ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 80,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಸರಿಯಾದ ಸಮಯ ಏನುುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "80% ಕಾಯಿಗಳು ಒಣಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು .",
+      "detailed_answer": "80% ಕಾಯಿಗಳು ಒಣಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "80% ಕಾಯಿಗಳು ಒಣಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [
+        "80%"
+      ],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಸರಿಯಾದ ಸಮಯ ಯಾವುದು ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: 80% ಕಾಯಿಗಳು ಒಣಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 81,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಕೊಯ್ಲಿನ ನಂತರ ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಕಾಯಿಗಳನ್ನು ಒಣಗಿಸಿ ಧಾನ್ಯ ಬೇರ್ಪಡಿಸಬೇಕು .",
+      "detailed_answer": "ಕಾಯಿಗಳನ್ನು ಒಣಗಿಸಿ ಧಾನ್ಯ ಬೇರ್ಪಡಿಸಬೇಕು .",
+      "step_by_step": [
+        "ಕಾಯಿಗಳನ್ನು ಒಣಗಿಸಿ ಧಾನ್ಯ ಬೇರ್ಪಡಿಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಕೊಯ್ಲಿನ ನಂತರ ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಕಾಯಿಗಳನ್ನು ಒಣಗಿಸಿ ಧಾನ್ಯ ಬೇರ್ಪಡಿಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 82,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "procedural",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಧಾನ್ಯ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಧಾನ್ಯ ಸಂಗ್ರಹಣೆ ಯಾವ ರೀತಿ ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಧಾನ್ಯ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "post-harvest",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಧಾನ್ಯ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಣ ಮತ್ತು ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು .",
+      "detailed_answer": "ಒಣ ಮತ್ತು ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು .",
+      "step_by_step": [
+        "ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಧಾನ್ಯ ಸಂಗ್ರಹಣೆ ಹೇಗೆ ಮಾಡಬೇಕು ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಒಣ ಮತ್ತು ಗಾಳಿಯಾಡುವ ಸ್ಥಳದಲ್ಲಿ ಸಂಗ್ರಹಿಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 83,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಒಣಗದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಒಣಗದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಒಣಗದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಧಾನ್ಯ ಗುಣಮಟ್ಟ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+      "detailed_answer": "ಧಾನ್ಯ ಗುಣಮಟ್ಟ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ಧಾನ್ಯ ಗುಣಮಟ್ಟ ಕಡಿಮೆಯಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಒಣಗದಿದ್ದರೆ ಏನಾಗುತ್ತದೆ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಧಾನ್ಯ ಗುಣಮಟ್ಟ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 84,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಉತ್ಪಾದನೆಗೆ ಯಾವ ತಳಿ ಉತ್ತಮ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಉತ್ಪಾದನೆಗೆ ಏನು ತಳಿ ಉತ್ತಮ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಉತ್ಪಾದನೆಗೆ ಯಾವ ತಳಿ ಉತ್ತಮ ?"
+    ],
+    "keywords": [
+      "BRG",
+      "Karnataka",
+      "crop variety",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಉತ್ಪಾದನೆಗೆ ಯಾವ ತಳಿ ಉತ್ತಮ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "BRG ಮತ್ತು TS ತಳಿಗಳು ಉತ್ತಮ .",
+      "detailed_answer": "BRG ಮತ್ತು TS ತಳಿಗಳು ಉತ್ತಮ .",
+      "step_by_step": [
+        "TS ತಳಿಗಳು ಉತ್ತಮ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಉತ್ಪಾದನೆಗೆ ಯಾವ ತಳಿ ಉತ್ತಮ ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: BRG ಮತ್ತು TS ತಳಿಗಳು ಉತ್ತಮ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 85,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಒಣಗುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಒಣಗುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಒಣಗುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [
+      "ನೀರಿನ ಕೊರತೆ (Water stress)"
+    ],
+    "solution": {
+      "short_answer": "ರೋಗ ಅಥವಾ ನೀರಿನ ಕೊರತೆಯಿಂದ .",
+      "detailed_answer": "ರೋಗ ಅಥವಾ ನೀರಿನ ಕೊರತೆಯಿಂದ .",
+      "step_by_step": [
+        "ರೋಗ ಅಥವಾ ನೀರಿನ ಕೊರತೆಯಿಂದ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆ ಒಣಗುವಿಕೆ ಏಕೆ ಉಂಟಾಗುತ್ತದೆ ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗ ಅಥವಾ ನೀರಿನ ಕೊರತೆಯಿಂದ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 86,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಕಳಪೆ ಮೊಳಕೆ ಅಥವಾ ಕೀಟ ಹಾನಿ .",
+      "detailed_answer": "ಕಳಪೆ ಮೊಳಕೆ ಅಥವಾ ಕೀಟ ಹಾನಿ .",
+      "step_by_step": [
+        "ಕಳಪೆ ಮೊಳಕೆ ಅಥವಾ ಕೀಟ ಹಾನಿ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಕಳಪೆ ಮೊಳಕೆ ಅಥವಾ ಕೀಟ ಹಾನಿ"
+      ]
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಸಂಖ್ಯೆ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಕಳಪೆ ಮೊಳಕೆ ಅಥವಾ ಕೀಟ ಹಾನಿ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 87,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ತಳಿ ಆಯ್ಕೆ",
+    "subtopic": "Variety Selection",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟು ಇರಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟು ಇರಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "transplanting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟು ಇರಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 7 ಸೆಂ . ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 7 ಸೆಂ . ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 7 ಸೆಂ . ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಬಿತ್ತನೆ ಆಳ ಎಷ್ಟು ಇರಬೇಕು ? ವಿಷಯ: ತಳಿ ಆಯ್ಕೆ. ಉತ್ತರ: ಸಾಮಾನ್ಯವಾಗಿ 5 ರಿಂದ 7 ಸೆಂ . ಮೀ ಆಳದಲ್ಲಿ ಬಿತ್ತನೆ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 88,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಏನುಾಗ ಹಾಕಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ಸಮಯದಲ್ಲಿ ಹಾಕಬೇಕು .",
+      "detailed_answer": "ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ಸಮಯದಲ್ಲಿ ಹಾಕಬೇಕು .",
+      "step_by_step": [
+        "ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ಸಮಯದಲ್ಲಿ ಹಾಕಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಜೈವಿಕ ಗೊಬ್ಬರ ಯಾವಾಗ ಹಾಕಬೇಕು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಭೂಮಿ ಸಿದ್ಧಪಡಿಸುವ ಸಮಯದಲ್ಲಿ ಹಾಕಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 89,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಹಳದಿಯಾಗುವುದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಹಳದಿಯಾಗುವುದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಹಳದಿಯಾಗುವುದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ನೈಟ್ರೋಜನ್ ಕೊರತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ .",
+      "detailed_answer": "ನೈಟ್ರೋಜನ್ ಕೊರತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ .",
+      "step_by_step": [
+        "ನೈಟ್ರೋಜನ್ ಕೊರತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಎಲೆಗಳ ಬಣ್ಣ ಹಳದಿಯಾಗುವುದು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ನೈಟ್ರೋಜನ್ ಕೊರತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 90,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "diagnostic",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "fruiting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ?",
+    "symptoms": [
+      "ಹೂವು ಉದುರುವಿಕೆ ಮತ್ತು ಕೀಟ ಹಾನಿ"
+    ],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಹೂವು ಉದುರುವಿಕೆ ಮತ್ತು ಕೀಟ ಹಾನಿ .",
+      "detailed_answer": "ಹೂವು ಉದುರುವಿಕೆ ಮತ್ತು ಕೀಟ ಹಾನಿ .",
+      "step_by_step": [
+        "ಹೂವು ಉದುರುವಿಕೆ"
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ಹೂವು ಉದುರುವಿಕೆ ಮತ್ತು ಕೀಟ ಹಾನಿ"
+      ]
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿ ಕಡಿಮೆಯಾಗಲು ಕಾರಣ ಏನು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಹೂವು ಉದುರುವಿಕೆ ಮತ್ತು ಕೀಟ ಹಾನಿ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 91,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೇರು ಆಳವಾಗಿರುವುದರಿಂದ ಏನು ಲಾಭ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೇರು ಆಳವಾಗಿರುವುದರಿಂದ ಯಾವುದು ಲಾಭ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೇರು ಆಳವಾಗಿರುವುದರಿಂದ ಏನು ಲಾಭ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೇರು ಆಳವಾಗಿರುವುದರಿಂದ ಏನು ಲಾಭ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಒಣಹವೆಯನ್ನು ತಡೆಯಲು ಸಹಕಾರಿ .",
+      "detailed_answer": "ಒಣಹವೆಯನ್ನು ತಡೆಯಲು ಸಹಕಾರಿ .",
+      "step_by_step": [
+        "ಒಣಹವೆಯನ್ನು ತಡೆಯಲು ಸಹಕಾರಿ ."
+      ],
+      "preventive_measures": [
+        "ಒಣಹವೆಯನ್ನು ತಡೆಯಲು ಸಹಕಾರಿ"
+      ],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೇರು ಆಳವಾಗಿರುವುದರಿಂದ ಏನು ಲಾಭ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಒಣಹವೆಯನ್ನು ತಡೆಯಲು ಸಹಕಾರಿ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 92,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಸಾಂದ್ರತೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಸಾಂದ್ರತೆ ಕಡಿಮೆ ಮಾಡಲು ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಸಾಂದ್ರತೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "organic farming",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ",
+      "ಸಾವಯವ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಸಾಂದ್ರತೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [
+        "ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು"
+      ],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಸಾಂದ್ರತೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 93,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ರೋಗ ನಿರ್ವಹಣೆ",
+    "subtopic": "Plant Disease Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳ ಲಾಭ ಏನು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳ ಲಾಭ ಯಾವುದು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳ ಲಾಭ ಏನು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "crop variety",
+      "plant disease",
+      "ಕರ್ನಾಟಕ",
+      "ತಳಿ",
+      "ತೊಗರಿ",
+      "ರೋಗ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳ ಲಾಭ ಏನು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ರೋಗ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+      "detailed_answer": "ರೋಗ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+      "step_by_step": [
+        "ರೋಗ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": [
+        "ರೋಗ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ"
+      ]
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳ ಲಾಭ ಏನು ? ವಿಷಯ: ರೋಗ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ರೋಗ ಹಾನಿ ಕಡಿಮೆಯಾಗುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 94,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಧಾನ್ಯ ಪಡೆಯಲು ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಧಾನ್ಯ ಪಡೆಯಲು ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಧಾನ್ಯ ಪಡೆಯಲು ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಧಾನ್ಯ ಪಡೆಯಲು ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಸರಿಯಾದ ಕೊಯ್ಲು ಮತ್ತು ಒಣಗಿಸುವಿಕೆ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ಸರಿಯಾದ ಕೊಯ್ಲು ಮತ್ತು ಒಣಗಿಸುವಿಕೆ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಸರಿಯಾದ ಕೊಯ್ಲು",
+        "ಒಣಗಿಸುವಿಕೆ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಧಾನ್ಯ ಪಡೆಯಲು ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: ಸರಿಯಾದ ಕೊಯ್ಲು ಮತ್ತು ಒಣಗಿಸುವಿಕೆ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 95,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಮಣ್ಣು ನಿರ್ವಹಣೆ",
+    "subtopic": "Soil Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಎಷ್ಟು ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಎಷ್ಟು ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಎಷ್ಟು ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "2 ರಿಂದ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು .",
+      "detailed_answer": "2 ರಿಂದ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "2 ರಿಂದ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ಪರೀಕ್ಷೆ ಎಷ್ಟು ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು ? ವಿಷಯ: ಮಣ್ಣು ನಿರ್ವಹಣೆ. ಉತ್ತರ: 2 ರಿಂದ 3 ವರ್ಷಕ್ಕೊಮ್ಮೆ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 96,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಸಾಮಾನ್ಯ ಕೃಷಿ",
+    "subtopic": "General Agriculture",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೆಳವಣಿಗೆಗೆ ಸೂರ್ಯನ ಬೆಳಕು ಏಕೆ ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೆಳವಣಿಗೆಗೆ ಸೂರ್ಯನ ಬೆಳಕು ಏಕೆ ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "vegetative",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೆಳವಣಿಗೆಗೆ ಸೂರ್ಯನ ಬೆಳಕು ಏಕೆ ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಆಹಾರ ಉತ್ಪಾದನೆಗೆ ಅಗತ್ಯ .",
+      "detailed_answer": "ಆಹಾರ ಉತ್ಪಾದನೆಗೆ ಅಗತ್ಯ .",
+      "step_by_step": [
+        "ಆಹಾರ ಉತ್ಪಾದನೆಗೆ ಅಗತ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಗಿಡಗಳ ಬೆಳವಣಿಗೆಗೆ ಸೂರ್ಯನ ಬೆಳಕು ಏಕೆ ಮುಖ್ಯ ? ವಿಷಯ: ಸಾಮಾನ್ಯ ಕೃಷಿ. ಉತ್ತರ: ಆಹಾರ ಉತ್ಪಾದನೆಗೆ ಅಗತ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 97,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕೀಟ ನಿರ್ವಹಣೆ",
+    "subtopic": "Pest Management",
+    "query_type": "advisory",
+    "difficulty_level": "intermediate",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೀಟ ಬಾಧೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೀಟ ಬಾಧೆ ಕಡಿಮೆ ಮಾಡಲು ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೀಟ ಬಾಧೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "pest control",
+      "ಕರ್ನಾಟಕ",
+      "ಕೀಟ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೀಟ ಬಾಧೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [
+      "ಕೀಟ ಬಾಧೆ (Pest attack)"
+    ],
+    "solution": {
+      "short_answer": "ಸಮಗ್ರ ಕೀಟ ನಿರ್ವಹಣೆ ಅನುಸರಿಸಬೇಕು .",
+      "detailed_answer": "ಸಮಗ್ರ ಕೀಟ ನಿರ್ವಹಣೆ ಅನುಸರಿಸಬೇಕು .",
+      "step_by_step": [
+        "ಸಮಗ್ರ ಕೀಟ ನಿರ್ವಹಣೆ ಅನುಸರಿಸಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕೀಟ ಬಾಧೆ ಕಡಿಮೆ ಮಾಡಲು ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ಕೀಟ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಸಮಗ್ರ ಕೀಟ ನಿರ್ವಹಣೆ ಅನುಸರಿಸಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 98,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ನೀರಾವರಿ ನಿರ್ವಹಣೆ",
+    "subtopic": "Irrigation Management",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳಲು ಏನು ಮಾಡಬೇಕು ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳಲು ಯಾವುದು ಮಾಡಬೇಕು ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳಲು ಏನು ಮಾಡಬೇಕು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "general",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳಲು ಏನು ಮಾಡಬೇಕು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಮಲ್ಚಿಂಗ್ ಮಾಡಬೇಕು .",
+      "detailed_answer": "ಮಲ್ಚಿಂಗ್ ಮಾಡಬೇಕು .",
+      "step_by_step": [
+        "ಮಲ್ಚಿಂಗ್ ಮಾಡಬೇಕು ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ ಉಳಿಸಿಕೊಳ್ಳಲು ಏನು ಮಾಡಬೇಕು ? ವಿಷಯ: ನೀರಾವರಿ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಮಲ್ಚಿಂಗ್ ಮಾಡಬೇಕು .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 99,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ",
+    "subtopic": "Fertilizer & Nutrition",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಯಾವುದು ಮುಖ್ಯ ?",
+    "question_variants": [
+      "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಏನುುದು ಮುಖ್ಯ ?",
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಯಾವುದು ಮುಖ್ಯ ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "fertilizer",
+      "irrigation",
+      "ಕರ್ನಾಟಕ",
+      "ಗೊಬ್ಬರ",
+      "ತೊಗರಿ",
+      "ನೀರಾವರಿ"
+    ],
+    "context": {
+      "crop_stage": "seedling",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಯಾವುದು ಮುಖ್ಯ ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "ಉತ್ತಮ ಬೀಜ , ಗೊಬ್ಬರ ಮತ್ತು ನೀರಾವರಿ ಮುಖ್ಯ .",
+      "detailed_answer": "ಉತ್ತಮ ಬೀಜ , ಗೊಬ್ಬರ ಮತ್ತು ನೀರಾವರಿ ಮುಖ್ಯ .",
+      "step_by_step": [
+        "ನೀರಾವರಿ ಮುಖ್ಯ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಉತ್ಪಾದನೆ ಹೆಚ್ಚಿಸಲು ಯಾವುದು ಮುಖ್ಯ ? ವಿಷಯ: ಪೋಷಕಾಂಶ ನಿರ್ವಹಣೆ. ಉತ್ತರ: ಉತ್ತಮ ಬೀಜ , ಗೊಬ್ಬರ ಮತ್ತು ನೀರಾವರಿ ಮುಖ್ಯ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  },
+  {
+    "id": 100,
+    "crop_name": "ತೊಗರಿ (Pigeon Pea)",
+    "crop_type": "Pulse Crop",
+    "language": "kn",
+    "region": "Karnataka",
+    "season": "Kharif",
+    "topic": "ಕಟಾವು & ಸಂಗ್ರಹ",
+    "subtopic": "Harvesting & Storage",
+    "query_type": "advisory",
+    "difficulty_level": "beginner",
+    "user_profile": "small_farmer",
+    "question": "ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಕೊಯ್ಲು ಅವಧಿ ಎಷ್ಟು ?",
+    "question_variants": [
+      "ರೈತರು ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಕೊಯ್ಲು ಅವಧಿ ಎಷ್ಟು ?"
+    ],
+    "keywords": [
+      "Karnataka",
+      "ಕರ್ನಾಟಕ",
+      "ತೊಗರಿ"
+    ],
+    "context": {
+      "crop_stage": "harvesting",
+      "soil_type": "Deep Black / Red Loamy",
+      "climate": "Semi-arid",
+      "temperature": "26-30°C",
+      "rainfall": "600-1000 mm"
+    },
+    "problem_description": "ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಕೊಯ್ಲು ಅವಧಿ ಎಷ್ಟು ?",
+    "symptoms": [],
+    "causes": [],
+    "solution": {
+      "short_answer": "120 ರಿಂದ 180 ದಿನಗಳಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಬರುತ್ತದೆ .",
+      "detailed_answer": "120 ರಿಂದ 180 ದಿನಗಳಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಬರುತ್ತದೆ .",
+      "step_by_step": [
+        "120 ರಿಂದ 180 ದಿನಗಳಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಬರುತ್ತದೆ ."
+      ],
+      "preventive_measures": [],
+      "recommended_products": [],
+      "organic_solutions": [],
+      "warnings": []
+    },
+    "retrieval_text": "ತೊಗರಿ (Pigeon Pea) ಬೆಳೆಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಶ್ನೆ: ತೊಗರಿ ಬೆಳೆಯ ಸರಾಸರಿ ಕೊಯ್ಲು ಅವಧಿ ಎಷ್ಟು ? ವಿಷಯ: ಕಟಾವು & ಸಂಗ್ರಹ. ಉತ್ತರ: 120 ರಿಂದ 180 ದಿನಗಳಲ್ಲಿ ಕೊಯ್ಲಿಗೆ ಬರುತ್ತದೆ .",
+    "metadata": {
+      "source": "Agricultural Knowledge Dataset",
+      "verified": true,
+      "confidence_level": "high",
+      "last_updated": "2026-05-08"
+    }
+  }
+]

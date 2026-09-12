@@ -1,0 +1,82 @@
+{
+  "user_api_1": [
+    {
+      "advice_id": "c612433f-a408-4c2e-bdff-bf8de8b83fc9",
+      "user_id": "user_api_1",
+      "saved_at": "2026-09-06T13:33:07.959739+00:00",
+      "user_query": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿಕೊರಕ ಹುಳು ನಿಯಂತ್ರಣ ಹೇಗೆ?",
+      "content": "ತೊಗರಿ ಬೆಳೆಯಲ್ಲಿ ಕಾಯಿಕೊರಕ ಹುಳು ನಿಯಂತ್ರಣಕ್ಕಾಗಿ ಎಮಾಮೆಕ್ಟಿನ್ ಬೆಂಜೋಯೆಟ್ 5 ಎಸ್.ಜಿ 0.4 ಗ್ರಾಂ ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ ಬೆರೆಸಿ ಸಿಂಪಡಿಸಿ.",
+      "crop": "Redgram",
+      "topic": "pesticide",
+      "source": "database",
+      "provider": "gemini"
+    }
+  ],
+  "user_api_dup": [
+    {
+      "advice_id": "b848cddf-1f87-46b5-9e88-4efa6c2c7f39",
+      "user_id": "user_api_dup",
+      "saved_at": "2026-09-06T13:33:08.183041+00:00",
+      "user_query": "Coconut button shedding reason?",
+      "content": "Boron deficiency or severe water stress causes button shedding.",
+      "crop": "Coconut",
+      "topic": null,
+      "source": null,
+      "provider": null
+    }
+  ],
+  "user_api_del": [],
+  "user_alpha": [
+    {
+      "advice_id": "3d7ac583-7920-43eb-a89f-7571b0aa2720",
+      "user_id": "user_alpha",
+      "saved_at": "2026-09-06T13:33:08.851682+00:00",
+      "user_query": null,
+      "content": "Alpha confidential advice.",
+      "crop": null,
+      "topic": null,
+      "source": null,
+      "provider": null
+    }
+  ],
+  "user_ai_isolation": [
+    {
+      "advice_id": "f10a10b3-b4d1-42ab-9a49-80d5714f2aad",
+      "user_id": "user_ai_isolation",
+      "saved_at": "2026-09-06T13:34:15.147049+00:00",
+      "user_query": "Is Gemini invoked when saving?",
+      "content": "No, Saved Advice is purely storage.",
+      "crop": null,
+      "topic": null,
+      "source": null,
+      "provider": null
+    }
+  ],
+  "user_123": [
+    {
+      "advice_id": "d038e003-32e1-4da6-89a7-a07d2b68ed19",
+      "user_id": "user_123",
+      "saved_at": "2026-09-08T14:03:51.570760+00:00",
+      "user_query": "how to grow kiwi?",
+      "content": "Growing kiwi is a rewarding but specific endeavor, as these vines have unique requirements compared to traditional fruit crops. Since kiwi is a vigorous, woody climbing vine, success depends heavily on creating the right environment.\n\n🌾 **Crop Overview: Kiwi (Actinidia deliciosa)**\n\n🔎 **Diagnostic Analysis & Requirements**\nKiwi plants are dioecious, meaning you need both male and female plants for pollination and fruit production. They thrive in temperate to subtropical climates with well-drained, slightly acidic soil. Because they are climbing vines, they require a sturdy trellis system to support their heavy growth and fruit load.\n\n✅ **Recommended Steps for Cultivation**\n*   **Climate & Location:** Kiwi prefers cool winters and warm, long summers. They are sensitive to strong winds, which can damage the large leaves and vines, so planting in a sheltered area is essential.\n*   **Soil Preparation:** They require deep, fertile, and well-drained soil. If your soil is heavy clay, consider planting on raised beds to prevent root rot, as kiwi roots are very sensitive to waterlogging.\n*   **Planting:** Ensure you have a ratio of about one male plant for every 6–8 female plants. Space them at least 12–15 feet apart to allow for their vigorous growth.\n*   **Trellising:** Install a strong T-bar or pergola-style trellis before planting. The vines need to be trained upward to a single trunk and then allowed to spread along the wires.\n*   **Watering:** Kiwi plants have large leaves and lose water quickly; they need consistent moisture, especially during the hot summer months. However, ensure the soil never stays soggy.\n\n🌿 **Preventive & Maintenance Measures**\n*   **Pruning:** This is the most critical maintenance task. You must prune the vines annually during the dormant winter season to remove old wood and encourage new, fruit-bearing growth for the following year.\n*   **Mulching:** Apply a thick layer of organic mulch around the base to keep the roots cool and retain soil moisture, but keep the mulch away from the main stem to prevent rot.\n\n⚠️ **Warning**\nKiwi vines are highly susceptible to root rot if the soil drainage is poor. Before I can provide more specific guidance on fertilizers or pest management for your particular location, could you tell me what your current soil type is (e.g., sandy, loamy, or clay) and the general altitude or region where you plan to plant?",
+      "crop": "ಕಿವಿ ಹಣ್ಣು",
+      "topic": "sowing",
+      "source": "llm",
+      "provider": "gemini"
+    }
+  ],
+  "farmer_26c322e0": [],
+  "farmer_001": [
+    {
+      "advice_id": "7861eb28-bcbf-466a-863b-2bcfa7018068",
+      "user_id": "farmer_001",
+      "saved_at": "2026-09-11T22:24:16.680873+00:00",
+      "user_query": "Explain complete cultivation practices, fertilizer dosage, and pest management for Paddy / Rice.",
+      "content": "Dear Farmer! 🌾\n\n🌐 Gemini ನಿಂದ ಉತ್ತರ ಪಡೆಯಲಾಗುತ್ತಿದೆ... / Fetching answer from Gemini...\n\nGrowing paddy (rice) is the heartbeat of agriculture for millions of farming households, requiring careful water management, timely nutrient application, and vigilant crop protection from transplanting to harvest. Let’s walk through a comprehensive, practical guide to successfully cultivating paddy.\n\n🌱 **Crop Overview & Commercial Significance**\nPaddy (*Oryza sativa*) is a staple food crop providing sustenance to more than half of the global population. Successful rice cultivation depends heavily on efficient water management, selecting the right variety suited to your local agro-climatic zone, and maintaining optimal soil fertility.\n\n🌾 **Soil & Climate Requirements**\n- **Soil:** Paddy grows best in clayey or clay loam soils that have a good capacity to retain water. Soils with a slightly acidic to neutral pH (around 5.5 to 6.5) are ideal.\n- **Climate:** Rice is a tropical and subtropical crop that thrives in hot, humid conditions with abundant sunshine and guaranteed water supply throughout its growing season.\n\n🌱 **Variety Selection, Seed Rate & Seed Treatment**\n- Choose high-yielding, certified, or disease-resistant varieties (such as short, medium, or long-duration types) recommended by your state agricultural university or local Krishi Vigyan Kendra (KVK) based on your irrigation availability.\n- **Seed Rate:** Approximately 20 to 25 kg of seeds are required per acre for transplanted paddy.\n- **Seed Treatment:** Soak seeds in a saline solution (salt water test) to discard lightweight, chaffy seeds. Treat healthy seeds with bio-fungicides or recommended seed-treatment compounds before sowing to protect young seedlings from seed-borne fungal diseases.\n\n🌱 **Nursery Bed Preparation & Seedling Management**\n- Prepare raised nursery beds well-puddled and enriched with well-decomposed farmyard manure.\n- Sow pre-germinated seeds evenly across the wet nursery bed. Keep the beds moist for the first few days, gradually flooding them with a thin layer of water as the seedlings grow.\n- Seedlings are typically ready for transplanting when they are 20 to 25 days old (having 4 to 5 leaves).\n\n🌱 **Main Field Preparation & Transplanting Method**\n- Plough the main field thoroughly 2 to 3 times, puddle it under submerged conditions, and level it uniformly to ensure even water distribution.\n- **Transplanting:** Transplant 2 to 3 seedlings per hill. Avoid planting them too deep (keep planting depth around 2 to 3 cm) to encourage quick tillering.\n- 📏 **Recommended Spacing:** Maintain a spacing of about 20 cm × 15 cm or adopt the System of Rice Intensification (SRI) spacing (25 cm × 25 cm) if practicing organic or water-saving aerobic/SRI methods.\n\n💧 **Water Management**\n- Keep a shallow layer of water (2 to 5 cm) standing in the field during the active vegetative and tillering stages.\n- Drain the field temporarily at the maximum tillering stage to encourage stronger root growth and control unproductive tillers.\n- Maintain continuous flooding from panicle initiation through flowering and grain-filling stages, as moisture stress during flowering causes heavy yield loss due to chaffy grains. Drain the field completely 10 to 15 days before harvesting.\n\n🌿 **Nutrient & Fertilizer Management**\n- Apply well-decomposed farmyard manure or compost as a basal dose during land preparation.\n- **Chemical Fertilizers:** Apply nitrogen, phosphorus, and potassium (NPK) in split doses. Apply all of the phosphorus and potassium (along with a portion of nitrogen) as a basal application or at transplanting. Split the remaining nitrogen application across critical growth stages: active tillering and panicle initiation. \n- *Note:* Always calibrate fertilizer amounts based on your soil health card test results.\n\n🌱 **Weed Management & Intercultural Operations**\n- Weed competition is severe during the first 30–45 days of crop growth. \n- Perform manual weeding or use a mechanical rotary weeder (conoweeder) between rows, which also helps aerate the puddled soil and stimulate root growth.\n\n🐛 **Major Pest Management**\n- **Stem Borer:** Larvae bore into the stems, causing the central shoot to dry up (\"dead hearts\") during vegetative growth and white ears during the reproductive stage. Monitor using light traps and release natural predators.\n- **Brown Planthopper (BPH):** Feeds on plant sap at the base, causing plants to dry up in patches (\"hopperburn\"). Avoid excessive nitrogen application and maintain proper field drainage.\n- **Leaf Folder:** Larvae fold leaves together and feed from within, creating longitudinal white streaks.\n\n🦠 **Major Disease Management**\n- **Blast:** Causes diamond-shaped lesions on leaves and neck rot on panicles, especially under high humidity and excessive nitrogen use. Use resistant varieties and avoid heavy chemical nitrogen doses.\n- **Bacterial Leaf Blight (BLB):** Causes water-soaked stripes on leaves that turn yellow and dry up. Ensure good field drainage and avoid mechanical injury to seedlings.\n\n🧺 **Harvesting, Maturity Indicators & Post-Harvest Care**\n- Paddy is ready for harvest when about 80–85% of the grains on the panicle turn golden-yellow and moisture content drops to around 20–25%.\n- Harvest on a dry day, thresh promptly, and sun-dry the grains until moisture drops to 12–14% for safe storage and milling.\n\n⚠️ **Important Agronomic & Safety Precautions**\n- When applying any plant protection chemicals for pest or disease outbreaks, always wear protective gloves and a face mask, and avoid spraying during windy conditions or near water sources.\n\nFor localized fertilizer schedules, specific hybrid recommendations, or plant protection measures tailored exactly to your district's soil and climate, your local Krishi Vigyan Kendra (KVK) or Raitha Samparka Kendra (RSK) is always your best resource!",
+      "crop": "ಭತ್ತ",
+      "topic": "pest",
+      "source": "llm",
+      "provider": "gemini"
+    }
+  ]
+}
