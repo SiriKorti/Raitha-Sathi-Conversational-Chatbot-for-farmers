@@ -92,15 +92,14 @@ export const ChatProvider = ({ children }) => {
           setMessages([]);
         }
       } catch (err) {
-        console.error(`Failed to load history for session ${targetSessionId}:`, err);
-        const errMsg = err.status === 404 
-          ? 'Conversation session expired or not found. Starting a new session.'
-          : (err.message || 'Failed to load conversation history.');
-        setError(errMsg);
-        showToast(errMsg, 'warning');
-        // If session not found, start a fresh session
-        await createNewChat();
-        throw err;
+        if (err.status === 404) {
+          // Gracefully reset to a fresh chat without alarming the user
+          await createNewChat();
+        } else {
+          const errMsg = err.message || 'Failed to load conversation history.';
+          setError(errMsg);
+          showToast(errMsg, 'warning');
+        }
       } finally {
         setIsLoadingHistory(false);
       }
