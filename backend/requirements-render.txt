@@ -46,3 +46,8 @@ loguru>=0.7.0
 # ---- Image Processing (Visual Crop Diagnosis) ----
 Pillow>=10.0.0
 
+# ---- Neural Voice Synthesis (TTS) ----
+edge-tts>=6.1.0
+gTTS>=2.5.0
+
+
