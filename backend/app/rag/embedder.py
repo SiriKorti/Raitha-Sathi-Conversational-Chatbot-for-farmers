@@ -20,8 +20,16 @@ CONNECTIONS:
 
 import numpy as np
 from typing import Union
-from sentence_transformers import SentenceTransformer
 from app.config import settings
+
+# Lazy import — sentence_transformers is optional on production (Render free tier).
+# If not installed, the embedder is disabled and RAG falls back to Gemini-only mode.
+try:
+    from sentence_transformers import SentenceTransformer
+    _SENTENCE_TRANSFORMERS_AVAILABLE = True
+except ImportError:
+    SentenceTransformer = None  # type: ignore
+    _SENTENCE_TRANSFORMERS_AVAILABLE = False
 from app.utils.logger import logger
 from app.utils.exceptions import EmbeddingError, ModelLoadError
 
@@ -57,10 +65,10 @@ class Embedder:
     # ── Model Loading ─────────────────────────────────────────────────────────
 
     @property
-    def model(self) -> SentenceTransformer:
+    def model(self):
         """
         Lazily load the model on first access.
-        This avoids slow startup when the model isn't needed immediately.
+        Returns None if sentence_transformers is not installed.
         """
         if self._model is None:
             self._load_model()
@@ -68,6 +76,12 @@ class Embedder:
 
     def _load_model(self):
         """Download (if needed) and load the Sentence Transformer model."""
+        if not _SENTENCE_TRANSFORMERS_AVAILABLE:
+            logger.warning(
+                "sentence_transformers not installed — embedder disabled. "
+                "RAG retrieval is unavailable; Gemini-only mode active."
+            )
+            return
         try:
             logger.info("Loading embedding model: {name}", name=self.model_name)
             self._model = SentenceTransformer(self.model_name)
@@ -109,6 +123,10 @@ class Embedder:
             texts = [texts]
 
         if not texts:
+            return np.array([])
+
+        # If sentence_transformers not installed, return empty
+        if self.model is None:
             return np.array([])
 
         try:
